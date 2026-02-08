@@ -1,5 +1,42 @@
 {
-  "last_updated": null,
-  "job_count": 0,
-  "jobs": []
+  "last_updated": "2026-02-08T21:26:29.933463+00:00",
+  "job_count": 3,
+  "jobs": [
+    {
+      "id": "7cmu484vc60vUvhwAAAAAA==",
+      "title": "Director Medical Affairs WHC, Menopause",
+      "company": "Lensa",
+      "location": "Hanover, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-02-08T01:00:00.000Z",
+      "salary": "$180,000 - $292,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-medical-affairs-whc-menopause-at-lensa-4370193584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Lensa is a career site that helps job seekers find great jobs in the US. We are not a staffing firm or agency. Lensa does not hire directly for these jobs, but promotes jobs on LinkedIn on behalf of i",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EfPVHF5N0I08Ioa1WKZDYxcfrJkurRgwcHI5&s=0"
+    },
+    {
+      "id": "hFU01ZZ2fuMllgr5AAAAAA==",
+      "title": "Pharma BD & Alliances Director \u2014 Hybrid",
+      "company": "Femtech Insider Ltd.",
+      "location": "Milano, Texas",
+      "is_remote": false,
+      "date_posted": "2026-02-08T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.recruit.net/job/pharma-bd-alliances-director-hybrid-jobs/FE7EC83B554DFA6F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading healthcare company in Italy seeks an experienced Associate Director of Business Development and Strategic Alliances. This role involves identifying new business opportunities, managing partn",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9asQtQyNuqnFnuSJB8M4iudD42Ica5aYel9EJ&s=0"
+    },
+    {
+      "id": "2sUSKSJ9Fg3dXUpeAAAAAA==",
+      "title": "Value-Based PCP for Women 50+",
+      "company": "Femtech Insider Ltd.",
+      "location": "Charlotte, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-02-07T22:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://us.bebee.com/job/4a27ba2943640e542691db4b415a249a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A women's health-focused company in Charlotte, NC seeking a Primary Care Physician to evaluate and manage acute and chronic conditions for women 50+.\nThe role involves collaborating within an interdis",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JKdKOsDw7z6N7LLTJPOcxEG86GQDejBzd6ar&s=0"
+    }
+  ]
 }
