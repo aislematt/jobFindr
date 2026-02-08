@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobFindr - Yasmin's Job Search Hub</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary: #4a6741;
+            --primary-light: #6b8f61;
+            --primary-bg: #f0f5ee;
+            --accent: #c17f59;
+            --accent-light: #f5e6da;
+            --dark: #2c3e2c;
+            --gray: #6b7280;
+            --light-gray: #f3f4f6;
+            --white: #ffffff;
+            --border: #d1d5db;
+            --shadow: 0 1px 3px rgba(0,0,0,0.1);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--light-gray); color: #1f2937; line-height: 1.6; }
+
+        /* Header */
+        .header { background: linear-gradient(135deg, var(--dark), var(--primary)); color: white; padding: 2rem; text-align: center; }
+        .header h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+        .header p { opacity: 0.9; font-size: 1.1rem; }
+        .header .subtitle { font-size: 0.9rem; opacity: 0.7; margin-top: 0.5rem; }
+
+        /* Nav */
+        .nav { background: var(--white); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; position: sticky; top: 0; z-index: 100; box-shadow: var(--shadow); }
+        .nav a { text-decoration: none; color: var(--primary); font-weight: 500; padding: 0.4rem 1rem; border-radius: 6px; transition: all 0.2s; font-size: 0.9rem; }
+        .nav a:hover { background: var(--primary-bg); }
+
+        /* Main */
+        .container { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+
+        /* Section */
+        .section { margin-bottom: 2rem; }
+        .section-title { font-size: 1.4rem; color: var(--dark); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--primary); display: flex; align-items: center; gap: 0.5rem; }
+
+        /* Profile Card */
+        .profile-card { background: var(--white); border-radius: 12px; padding: 1.5rem; box-shadow: var(--shadow-md); display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+        .profile-card h3 { color: var(--primary); margin-bottom: 0.5rem; }
+        .profile-card .tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem; }
+        .tag { background: var(--primary-bg); color: var(--primary); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500; }
+        .tag.accent { background: var(--accent-light); color: var(--accent); }
+        .stat { display: inline-block; background: var(--primary); color: white; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; font-weight: 600; margin-right: 0.5rem; }
+
+        /* Cards Grid */
+        .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+        .card { background: var(--white); border-radius: 10px; padding: 1.25rem; box-shadow: var(--shadow); border-left: 4px solid var(--primary); transition: transform 0.2s, box-shadow 0.2s; }
+        .card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+        .card h3 { font-size: 1rem; margin-bottom: 0.4rem; color: var(--dark); }
+        .card p { font-size: 0.85rem; color: var(--gray); margin-bottom: 0.75rem; }
+        .card a { color: var(--primary); text-decoration: none; font-weight: 600; font-size: 0.85rem; }
+        .card a:hover { text-decoration: underline; }
+        .card.mental { border-left-color: var(--accent); }
+        .card .card-category { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--gray); margin-bottom: 0.5rem; }
+
+        /* Quick Search */
+        .search-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.75rem; }
+        .search-link { display: block; background: var(--white); border: 1px solid var(--border); border-radius: 8px; padding: 0.85rem 1rem; text-decoration: none; color: var(--dark); font-size: 0.9rem; font-weight: 500; transition: all 0.2s; }
+        .search-link:hover { border-color: var(--primary); background: var(--primary-bg); }
+        .search-link span { display: block; font-size: 0.75rem; color: var(--gray); font-weight: 400; margin-top: 0.25rem; }
+
+        /* Tracker */
+        .tracker-controls { display: flex; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
+        .tracker-controls input, .tracker-controls select { padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: 6px; font-size: 0.9rem; }
+        .tracker-controls input { flex: 1; min-width: 200px; }
+        .btn { padding: 0.5rem 1.25rem; border: none; border-radius: 6px; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .btn-primary { background: var(--primary); color: white; }
+        .btn-primary:hover { background: var(--primary-light); }
+        .btn-sm { padding: 0.3rem 0.6rem; font-size: 0.75rem; }
+        .btn-danger { background: #ef4444; color: white; }
+        .btn-danger:hover { background: #dc2626; }
+
+        .tracker-stats { display: flex; gap: 1rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .tracker-stat { background: var(--white); border-radius: 8px; padding: 0.75rem 1.25rem; box-shadow: var(--shadow); text-align: center; min-width: 100px; }
+        .tracker-stat .number { font-size: 1.5rem; font-weight: 700; color: var(--primary); }
+        .tracker-stat .label { font-size: 0.75rem; color: var(--gray); }
+
+        table { width: 100%; border-collapse: collapse; background: var(--white); border-radius: 10px; overflow: hidden; box-shadow: var(--shadow); }
+        th { background: var(--dark); color: white; padding: 0.75rem; text-align: left; font-size: 0.85rem; }
+        td { padding: 0.65rem 0.75rem; border-bottom: 1px solid var(--light-gray); font-size: 0.85rem; }
+        tr:hover td { background: var(--primary-bg); }
+        .status-badge { padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.75rem; font-weight: 600; }
+        .status-saved { background: #dbeafe; color: #1d4ed8; }
+        .status-applied { background: #fef3c7; color: #92400e; }
+        .status-interview { background: #d1fae5; color: #065f46; }
+        .status-offer { background: #ede9fe; color: #5b21b6; }
+        .status-rejected { background: #fee2e2; color: #991b1b; }
+
+        /* Tips */
+        .tips-list { list-style: none; }
+        .tips-list li { background: var(--white); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; box-shadow: var(--shadow); font-size: 0.9rem; }
+        .tips-list li strong { color: var(--primary); }
+
+        /* Resources */
+        .resources-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1rem; }
+        .resource-card { background: var(--white); border-radius: 10px; padding: 1.25rem; box-shadow: var(--shadow); }
+        .resource-card h3 { font-size: 1rem; color: var(--dark); margin-bottom: 0.5rem; }
+        .resource-card p { font-size: 0.85rem; color: var(--gray); margin-bottom: 0.5rem; }
+        .resource-card a { color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.85rem; }
+        .resource-card a:hover { text-decoration: underline; }
+
+        /* Modal */
+        .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 200; align-items: center; justify-content: center; }
+        .modal-overlay.active { display: flex; }
+        .modal { background: var(--white); border-radius: 12px; padding: 1.5rem; max-width: 500px; width: 90%; max-height: 80vh; overflow-y: auto; }
+        .modal h2 { margin-bottom: 1rem; color: var(--dark); font-size: 1.2rem; }
+        .modal label { display: block; font-size: 0.85rem; font-weight: 500; color: var(--gray); margin: 0.75rem 0 0.25rem; }
+        .modal input, .modal select, .modal textarea { width: 100%; padding: 0.5rem; border: 1px solid var(--border); border-radius: 6px; font-size: 0.9rem; }
+        .modal textarea { resize: vertical; min-height: 60px; }
+        .modal-actions { display: flex; gap: 0.75rem; margin-top: 1.25rem; justify-content: flex-end; }
+
+        .empty-state { text-align: center; padding: 3rem; color: var(--gray); }
+        .empty-state p { margin-bottom: 1rem; }
+
+        @media (max-width: 768px) {
+            .profile-card { grid-template-columns: 1fr; }
+            .container { padding: 1rem; }
+            .header h1 { font-size: 1.5rem; }
+            .nav { padding: 0.5rem 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>JobFindr</h1>
+        <p>Yasmin's Job Search Command Center</p>
+        <div class="subtitle">Brand Director &bull; Consumer Healthcare &bull; Marketing Strategy</div>
+    </div>
+
+    <div class="nav">
+        <a href="#profile">My Profile</a>
+        <a href="#quick-search">Quick Search</a>
+        <a href="#companies">Target Companies</a>
+        <a href="#job-boards">Job Boards</a>
+        <a href="#tracker">Application Tracker</a>
+        <a href="#tips">Strategy Tips</a>
+        <a href="#resources">Resources</a>
+    </div>
+
+    <div class="container">
+
+        <!-- PROFILE SNAPSHOT -->
+        <div class="section" id="profile">
+            <h2 class="section-title">My Profile Snapshot</h2>
+            <div class="profile-card">
+                <div>
+                    <h3>Yasmin Gonzales Madraswala</h3>
+                    <p style="color:var(--gray); margin-bottom:0.75rem;">Brand Director | Innovation & Incubator Lead | NYC</p>
+                    <p style="font-size:0.85rem; margin-bottom:0.75rem;">
+                        <span class="stat">12+ Years</span> in consumer healthcare brand management<br>
+                        <span class="stat">$500MM+</span> brand portfolio management<br>
+                        <span class="stat">$50MM+</span> marketing budget ownership<br>
+                        <span class="stat">10+</span> product innovation launches
+                    </p>
+                    <div class="tags">
+                        <span class="tag">Brand Strategy</span>
+                        <span class="tag">P&L Ownership</span>
+                        <span class="tag">Product Innovation</span>
+                        <span class="tag">Marketing</span>
+                        <span class="tag">Digital Commerce</span>
+                        <span class="tag">RX-to-OTC Switch</span>
+                    </div>
+                </div>
+                <div>
+                    <h3>Target Roles</h3>
+                    <div class="tags" style="margin-bottom:0.75rem;">
+                        <span class="tag accent">VP/Director of Marketing</span>
+                        <span class="tag accent">Brand Director</span>
+                        <span class="tag accent">Head of Strategy</span>
+                        <span class="tag accent">Chief Marketing Officer</span>
+                        <span class="tag accent">Head of Growth</span>
+                    </div>
+                    <h3 style="margin-top:0.75rem;">Target Industries</h3>
+                    <div class="tags">
+                        <span class="tag accent">Women's Health / FemTech</span>
+                        <span class="tag accent">Mental Health</span>
+                        <span class="tag accent">Consumer Healthcare</span>
+                    </div>
+                    <h3 style="margin-top:0.75rem;">Education</h3>
+                    <p style="font-size:0.85rem;">MBA, Marketing - U of Michigan Ross</p>
+                    <p style="font-size:0.85rem;">BA, Economics - Johns Hopkins</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- QUICK SEARCH -->
+        <div class="section" id="quick-search">
+            <h2 class="section-title">Quick Job Searches</h2>
+            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Pre-filtered searches tailored to your profile. Click to open in a new tab.</p>
+            <div class="search-links">
+                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=marketing%20director%20women%27s%20health&location=New%20York" target="_blank" rel="noopener">
+                    LinkedIn: Marketing Director, Women's Health
+                    <span>New York area</span>
+                </a>
+                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=brand%20director%20healthcare&location=United%20States&f_WT=2" target="_blank" rel="noopener">
+                    LinkedIn: Brand Director, Healthcare (Remote)
+                    <span>Remote, United States</span>
+                </a>
+                <a class="search-link" href="https://www.indeed.com/jobs?q=marketing+director+women%27s+health&l=New+York" target="_blank" rel="noopener">
+                    Indeed: Marketing Director, Women's Health
+                    <span>New York area</span>
+                </a>
+                <a class="search-link" href="https://www.indeed.com/jobs?q=VP+marketing+mental+health&l=" target="_blank" rel="noopener">
+                    Indeed: VP Marketing, Mental Health
+                    <span>Nationwide</span>
+                </a>
+                <a class="search-link" href="https://www.indeed.com/jobs?q=brand+director+femtech&l=" target="_blank" rel="noopener">
+                    Indeed: Brand Director, FemTech
+                    <span>Nationwide</span>
+                </a>
+                <a class="search-link" href="https://www.builtinnyc.com/jobs/marketing/healthtech" target="_blank" rel="noopener">
+                    Built In NYC: Healthtech Marketing
+                    <span>NYC startups & tech companies</span>
+                </a>
+                <a class="search-link" href="https://wellfound.com/role/l/marketing/mental-health" target="_blank" rel="noopener">
+                    Wellfound: Marketing at Mental Health Startups
+                    <span>Startup roles</span>
+                </a>
+                <a class="search-link" href="https://jobs.inwomenshealth.com/" target="_blank" rel="noopener">
+                    In Women's Health Job Board
+                    <span>200+ women's health companies</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- TARGET COMPANIES -->
+        <div class="section" id="companies">
+            <h2 class="section-title">Target Companies</h2>
+            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Companies in women's health, femtech, and mental health that match your expertise. Check their careers pages regularly.</p>
+
+            <h3 style="margin-bottom:0.75rem; color:var(--primary);">Women's Health & FemTech</h3>
+            <div class="cards-grid" style="margin-bottom:1.5rem;">
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Reproductive Health</div>
+                    <h3>Maven Clinic</h3>
+                    <p>Largest virtual clinic for women's & family health. Recently had Sr. Manager Strategy roles at $140-170K.</p>
+                    <a href="https://www.mavenclinic.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Women's Primary Care</div>
+                    <h3>Tia</h3>
+                    <p>Modern women's healthcare combining OB-GYN, primary care & mental health. NYC-based.</p>
+                    <a href="https://www.asktia.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Hormonal Health</div>
+                    <h3>Allara Health</h3>
+                    <p>PCOS & hormonal health platform with personalized care plans. Growing fast.</p>
+                    <a href="https://job-boards.greenhouse.io/allarahealth" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Fertility</div>
+                    <h3>Kindbody</h3>
+                    <p>Fertility, gynecology & family-building company. Significant marketing presence.</p>
+                    <a href="https://www.kindbody.com/careers/" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Menopause</div>
+                    <h3>Evernow</h3>
+                    <p>Menopause healthcare platform. Consumer-facing brand with DTC marketing needs.</p>
+                    <a href="https://www.evernow.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">Women's Healthcare &bull; Multi-Specialty</div>
+                    <h3>Unified Women's Healthcare</h3>
+                    <p>National platform of OB-GYN practices. $170-205K Marketing Director roles.</p>
+                    <a href="https://careers.unifiedwomenshealthcare.com/jobs" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">Consumer Health &bull; Women's Wellness</div>
+                    <h3>Prestige Consumer Healthcare</h3>
+                    <p>OTC consumer healthcare company with women's health brands. Marketing Director roles at $170-205K.</p>
+                    <a href="https://www.prestigeconsumerhealthcare.com/careers/" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card">
+                    <div class="card-category">FemTech &bull; Reproductive Health</div>
+                    <h3>Hertility Health</h3>
+                    <p>Reproductive health platform with the largest global dataset on female reproductive health.</p>
+                    <a href="https://www.hertilityhealth.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+            </div>
+
+            <h3 style="margin-bottom:0.75rem; color:var(--accent);">Mental Health</h3>
+            <div class="cards-grid">
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Enterprise</div>
+                    <h3>Lyra Health</h3>
+                    <p>Leading mental health platform. $900MM+ raised. Works with Morgan Stanley, Uber. Major marketing operation.</p>
+                    <a href="https://www.lyrahealth.com/careers/" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Employer Benefits</div>
+                    <h3>Spring Health</h3>
+                    <p>Mental health benefits platform. Hiring Strategic Directors at $156-203K.</p>
+                    <a href="https://www.springhealth.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Enterprise</div>
+                    <h3>Modern Health</h3>
+                    <p>Global mental health platform for enterprises. Well-funded with strong brand presence.</p>
+                    <a href="https://www.modernhealth.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Provider Platform</div>
+                    <h3>Alma</h3>
+                    <p>Simplifying access to affordable mental health care. Growing provider network.</p>
+                    <a href="https://www.helloalma.com/careers/" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Therapy Platform</div>
+                    <h3>Talkspace</h3>
+                    <p>Online therapy platform with strong DTC brand. Major consumer marketing operation.</p>
+                    <a href="https://www.talkspace.com/careers" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+                <div class="card mental">
+                    <div class="card-category">Mental Health &bull; Youth & Families</div>
+                    <h3>Brightline</h3>
+                    <p>Behavioral health for kids & families. Growing consumer brand.</p>
+                    <a href="https://www.hellobrightline.com/careers/" target="_blank" rel="noopener">View Careers &rarr;</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- JOB BOARDS -->
+        <div class="section" id="job-boards">
+            <h2 class="section-title">Specialized Job Boards</h2>
+            <div class="cards-grid">
+                <div class="card">
+                    <h3>In Women's Health</h3>
+                    <p>The #1 job board for women's health / femtech careers. 200+ companies updated daily.</p>
+                    <a href="https://jobs.inwomenshealth.com/" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+                <div class="card">
+                    <h3>Women in Healthcare</h3>
+                    <p>Job board focused on healthcare roles for women professionals.</p>
+                    <a href="https://jobs.womeninhealthcare.org/" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+                <div class="card">
+                    <h3>Wellfound (AngelList)</h3>
+                    <p>Top startup job board. Filter by mental health, femtech, and healthcare sectors.</p>
+                    <a href="https://wellfound.com/jobs" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+                <div class="card">
+                    <h3>Built In NYC</h3>
+                    <p>NYC tech & startup jobs including healthtech marketing roles.</p>
+                    <a href="https://www.builtinnyc.com/jobs/marketing" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+                <div class="card">
+                    <h3>LinkedIn Jobs</h3>
+                    <p>Set alerts for "marketing director women's health" and "brand strategy healthcare."</p>
+                    <a href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+                <div class="card">
+                    <h3>Indeed - Healthcare Marketing</h3>
+                    <p>116,000+ mental health marketing jobs. Filter by director/VP level.</p>
+                    <a href="https://www.indeed.com/q-womens-health-marketing-jobs.html" target="_blank" rel="noopener">Browse Jobs &rarr;</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- APPLICATION TRACKER -->
+        <div class="section" id="tracker">
+            <h2 class="section-title">Application Tracker</h2>
+
+            <div class="tracker-stats" id="trackerStats">
+                <div class="tracker-stat"><div class="number" id="statTotal">0</div><div class="label">Total</div></div>
+                <div class="tracker-stat"><div class="number" id="statSaved">0</div><div class="label">Saved</div></div>
+                <div class="tracker-stat"><div class="number" id="statApplied">0</div><div class="label">Applied</div></div>
+                <div class="tracker-stat"><div class="number" id="statInterview">0</div><div class="label">Interview</div></div>
+                <div class="tracker-stat"><div class="number" id="statOffer">0</div><div class="label">Offer</div></div>
+            </div>
+
+            <div class="tracker-controls">
+                <button class="btn btn-primary" onclick="openModal()">+ Add Application</button>
+                <select id="filterStatus" onchange="renderTracker()" style="min-width:130px;">
+                    <option value="all">All Statuses</option>
+                    <option value="saved">Saved</option>
+                    <option value="applied">Applied</option>
+                    <option value="interview">Interview</option>
+                    <option value="offer">Offer</option>
+                    <option value="rejected">Rejected</option>
+                </select>
+                <button class="btn" style="background:var(--light-gray);" onclick="exportCSV()">Export CSV</button>
+            </div>
+
+            <div id="trackerTable"></div>
+        </div>
+
+        <!-- STRATEGY TIPS -->
+        <div class="section" id="tips">
+            <h2 class="section-title">Job Search Strategy</h2>
+            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Personalized tips based on your background as a Brand Director in consumer healthcare.</p>
+            <ul class="tips-list">
+                <li><strong>Lead with your P&L story:</strong> Managing a $500MM+ portfolio with full P&L ownership is rare and highly valued. Femtech startups scaling from Series B+ desperately need leaders who've managed at this scale. Frame your experience as "I've driven commercial growth for healthcare brands at scale and now want to apply that to a mission I'm passionate about."</li>
+                <li><strong>Your Rx-to-OTC switch experience is gold:</strong> Many femtech/women's health companies are navigating FDA regulations, DTC strategies, and consumer education - exactly what Rx-to-OTC switch work involves. Highlight this unique expertise.</li>
+                <li><strong>Innovation accelerator = startup DNA:</strong> Your incubator work at Haleon shows you can operate in ambiguous, fast-moving environments. This directly addresses the #1 concern hiring managers at startups have about big-company candidates.</li>
+                <li><strong>Network in the FemTech ecosystem:</strong> Follow and engage with <a href="https://www.inwomenshealth.com/" target="_blank" rel="noopener">In Women's Health</a> newsletter, join FemTech Focus and Women in Healthcare groups on LinkedIn. These communities regularly share unlisted roles.</li>
+                <li><strong>Consider fractional/advisory roles:</strong> Your background advising minority and female entrepreneurs makes you a strong candidate for fractional CMO or advisory board positions at early-stage femtech companies. These often convert to full-time roles.</li>
+                <li><strong>Your Citi finance background differentiates you:</strong> Few marketing leaders can credibly discuss P&L, unit economics, and CAC/LTV with a finance-first lens. This is a major differentiator, especially for VC-backed startups where investors want financially-savvy marketing leaders.</li>
+                <li><strong>Set up LinkedIn job alerts:</strong> Create alerts for: "marketing director women's health", "VP marketing femtech", "brand director mental health", "head of marketing healthcare startup". Check daily.</li>
+                <li><strong>Target headhunters:</strong> Healthcare-specialized recruiters like <a href="https://storm3.com/sectors/mental-healthtech-recruitment/" target="_blank" rel="noopener">Storm3</a> focus on healthtech/mental health placements at the director+ level. Reach out proactively.</li>
+            </ul>
+        </div>
+
+        <!-- RESOURCES -->
+        <div class="section" id="resources">
+            <h2 class="section-title">Tracking & Productivity Tools</h2>
+            <div class="resources-grid">
+                <div class="resource-card">
+                    <h3>Teal Job Tracker</h3>
+                    <p>Free Chrome extension that bookmarks jobs from 50+ job boards with one click. Organizes everything in a dashboard.</p>
+                    <a href="https://www.tealhq.com/tools/job-tracker" target="_blank" rel="noopener">Get Teal (Free) &rarr;</a>
+                </div>
+                <div class="resource-card">
+                    <h3>Simplify</h3>
+                    <p>Free job tracker + autofill for applications. Saves hours on repetitive form filling.</p>
+                    <a href="https://simplify.jobs/job-application-tracker" target="_blank" rel="noopener">Get Simplify (Free) &rarr;</a>
+                </div>
+                <div class="resource-card">
+                    <h3>Huntr</h3>
+                    <p>Kanban-style job tracker with AI resume builder, resume checker, and more.</p>
+                    <a href="https://huntr.co/" target="_blank" rel="noopener">Get Huntr &rarr;</a>
+                </div>
+                <div class="resource-card">
+                    <h3>Careerflow</h3>
+                    <p>Track applications, organize contacts, and set follow-up reminders. Free tier available.</p>
+                    <a href="https://www.careerflow.ai/job-tracker" target="_blank" rel="noopener">Get Careerflow (Free) &rarr;</a>
+                </div>
+                <div class="resource-card">
+                    <h3>In Women's Health Newsletter</h3>
+                    <p>Weekly newsletter featuring femtech jobs, industry news, and company spotlights. Essential for networking.</p>
+                    <a href="https://www.inwomenshealth.com/" target="_blank" rel="noopener">Subscribe (Free) &rarr;</a>
+                </div>
+                <div class="resource-card">
+                    <h3>Storm3 - Healthtech Recruiters</h3>
+                    <p>Specialized recruitment agency for mental health tech and healthtech. Director+ level placements.</p>
+                    <a href="https://storm3.com/sectors/mental-healthtech-recruitment/" target="_blank" rel="noopener">Connect with Storm3 &rarr;</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ADD/EDIT MODAL -->
+    <div class="modal-overlay" id="modal">
+        <div class="modal">
+            <h2 id="modalTitle">Add Application</h2>
+            <input type="hidden" id="editId">
+            <label>Company *</label>
+            <input type="text" id="appCompany" placeholder="e.g., Maven Clinic">
+            <label>Role *</label>
+            <input type="text" id="appRole" placeholder="e.g., VP of Marketing">
+            <label>Status</label>
+            <select id="appStatus">
+                <option value="saved">Saved</option>
+                <option value="applied">Applied</option>
+                <option value="interview">Interview</option>
+                <option value="offer">Offer</option>
+                <option value="rejected">Rejected</option>
+            </select>
+            <label>Job URL</label>
+            <input type="url" id="appUrl" placeholder="https://...">
+            <label>Salary Range</label>
+            <input type="text" id="appSalary" placeholder="e.g., $150K-$180K">
+            <label>Location</label>
+            <input type="text" id="appLocation" placeholder="e.g., NYC / Remote">
+            <label>Notes</label>
+            <textarea id="appNotes" placeholder="Contact name, referral, deadlines, etc."></textarea>
+            <div class="modal-actions">
+                <button class="btn" style="background:var(--light-gray);" onclick="closeModal()">Cancel</button>
+                <button class="btn btn-primary" onclick="saveApp()">Save</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Application Tracker - localStorage based
+        function getApps() {
+            return JSON.parse(localStorage.getItem('jobfindr_apps') || '[]');
+        }
+        function saveApps(apps) {
+            localStorage.setItem('jobfindr_apps', JSON.stringify(apps));
+        }
+
+        function openModal(id) {
+            const modal = document.getElementById('modal');
+            if (id !== undefined) {
+                const app = getApps()[id];
+                document.getElementById('modalTitle').textContent = 'Edit Application';
+                document.getElementById('editId').value = id;
+                document.getElementById('appCompany').value = app.company;
+                document.getElementById('appRole').value = app.role;
+                document.getElementById('appStatus').value = app.status;
+                document.getElementById('appUrl').value = app.url || '';
+                document.getElementById('appSalary').value = app.salary || '';
+                document.getElementById('appLocation').value = app.location || '';
+                document.getElementById('appNotes').value = app.notes || '';
+            } else {
+                document.getElementById('modalTitle').textContent = 'Add Application';
+                document.getElementById('editId').value = '';
+                document.getElementById('appCompany').value = '';
+                document.getElementById('appRole').value = '';
+                document.getElementById('appStatus').value = 'saved';
+                document.getElementById('appUrl').value = '';
+                document.getElementById('appSalary').value = '';
+                document.getElementById('appLocation').value = '';
+                document.getElementById('appNotes').value = '';
+            }
+            modal.classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+
+        function saveApp() {
+            const company = document.getElementById('appCompany').value.trim();
+            const role = document.getElementById('appRole').value.trim();
+            if (!company || !role) { alert('Company and Role are required.'); return; }
+
+            const app = {
+                company,
+                role,
+                status: document.getElementById('appStatus').value,
+                url: document.getElementById('appUrl').value.trim(),
+                salary: document.getElementById('appSalary').value.trim(),
+                location: document.getElementById('appLocation').value.trim(),
+                notes: document.getElementById('appNotes').value.trim(),
+                date: new Date().toISOString().slice(0, 10)
+            };
+
+            const apps = getApps();
+            const editId = document.getElementById('editId').value;
+            if (editId !== '') {
+                app.date = apps[parseInt(editId)].date;
+                apps[parseInt(editId)] = app;
+            } else {
+                apps.unshift(app);
+            }
+            saveApps(apps);
+            closeModal();
+            renderTracker();
+        }
+
+        function deleteApp(idx) {
+            if (!confirm('Delete this application?')) return;
+            const apps = getApps();
+            apps.splice(idx, 1);
+            saveApps(apps);
+            renderTracker();
+        }
+
+        function updateStatus(idx, newStatus) {
+            const apps = getApps();
+            apps[idx].status = newStatus;
+            saveApps(apps);
+            renderTracker();
+        }
+
+        function renderTracker() {
+            const apps = getApps();
+            const filter = document.getElementById('filterStatus').value;
+            const filtered = filter === 'all' ? apps : apps.filter(a => a.status === filter);
+
+            // Stats
+            document.getElementById('statTotal').textContent = apps.length;
+            document.getElementById('statSaved').textContent = apps.filter(a => a.status === 'saved').length;
+            document.getElementById('statApplied').textContent = apps.filter(a => a.status === 'applied').length;
+            document.getElementById('statInterview').textContent = apps.filter(a => a.status === 'interview').length;
+            document.getElementById('statOffer').textContent = apps.filter(a => a.status === 'offer').length;
+
+            const container = document.getElementById('trackerTable');
+            if (apps.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>No applications tracked yet.</p><p>Click <strong>+ Add Application</strong> to start tracking your job search, or use the <strong>Target Companies</strong> and <strong>Quick Search</strong> sections above to find roles!</p></div>';
+                return;
+            }
+
+            let html = '<table><thead><tr><th>Date</th><th>Company</th><th>Role</th><th>Status</th><th>Location</th><th>Salary</th><th>Actions</th></tr></thead><tbody>';
+            filtered.forEach((app, i) => {
+                const realIdx = filter === 'all' ? i : apps.indexOf(app);
+                const urlLink = app.url ? `<a href="${app.url}" target="_blank" rel="noopener">${app.company}</a>` : app.company;
+                html += `<tr>
+                    <td>${app.date}</td>
+                    <td>${urlLink}</td>
+                    <td>${app.role}</td>
+                    <td><select class="status-select" onchange="updateStatus(${realIdx}, this.value)" style="border:none;background:none;font-size:0.8rem;font-weight:600;cursor:pointer;">
+                        <option value="saved" ${app.status==='saved'?'selected':''}>Saved</option>
+                        <option value="applied" ${app.status==='applied'?'selected':''}>Applied</option>
+                        <option value="interview" ${app.status==='interview'?'selected':''}>Interview</option>
+                        <option value="offer" ${app.status==='offer'?'selected':''}>Offer</option>
+                        <option value="rejected" ${app.status==='rejected'?'selected':''}>Rejected</option>
+                    </select></td>
+                    <td>${app.location || '-'}</td>
+                    <td>${app.salary || '-'}</td>
+                    <td>
+                        <button class="btn btn-sm" onclick="openModal(${realIdx})" style="background:var(--primary-bg);color:var(--primary);">Edit</button>
+                        <button class="btn btn-sm btn-danger" onclick="deleteApp(${realIdx})">Del</button>
+                    </td>
+                </tr>`;
+            });
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function exportCSV() {
+            const apps = getApps();
+            if (apps.length === 0) { alert('No applications to export.'); return; }
+            const headers = ['Date','Company','Role','Status','Location','Salary','URL','Notes'];
+            const rows = apps.map(a => [a.date, a.company, a.role, a.status, a.location, a.salary, a.url, a.notes].map(v => `"${(v||'').replace(/"/g,'""')}"`));
+            const csv = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = 'jobfindr_applications.csv'; a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Close modal on overlay click
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) closeModal();
+        });
+
+        // Init
+        renderTracker();
+    </script>
+</body>
+</html>
