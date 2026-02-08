@@ -47,6 +47,7 @@
         .tag { background: var(--primary-bg); color: var(--primary); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 500; }
         .tag.accent { background: var(--accent-light); color: var(--accent); }
         .stat { display: inline-block; background: var(--primary); color: white; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; font-weight: 600; margin-right: 0.5rem; }
+        .location-badge { display: inline-block; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 600; margin-top: 0.5rem; }
 
         /* Cards Grid */
         .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
@@ -64,6 +65,23 @@
         .search-link { display: block; background: var(--white); border: 1px solid var(--border); border-radius: 8px; padding: 0.85rem 1rem; text-decoration: none; color: var(--dark); font-size: 0.9rem; font-weight: 500; transition: all 0.2s; }
         .search-link:hover { border-color: var(--primary); background: var(--primary-bg); }
         .search-link span { display: block; font-size: 0.75rem; color: var(--gray); font-weight: 400; margin-top: 0.25rem; }
+
+        /* Job Feed */
+        .job-feed-filters { display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
+        .filter-btn { padding: 0.4rem 1rem; border: 1px solid var(--border); border-radius: 20px; background: var(--white); color: var(--gray); font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s; }
+        .filter-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+        .filter-btn:hover:not(.active) { border-color: var(--primary); color: var(--primary); }
+        .job-feed-meta { font-size: 0.8rem; color: var(--gray); margin-left: auto; }
+        .job-listing { background: var(--white); border-radius: 10px; padding: 1.25rem; margin-bottom: 0.75rem; box-shadow: var(--shadow); border-left: 4px solid var(--primary); display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+        .job-listing:hover { box-shadow: var(--shadow-md); }
+        .job-listing.remote { border-left-color: #3b82f6; }
+        .job-listing-info { flex: 1; }
+        .job-listing-info h3 { font-size: 1rem; color: var(--dark); margin-bottom: 0.25rem; }
+        .job-listing-info .company { font-size: 0.9rem; color: var(--primary); font-weight: 500; }
+        .job-listing-info .meta { font-size: 0.8rem; color: var(--gray); margin-top: 0.25rem; display: flex; gap: 1rem; flex-wrap: wrap; }
+        .job-listing-actions { flex-shrink: 0; }
+        .btn-apply { display: inline-block; padding: 0.5rem 1.25rem; background: var(--primary); color: white; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 600; transition: background 0.2s; }
+        .btn-apply:hover { background: var(--primary-light); }
 
         /* Tracker */
         .tracker-controls { display: flex; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
@@ -91,6 +109,38 @@
         .status-interview { background: #d1fae5; color: #065f46; }
         .status-offer { background: #ede9fe; color: #5b21b6; }
         .status-rejected { background: #fee2e2; color: #991b1b; }
+
+        /* Networking */
+        .overdue { background: #fef2f2 !important; }
+        .overdue td { background: #fef2f2 !important; }
+
+        /* Weekly Goals */
+        .goals-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+        .goal-card { background: var(--white); border-radius: 10px; padding: 1.25rem; box-shadow: var(--shadow); text-align: center; }
+        .goal-card h4 { font-size: 0.9rem; color: var(--dark); margin-bottom: 0.5rem; }
+        .goal-card .goal-count { font-size: 2rem; font-weight: 700; color: var(--primary); }
+        .goal-card .goal-target { font-size: 0.8rem; color: var(--gray); margin-bottom: 0.75rem; }
+        .goal-card .goal-controls { display: flex; justify-content: center; gap: 0.5rem; }
+        .goal-btn { width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--border); background: var(--white); font-size: 1.1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
+        .goal-btn:hover { background: var(--primary-bg); border-color: var(--primary); }
+        .goal-progress { height: 4px; background: var(--light-gray); border-radius: 2px; margin-top: 0.75rem; overflow: hidden; }
+        .goal-progress-fill { height: 100%; background: var(--primary); border-radius: 2px; transition: width 0.3s; }
+        .goals-week-label { font-size: 0.85rem; color: var(--gray); margin-bottom: 1rem; }
+
+        /* Interview Prep */
+        .collapsible { background: var(--white); border-radius: 10px; box-shadow: var(--shadow); margin-bottom: 0.75rem; overflow: hidden; }
+        .collapsible-header { padding: 1rem 1.25rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-weight: 600; color: var(--dark); transition: background 0.2s; }
+        .collapsible-header:hover { background: var(--primary-bg); }
+        .collapsible-arrow { transition: transform 0.2s; font-size: 0.8rem; color: var(--gray); }
+        .collapsible.open .collapsible-arrow { transform: rotate(180deg); }
+        .collapsible-body { display: none; padding: 0 1.25rem 1.25rem; font-size: 0.9rem; color: #374151; }
+        .collapsible.open .collapsible-body { display: block; }
+        .collapsible-body ul { margin: 0.5rem 0 0.5rem 1.25rem; }
+        .collapsible-body li { margin-bottom: 0.4rem; }
+        .collapsible-body p { margin-bottom: 0.5rem; }
+        .salary-table { width: 100%; border-collapse: collapse; margin-top: 0.5rem; }
+        .salary-table th, .salary-table td { padding: 0.5rem 0.75rem; text-align: left; border-bottom: 1px solid var(--light-gray); font-size: 0.85rem; }
+        .salary-table th { background: var(--primary-bg); color: var(--dark); font-weight: 600; }
 
         /* Tips */
         .tips-list { list-style: none; }
@@ -123,6 +173,8 @@
             .container { padding: 1rem; }
             .header h1 { font-size: 1.5rem; }
             .nav { padding: 0.5rem 1rem; }
+            .job-listing { flex-direction: column; }
+            .job-listing-actions { align-self: flex-start; }
         }
     </style>
 </head>
@@ -136,9 +188,13 @@
     <div class="nav">
         <a href="#profile">My Profile</a>
         <a href="#quick-search">Quick Search</a>
+        <a href="#job-feed">Fresh Jobs</a>
         <a href="#companies">Target Companies</a>
         <a href="#job-boards">Job Boards</a>
         <a href="#tracker">Application Tracker</a>
+        <a href="#networking">Networking</a>
+        <a href="#weekly-goals">Weekly Goals</a>
+        <a href="#interview-prep">Interview Prep</a>
         <a href="#tips">Strategy Tips</a>
         <a href="#resources">Resources</a>
     </div>
@@ -152,7 +208,8 @@
                 <div>
                     <h3>Yasmin Gonzales Madraswala</h3>
                     <p style="color:var(--gray); margin-bottom:0.75rem;">Brand Director | Innovation & Incubator Lead | NYC</p>
-                    <p style="font-size:0.85rem; margin-bottom:0.75rem;">
+                    <span class="location-badge">NYC & Remote</span>
+                    <p style="font-size:0.85rem; margin-bottom:0.75rem; margin-top:0.75rem;">
                         <span class="stat">12+ Years</span> in consumer healthcare brand management<br>
                         <span class="stat">$500MM+</span> brand portfolio management<br>
                         <span class="stat">$50MM+</span> marketing budget ownership<br>
@@ -192,27 +249,31 @@
         <!-- QUICK SEARCH -->
         <div class="section" id="quick-search">
             <h2 class="section-title">Quick Job Searches</h2>
-            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Pre-filtered searches tailored to your profile. Click to open in a new tab.</p>
+            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Pre-filtered searches tailored to your profile — NYC & Remote only. Click to open in a new tab.</p>
             <div class="search-links">
-                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=marketing%20director%20women%27s%20health&location=New%20York" target="_blank" rel="noopener">
+                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=marketing%20director%20women%27s%20health&location=New%20York%20City%20Metropolitan%20Area&f_WT=1%2C2" target="_blank" rel="noopener">
                     LinkedIn: Marketing Director, Women's Health
-                    <span>New York area</span>
+                    <span>NYC / Remote</span>
                 </a>
-                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=brand%20director%20healthcare&location=United%20States&f_WT=2" target="_blank" rel="noopener">
-                    LinkedIn: Brand Director, Healthcare (Remote)
-                    <span>Remote, United States</span>
+                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=brand%20director%20healthcare&location=New%20York%20City%20Metropolitan%20Area&f_WT=1%2C2" target="_blank" rel="noopener">
+                    LinkedIn: Brand Director, Healthcare
+                    <span>NYC / Remote</span>
                 </a>
-                <a class="search-link" href="https://www.indeed.com/jobs?q=marketing+director+women%27s+health&l=New+York" target="_blank" rel="noopener">
+                <a class="search-link" href="https://www.linkedin.com/jobs/search/?keywords=VP%20marketing%20mental%20health&location=New%20York%20City%20Metropolitan%20Area&f_WT=1%2C2" target="_blank" rel="noopener">
+                    LinkedIn: VP Marketing, Mental Health
+                    <span>NYC / Remote</span>
+                </a>
+                <a class="search-link" href="https://www.indeed.com/jobs?q=marketing+director+women%27s+health&l=New+York%2C+NY&sc=0kf%3Aattr%28DSQF7%29%3B&remotejob=032b3046-06a3-4876-8dfd-474eb5e7ed11" target="_blank" rel="noopener">
                     Indeed: Marketing Director, Women's Health
-                    <span>New York area</span>
+                    <span>NYC / Remote</span>
                 </a>
-                <a class="search-link" href="https://www.indeed.com/jobs?q=VP+marketing+mental+health&l=" target="_blank" rel="noopener">
+                <a class="search-link" href="https://www.indeed.com/jobs?q=VP+marketing+mental+health&l=New+York%2C+NY&sc=0kf%3Aattr%28DSQF7%29%3B&remotejob=032b3046-06a3-4876-8dfd-474eb5e7ed11" target="_blank" rel="noopener">
                     Indeed: VP Marketing, Mental Health
-                    <span>Nationwide</span>
+                    <span>NYC / Remote</span>
                 </a>
-                <a class="search-link" href="https://www.indeed.com/jobs?q=brand+director+femtech&l=" target="_blank" rel="noopener">
+                <a class="search-link" href="https://www.indeed.com/jobs?q=brand+director+femtech&l=New+York%2C+NY&sc=0kf%3Aattr%28DSQF7%29%3B&remotejob=032b3046-06a3-4876-8dfd-474eb5e7ed11" target="_blank" rel="noopener">
                     Indeed: Brand Director, FemTech
-                    <span>Nationwide</span>
+                    <span>NYC / Remote</span>
                 </a>
                 <a class="search-link" href="https://www.builtinnyc.com/jobs/marketing/healthtech" target="_blank" rel="noopener">
                     Built In NYC: Healthtech Marketing
@@ -226,6 +287,22 @@
                     In Women's Health Job Board
                     <span>200+ women's health companies</span>
                 </a>
+            </div>
+        </div>
+
+        <!-- FRESH JOB LISTINGS -->
+        <div class="section" id="job-feed">
+            <h2 class="section-title">Fresh Job Listings</h2>
+            <div class="job-feed-filters">
+                <button class="filter-btn active" data-filter="all" onclick="filterJobs('all')">All</button>
+                <button class="filter-btn" data-filter="nyc" onclick="filterJobs('nyc')">NYC</button>
+                <button class="filter-btn" data-filter="remote" onclick="filterJobs('remote')">Remote</button>
+                <span class="job-feed-meta" id="jobFeedMeta">Loading...</span>
+            </div>
+            <div id="jobFeedList">
+                <div class="empty-state">
+                    <p>Loading job listings...</p>
+                </div>
             </div>
         </div>
 
@@ -392,6 +469,110 @@
             <div id="trackerTable"></div>
         </div>
 
+        <!-- NETWORKING TRACKER -->
+        <div class="section" id="networking">
+            <h2 class="section-title">Networking Tracker</h2>
+            <p style="font-size:0.85rem; color:var(--gray); margin-bottom:1rem;">Track recruiters, referrals, and informational interview contacts. Contacts not followed up in 7+ days are highlighted.</p>
+
+            <div class="tracker-controls">
+                <button class="btn btn-primary" onclick="openNetworkModal()">+ Add Contact</button>
+                <button class="btn" style="background:var(--light-gray);" onclick="exportNetworkCSV()">Export CSV</button>
+            </div>
+
+            <div id="networkTable"></div>
+        </div>
+
+        <!-- WEEKLY GOALS -->
+        <div class="section" id="weekly-goals">
+            <h2 class="section-title">Weekly Goals</h2>
+            <div class="goals-week-label" id="goalsWeekLabel"></div>
+            <div class="goals-grid" id="goalsGrid"></div>
+        </div>
+
+        <!-- INTERVIEW PREP -->
+        <div class="section" id="interview-prep">
+            <h2 class="section-title">Interview Prep Quick Reference</h2>
+
+            <div class="collapsible">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)">
+                    "Tell Me About Yourself" Script
+                    <span class="collapsible-arrow">&#9660;</span>
+                </div>
+                <div class="collapsible-body">
+                    <p><strong>Opening (15 sec):</strong> "I'm a brand director with 12+ years in consumer healthcare, most recently leading innovation and incubation at Haleon where I managed brands across a $500M+ portfolio."</p>
+                    <p><strong>Bridge (15 sec):</strong> "What excites me about [women's health / mental health] is that it combines my deep experience in consumer healthcare marketing with a mission I'm personally passionate about. I've spent my career making health products accessible to consumers — from managing Rx-to-OTC switches to launching new brands."</p>
+                    <p><strong>Why This Role (15 sec):</strong> "I'm looking for a role where I can bring that same blend of strategic rigor and creative brand-building to a company that's transforming how people access [women's / mental] healthcare. That's exactly what drew me to [Company]."</p>
+                </div>
+            </div>
+
+            <div class="collapsible">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)">
+                    Key Talking Points Mapped to Experience
+                    <span class="collapsible-arrow">&#9660;</span>
+                </div>
+                <div class="collapsible-body">
+                    <ul>
+                        <li><strong>P&L Ownership:</strong> "I've had full P&L ownership of a $500MM+ brand portfolio, driving both top-line growth and margin improvement. I understand what it means to be accountable for business results, not just marketing metrics."</li>
+                        <li><strong>Innovation & Speed:</strong> "At Haleon's innovation incubator, I led 10+ product launches from concept to shelf in compressed timelines — essentially running a startup inside a large organization."</li>
+                        <li><strong>Rx-to-OTC Switch:</strong> "I led the marketing strategy for Rx-to-OTC transitions, which requires navigating FDA regulations, physician education, and consumer awareness simultaneously — very similar to the regulatory landscape in femtech and digital health."</li>
+                        <li><strong>Consumer-First Thinking:</strong> "My approach has always been consumer-first. I've led research programs, built segmentation frameworks, and translated insights into campaigns that drove measurable trial and loyalty."</li>
+                        <li><strong>Digital Commerce:</strong> "I've built and scaled DTC and e-commerce channels, which is core to how most health-tech companies acquire and retain customers."</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="collapsible">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)">
+                    Questions to Ask Interviewers
+                    <span class="collapsible-arrow">&#9660;</span>
+                </div>
+                <div class="collapsible-body">
+                    <p><strong>For Startups (Series A-C):</strong></p>
+                    <ul>
+                        <li>"What does the current marketing function look like, and what would you want it to look like in 12 months?"</li>
+                        <li>"What's the company's current customer acquisition mix, and where do you see the biggest opportunity?"</li>
+                        <li>"How does the marketing team work with product and clinical teams?"</li>
+                        <li>"What's your runway, and how does that inform your growth strategy?"</li>
+                    </ul>
+                    <p><strong>For Established Companies:</strong></p>
+                    <ul>
+                        <li>"What's the biggest marketing challenge the team is facing right now?"</li>
+                        <li>"How is marketing's success measured at the executive level?"</li>
+                        <li>"What's the relationship between brand marketing and performance marketing here?"</li>
+                        <li>"Where do you see the biggest white space for brand growth in the next 2-3 years?"</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="collapsible">
+                <div class="collapsible-header" onclick="toggleCollapsible(this)">
+                    Salary Negotiation Benchmarks
+                    <span class="collapsible-arrow">&#9660;</span>
+                </div>
+                <div class="collapsible-body">
+                    <p>Based on market research for Director/VP marketing roles in healthcare (NYC / Remote), 2024-2025:</p>
+                    <table class="salary-table">
+                        <thead>
+                            <tr><th>Role Level</th><th>Base Salary Range</th><th>Total Comp (w/ bonus + equity)</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>Senior Marketing Director</td><td>$150K - $180K</td><td>$175K - $220K</td></tr>
+                            <tr><td>VP of Marketing</td><td>$170K - $205K</td><td>$200K - $275K</td></tr>
+                            <tr><td>Head of Marketing / CMO (Startup)</td><td>$160K - $200K</td><td>$200K - $350K+ (equity heavy)</td></tr>
+                        </tbody>
+                    </table>
+                    <p style="margin-top:0.75rem;"><strong>Negotiation tips:</strong></p>
+                    <ul>
+                        <li>Always negotiate — 70% of employers expect it.</li>
+                        <li>Lead with your P&L track record: "I've managed $500MM+ in brand P&L, which directly translates to..."</li>
+                        <li>For startups, negotiate equity separately from base. Ask about vesting schedule, strike price, and latest 409A.</li>
+                        <li>If base is firm, negotiate signing bonus, annual bonus target, title, or remote flexibility.</li>
+                        <li>Benchmark: For NYC-based roles, aim for the upper range. Remote roles may be 5-10% lower but save on commute/relocation.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
         <!-- STRATEGY TIPS -->
         <div class="section" id="tips">
             <h2 class="section-title">Job Search Strategy</h2>
@@ -447,7 +628,7 @@
 
     </div>
 
-    <!-- ADD/EDIT MODAL -->
+    <!-- ADD/EDIT APPLICATION MODAL -->
     <div class="modal-overlay" id="modal">
         <div class="modal">
             <h2 id="modalTitle">Add Application</h2>
@@ -479,8 +660,41 @@
         </div>
     </div>
 
+    <!-- ADD/EDIT NETWORK CONTACT MODAL -->
+    <div class="modal-overlay" id="networkModal">
+        <div class="modal">
+            <h2 id="networkModalTitle">Add Contact</h2>
+            <input type="hidden" id="networkEditId">
+            <label>Name *</label>
+            <input type="text" id="netName" placeholder="e.g., Sarah Chen">
+            <label>Company</label>
+            <input type="text" id="netCompany" placeholder="e.g., Maven Clinic">
+            <label>Role</label>
+            <input type="text" id="netRole" placeholder="e.g., VP Marketing">
+            <label>How Connected</label>
+            <select id="netHow">
+                <option value="LinkedIn">LinkedIn</option>
+                <option value="Referral">Referral</option>
+                <option value="Recruiter">Recruiter</option>
+                <option value="Conference">Conference</option>
+                <option value="Cold Outreach">Cold Outreach</option>
+                <option value="Other">Other</option>
+            </select>
+            <label>Last Contact Date</label>
+            <input type="date" id="netLastContact">
+            <label>Next Follow-up</label>
+            <input type="date" id="netFollowUp">
+            <label>Notes</label>
+            <textarea id="netNotes" placeholder="Context, conversation topics, next steps..."></textarea>
+            <div class="modal-actions">
+                <button class="btn" style="background:var(--light-gray);" onclick="closeNetworkModal()">Cancel</button>
+                <button class="btn btn-primary" onclick="saveContact()">Save</button>
+            </div>
+        </div>
+    </div>
+
     <script>
-        // Application Tracker - localStorage based
+        // ===================== APPLICATION TRACKER =====================
         function getApps() {
             return JSON.parse(localStorage.getItem('jobfindr_apps') || '[]');
         }
@@ -568,7 +782,6 @@
             const filter = document.getElementById('filterStatus').value;
             const filtered = filter === 'all' ? apps : apps.filter(a => a.status === filter);
 
-            // Stats
             document.getElementById('statTotal').textContent = apps.length;
             document.getElementById('statSaved').textContent = apps.filter(a => a.status === 'saved').length;
             document.getElementById('statApplied').textContent = apps.filter(a => a.status === 'applied').length;
@@ -584,11 +797,11 @@
             let html = '<table><thead><tr><th>Date</th><th>Company</th><th>Role</th><th>Status</th><th>Location</th><th>Salary</th><th>Actions</th></tr></thead><tbody>';
             filtered.forEach((app, i) => {
                 const realIdx = filter === 'all' ? i : apps.indexOf(app);
-                const urlLink = app.url ? `<a href="${app.url}" target="_blank" rel="noopener">${app.company}</a>` : app.company;
+                const urlLink = app.url ? `<a href="${escapeHtml(app.url)}" target="_blank" rel="noopener">${escapeHtml(app.company)}</a>` : escapeHtml(app.company);
                 html += `<tr>
-                    <td>${app.date}</td>
+                    <td>${escapeHtml(app.date)}</td>
                     <td>${urlLink}</td>
-                    <td>${app.role}</td>
+                    <td>${escapeHtml(app.role)}</td>
                     <td><select class="status-select" onchange="updateStatus(${realIdx}, this.value)" style="border:none;background:none;font-size:0.8rem;font-weight:600;cursor:pointer;">
                         <option value="saved" ${app.status==='saved'?'selected':''}>Saved</option>
                         <option value="applied" ${app.status==='applied'?'selected':''}>Applied</option>
@@ -596,8 +809,8 @@
                         <option value="offer" ${app.status==='offer'?'selected':''}>Offer</option>
                         <option value="rejected" ${app.status==='rejected'?'selected':''}>Rejected</option>
                     </select></td>
-                    <td>${app.location || '-'}</td>
-                    <td>${app.salary || '-'}</td>
+                    <td>${escapeHtml(app.location || '-')}</td>
+                    <td>${escapeHtml(app.salary || '-')}</td>
                     <td>
                         <button class="btn btn-sm" onclick="openModal(${realIdx})" style="background:var(--primary-bg);color:var(--primary);">Edit</button>
                         <button class="btn btn-sm btn-danger" onclick="deleteApp(${realIdx})">Del</button>
@@ -621,13 +834,289 @@
             URL.revokeObjectURL(url);
         }
 
-        // Close modal on overlay click
+        // ===================== NETWORKING TRACKER =====================
+        function getContacts() {
+            return JSON.parse(localStorage.getItem('jobfindr_contacts') || '[]');
+        }
+        function saveContacts(contacts) {
+            localStorage.setItem('jobfindr_contacts', JSON.stringify(contacts));
+        }
+
+        function openNetworkModal(id) {
+            const modal = document.getElementById('networkModal');
+            if (id !== undefined) {
+                const c = getContacts()[id];
+                document.getElementById('networkModalTitle').textContent = 'Edit Contact';
+                document.getElementById('networkEditId').value = id;
+                document.getElementById('netName').value = c.name;
+                document.getElementById('netCompany').value = c.company || '';
+                document.getElementById('netRole').value = c.role || '';
+                document.getElementById('netHow').value = c.how || 'LinkedIn';
+                document.getElementById('netLastContact').value = c.lastContact || '';
+                document.getElementById('netFollowUp').value = c.followUp || '';
+                document.getElementById('netNotes').value = c.notes || '';
+            } else {
+                document.getElementById('networkModalTitle').textContent = 'Add Contact';
+                document.getElementById('networkEditId').value = '';
+                document.getElementById('netName').value = '';
+                document.getElementById('netCompany').value = '';
+                document.getElementById('netRole').value = '';
+                document.getElementById('netHow').value = 'LinkedIn';
+                document.getElementById('netLastContact').value = new Date().toISOString().slice(0, 10);
+                document.getElementById('netFollowUp').value = '';
+                document.getElementById('netNotes').value = '';
+            }
+            modal.classList.add('active');
+        }
+
+        function closeNetworkModal() {
+            document.getElementById('networkModal').classList.remove('active');
+        }
+
+        function saveContact() {
+            const name = document.getElementById('netName').value.trim();
+            if (!name) { alert('Name is required.'); return; }
+
+            const contact = {
+                name,
+                company: document.getElementById('netCompany').value.trim(),
+                role: document.getElementById('netRole').value.trim(),
+                how: document.getElementById('netHow').value,
+                lastContact: document.getElementById('netLastContact').value,
+                followUp: document.getElementById('netFollowUp').value,
+                notes: document.getElementById('netNotes').value.trim(),
+            };
+
+            const contacts = getContacts();
+            const editId = document.getElementById('networkEditId').value;
+            if (editId !== '') {
+                contacts[parseInt(editId)] = contact;
+            } else {
+                contacts.unshift(contact);
+            }
+            saveContacts(contacts);
+            closeNetworkModal();
+            renderNetwork();
+        }
+
+        function deleteContact(idx) {
+            if (!confirm('Delete this contact?')) return;
+            const contacts = getContacts();
+            contacts.splice(idx, 1);
+            saveContacts(contacts);
+            renderNetwork();
+        }
+
+        function renderNetwork() {
+            const contacts = getContacts();
+            const container = document.getElementById('networkTable');
+
+            if (contacts.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>No contacts tracked yet.</p><p>Click <strong>+ Add Contact</strong> to start building your network tracker.</p></div>';
+                return;
+            }
+
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const sevenDaysAgo = new Date(today);
+            sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+
+            let html = '<table><thead><tr><th>Name</th><th>Company</th><th>Role</th><th>How Connected</th><th>Last Contact</th><th>Next Follow-up</th><th>Notes</th><th>Actions</th></tr></thead><tbody>';
+            contacts.forEach((c, i) => {
+                const lastDate = c.lastContact ? new Date(c.lastContact + 'T00:00:00') : null;
+                const isOverdue = lastDate && lastDate < sevenDaysAgo;
+                const followUpDate = c.followUp ? new Date(c.followUp + 'T00:00:00') : null;
+                const followUpOverdue = followUpDate && followUpDate <= today;
+                const rowClass = (isOverdue || followUpOverdue) ? ' class="overdue"' : '';
+
+                html += `<tr${rowClass}>
+                    <td><strong>${escapeHtml(c.name)}</strong></td>
+                    <td>${escapeHtml(c.company || '-')}</td>
+                    <td>${escapeHtml(c.role || '-')}</td>
+                    <td>${escapeHtml(c.how || '-')}</td>
+                    <td>${escapeHtml(c.lastContact || '-')}${isOverdue ? ' <span style="color:#ef4444;font-size:0.75rem;">7+ days</span>' : ''}</td>
+                    <td>${escapeHtml(c.followUp || '-')}${followUpOverdue ? ' <span style="color:#ef4444;font-size:0.75rem;">due!</span>' : ''}</td>
+                    <td style="max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="${escapeHtml(c.notes || '')}">${escapeHtml(c.notes || '-')}</td>
+                    <td>
+                        <button class="btn btn-sm" onclick="openNetworkModal(${i})" style="background:var(--primary-bg);color:var(--primary);">Edit</button>
+                        <button class="btn btn-sm btn-danger" onclick="deleteContact(${i})">Del</button>
+                    </td>
+                </tr>`;
+            });
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function exportNetworkCSV() {
+            const contacts = getContacts();
+            if (contacts.length === 0) { alert('No contacts to export.'); return; }
+            const headers = ['Name','Company','Role','How Connected','Last Contact','Next Follow-up','Notes'];
+            const rows = contacts.map(c => [c.name, c.company, c.role, c.how, c.lastContact, c.followUp, c.notes].map(v => `"${(v||'').replace(/"/g,'""')}"`));
+            const csv = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = 'jobfindr_contacts.csv'; a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // ===================== WEEKLY GOALS =====================
+        const GOALS_CONFIG = [
+            { key: 'apps_sent', label: 'Applications Sent', target: '5-10/week' , max: 10 },
+            { key: 'networking', label: 'Networking Outreach', target: '3-5/week', max: 5 },
+            { key: 'followups', label: 'Follow-ups Sent', target: '3+/week', max: 5 },
+            { key: 'boards_checked', label: 'Job Boards Checked', target: '5+/week', max: 7 },
+            { key: 'profile_updated', label: 'Resume/LinkedIn Updated', target: '1+/week', max: 1 },
+        ];
+
+        function getWeekKey() {
+            const now = new Date();
+            const start = new Date(now.getFullYear(), 0, 1);
+            const week = Math.ceil(((now - start) / 86400000 + start.getDay() + 1) / 7);
+            return `${now.getFullYear()}-W${week}`;
+        }
+
+        function getGoals() {
+            const weekKey = getWeekKey();
+            const stored = JSON.parse(localStorage.getItem('jobfindr_goals') || '{}');
+            if (stored._week !== weekKey) {
+                return { _week: weekKey };
+            }
+            return stored;
+        }
+
+        function saveGoals(goals) {
+            localStorage.setItem('jobfindr_goals', JSON.stringify(goals));
+        }
+
+        function updateGoal(key, delta) {
+            const goals = getGoals();
+            goals[key] = Math.max(0, (goals[key] || 0) + delta);
+            saveGoals(goals);
+            renderGoals();
+        }
+
+        function renderGoals() {
+            const goals = getGoals();
+            const weekKey = getWeekKey();
+            document.getElementById('goalsWeekLabel').textContent = `Week: ${weekKey} — Resets automatically each week`;
+
+            const container = document.getElementById('goalsGrid');
+            let html = '';
+            GOALS_CONFIG.forEach(g => {
+                const count = goals[g.key] || 0;
+                const pct = Math.min(100, (count / g.max) * 100);
+                html += `<div class="goal-card">
+                    <h4>${g.label}</h4>
+                    <div class="goal-count">${count}</div>
+                    <div class="goal-target">Target: ${g.target}</div>
+                    <div class="goal-controls">
+                        <button class="goal-btn" onclick="updateGoal('${g.key}', -1)">-</button>
+                        <button class="goal-btn" onclick="updateGoal('${g.key}', 1)">+</button>
+                    </div>
+                    <div class="goal-progress"><div class="goal-progress-fill" style="width:${pct}%"></div></div>
+                </div>`;
+            });
+            container.innerHTML = html;
+        }
+
+        // ===================== JOB FEED =====================
+        let jobFeedData = [];
+        let jobFeedFilter = 'all';
+
+        function filterJobs(filter) {
+            jobFeedFilter = filter;
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.filter === filter);
+            });
+            renderJobFeed();
+        }
+
+        function renderJobFeed() {
+            const container = document.getElementById('jobFeedList');
+            let jobs = jobFeedData;
+
+            if (jobFeedFilter === 'nyc') {
+                jobs = jobs.filter(j => !j.is_remote && j.location.toLowerCase().includes('new york'));
+            } else if (jobFeedFilter === 'remote') {
+                jobs = jobs.filter(j => j.is_remote);
+            }
+
+            if (jobs.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>No jobs found for this filter.</p><p>Try a different filter or check back later — jobs are refreshed twice daily.</p></div>';
+                return;
+            }
+
+            let html = '';
+            jobs.forEach(job => {
+                const postedDate = job.date_posted ? new Date(job.date_posted).toLocaleDateString() : 'Recently';
+                const remoteClass = job.is_remote ? ' remote' : '';
+                html += `<div class="job-listing${remoteClass}">
+                    <div class="job-listing-info">
+                        <h3>${escapeHtml(job.title)}</h3>
+                        <div class="company">${escapeHtml(job.company)}</div>
+                        <div class="meta">
+                            <span>${escapeHtml(job.location)}</span>
+                            <span>Posted: ${postedDate}</span>
+                            ${job.salary ? `<span>${escapeHtml(job.salary)}</span>` : ''}
+                        </div>
+                    </div>
+                    <div class="job-listing-actions">
+                        ${job.apply_link ? `<a href="${escapeHtml(job.apply_link)}" target="_blank" rel="noopener" class="btn-apply">Apply</a>` : ''}
+                    </div>
+                </div>`;
+            });
+            container.innerHTML = html;
+        }
+
+        function loadJobFeed() {
+            fetch('jobs.json')
+                .then(r => {
+                    if (!r.ok) throw new Error('Not found');
+                    return r.json();
+                })
+                .then(data => {
+                    jobFeedData = data.jobs || [];
+                    const meta = document.getElementById('jobFeedMeta');
+                    if (data.last_updated) {
+                        const updated = new Date(data.last_updated);
+                        meta.textContent = `Last updated: ${updated.toLocaleDateString()} ${updated.toLocaleTimeString()} · ${data.job_count} jobs`;
+                    } else {
+                        meta.textContent = 'Not yet populated — run the workflow to fetch jobs';
+                    }
+                    renderJobFeed();
+                })
+                .catch(() => {
+                    document.getElementById('jobFeedMeta').textContent = '';
+                    document.getElementById('jobFeedList').innerHTML = '<div class="empty-state"><p>No job feed data yet.</p><p>The job feed will populate automatically via GitHub Actions, or you can run <code>python fetch_jobs.py</code> locally with your RapidAPI key.</p></div>';
+                });
+        }
+
+        // ===================== INTERVIEW PREP =====================
+        function toggleCollapsible(header) {
+            header.parentElement.classList.toggle('open');
+        }
+
+        // ===================== UTILITIES =====================
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        // ===================== MODAL CLOSE ON OVERLAY =====================
         document.getElementById('modal').addEventListener('click', function(e) {
             if (e.target === this) closeModal();
         });
+        document.getElementById('networkModal').addEventListener('click', function(e) {
+            if (e.target === this) closeNetworkModal();
+        });
 
-        // Init
+        // ===================== INIT =====================
         renderTracker();
+        renderNetwork();
+        renderGoals();
+        loadJobFeed();
     </script>
 </body>
 </html>
