@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-02-10T11:47:09.276009+00:00",
-  "job_count": 7,
+  "last_updated": "2026-02-10T23:35:26.970197+00:00",
+  "job_count": 6,
   "jobs": [
+    {
+      "id": "RMIreCdHIi_M3ydyAAAAAA==",
+      "title": "Chief Marketing Officer",
+      "company": "Akkodis",
+      "location": "Gaithersburg, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-10T14:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://us.bebee.com/job/0a74d6032e9540a1db5eb70acd92e100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Get AI-powered advice on this job and more exclusive features.\n\nThis range is provided by Akkodis. Your actual pay will be based on your skills and experience \u2014 talk with your recruiter to learn more.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVOcYhqZA2bOxZF4jmgld4AaFwboHI2zt2Oc2&s=0"
+    },
+    {
+      "id": "KTOZzYdb5Eo2qjYqAAAAAA==",
+      "title": "Femtech Insider Ltd. is hiring: Content Creator in Miami",
+      "company": "Femtech Insider Ltd.",
+      "location": "Miami, Florida",
+      "is_remote": false,
+      "date_posted": "2026-02-10T08:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.mediabistro.com/jobs/1594184466-femtech-insider-ltd-is-hiring-content-creator-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Overview Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 year",
+      "employer_logo": null
+    },
     {
       "id": "PJzfCPKjFR5Rna23AAAAAA==",
       "title": "Femtech Insider Ltd. is hiring: National Director, Creative & Video Strategy in",
@@ -15,76 +39,40 @@
       "employer_logo": null
     },
     {
-      "id": "7yL3IutGTyhkRFcQAAAAAA==",
-      "title": "Medical- Front Office & Billing Specialist",
-      "company": "BirthCare & Women's Health",
+      "id": "-gmoZ0E626DMvPHxAAAAAA==",
+      "title": "Field Marketer (Mental Health)",
+      "company": "Peerstar LLC",
+      "location": "Pittsburgh, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-02-09T00:00:00.000Z",
+      "salary": "$60,000 - $75,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/Peerstar/Job/Field-Marketer-(Mental-Health)/-in-Allegheny-County,PA?jid=804b82413315ad12&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Summary:\n\nAre you passionate about promoting an organization with a purpose?\n\nPeerstar is seeking a community-focused Field Marketer to help expand access to mental health services across Pennsylvania",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHh3Flquish0mhO0-gaQzzJgRcOdAvebu3hl9e&s=0"
+    },
+    {
+      "id": "RAjobL_5zMicOTVkAAAAAA==",
+      "title": "Health Data Scientist (AI & Clinical Data) (26-003)",
+      "company": "Strategic Analysis, Inc.",
       "location": "Alexandria, Virginia",
       "is_remote": false,
       "date_posted": "2026-02-09T00:00:00.000Z",
-      "salary": "$18 - $25 (HOUR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/medical-front-office-billing-specialist-at-birthcare-women-s-health-4361891813?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Benefits:\n\u2022 Paid time off\n\u2022 Training & development\n\nBenefits/Perks\n\u2022 Competitive Compensation\n\u2022 Great Work Environment\n\u2022 Career Advancement Opportunities\n\nAbout Us\n\nBirthCare & Women\u2019s Health is a fre",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhWv8H-oBgWx-0nrqhs5EIVgC_fKdvDViwapx&s=0"
-    },
-    {
-      "id": "gewviB-Caf1q5qGEAAAAAA==",
-      "title": "Marketing & CX Lead, Mental Health Brand",
-      "company": "Scorpion Therapeutics",
-      "location": "Parsippany-Troy Hills, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-02-09T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://us.bebee.com/job/f655ddecab0772677c127e638bd7675b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading pharmaceutical company based in Parsippany-Troy Hills is seeking a Senior Manager, Marketing\n\u2022 Customer Experience.\nIn this role, you will lead consumer marketing initiatives while developin",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELHQ4UGxKNzBJ0Nww0c45G9ELtnqCjx5j2ejk&s=0"
-    },
-    {
-      "id": "F_nRFgaFdtBApEH2AAAAAA==",
-      "title": "Health Data Scientist (AI & Clinical Data) (26-003)",
-      "company": "Strategic Analysis, Inc.",
-      "location": "Berwyn Heights, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-02-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.womenforhire.com/job/usa/berwyn-heights-md/health-data-scientist-ai-clinical-data-26-003-062313/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/alexandria-va/health-data-scientist-ai-clinical-data-26-003-990819/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Strategic Analysis, Inc. (SA) Is actively seeking a Health Data Scientist to provide technical leadership in data design, evaluation strategy, and clinical realism for a multi-stakeholder program adva",
       "employer_logo": null
     },
     {
-      "id": "OcT6B0BIWGS8wBjvAAAAAA==",
-      "title": "Director, Account Planning",
-      "company": "Starcom Mediavest Group Germany Gmbh",
-      "location": "Philadelphia, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-09T00:00:00.000Z",
-      "salary": "$106,780 - $153,405 (YEAR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Starcom-Mediavest-Group-Germany-Gmbh/Job/Director,-Account-Planning/-in-Philadelphia,PA?jid=e60080360a805136&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Company Description\n\nDigitas Health is the Agency of Now: the first global connected-health agency, purpose-built for marketing today. Digitas Health specializes in helping health brands navigate a co",
-      "employer_logo": null
-    },
-    {
-      "id": "XJsNf1q-rCNCYzkMAAAAAA==",
-      "title": "Director, Medical Value and Access",
-      "company": "CSL",
-      "location": "Paradise, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobiak.csl.com/apply/director-medical-value-and-access-paradise-pa-697c5859ddcf1609c9f83f0e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Strategic Leadership & Team Development\n\u2022 Build, lead, and develop a high-performing team of Medical Outcome Specialsts across geographies in the US\n\u2022 Define the strategic vision, annual priorities, a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJxqVhQdwhybuC9LkAFN6RYPmD-WYZIzHuhQM&s=0"
-    },
-    {
-      "id": "fT1zyiPLT49TA2VUAAAAAA==",
-      "title": "Sr. Product Designer",
+      "id": "87IvSU6HHdjkv_DYAAAAAA==",
+      "title": "Senior Data Engineering & Reporting Leader",
       "company": "Femtech Insider Ltd.",
-      "location": "California, Missouri",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
       "date_posted": "2026-02-09T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://us.bebee.com/job/549a5fb6df59746c285193e37e57ab95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Everlywell is a digital health company pioneering the next generation of biomarker intelligence\u2014combining AI-powered technology with human insight to deliver personalized, actionable health answers. W",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JKdKOsDw7z6N7LLTJPOcxEG86GQDejBzd6ar&s=0"
+      "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/4862007750/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading nonprofit health organization seeks an Associate Director of Data Engineering and Reporting in Washington, D.C. The role focuses on crafting and managing actionable data reports to support d",
+      "employer_logo": null
     }
   ]
 }
