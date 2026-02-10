@@ -4,6 +4,7 @@
 import json
 import os
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from urllib.request import Request, urlopen
 from urllib.parse import quote_plus
@@ -44,14 +45,14 @@ def fetch_jobs_for_query(query, location, remote):
     req.add_header("x-rapidapi-host", API_HOST)
 
     try:
-        with urlopen(req, timeout=30) as resp:
+        with urlopen(req, timeout=60) as resp:
             data = json.loads(resp.read().decode())
             return data.get("data", [])
     except HTTPError as e:
         print(f"  HTTP {e.code} for query '{query}' (remote={remote}): {e.reason}")
         return []
-    except URLError as e:
-        print(f"  Network error for query '{query}': {e.reason}")
+    except (URLError, TimeoutError, OSError) as e:
+        print(f"  Network error for query '{query}': {e}")
         return []
 
 
@@ -69,6 +70,7 @@ def main():
         print(f"Fetching: {label}")
         results = fetch_jobs_for_query(search["query"], search["location"], search["remote"])
         print(f"  Found {len(results)} results")
+        time.sleep(2)  # avoid rate limiting
 
         for job in results:
             job_id = job.get("job_id", "")
