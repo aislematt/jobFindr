@@ -1,18 +1,54 @@
 {
-  "last_updated": "2026-02-11T11:40:28.905048+00:00",
-  "job_count": 7,
+  "last_updated": "2026-02-11T23:27:55.108911+00:00",
+  "job_count": 6,
   "jobs": [
+    {
+      "id": "ifvQWxb2HuALR2EhAAAAAA==",
+      "title": "Director, Client Implementations & Success",
+      "company": "Cayaba Care",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-02-11T12:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.femtechinsider.com/companies/cayaba-care/jobs/67398831-director-client-implementations-success?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "About Us:\nThe United States has the poorest maternal and birth outcomes of all developed countries with underserved, Black, Brown, Indigenous communities disproportionately affected. Cayaba Care is wo",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BvlavQ8wEV3obBulYrKUDB3jJIXQVjXc6v7M&s=0"
+    },
     {
       "id": "BEp-EOvhp9PhbEZJAAAAAA==",
       "title": "Staff Software Engineer: Lead AI-Driven Platform",
       "company": "Femtech Insider Ltd.",
       "location": "None, None",
       "is_remote": false,
-      "date_posted": "2026-02-11T09:00:00.000Z",
+      "date_posted": "2026-02-11T10:00:00.000Z",
       "salary": "",
       "apply_link": "https://us.bebee.com/job/11f2838daca4683992ddcfacd3201520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "A healthcare technology firm in San Francisco is seeking a Staff Software Engineer to define technical direction and enhance its AI-driven care platform.\n\nThe ideal candidate has over 10 years of expe",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JKdKOsDw7z6N7LLTJPOcxEG86GQDejBzd6ar&s=0"
+    },
+    {
+      "id": "Fz4Os7f_N2NWAVQ9AAAAAA==",
+      "title": "Marketing and Communication Coordinator OBGYN Practice",
+      "company": "Moore OBGYN",
+      "location": "Hyattsville, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-11T08:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://us.bebee.com/job/d967f092f073ec703e165d20f93f19a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking an organized, creative and proactive Marketing & Communications Coordinator to join our team. As a Marketing & Communications Coordinator your role will be to lead all marketing brandin",
+      "employer_logo": null
+    },
+    {
+      "id": "g0KmBIW2Is_V5NYWAAAAAA==",
+      "title": "Marketing Specialist",
+      "company": "Aya Healthcare",
+      "location": "Middle River, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.talent.com/view?id=6f334ed9fe16&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Marketing Associate\n\nAs a Creative Digital Marketing Associate you will be responsible for conceptualizing, developing, and executing innovative digital marketing campaigns to promote our brand, produ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pCpzMH17OWaZHLouSOv5w9FMUESYvEwJhyNM&s=0"
     },
     {
       "id": "lx4GojCTHZFO8q49AAAAAA==",
@@ -20,7 +56,7 @@
       "company": "Moore OBGYN",
       "location": "Greenbelt, Maryland",
       "is_remote": false,
-      "date_posted": "2026-02-10T22:00:00.000Z",
+      "date_posted": "2026-02-10T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://us.bebee.com/job/d0401eaa27ca3f1b660827c06e6646e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Marketing and Communications Coordinator Role\n\u2022 The Marketing and Communications Coordinator will lead all marketing, branding, and patient engagement initiatives for the OBGYN practice.\n\u2022 This includ",
@@ -32,59 +68,11 @@
       "company": "Akkodis",
       "location": "Gaithersburg, Maryland",
       "is_remote": false,
-      "date_posted": "2026-02-10T14:00:00.000Z",
+      "date_posted": "2026-02-10T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://us.bebee.com/job/0a74d6032e9540a1db5eb70acd92e100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Get AI-powered advice on this job and more exclusive features.\n\nThis range is provided by Akkodis. Your actual pay will be based on your skills and experience \u2014 talk with your recruiter to learn more.",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVOcYhqZA2bOxZF4jmgld4AaFwboHI2zt2Oc2&s=0"
-    },
-    {
-      "id": "Gfsjtf839wVobKYoAAAAAA==",
-      "title": "Community Marketing Liaison Behavioral Health",
-      "company": "UHS",
-      "location": "Fort Washington, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-10T12:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.uhsinc.com/brooke-glen-behavioral-hospital/jobs/341035?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Responsibilities\n\nBrooke Glen Behavioral Hospital has been providing psychiatric services to the Philadelphia area for more than 40 years. Located in Fort Washington, PA, our 146-bed facility provides",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5x_0lGdKqi7OqJD-ojnFz_6a_fK8uJAFvDRi&s=0"
-    },
-    {
-      "id": "PJzfCPKjFR5Rna23AAAAAA==",
-      "title": "Femtech Insider Ltd. is hiring: National Director, Creative & Video Strategy in",
-      "company": "Femtech Insider Ltd.",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-02-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/1899807429-national-director-creative-video-strategy-job-at-femtech-insider-ltd-in-new?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading health care organization seeks a National Director, Creative and Video to define and oversee the creative strategy across various campaigns. This role requires a visionary leader with over 1",
-      "employer_logo": null
-    },
-    {
-      "id": "87IvSU6HHdjkv_DYAAAAAA==",
-      "title": "Senior Data Engineering & Reporting Leader",
-      "company": "Femtech Insider Ltd.",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-02-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/software_development/4862007750/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading nonprofit health organization seeks an Associate Director of Data Engineering and Reporting in Washington, D.C. The role focuses on crafting and managing actionable data reports to support d",
-      "employer_logo": null
-    },
-    {
-      "id": "KTOZzYdb5Eo2qjYqAAAAAA==",
-      "title": "Femtech Insider Ltd. is hiring: Content Creator in Miami",
-      "company": "Femtech Insider Ltd.",
-      "location": "Miami, Florida",
-      "is_remote": false,
-      "date_posted": "2026-02-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/1594184466-femtech-insider-ltd-is-hiring-content-creator-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Overview Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 year",
-      "employer_logo": null
     }
   ]
 }
