@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-02-11T23:27:55.108911+00:00",
-  "job_count": 6,
+  "last_updated": "2026-02-12T11:37:10.343798+00:00",
+  "job_count": 8,
   "jobs": [
+    {
+      "id": "FXeG7ho6LRTBo_MIAAAAAA==",
+      "title": "PA OBGYN Womens Health (NE)",
+      "company": "Ascension",
+      "location": "Baltimore, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-11T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.ascension.org/us/en/job/AHEAHUUS430392EXTERNALENUS/PA-OBGYN-Womens-Health-NE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Details\n\u2022 Specialty: OB/GYN\n\u2022 Schedule: Full-time 36 hours a week - Primarily weekday 7a-7p\n\u2022 Practice Detail: Join 15 Full-time, Part-time, and PRN providers\n\u2022 EMR System: Meditech\n\u2022 Facility: St. Ag",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgLKPR9UPMJnoEzqeU5x8ajI3ktCtyNEc3YQK&s=0"
+    },
+    {
+      "id": "lUljzeqnIWcwlsgLAAAAAA==",
+      "title": "Hiring for Local LPN \u2013 Women\u2019s Health - NJ",
+      "company": "Infojini Healthcare",
+      "location": "Princeton, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-02-11T22:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/hiring-for-local-lpn-%E2%80%93-women%E2%80%99s-health-nj-at-infojini-healthcare-4371627112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "LPN \u2013 Women\u2019s Health (Uro/Gyn) | Full-Time | Temp-to-Perm | NJ\n\nLooking for a stable weekday schedule and a long-term opportunity with a respected healthcare system? We\u2019re hiring a Licensed Practical ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fHAJ3tPXD_NXw3wC04S86_KSDCyu4vfwtUnu&s=0"
+    },
+    {
+      "id": "PJzfCPKjFR5Rna23AAAAAA==",
+      "title": "Femtech Insider Ltd. is hiring: National Director, Creative & Video Strategy in",
+      "company": "Femtech Insider Ltd.",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-02-11T20:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.mediabistro.com/jobs/1899807429-national-director-creative-video-strategy-job-at-femtech-insider-ltd-in-new?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading health care organization seeks a National Director, Creative and Video to define and oversee the creative strategy across various campaigns. This role requires a visionary leader with over 1",
+      "employer_logo": null
+    },
+    {
+      "id": "-OYaWXniOzR1H2LMAAAAAA==",
+      "title": "Growth Marketing Manager",
+      "company": "Knew Health",
+      "location": "Lewes, Delaware",
+      "is_remote": false,
+      "date_posted": "2026-02-11T17:00:00.000Z",
+      "salary": "$100,000 - $130,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/Knew-Health/Job/Growth-Marketing-Manager/-in-Remote,US?jid=8df4e47877158000&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Fully Remote \u2013 U.S. Based\nCompensation: $100,000 \u2013 $130,000 DOE + monthly performance bonuses\n\nKnew Health is a fast-growing, fully remote healthcare company reinventing how people experience and pay ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJt_IZB0mSmpjWGOU6UW-LgGjuWGbQPw6AP5Ir&s=0"
+    },
     {
       "id": "ifvQWxb2HuALR2EhAAAAAA==",
       "title": "Director, Client Implementations & Success",
@@ -15,24 +63,12 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BvlavQ8wEV3obBulYrKUDB3jJIXQVjXc6v7M&s=0"
     },
     {
-      "id": "BEp-EOvhp9PhbEZJAAAAAA==",
-      "title": "Staff Software Engineer: Lead AI-Driven Platform",
-      "company": "Femtech Insider Ltd.",
-      "location": "None, None",
-      "is_remote": false,
-      "date_posted": "2026-02-11T10:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://us.bebee.com/job/11f2838daca4683992ddcfacd3201520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A healthcare technology firm in San Francisco is seeking a Staff Software Engineer to define technical direction and enhance its AI-driven care platform.\n\nThe ideal candidate has over 10 years of expe",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JKdKOsDw7z6N7LLTJPOcxEG86GQDejBzd6ar&s=0"
-    },
-    {
       "id": "Fz4Os7f_N2NWAVQ9AAAAAA==",
       "title": "Marketing and Communication Coordinator OBGYN Practice",
       "company": "Moore OBGYN",
       "location": "Hyattsville, Maryland",
       "is_remote": false,
-      "date_posted": "2026-02-11T08:00:00.000Z",
+      "date_posted": "2026-02-11T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://us.bebee.com/job/d967f092f073ec703e165d20f93f19a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "We are seeking an organized, creative and proactive Marketing & Communications Coordinator to join our team. As a Marketing & Communications Coordinator your role will be to lead all marketing brandin",
@@ -51,28 +87,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8pCpzMH17OWaZHLouSOv5w9FMUESYvEwJhyNM&s=0"
     },
     {
-      "id": "lx4GojCTHZFO8q49AAAAAA==",
-      "title": "Marketing and Communications Coordinator OBGYN Practice",
-      "company": "Moore OBGYN",
-      "location": "Greenbelt, Maryland",
+      "id": "BEp-EOvhp9PhbEZJAAAAAA==",
+      "title": "Staff Software Engineer: Lead AI-Driven Platform",
+      "company": "Femtech Insider Ltd.",
+      "location": "None, None",
       "is_remote": false,
-      "date_posted": "2026-02-10T00:00:00.000Z",
+      "date_posted": "2026-02-11T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://us.bebee.com/job/d0401eaa27ca3f1b660827c06e6646e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Marketing and Communications Coordinator Role\n\u2022 The Marketing and Communications Coordinator will lead all marketing, branding, and patient engagement initiatives for the OBGYN practice.\n\u2022 This includ",
-      "employer_logo": null
-    },
-    {
-      "id": "RMIreCdHIi_M3ydyAAAAAA==",
-      "title": "Chief Marketing Officer",
-      "company": "Akkodis",
-      "location": "Gaithersburg, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-02-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://us.bebee.com/job/0a74d6032e9540a1db5eb70acd92e100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Get AI-powered advice on this job and more exclusive features.\n\nThis range is provided by Akkodis. Your actual pay will be based on your skills and experience \u2014 talk with your recruiter to learn more.",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVOcYhqZA2bOxZF4jmgld4AaFwboHI2zt2Oc2&s=0"
+      "apply_link": "https://us.bebee.com/job/11f2838daca4683992ddcfacd3201520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A healthcare technology firm in San Francisco is seeking a Staff Software Engineer to define technical direction and enhance its AI-driven care platform.\n\nThe ideal candidate has over 10 years of expe",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JKdKOsDw7z6N7LLTJPOcxEG86GQDejBzd6ar&s=0"
     }
   ]
 }
