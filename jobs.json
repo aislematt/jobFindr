@@ -1,17 +1,89 @@
 {
-  "last_updated": "2026-02-12T23:23:49.566561+00:00",
-  "job_count": 6,
+  "last_updated": "2026-02-13T11:27:07.860856+00:00",
+  "job_count": 8,
   "jobs": [
     {
-      "id": "Xl39DrmCvuf0q20rAAAAAA==",
-      "title": "Certified Medical Assistant (CMA) - Boardman Women's Health",
-      "company": "Mercy Health BSMH",
-      "location": "Boardman Township, Ohio",
+      "id": "XHbmS2dpWpxmCAVNAAAAAA==",
+      "title": "Certified Medical Assistant- Women's Health",
+      "company": "Duke University Health System",
+      "location": "Wake Forest, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-02-13T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobboard.bmes.org/jobs/22045022/certified-medical-assistant-women-s-health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "At Duke Health, we're driven by a commitment to compassionate care that changes the lives of patients, their loved ones, and the greater community. No matter where your talents lie, join us and discov",
+      "employer_logo": null
+    },
+    {
+      "id": "fCzQJYdKrVv3gmJ6AAAAAA==",
+      "title": "Vice President, Sales Executive - Adobe Alliance - Life Sciences Health Care Industry",
+      "company": "Deloitte",
+      "location": "Philadelphia, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-02-13T02:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobsus.deloitte.com/philadelphia-pa/vice-president-sales-executive-adobe-alliance-life-sciences-health-care-industry/AEADAA98546748A488598EF79D4D9179/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Vice President, Sales Executive - Adobe Alliance, Life Sciences Health Care Industry\n\nDeloitte Consulting is hiring an experienced, top-performing Adobe martech software services sales professional to",
+      "employer_logo": null
+    },
+    {
+      "id": "LClr0_LBEmN245wjAAAAAA==",
+      "title": "Sr. Maternal Health Strategy Professional",
+      "company": "Humana",
+      "location": "Richmond, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-12T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/Humana/Job/Sr.-Maternal-Health-Strategy-Professional/-in-Arlington,VA?jid=c02977387fb8cd6e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Become a part of our caring community and help us put health first\nThe Senior Maternal Health Strategy Professional contributes to administration of care management. Provides non-clinical support to t",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHHlQ8pInaLEn1QHw35P8yMxLvqcpeLEUFpEbw&s=0"
+    },
+    {
+      "id": "fG_A7MLfHII-GWv-AAAAAA==",
+      "title": "Advanced Clinical Applications Specialist, Women's Health (East)",
+      "company": "Neurologica Corp",
+      "location": "None, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-02-12T21:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.indeed.com/viewjob?jk=48018d838a79d52a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Advanced Clinical Applications Specialist, Women's Health (East)\n\u2022 Territory: United States - East\n\u2022 Travel: This position requires up to 75% travel which may include some weekends\n\nWho We Are\n\nBoston",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm9qk0mEqMo6EwcM9V5nBbWRR6OTYBSudEWg4o&s=0"
+    },
+    {
+      "id": "_sJjDN3-L8nzaJzwAAAAAA==",
+      "title": "Obstetrics and Gynecology Nurse Practitioner Job with Unified Women's Healthcare in Lakewood, NJ",
+      "company": "PracticeLink",
+      "location": "Lakewood, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-02-12T12:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/obstetrics-and-gynecology-nurse-practitioner-job-with-unified-women-s-healthcare-in-lakewood-nj-at-practicelink-4371399788?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Overview\n\nUnified Women\u2019s Healthcare is the leading national platform for women\u2019s healthcare. Our affiliated practice in Lakewood & Ocean, New Jersey, is seeking a Full Time Women's Health Nurse Pract",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjf1IpSdtIGDJWKXb3aHzKwbZkBEXV_MFSm-c&s=0"
+    },
+    {
+      "id": "VNUj0cM03TgYp3xwAAAAAA==",
+      "title": "Medical Director, Women's Health & OB/Gyn Services",
+      "company": "Mary Washington Healthcare",
+      "location": "Fredericksburg, Virginia",
       "is_remote": false,
       "date_posted": "2026-02-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.mercy.com/us/en/job/R264636/Certified-Medical-Assistant-CMA-Boardman-Women-s-Health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It give",
+      "apply_link": "https://www.jobilize.com/job/us-va-fredericksburg-medical-director-women-s-health-ob-gyn-services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A prominent healthcare provider in Fredericksburg, Virginia, seeks a Medical Director for Women's Services.\nThis role focuses on operational efficiency, high-quality care delivery, and strategic growt",
+      "employer_logo": null
+    },
+    {
+      "id": "Vg1SJ1UWYm5YFUtQAAAAAA==",
+      "title": "Womens Health Nurse Practitioner",
+      "company": "ProTouch Staffing",
+      "location": "Falls Church, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.snagajob.com/jobs/1122707332?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Title: Women's Health Nurse Practitioner\n\nLocation: Falls Church, VA\n\nShifts: Monday - Friday\n\nSummary:\nAs a Nurse Practitioner, you will play a crucial role in delivering personalized and holistic ca",
       "employer_logo": null
     },
     {
@@ -25,54 +97,6 @@
       "apply_link": "https://www.careers.jnj.com/fr-fr/jobs/r-057386/director-global-commercial-insights-leader-immunology/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfe_sPJIFFPwwjZzLkbvERieJD5MTWiEEBJ950&s=0"
-    },
-    {
-      "id": "lUljzeqnIWcwlsgLAAAAAA==",
-      "title": "Hiring for Local LPN \u2013 Women\u2019s Health - NJ",
-      "company": "Infojini Healthcare",
-      "location": "Princeton, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-02-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/hiring-for-local-lpn-%E2%80%93-women%E2%80%99s-health-nj-at-infojini-healthcare-4371627112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "LPN \u2013 Women\u2019s Health (Uro/Gyn) | Full-Time | Temp-to-Perm | NJ\n\nLooking for a stable weekday schedule and a long-term opportunity with a respected healthcare system? We\u2019re hiring a Licensed Practical ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fHAJ3tPXD_NXw3wC04S86_KSDCyu4vfwtUnu&s=0"
-    },
-    {
-      "id": "1sa4VL526J3Lb5hRAAAAAA==",
-      "title": "Patient Service Representative II",
-      "company": "Axia Women's Health",
-      "location": "Cranford, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-02-11T00:00:00.000Z",
-      "salary": "$16 - $21 (HOUR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Axia-Womens-Health/Job/Patient-Service-Rep-II/-in-Cranford,NJ?jid=09cf6058cf40c737&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5MZh_nIc2iDpWFNn-X0n_PJBLO0FtCEDmgo7&s=0"
-    },
-    {
-      "id": "PJzfCPKjFR5Rna23AAAAAA==",
-      "title": "Femtech Insider Ltd. is hiring: National Director, Creative & Video Strategy in",
-      "company": "Femtech Insider Ltd.",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-02-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/1899807429-national-director-creative-video-strategy-job-at-femtech-insider-ltd-in-new?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading health care organization seeks a National Director, Creative and Video to define and oversee the creative strategy across various campaigns. This role requires a visionary leader with over 1",
-      "employer_logo": null
-    },
-    {
-      "id": "ifvQWxb2HuALR2EhAAAAAA==",
-      "title": "Director, Client Implementations & Success",
-      "company": "Cayaba Care",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-02-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.femtechinsider.com/companies/cayaba-care/jobs/67398831-director-client-implementations-success?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "About Us:\nThe United States has the poorest maternal and birth outcomes of all developed countries with underserved, Black, Brown, Indigenous communities disproportionately affected. Cayaba Care is wo",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BvlavQ8wEV3obBulYrKUDB3jJIXQVjXc6v7M&s=0"
     }
   ]
 }
