@@ -1,18 +1,66 @@
 {
-  "last_updated": "2026-02-14T23:19:04.368000+00:00",
-  "job_count": 7,
+  "last_updated": "2026-02-15T11:19:02.594204+00:00",
+  "job_count": 6,
   "jobs": [
     {
-      "id": "Ih8_HiThLG6gmCvfAAAAAA==",
-      "title": "Provider Success Consultant Sr. (Value-Based Agreements)",
-      "company": "Elevance Health",
-      "location": "None, Maryland",
+      "id": "OL6aEfDs4s2XTMacAAAAAA==",
+      "title": "Anesthesia Physician",
+      "company": "Health Marketing",
+      "location": "Baltimore, Maryland",
       "is_remote": false,
-      "date_posted": "2026-02-14T02:00:00.000Z",
-      "salary": "$87,108 - $143,106 (YEAR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/provider-success-consultant-sr-value-based-agreements-at-elevance-health-4364580985?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Provider Success Consultant Sr. (Value-Based)\n\nHybrid 1: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to sup",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMs1pINCEyfagjJDvcLoZ3IPqa3zKmJZ4jY5d&s=0"
+      "date_posted": "2026-02-15T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/anesthesia-physician-at-health-marketing-4372095770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking a dedicated Anesthesia Physician in Baltimore, Maryland, to provide comprehensive anesthesia services in a dynamic healthcare setting.\n\u2022 Deliver anesthesia care for surgical, diagnostic",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "SUU9umBIle7T2K9uAAAAAA==",
+      "title": "Pediatrics Physician",
+      "company": "Health Marketing",
+      "location": "Rising Sun, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-15T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/pediatrics-physician-at-health-marketing-4372312627?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Seeking a dedicated Pediatrics Physician in Rising Sun, Maryland, to provide comprehensive healthcare to infants, children, and adolescents.\n\u2022 Perform routine examinations, diagnose, and treat common ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "MByB-H1OLFyySqdtAAAAAA==",
+      "title": "Regional Manager, Field Marketing US Molecular Imaging",
+      "company": "GE HealthCare",
+      "location": "Richmond, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-14T18:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://us.bebee.com/job/696b8a4f046dbc804b75b69aa113b631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Description\n\nThe Regional Field Marketing Manager will be responsible for localizing and activating brand strategy, enabling regional sales teams, and executing educational and demand-generation p",
+      "employer_logo": null
+    },
+    {
+      "id": "KTOZzYdb5Eo2qjYqAAAAAA==",
+      "title": "Femtech Insider Ltd. is hiring: Content Creator in Miami",
+      "company": "Femtech Insider Ltd.",
+      "location": "Miami, Florida",
+      "is_remote": false,
+      "date_posted": "2026-02-14T16:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.mediabistro.com/jobs/1594184466-femtech-insider-ltd-is-hiring-content-creator-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Overview Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 year",
+      "employer_logo": null
+    },
+    {
+      "id": "bvub3W1ATdwWXth0AAAAAA==",
+      "title": "Nurse Director - Women's Services",
+      "company": "Nurse Job Board",
+      "location": "Pulaski, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-14T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.medcareers.com/jobdetails.cfm/12125009/Nurse-Director-Women-s-Services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Full-time Director of Women's Services needed at a top facility in Virginia!\n(Reference Code: KAM)\n\nThe Director of Women\u2019s Services is responsible for the scheduling, assessment, planning, and evalua",
+      "employer_logo": null
     },
     {
       "id": "YcBCrzdE8fxAthIoAAAAAA==",
@@ -25,66 +73,6 @@
       "apply_link": "https://www.linkedin.com/jobs/view/travel-surgical-tech-cvor-weekly-pay-at-health-marketing-4372905925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Seeking a dedicated Travel Surgical Tech for the CVOR in Richmond, VA, earning $1732/week.\n\nResponsibilities include assisting in cardiovascular surgeries, preparing sterile fields, and ensuring equip",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "m22Gs65Yz6PvMKULAAAAAA==",
-      "title": "Sr. Product Marketing Manager, Kcentra",
-      "company": "CSL",
-      "location": "Royersford, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.digitalhire.com/job-listing/opening/1zXWmE6XfNmWdZIMAKYnxj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Position Overview\n\nThe Senior Product Manager will support the development of strategy and execute tactics directed at health care professionals in the hospital setting for the promotion of KCENTRA in",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXO-JqmohRCHlTJJklHQiSOY6GPd3E4Mla_xs7&s=0"
-    },
-    {
-      "id": "lSEzS2V-7mUyX_LlAAAAAA==",
-      "title": "Marketing Planning and Operations Manager",
-      "company": "Philips",
-      "location": "Malvern, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.careers.philips.com/professional/global/en/job/575834/Marketing-Planning-and-Operations-Manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Job Title\nMarketing Planning and Operations Manager\n\nJob Description\n\nMarketing Planning and Operations Manager\n\nAs the Marketing Planning and Operations Manager, you will lead the operational executi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BvOSbeleVsgg_WKcS-3kyXmSZDklFx3l4kOe&s=0"
-    },
-    {
-      "id": "ynUY26vWWfs2aOBqAAAAAA==",
-      "title": "1099 Telemedicine Gynecologist - Flexible Schedule",
-      "company": "Femtech Insider Ltd",
-      "location": "Granite Heights, Wisconsin",
-      "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.jobilize.com/job/us-wi-granite-heights-1099-telemedicine-gynecologist-flexible-schedule?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Allara is a comprehensive women's health provider that specializes in expert, longitudinal care that supports women through every life stage. Trusted by over 40,000 women nationwide, Allara makes expe",
-      "employer_logo": null
-    },
-    {
-      "id": "Fmg4zsxg-hvmARmtAAAAAA==",
-      "title": "Senior Director, Market Access",
-      "company": "Allara Health",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-02-13T00:00:00.000Z",
-      "salary": "$170,000 - $210,000 (YEAR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Allara-Health/Job/Senior-Director,-Market-Access/-in-New-York,NY?jid=a442afc9ef9f6086&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Allara is a comprehensive women's health provider that specializes in expert, longitudinal care that supports women through every life stage. Trusted by over 60,000 women nationwide, Allara makes expe",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYvgmo6fmdjTI_Se3Oy7-Ocur2ytfteU3pVFO&s=0"
-    },
-    {
-      "id": "mGlG2MJpIEggEYd_AAAAAA==",
-      "title": "Femtech Insider Ltd. is hiring: Director, Content & Social Strategy in Miami",
-      "company": "Femtech Insider Ltd.",
-      "location": "Miami, Florida",
-      "is_remote": false,
-      "date_posted": "2026-02-13T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/1594187950-femtech-insider-ltd-is-hiring-director-content-and-social-strategy-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Who We Are Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 ye",
-      "employer_logo": null
     }
   ]
 }
