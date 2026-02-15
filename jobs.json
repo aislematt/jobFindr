@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-15T11:19:02.594204+00:00",
-  "job_count": 6,
+  "last_updated": "2026-02-15T23:20:45.239856+00:00",
+  "job_count": 5,
   "jobs": [
     {
       "id": "OL6aEfDs4s2XTMacAAAAAA==",
@@ -27,16 +27,28 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "MByB-H1OLFyySqdtAAAAAA==",
-      "title": "Regional Manager, Field Marketing US Molecular Imaging",
-      "company": "GE HealthCare",
-      "location": "Richmond, Virginia",
+      "id": "wue-g4r_z-ta_UvdAAAAAA==",
+      "title": "Remote Endocrinologist for Women's Health",
+      "company": "Femtech Insider Ltd.",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-02-14T18:00:00.000Z",
+      "date_posted": "2026-02-15T06:00:00.000Z",
       "salary": "",
-      "apply_link": "https://us.bebee.com/job/696b8a4f046dbc804b75b69aa113b631?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Job Description\n\nThe Regional Field Marketing Manager will be responsible for localizing and activating brand strategy, enabling regional sales teams, and executing educational and demand-generation p",
+      "apply_link": "https://us.bebee.com/job/bcf7ebb3e9aba18ead951cf8c9b715eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading healthcare provider for women is seeking board-eligible Endocrinologists to deliver compassionate, comprehensive care remotely. The role requires conducting patient assessments, collaboratin",
       "employer_logo": null
+    },
+    {
+      "id": "Ii3NBbMPmRFE32s_AAAAAA==",
+      "title": "Women's Health Account Executive",
+      "company": "Quest Diagnostics",
+      "location": "Pittsburgh, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-02-15T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.questdiagnostics.com/en/job/pittsburgh/women-s-health-account-executive/38852/84051778336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Description\n\nWe Provide Solutions. Patients and Physicians rely on our diagnostic testing, information, and services to help them make better healthcare decisions. These are often serious decision",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0tz_biw9Eled95zaqMFm2KKVSMSVbcG51ZHz&s=0"
     },
     {
       "id": "KTOZzYdb5Eo2qjYqAAAAAA==",
@@ -44,35 +56,11 @@
       "company": "Femtech Insider Ltd.",
       "location": "Miami, Florida",
       "is_remote": false,
-      "date_posted": "2026-02-14T16:00:00.000Z",
+      "date_posted": "2026-02-14T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.mediabistro.com/jobs/1594184466-femtech-insider-ltd-is-hiring-content-creator-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Overview Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 year",
       "employer_logo": null
-    },
-    {
-      "id": "bvub3W1ATdwWXth0AAAAAA==",
-      "title": "Nurse Director - Women's Services",
-      "company": "Nurse Job Board",
-      "location": "Pulaski, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.medcareers.com/jobdetails.cfm/12125009/Nurse-Director-Women-s-Services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Full-time Director of Women's Services needed at a top facility in Virginia!\n(Reference Code: KAM)\n\nThe Director of Women\u2019s Services is responsible for the scheduling, assessment, planning, and evalua",
-      "employer_logo": null
-    },
-    {
-      "id": "YcBCrzdE8fxAthIoAAAAAA==",
-      "title": "Travel Surgical Tech - CVOR - Weekly Pay",
-      "company": "Health Marketing",
-      "location": "Richmond, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-surgical-tech-cvor-weekly-pay-at-health-marketing-4372905925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Seeking a dedicated Travel Surgical Tech for the CVOR in Richmond, VA, earning $1732/week.\n\nResponsibilities include assisting in cardiovascular surgeries, preparing sterile fields, and ensuring equip",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
