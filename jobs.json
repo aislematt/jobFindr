@@ -1,43 +1,7 @@
 {
-  "last_updated": "2026-02-15T23:20:45.239856+00:00",
-  "job_count": 5,
+  "last_updated": "2026-02-16T11:37:31.325508+00:00",
+  "job_count": 3,
   "jobs": [
-    {
-      "id": "OL6aEfDs4s2XTMacAAAAAA==",
-      "title": "Anesthesia Physician",
-      "company": "Health Marketing",
-      "location": "Baltimore, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-02-15T06:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/anesthesia-physician-at-health-marketing-4372095770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We are seeking a dedicated Anesthesia Physician in Baltimore, Maryland, to provide comprehensive anesthesia services in a dynamic healthcare setting.\n\u2022 Deliver anesthesia care for surgical, diagnostic",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "SUU9umBIle7T2K9uAAAAAA==",
-      "title": "Pediatrics Physician",
-      "company": "Health Marketing",
-      "location": "Rising Sun, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-02-15T06:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/pediatrics-physician-at-health-marketing-4372312627?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Seeking a dedicated Pediatrics Physician in Rising Sun, Maryland, to provide comprehensive healthcare to infants, children, and adolescents.\n\u2022 Perform routine examinations, diagnose, and treat common ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "wue-g4r_z-ta_UvdAAAAAA==",
-      "title": "Remote Endocrinologist for Women's Health",
-      "company": "Femtech Insider Ltd.",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-02-15T06:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://us.bebee.com/job/bcf7ebb3e9aba18ead951cf8c9b715eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading healthcare provider for women is seeking board-eligible Endocrinologists to deliver compassionate, comprehensive care remotely. The role requires conducting patient assessments, collaboratin",
-      "employer_logo": null
-    },
     {
       "id": "Ii3NBbMPmRFE32s_AAAAAA==",
       "title": "Women's Health Account Executive",
@@ -46,20 +10,32 @@
       "is_remote": false,
       "date_posted": "2026-02-15T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.questdiagnostics.com/en/job/pittsburgh/women-s-health-account-executive/38852/84051778336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "apply_link": "https://careers.questdiagnostics.com/job/pittsburgh/women-s-health-account-executive/38852/84051778336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Job Description\n\nWe Provide Solutions. Patients and Physicians rely on our diagnostic testing, information, and services to help them make better healthcare decisions. These are often serious decision",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0tz_biw9Eled95zaqMFm2KKVSMSVbcG51ZHz&s=0"
     },
     {
-      "id": "KTOZzYdb5Eo2qjYqAAAAAA==",
-      "title": "Femtech Insider Ltd. is hiring: Content Creator in Miami",
-      "company": "Femtech Insider Ltd.",
-      "location": "Miami, Florida",
+      "id": "QopGT8pzCCeX5VtyAAAAAA==",
+      "title": "Senior Manager, Strategic Planning National Health Systems",
+      "company": "CVS Health",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-02-14T00:00:00.000Z",
+      "date_posted": "2026-02-15T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/1594184466-femtech-insider-ltd-is-hiring-content-creator-in-miami?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Overview Frida is more than a brand built to support parents. We get parents. We know all about the often unbelievable realities of parenthood, because we\u2019ve been in the trenches. Over the last 9 year",
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0821338/Senior-Manager-Strategic-Planning-National-Health-Systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8JKxXYfTuQJ2WiSS61pMdKn1DPFw4DfcX4aK&s=0"
+    },
+    {
+      "id": "wue-g4r_z-ta_UvdAAAAAA==",
+      "title": "Remote Endocrinologist for Women's Health",
+      "company": "Femtech Insider Ltd.",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-02-15T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://us.bebee.com/job/bcf7ebb3e9aba18ead951cf8c9b715eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading healthcare provider for women is seeking board-eligible Endocrinologists to deliver compassionate, comprehensive care remotely. The role requires conducting patient assessments, collaboratin",
       "employer_logo": null
     }
   ]
