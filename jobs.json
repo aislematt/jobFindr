@@ -1,41 +1,29 @@
 {
-  "last_updated": "2026-02-16T11:37:31.325508+00:00",
-  "job_count": 3,
+  "last_updated": "2026-02-16T23:25:39.610827+00:00",
+  "job_count": 2,
   "jobs": [
     {
-      "id": "Ii3NBbMPmRFE32s_AAAAAA==",
-      "title": "Women's Health Account Executive",
-      "company": "Quest Diagnostics",
-      "location": "Pittsburgh, Pennsylvania",
+      "id": "VHOaK1BgFyHPQWEfAAAAAA==",
+      "title": "North Carolina Market Launch & Partnerships Lead",
+      "company": "Femtech Insider Ltd.",
+      "location": "Charlotte, North Carolina",
       "is_remote": false,
-      "date_posted": "2026-02-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.questdiagnostics.com/job/pittsburgh/women-s-health-account-executive/38852/84051778336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Job Description\n\nWe Provide Solutions. Patients and Physicians rely on our diagnostic testing, information, and services to help them make better healthcare decisions. These are often serious decision",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0tz_biw9Eled95zaqMFm2KKVSMSVbcG51ZHz&s=0"
+      "date_posted": "2026-02-16T00:00:00.000Z",
+      "salary": "$70,000 - $90,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/charlotte/north-carolina/marketing_and_pr/4875197217/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "A leading maternity care provider is searching for a Regional Marketing Manager to oversee the launch of their North Carolina market. This role demands a visionary leader who can build local trust and",
+      "employer_logo": null
     },
     {
-      "id": "QopGT8pzCCeX5VtyAAAAAA==",
-      "title": "Senior Manager, Strategic Planning National Health Systems",
-      "company": "CVS Health",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-02-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0821338/Senior-Manager-Strategic-Planning-National-Health-Systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8JKxXYfTuQJ2WiSS61pMdKn1DPFw4DfcX4aK&s=0"
-    },
-    {
-      "id": "wue-g4r_z-ta_UvdAAAAAA==",
-      "title": "Remote Endocrinologist for Women's Health",
+      "id": "qbY2IQKKyYhEvX-GAAAAAA==",
+      "title": "Maternity Care Clinic Ops Leader",
       "company": "Femtech Insider Ltd.",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-02-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://us.bebee.com/job/bcf7ebb3e9aba18ead951cf8c9b715eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading healthcare provider for women is seeking board-eligible Endocrinologists to deliver compassionate, comprehensive care remotely. The role requires conducting patient assessments, collaboratin",
+      "date_posted": "2026-02-16T00:00:00.000Z",
+      "salary": "$85,000 - $95,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/new-york/management_and_managerial/4874751408/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Location: New York\n\nA leading healthcare organization is seeking a Clinical Operations Manager in New York City to oversee daily operations and staff management in a maternity clinic. The ideal candid",
       "employer_logo": null
     }
   ]
