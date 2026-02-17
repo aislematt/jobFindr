@@ -1,53 +1,41 @@
 {
-  "last_updated": "2026-02-17T11:37:47.024626+00:00",
-  "job_count": 4,
+  "last_updated": "2026-02-17T23:24:40.032067+00:00",
+  "job_count": 3,
   "jobs": [
-    {
-      "id": "WcUtgRXM6ligqVb2AAAAAA==",
-      "title": "High Risk Breast Nurse Practitioner",
-      "company": "University of Maryland Baltimore Washington Medical Center",
-      "location": "None, None",
-      "is_remote": false,
-      "date_posted": "2026-02-16T18:00:00.000Z",
-      "salary": "$50 - $69 (HOUR)",
-      "apply_link": "https://www.practicematch.com/advanced-practitioners/job-details.cfm/1110231/womens-health/maryland/glen-burnie/university-of-maryland-baltimore-washington-medical-center/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Company Description\nBaltimore Washington Medical Center (BWMC), a member of the University of Maryland Medical System, and a leading provider of comprehensive care to women and men who experience brea",
-      "employer_logo": null
-    },
-    {
-      "id": "KpqOd-v3RWrEw4DoAAAAAA==",
-      "title": "Womens Health Nurse Practitioner",
-      "company": "University of Maryland Shore Medical Center at Easton",
-      "location": "None, None",
-      "is_remote": false,
-      "date_posted": "2026-02-16T18:00:00.000Z",
-      "salary": "$123,250 - $141,950 (YEAR)",
-      "apply_link": "https://www.practicematch.com/advanced-practitioners/job-details.cfm/1063270/womens-health/maryland/easton/university-of-maryland-shore-medical-center-at-easton/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Company Description\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Maryland. This is a full-",
-      "employer_logo": null
-    },
     {
       "id": "0s6o1iAuj564PeGwAAAAAA==",
       "title": "Womens Health Business Specialist - Rockville, MD",
       "company": "Astellas Pharma",
-      "location": "None, None",
+      "location": "Rockville, Maryland",
       "is_remote": false,
-      "date_posted": "2026-02-16T17:00:00.000Z",
+      "date_posted": "2026-02-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://astellascareers.jobs/rockville-md/womens-health-business-specialist-rockville-md/43326EDECE5D4828ACCA9ED8D7B338EC/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Women's Health Business Specialist \u2013 Rockville, MD\n\nDeveloping innovative therapies is one of the most challenging, most essential, and personally rewarding fields in science. This is the most excitin",
       "employer_logo": null
     },
     {
-      "id": "VHOaK1BgFyHPQWEfAAAAAA==",
-      "title": "North Carolina Market Launch & Partnerships Lead",
-      "company": "Femtech Insider Ltd.",
-      "location": "Charlotte, North Carolina",
+      "id": "KpqOd-v3RWrEw4DoAAAAAA==",
+      "title": "Womens Health Nurse Practitioner",
+      "company": "University of Maryland Shore Medical Center at Easton",
+      "location": "Easton, Maryland",
       "is_remote": false,
       "date_posted": "2026-02-16T00:00:00.000Z",
-      "salary": "$70,000 - $90,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/charlotte/north-carolina/marketing_and_pr/4875197217/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A leading maternity care provider is searching for a Regional Marketing Manager to oversee the launch of their North Carolina market. This role demands a visionary leader who can build local trust and",
+      "salary": "$123,250 - $141,950 (YEAR)",
+      "apply_link": "https://www.practicematch.com/advanced-practitioners/job-details.cfm/1063270/womens-health/maryland/easton/university-of-maryland-shore-medical-center-at-easton/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Company Description\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Maryland. This is a full-",
+      "employer_logo": null
+    },
+    {
+      "id": "WcUtgRXM6ligqVb2AAAAAA==",
+      "title": "High Risk Breast Nurse Practitioner",
+      "company": "University of Maryland Baltimore Washington Medical Center",
+      "location": "Glen Burnie, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-16T00:00:00.000Z",
+      "salary": "$50 - $69 (HOUR)",
+      "apply_link": "https://www.practicematch.com/advanced-practitioners/job-details.cfm/1110231/womens-health/maryland/glen-burnie/university-of-maryland-baltimore-washington-medical-center/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Company Description\nBaltimore Washington Medical Center (BWMC), a member of the University of Maryland Medical System, and a leading provider of comprehensive care to women and men who experience brea",
       "employer_logo": null
     }
   ]
