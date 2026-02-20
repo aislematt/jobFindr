@@ -1,14 +1,26 @@
 {
-  "last_updated": "2026-02-20T11:28:30.514580+00:00",
-  "job_count": 4,
+  "last_updated": "2026-02-20T23:24:32.976189+00:00",
+  "job_count": 3,
   "jobs": [
+    {
+      "id": "ew0H79ueC5VEnWvpAAAAAA==",
+      "title": "Strategy & Transformation Consultant",
+      "company": "Guidehouse",
+      "location": "McLean, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-20T17:00:00.000Z",
+      "salary": "$74,000 - $124,000 (YEAR)",
+      "apply_link": "https://www.indeed.com/viewjob?jk=4f552e0f6a775b78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Family:\nStrategy & Transformation Consulting\n\nTravel Required:\nUp to 10%\n\nClearance Required:\nAbility to Obtain Public Trust\n\nWhat You Will Do:\n\nWe are seeking a consultant interested in joining a",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jAyQEJS0WE4ZhTtT-Z3nMl_vpOGKj5W_xpOH&s=0"
+    },
     {
       "id": "ZOyRQwCED0U5APU2AAAAAA==",
       "title": "Senior Medical Director, Therapeutic Area Leader - Women's Health",
       "company": "Parexel",
       "location": "Harrisburg, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-02-19T15:00:00.000Z",
+      "date_posted": "2026-02-19T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://salutemyjob.com/jobs/senior-medical-director-therapeutic-area-leader-womens-health-harrisburg-pennsylvania/2624728983-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "As a Senior Medical Director, you will be a prominent medical expert and leader with specialized expertise in women's health, coupled with extensive experience across various indications and drug deve",
@@ -20,34 +32,10 @@
       "company": "Elliot Health System",
       "location": "West Chester, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-02-19T14:00:00.000Z",
+      "date_posted": "2026-02-19T00:00:00.000Z",
       "salary": "$280,000 - $350,000 (YEAR)",
       "apply_link": "https://us.bebee.com/job/715d5aef97ac28152eac4c0236e8a47a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Outpatient Neurology Position Available\n\nJoin Elliot Health System's collaborative neurology practice at our state-of-the-art facility.\n\u2022 We are seeking a Board Certified/Eligible Neurologist to see a",
-      "employer_logo": null
-    },
-    {
-      "id": "vYQXZztyP4gNAFzNAAAAAA==",
-      "title": "Senior Communications Strategist, Health Information Technology",
-      "company": "University of Virginia",
-      "location": "Charlottesville, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-02-19T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.virginia.edu/us/en/job/UOVUOVUSR0080420EXTERNALENUS/Senior-Communications-Strategist-Health-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "The Senior Communications Strategist, Health Information Technology serves as the primary communications partner for a large Health IT division within an integrated health system.\n\nThis role translate",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgtgIb33WjRxKGI6s4xgZaLlCFiuOJ6JxjVN5B&s=0"
-    },
-    {
-      "id": "E9bUINA1Af-nawAHAAAAAA==",
-      "title": "Senior Manager, US CRM",
-      "company": "185 Pharmacia & Upjohn Company",
-      "location": "Collegeville, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-19T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Senior-Manager--US-CRM_4952241-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Pfizer\u2019s Customer Relationship Management (CRM) and Audience Center of Excellence enable and drive a new standard for health care provider (HCP), consumer, and patient engagement in pharma. This team,",
       "employer_logo": null
     }
   ]
