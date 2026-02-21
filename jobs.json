@@ -1,42 +1,78 @@
 {
-  "last_updated": "2026-02-20T23:24:32.976189+00:00",
-  "job_count": 3,
+  "last_updated": "2026-02-21T11:17:50.456695+00:00",
+  "job_count": 6,
   "jobs": [
     {
-      "id": "ew0H79ueC5VEnWvpAAAAAA==",
-      "title": "Strategy & Transformation Consultant",
-      "company": "Guidehouse",
-      "location": "McLean, Virginia",
+      "id": "CsyXOdWbzHY5KmtMAAAAAA==",
+      "title": "Travel Nurse - Registered Nurse - Medical Surgical/Telemetry - Weekly Pay",
+      "company": "Health Marketing",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-02-20T17:00:00.000Z",
-      "salary": "$74,000 - $124,000 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=4f552e0f6a775b78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Job Family:\nStrategy & Transformation Consulting\n\nTravel Required:\nUp to 10%\n\nClearance Required:\nAbility to Obtain Public Trust\n\nWhat You Will Do:\n\nWe are seeking a consultant interested in joining a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jAyQEJS0WE4ZhTtT-Z3nMl_vpOGKj5W_xpOH&s=0"
-    },
-    {
-      "id": "ZOyRQwCED0U5APU2AAAAAA==",
-      "title": "Senior Medical Director, Therapeutic Area Leader - Women's Health",
-      "company": "Parexel",
-      "location": "Harrisburg, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-02-19T00:00:00.000Z",
+      "date_posted": "2026-02-21T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/senior-medical-director-therapeutic-area-leader-womens-health-harrisburg-pennsylvania/2624728983-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "As a Senior Medical Director, you will be a prominent medical expert and leader with specialized expertise in women's health, coupled with extensive experience across various indications and drug deve",
-      "employer_logo": null
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-registered-nurse-medical-surgical-telemetry-weekly-pay-at-health-marketing-4374665121?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking a dedicated Travel Nurse - Registered Nurse (MS/TELE) to join our team in Washington, DC.\n\nResponsibilities Include\n\u2022 Providing high-quality care to patients in Medical-Surgical and Tel",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "gOU6U-kQD12ioXJPAAAAAA==",
-      "title": "Physician / Neurology / New Hampshire / Permanent / Outpatient Neurologist - Elliot Health, Manchest",
-      "company": "Elliot Health System",
-      "location": "West Chester, Pennsylvania",
+      "id": "JLAVqhRrYw7qSPXNAAAAAA==",
+      "title": "Marketing Strategy Specialist",
+      "company": "Primary Talent Partners",
+      "location": "North Wales, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-02-19T00:00:00.000Z",
-      "salary": "$280,000 - $350,000 (YEAR)",
-      "apply_link": "https://us.bebee.com/job/715d5aef97ac28152eac4c0236e8a47a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Outpatient Neurology Position Available\n\nJoin Elliot Health System's collaborative neurology practice at our state-of-the-art facility.\n\u2022 We are seeking a Board Certified/Eligible Neurologist to see a",
-      "employer_logo": null
+      "date_posted": "2026-02-20T16:00:00.000Z",
+      "salary": "$65,000 - $135,000 (YEAR)",
+      "apply_link": "https://us.bebee.com/job/67d9f130e4d5f180867ea4a448b798b8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Primary Talent Partners has a new contract opening for a Marketing Strategy Specialist - III (Senior) to join our pharmaceutical client in Remote / North Wales, PA.\nThis is a 9-month contract to start",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIf4qqZypq719m8-GfrcJaD1p9juMUXWjPvMPY&s=0"
+    },
+    {
+      "id": "EfI0Ph6GjY8ddCCeAAAAAA==",
+      "title": "District Manager, Women's Health - East Coast",
+      "company": "Viatris",
+      "location": "Greensboro, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-02-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://lensa.com/job-v1/viatris/greensboro-nc/district-manager/ae205d828dc135d8d52fba4fdab932d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Viatris Specialty LLC\n\nAt VIATRIS, we see healthcare not as it is but as it should be. We act courageously and are uniquely positioned to be a source of stability in a world of evolving healthcare nee",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2ajxfsUrhstX3UZcmuTOJBIqZ6QboxJKvdtx&s=0"
+    },
+    {
+      "id": "z0ieCwW9PbWjoGIdAAAAAA==",
+      "title": "Strategic Growth Associate",
+      "company": "Trinity Health",
+      "location": "Silver Spring, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.trinity-health.org/job/TRHEUS00647066HOLYCROSSHEALTHENUS/Strategic-Growth-Associate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Employment Type:\nFull timeShift:\nDay Shift\n\nDescription:\n\nJob Title: Strategic Growth Associate\nEmployment Type: Full-time\nShift: Days\nLocation: Holy Cross Hospital - Silver Spring MD and Germantown M",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYKjSwOjO2mZ-i0-s_Bc6kPD-rvWe4s6_mFYl&s=0"
+    },
+    {
+      "id": "vYQXZztyP4gNAFzNAAAAAA==",
+      "title": "Senior Communications Strategist, Health Information Technology",
+      "company": "University of Virginia",
+      "location": "Charlottesville, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-02-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.virginia.edu/us/en/job/UOVUOVUSR0080420EXTERNALENUS/Senior-Communications-Strategist-Health-Information-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "The Senior Communications Strategist, Health Information Technology serves as the primary communications partner for a large Health IT division within an integrated health system.\n\nThis role translate",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgtgIb33WjRxKGI6s4xgZaLlCFiuOJ6JxjVN5B&s=0"
+    },
+    {
+      "id": "T2vQ2bU-CyBwPJS3AAAAAA==",
+      "title": "Director of Medicare Advantage Product Development & Strategy",
+      "company": "Johns Hopkins HealthCare",
+      "location": "None, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-02-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://lensa.com/job-v1/johns-hopkins-healthcare/hanover-md/director-of-medicare-advantage-product-development-strategy/0cf14e1b5e09a0bb8e97ab8936697014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Responsibilities:\n\nThe Director of Medicare Advantage Product Development and Strategy for the Johns Hopkins Health Plan leads the development for growth and product strategies for the Medicare Ad",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN0Haiv91oewPS6L6z2QaaT9OqWLm6BiewPOr&s=0"
     }
   ]
 }
