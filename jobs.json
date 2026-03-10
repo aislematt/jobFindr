@@ -1,17 +1,65 @@
 {
-  "last_updated": "2026-03-09T23:22:45.335186+00:00",
-  "job_count": 1,
+  "last_updated": "2026-03-10T11:28:43.881014+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "fihBp-eMmOhm3oaRAAAAAA==",
-      "title": "Advanced Practice Provider- Chester County Hospital Penn OBGYN",
-      "company": "Penn Medicine",
-      "location": "Exton, Pennsylvania",
+      "id": "VSkZSnzYwEV8JSBfAAAAAA==",
+      "title": "Women's Health Nurse Practitioner",
+      "company": "Axia Women's Health",
+      "location": "Mullica, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-03-09T00:00:00.000Z",
+      "date_posted": "2026-03-09T20:00:00.000Z",
+      "salary": "$110,000 - $130,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-nurse-practitioner-at-axia-women-s-health-4383370348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+    },
+    {
+      "id": "EmSVeXy4Gf0dtawfAAAAAA==",
+      "title": "Women's Health Nurse Practitioner",
+      "company": "Greenlife Healthcare Staffing",
+      "location": "Bronx, New York",
+      "is_remote": false,
+      "date_posted": "2026-03-09T16:00:00.000Z",
+      "salary": "$130,000 - $150,000 (YEAR)",
+      "apply_link": "https://www.indeed.com/viewjob?jk=b8c68dca56fdcba9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Women's Health Nurse Practitioner (WHNP) - Bronx, NY (#2842A)\n\nMust have experience in the specialty (Job do not do deliveries)\n\nGreenlife Healthcare Staffing is currently seeking a Nurse Practitioner",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxeEIZic9_2CYCQCDZekTz-f-Y-GySCyAWWMf9&s=0"
+    },
+    {
+      "id": "p4LmBTP7wdfSZMndAAAAAA==",
+      "title": "Women's Health OB/GYN Generalist",
+      "company": "MedStar Health",
+      "location": "Clinton, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-03-09T15:00:00.000Z",
+      "salary": "$235,000 - $357,650 (YEAR)",
+      "apply_link": "https://www.marithealth.com/jobs/eb72557d-a1ae-40e0-b019-690136128e4f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "MedStar Health is seeking a Women's Health / OBGYN Generalist to join their team at MedStar Southern Maryland Hospital Center. This role involves providing comprehensive women's health services, inclu",
+      "employer_logo": null
+    },
+    {
+      "id": "OIKh1lzxdfaHFf2SAAAAAA==",
+      "title": "Urgent GYN APP-$200/hr-NYC",
+      "company": "Aya Locums",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-03-09T14:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.pennmedicine.org/jobs/16335268-advanced-practice-provider-chester-county-hospital-penn-obgyn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Description\nPenn Medicine is dedicated to our tripartite mission of providing the highest level of care to patients, conducting innovative research, and educating future leaders in the field of medici",
+      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20239214/urgent-gyn-app-200-hr-nyc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Women\u2019s Health NP/PA \u2013 Full Time | Outpatient | New York\n\nWe are seeking an experienced Women\u2019s Health NP or PA for a full-time outpatient position in New York. This is a Monday\u2013Friday role with a con",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqIXDV6FvXSZwhdlip6Lche5A9_ogJq-xHPoG&s=0"
+    },
+    {
+      "id": "xcq1kMQpFS4etSirAAAAAA==",
+      "title": "Full-Scope Certified Nurse Midwife",
+      "company": "Valley Forge OB/GYN",
+      "location": "Phoenixville, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-03-09T13:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.practicematch.com/advanced-practitioners/job-details.cfm/1119362/obstetrics-gynecology/pennsylvania/phoenixville/valley-forge-ob-gyn/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Castle Connolly has again named Axia Women\u2019s Health its #1 Physician Practice for Women's Health across our geographic footprint.\nWomen's Healthcare Specialists is hiring a full-time, full-scope Certi",
       "employer_logo": null
     }
   ]
