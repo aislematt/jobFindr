@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T23:22:36.943227+00:00",
-  "job_count": 3,
+  "last_updated": "2026-03-11T11:29:36.938714+00:00",
+  "job_count": 6,
   "jobs": [
     {
       "id": "fV0RPrzDolpXqqX0AAAAAA==",
@@ -15,28 +15,64 @@
       "employer_logo": null
     },
     {
-      "id": "EmSVeXy4Gf0dtawfAAAAAA==",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "Greenlife Healthcare Staffing",
-      "location": "Bronx, New York",
+      "id": "OZi-QRzbRPHTtbpIAAAAAA==",
+      "title": "Program Director, Women's Health and Pediatrics",
+      "company": "Baystate Health",
+      "location": "Springfield, Massachusetts",
       "is_remote": false,
-      "date_posted": "2026-03-09T00:00:00.000Z",
-      "salary": "$130,000 - $150,000 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=b8c68dca56fdcba9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Women's Health Nurse Practitioner (WHNP) - Bronx, NY (#2842A)\n\nMust have experience in the specialty (Job do not do deliveries)\n\nGreenlife Healthcare Staffing is currently seeking a Nurse Practitioner",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxeEIZic9_2CYCQCDZekTz-f-Y-GySCyAWWMf9&s=0"
+      "date_posted": "2026-03-10T17:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/Baystate-Health/Job/Program-Director,-Womens-Health-and-Pediatrics/-in-Springfield,MA?jid=20b524c9fbe8bd77&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Note: The compensation range(s) in the table below represent the base salaries for all positions at a given grade across the health system. Typically, a new hire can expect a starting salary somewhere",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcO9k3VGtkWScey9uwdDLTtc_0E927edI3OsN&s=0"
     },
     {
-      "id": "VSkZSnzYwEV8JSBfAAAAAA==",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "Axia Women's Health",
-      "location": "Mullica, New Jersey",
+      "id": "NZ22VO4a1bzqmxU5AAAAAA==",
+      "title": "Gynecologist- Chestnut Hill Hospital Women's Health",
+      "company": "UNAVAILABLE",
+      "location": "Philadelphia, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-03-09T00:00:00.000Z",
-      "salary": "$110,000 - $130,000 (YEAR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-nurse-practitioner-at-axia-women-s-health-4383370348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+      "date_posted": "2026-03-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://lksomphysiciancareers-temple.icims.com/jobs/2068/gynecologist--chestnut-hill-hospital-women%27s-health/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Summary of Position\n\nChestnut Hill Hospital Women\u2019s Health is seeking a dedicated BC/BE Gynecologist with a strong commitment to quality patient care to join our long standing, renowned general gyneco",
+      "employer_logo": null
+    },
+    {
+      "id": "Inp4abHV8WOBbKdkAAAAAA==",
+      "title": "Travel Outpatient Women's Health RN - $2,386 per week",
+      "company": "Skyline Med Staff, LLC",
+      "location": "None, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-03-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-outpatient-women-s-health-rn-%242-386-per-week-at-skyline-med-staff-llc-4383453856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Skyline Med Staff Nursing is seeking a travel nurse RN OB/GYN for a travel nursing job in Fort Defiance, Arizona.\nJob Description & Requirements\n\u2022 Specialty: OB/GYN\n\u2022 Discipline: RN\n\u2022 Start Date: 03/2",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPkroEtsS4oDKL0LTiqZ9UY8gL5k4UyW6TTgS&s=0"
+    },
+    {
+      "id": "DgD6NsT6xJmOHx6DAAAAAA==",
+      "title": "Womens Health  Nurse Practitioner",
+      "company": "University of Maryland Medical System",
+      "location": "Easton, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-03-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.umms.org/us/en/job/UOJUOMUSREF41212XEXTERNALENUS/Womens-Health-Nurse-Practitioner?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Requirements\nCompany Description\n\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Marylan",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggDVV4rUqmeqtUr-YCjxNb3gnugs0hdUvg_kW&s=0"
+    },
+    {
+      "id": "x2dcgYWhh5p-foQnAAAAAA==",
+      "title": "Executive Operations and Strategic Projects Administrator",
+      "company": "Trinity Health",
+      "location": "Wilmington, Delaware",
+      "is_remote": false,
+      "date_posted": "2026-03-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.trinity-health.org/job/TRHEUS00643181MIDATLANTICENUS/Executive-Operations-and-Strategic-Projects-Administrator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Employment Type:\nFull timeShift:\nDay Shift\n\nDescription:\n\nJob Title: Executive Operations and Strategic Projects Administrator\n\nEmployment Type: Full-time\n\nShift: Day Shift (Monday - Friday)\nLocation:",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYKjSwOjO2mZ-i0-s_Bc6kPD-rvWe4s6_mFYl&s=0"
     }
   ]
 }
