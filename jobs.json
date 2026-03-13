@@ -1,42 +1,42 @@
 {
-  "last_updated": "2026-03-13T11:26:40.713568+00:00",
+  "last_updated": "2026-03-13T23:23:15.643709+00:00",
   "job_count": 3,
   "jobs": [
+    {
+      "id": "gznth3exJY85UlVwAAAAAA==",
+      "title": "Certified Medical Assistant (CMA) II",
+      "company": "Axia Women's Health",
+      "location": "Collegeville, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-03-13T20:00:00.000Z",
+      "salary": "$18 - $23 (HOUR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/certified-medical-assistant-cma-ii-at-axia-women-s-health-4385553388?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+    },
+    {
+      "id": "WrfgPdw71-U0TvXvAAAAAA==",
+      "title": "Registered Nurse (RN Triage & Support)",
+      "company": "Axia Women's Health",
+      "location": "Woodbury, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-03-13T14:00:00.000Z",
+      "salary": "$30 - $37 (HOUR)",
+      "apply_link": "https://www.ziprecruiter.com/c/Axia-Womens-Health/Job/Registered-Nurse-(RN-Triage-&-Support)/-in-Woodbury,NJ?jid=0b83deb90b78c410&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5MZh_nIc2iDpWFNn-X0n_PJBLO0FtCEDmgo7&s=0"
+    },
     {
       "id": "zVjkBnmP4oDtCzKxAAAAAA==",
       "title": "Strategic Alliances Officer",
       "company": "Foundation for the National Institutes of Health",
       "location": "Rockville, Maryland",
       "is_remote": false,
-      "date_posted": "2026-03-12T16:00:00.000Z",
+      "date_posted": "2026-03-12T00:00:00.000Z",
       "salary": "$100,000 - $120,000 (YEAR)",
       "apply_link": "https://www.linkedin.com/jobs/view/strategic-alliances-officer-at-foundation-for-the-national-institutes-of-health-4384878004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Strategic Alliances Officer\nNorth Bethesda, MD 20852\nPosition Type: Full Time\nSalary Range: $100,000.00 - $120,000.00 Salary/year\n\nDescriptionPosition Overview:\nResponsible for annually raising 5-7 fi",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSAe_BCnOiy62kLrBr62HsYtpEcwWz9SVZrDE&s=0"
-    },
-    {
-      "id": "fwGw73PzDzWmPFDbAAAAAA==",
-      "title": "1099 Telemedicine Gynecologist | Flexible Schedule",
-      "company": "Allara",
-      "location": "Baltimore, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-03-12T13:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/1099-telemedicine-gynecologist-flexible-schedule-at-allara-4384810969?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Allara is a comprehensive women\u2019s health provider that specializes in expert, longitudinal care that supports women through every life stage. Trusted by over 60,000 women nationwide, Allara makes expe",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3nlSXwtb-D7lmOG4VmBNaStb85Mq3ROMrOB0&s=0"
-    },
-    {
-      "id": "tTeRjewvXCWLkmSIAAAAAA==",
-      "title": "Product Director, Market Development & KOL Engagement, CAR-T",
-      "company": "Johnson & Johnson Services, Inc.",
-      "location": "Horsham, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-03-12T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.careers.jnj.com/en/jobs/r-061400/product-director-market-development-kol-engagement-car-t/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfe_sPJIFFPwwjZzLkbvERieJD5MTWiEEBJ950&s=0"
     }
   ]
 }
