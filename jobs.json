@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-03-12T23:22:17.594252+00:00",
-  "job_count": 4,
+  "last_updated": "2026-03-13T11:26:40.713568+00:00",
+  "job_count": 3,
   "jobs": [
+    {
+      "id": "zVjkBnmP4oDtCzKxAAAAAA==",
+      "title": "Strategic Alliances Officer",
+      "company": "Foundation for the National Institutes of Health",
+      "location": "Rockville, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-03-12T16:00:00.000Z",
+      "salary": "$100,000 - $120,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/strategic-alliances-officer-at-foundation-for-the-national-institutes-of-health-4384878004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Strategic Alliances Officer\nNorth Bethesda, MD 20852\nPosition Type: Full Time\nSalary Range: $100,000.00 - $120,000.00 Salary/year\n\nDescriptionPosition Overview:\nResponsible for annually raising 5-7 fi",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSAe_BCnOiy62kLrBr62HsYtpEcwWz9SVZrDE&s=0"
+    },
     {
       "id": "fwGw73PzDzWmPFDbAAAAAA==",
       "title": "1099 Telemedicine Gynecologist | Flexible Schedule",
@@ -15,40 +27,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3nlSXwtb-D7lmOG4VmBNaStb85Mq3ROMrOB0&s=0"
     },
     {
-      "id": "CFbgx9OBRGBGgZlFAAAAAA==",
-      "title": "Physician / ObGyn / Washington / Permanent / Regional Medical Director Women's Health - West Pierce",
-      "company": "MultiCare Health System",
-      "location": "Walton, New York",
+      "id": "tTeRjewvXCWLkmSIAAAAAA==",
+      "title": "Product Director, Market Development & KOL Engagement, CAR-T",
+      "company": "Johnson & Johnson Services, Inc.",
+      "location": "Horsham, Pennsylvania",
       "is_remote": false,
       "date_posted": "2026-03-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.careerbliss.com/jobs/detail/144883113/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "You Belong Here.\n\nDo you have the following skills, experience and drive to succeed in this role Find out below.\n\nAt MultiCare, we strive to offer a true sense of belonging for all our employees.\n\nAcr",
-      "employer_logo": null
-    },
-    {
-      "id": "HMSBpRDn9rpGOyEeAAAAAA==",
-      "title": "Program Director, Women\u2019s Health and Pediatrics R41448",
-      "company": "Baystate Health",
-      "location": "Springfield, Massachusetts",
-      "is_remote": false,
-      "date_posted": "2026-03-11T00:00:00.000Z",
-      "salary": "$170,872 - $232,252 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=d31a9be15aae9f4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Req#: R41448\nCategory(s): Allied Health Clinical Professional, Medical Practice Other\nFull Time / Part Time: Full-Time\nShift: First\n\nNote: The compensation range(s) in the table below represent the ba",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dEf5pYQdT-LG7zKU7UVejWvOQlFkwy_OX0UX&s=0"
-    },
-    {
-      "id": "d1FX3AXNxghs1xfAAAAAAA==",
-      "title": "Womens Health Sales Specialist \u2013 Fredericksburg, VA",
-      "company": "Astellas Pharma",
-      "location": "Fredericksburg, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-03-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.snagajob.com/jobs/1201578772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "**Women's Health Business Specialist \u2013 Fredericksburg, VA**\n\nDeveloping innovative therapies is one of the most challenging, most essential, and personally rewarding fields in science. This is the mos",
-      "employer_logo": null
+      "apply_link": "https://www.careers.jnj.com/en/jobs/r-061400/product-director-market-development-kol-engagement-car-t/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfe_sPJIFFPwwjZzLkbvERieJD5MTWiEEBJ950&s=0"
     }
   ]
 }
