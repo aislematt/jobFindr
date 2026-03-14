@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-13T23:23:15.643709+00:00",
-  "job_count": 3,
+  "last_updated": "2026-03-14T11:19:44.821258+00:00",
+  "job_count": 4,
   "jobs": [
     {
-      "id": "gznth3exJY85UlVwAAAAAA==",
-      "title": "Certified Medical Assistant (CMA) II",
+      "id": "pOaQMi82ymM74fFlAAAAAA==",
+      "title": "Registered Nurse (RN Triage & Support)",
       "company": "Axia Women's Health",
-      "location": "Collegeville, Pennsylvania",
+      "location": "Mullica, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-03-13T20:00:00.000Z",
-      "salary": "$18 - $23 (HOUR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/certified-medical-assistant-cma-ii-at-axia-women-s-health-4385553388?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "date_posted": "2026-03-13T14:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-triage-support-at-axia-women-s-health-4383124781?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
     },
@@ -27,16 +27,28 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5MZh_nIc2iDpWFNn-X0n_PJBLO0FtCEDmgo7&s=0"
     },
     {
-      "id": "zVjkBnmP4oDtCzKxAAAAAA==",
-      "title": "Strategic Alliances Officer",
-      "company": "Foundation for the National Institutes of Health",
-      "location": "Rockville, Maryland",
+      "id": "kPAjYCJy7fJB-SJOAAAAAA==",
+      "title": "WHNP Needed in Brooklyn, NY",
+      "company": "GO Staffing",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-03-12T00:00:00.000Z",
-      "salary": "$100,000 - $120,000 (YEAR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/strategic-alliances-officer-at-foundation-for-the-national-institutes-of-health-4384878004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Strategic Alliances Officer\nNorth Bethesda, MD 20852\nPosition Type: Full Time\nSalary Range: $100,000.00 - $120,000.00 Salary/year\n\nDescriptionPosition Overview:\nResponsible for annually raising 5-7 fi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSAe_BCnOiy62kLrBr62HsYtpEcwWz9SVZrDE&s=0"
+      "date_posted": "2026-03-13T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.nursingjobcafe.com/job/nurse-practitioner/womens-health/4855030/whnp-needed-in-brooklyn-ny?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "An expanding group in Brooklyn, NY is seeking a WHNP to join their team. Basic job duties include: providing primary health and wellness care to women of all ages, Maternity (management of pregnancy, ",
+      "employer_logo": null
+    },
+    {
+      "id": "Brh4CIygLf1yKYWBAAAAAA==",
+      "title": "Women's Health NP outpatient opening in the Newark, NJ area",
+      "company": "GO Staffing",
+      "location": "Newark, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-03-13T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.nursingjobcafe.com/job/nurse-practitioner/womens-health/19439651/womens-health-np-outpatient-opening-in-the-newark-nj-area?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Well-respected healthcare facility in the Newark, NJ area is seeking a Women's Health Nurse Practitioner to join their team.\n\u2022 Women's Health Nurse Practitioner\n\u2022 Full-time, M-F, shifts are 9a-5p or 1",
+      "employer_logo": null
     }
   ]
 }
