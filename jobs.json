@@ -1,42 +1,30 @@
 {
-  "last_updated": "2026-03-14T23:22:15.267097+00:00",
-  "job_count": 3,
+  "last_updated": "2026-03-15T11:21:31.822275+00:00",
+  "job_count": 2,
   "jobs": [
     {
-      "id": "lDHFipCEbGQEn9sjAAAAAA==",
-      "title": "Women's Health Care Representative",
-      "company": "Bayer",
-      "location": "Raleigh, North Carolina",
+      "id": "jB_55A5YWqoK3HrvAAAAAA==",
+      "title": "Family Medicine Physician",
+      "company": "Health Marketing",
+      "location": "Dover, Delaware",
       "is_remote": false,
-      "date_posted": "2026-03-14T10:00:00.000Z",
+      "date_posted": "2026-03-14T17:00:00.000Z",
       "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/womens-health-care-representative-raleigh-north-carolina/2668370406-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "At Bayer, we're visionary innovators dedicated to tackling the world's most pressing challenges. Our mission, \"Health for all, Hunger for none,\" is not just a dream\u2014it's our reality, fueled by passion",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSI2gAXuh0RvRH3LPAggdvP1nEN0qa-E39cQk&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/family-medicine-physician-at-health-marketing-4384694776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking a dedicated Family Medicine Physician in Dover, Delaware to provide comprehensive primary care services.\n\nResponsibilities include\n\u2022 Performing patient exams, diagnosing, and treating a",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "WrfgPdw71-U0TvXvAAAAAA==",
-      "title": "Registered Nurse (RN Triage & Support)",
-      "company": "Axia Women's Health",
-      "location": "Woodbury, New Jersey",
+      "id": "rz8RKZVqRZ963bCxAAAAAA==",
+      "title": "Perinatology Physician",
+      "company": "Health Marketing",
+      "location": "Johnstown, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-03-13T00:00:00.000Z",
-      "salary": "$30 - $37 (HOUR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Axia-Womens-Health/Job/Registered-Nurse-(RN-Triage-&-Support)/-in-Woodbury,NJ?jid=0b83deb90b78c410&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5MZh_nIc2iDpWFNn-X0n_PJBLO0FtCEDmgo7&s=0"
-    },
-    {
-      "id": "pOaQMi82ymM74fFlAAAAAA==",
-      "title": "Registered Nurse (RN Triage & Support)",
-      "company": "Axia Women's Health",
-      "location": "Mullica, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-03-13T00:00:00.000Z",
+      "date_posted": "2026-03-14T17:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-triage-support-at-axia-women-s-health-4383124781?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/perinatology-physician-at-health-marketing-4384688809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking a dedicated Perinatology Physician in Johnstown, PA, to provide expert care for high-risk pregnancies and neonates.\n\u2022 Manage and monitor high-risk obstetric cases, collaborating with mu",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
