@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-03-15T11:21:31.822275+00:00",
+  "last_updated": "2026-03-15T23:23:11.935842+00:00",
   "job_count": 2,
   "jobs": [
     {
-      "id": "jB_55A5YWqoK3HrvAAAAAA==",
-      "title": "Family Medicine Physician",
-      "company": "Health Marketing",
-      "location": "Dover, Delaware",
+      "id": "4cm6mVBODiO3gqSyAAAAAA==",
+      "title": "Director, Healthcare Business Transformation Digital Strategy | Corporate Finance & Restructuring",
+      "company": "FTI Consulting, Inc",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-03-14T17:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/family-medicine-physician-at-health-marketing-4384694776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We are seeking a dedicated Family Medicine Physician in Dover, Delaware to provide comprehensive primary care services.\n\nResponsibilities include\n\u2022 Performing patient exams, diagnosing, and treating a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+      "date_posted": "2026-03-15T13:00:00.000Z",
+      "salary": "$150,000 - $200,000 (YEAR)",
+      "apply_link": "https://www.theladders.com/job/director-healthcare-business-transformation-digital-strategy-corporate-finance-restructuring-fticonsultinginc-washington-dc_86109019",
+      "description_snippet": "",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNjjC_L2jJKPb5SxAfeQAVQtFGwY4HWZRk6NC&s=0"
     },
     {
       "id": "rz8RKZVqRZ963bCxAAAAAA==",
@@ -20,10 +20,10 @@
       "company": "Health Marketing",
       "location": "Johnstown, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-03-14T17:00:00.000Z",
+      "date_posted": "2026-03-14T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/perinatology-physician-at-health-marketing-4384688809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We are seeking a dedicated Perinatology Physician in Johnstown, PA, to provide expert care for high-risk pregnancies and neonates.\n\u2022 Manage and monitor high-risk obstetric cases, collaborating with mu",
+      "apply_link": "https://www.linkedin.com/jobs/view/perinatology-physician-at-health-marketing-4384688809",
+      "description_snippet": "",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
