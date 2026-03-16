@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-03-16T11:42:39.487361+00:00",
-  "job_count": 5,
+  "last_updated": "2026-03-16T23:27:04.770593+00:00",
+  "job_count": 8,
   "jobs": [
+    {
+      "id": "65JzK40cuMem1USuAAAAAA==",
+      "title": "Infertility Financial Counselor",
+      "company": "Axia Women's Health",
+      "location": "None, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-03-16T14:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/infertility-financial-counselor-at-axia-women-s-health-4386356818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+    },
+    {
+      "id": "8iPMMMhoqTtn5lq5AAAAAA==",
+      "title": "Ultrasound Tech - Women's Health",
+      "company": "VillageMD",
+      "location": "White Plains, New York",
+      "is_remote": false,
+      "date_posted": "2026-03-16T14:00:00.000Z",
+      "salary": "$42 - $53 (HOUR)",
+      "apply_link": "https://www.ziprecruiter.com/c/VillageMD/Job/Ultrasound-Tech-Womens-Health/-in-White-Plains,NY?jid=b8160912f479cf2a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "About Our Company\n\nWe're a physician-led, patient-centric network committed to simplifying health care and bringing a more connected kind of care.\n\nOur primary, multispecialty, and urgent care provide",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT380NzU0Fft2WVT9JdAfw0smMc4SBUgNlkhIin&s=0"
+    },
+    {
+      "id": "4EtQU3aR0xChcNODAAAAAA==",
+      "title": "VP, Engagement Strategy (Pharma Agency)",
+      "company": "Avalere Health",
+      "location": "Washington, District of Columbia",
+      "is_remote": false,
+      "date_posted": "2026-03-16T13:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/Avalere-Health/Job/VP,-Engagement-Strategy-(Pharma-Agency)/-in-Remote,US?jid=da8c16583b75e824&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "About Avalere Health\n\nUnited by one profound purpose: to reach EVERY PATIENT POSSIBLE. At Avalere Health, we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisor",
+      "employer_logo": null
+    },
     {
       "id": "MEwICvzcQqVxnLMQAAAAAA==",
       "title": "Women's Health Nurse Practitioner",
@@ -10,8 +46,8 @@
       "is_remote": false,
       "date_posted": "2026-03-16T05:00:00.000Z",
       "salary": "$90,000 - $110,000 (YEAR)",
-      "apply_link": "https://www.theladders.com/job/women-s-health-nurse-practitioner-appalachian-mountain-health-robbinsville-nj_86125680",
-      "description_snippet": "",
+      "apply_link": "https://www.theladders.com/job/women-s-health-nurse-practitioner-appalachian-mountain-health-robbinsville-nj_86125680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Women's Health Nurse Practitioner\n\nAppalachian Mountain Health (AMH) is in search of a highly motivated and independent women's health practitioner to provide full scope services including gynecologic",
       "employer_logo": null
     },
     {
@@ -27,40 +63,40 @@
       "employer_logo": null
     },
     {
+      "id": "ZujHOh0wOovT1VjKAAAAAA==",
+      "title": "Women\u2019s Health Nurse Practitioner (WHNP) \u2013 Gynecology Practice",
+      "company": "Women's Wellness MD",
+      "location": "Greenbelt, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-03-16T02:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://career.nmanet.org/jobs/22122582/?utm_source=42208&utm_medium=featuredJobs&utm_campaign=mainLanding&utm_term=?utm_source%3D42208&utm_medium=recentJobs&utm_campaign=mainLanding&utm_term&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Women\u2019s Wellness MD is seeking an experienced Nurse Practitioner to join a busy outpatient gynecology practice with offices in Greenbelt and Columbia, Maryland. The provider will deliver comprehensive",
+      "employer_logo": null
+    },
+    {
+      "id": "jguvJLLZ5BKJSDosAAAAAA==",
+      "title": "Director, Global Commercial Strategy (Cardiovascular)",
+      "company": "Johnson & Johnson Services, Inc.",
+      "location": "Raritan, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-03-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.careers.jnj.com/de-de/jobs/r-063863/director-global-commercial-strategy-cardiovascular/",
+      "description_snippet": "",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfe_sPJIFFPwwjZzLkbvERieJD5MTWiEEBJ950&s=0"
+    },
+    {
       "id": "4cm6mVBODiO3gqSyAAAAAA==",
       "title": "Director, Healthcare Business Transformation Digital Strategy | Corporate Finance & Restructuring",
       "company": "FTI Consulting, Inc",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-03-15T12:00:00.000Z",
+      "date_posted": "2026-03-15T00:00:00.000Z",
       "salary": "$150,000 - $200,000 (YEAR)",
       "apply_link": "https://www.theladders.com/job/director-healthcare-business-transformation-digital-strategy-corporate-finance-restructuring-fticonsultinginc-washington-dc_86109019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "description_snippet": "About The Role\n\nFTI's Healthcare practice is seeking a seasoned professional with prior management and hands-on experience in the effective delivery of strategy and digital enablement. As a Director, ",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNjjC_L2jJKPb5SxAfeQAVQtFGwY4HWZRk6NC&s=0"
-    },
-    {
-      "id": "41ys-vBlaMScCo8nAAAAAA==",
-      "title": "Senior Health Care Strategy & Outcomes Consultant",
-      "company": "COPE Health Solutions",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-03-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jooble.org/jdp/2249060364847763172?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "A national health care consulting firm in New York is seeking a Senior Health Care Consultant to lead projects focused on improving health outcomes. The role involves managing workstreams, engaging wi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUovxK4s4DQfNdoMEKYzQY-gs-BGC2avG-Pqxi&s=0"
-    },
-    {
-      "id": "v7a_wrMwqsaKUCvOAAAAAA==",
-      "title": "Associate Director of US Government Affairs (Washington) at Femtech Insider Ltd. Washington DC",
-      "company": "Femtech Insider Ltd.",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-03-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://agronigeria.ng/career/job/associate-director-of-us-government-affairs-washington-at-femtech-insider-ltd-washington-dc-elNCaWd3RUJVUC85b0dwWVdCTkhtdm1rQkE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Associate Director of US Government Affairs (Washington) job at Femtech Insider Ltd.. Washington DC.\n\nJob Description Given the area of responsibility, it is recommended that the candidate be located ",
-      "employer_logo": null
     }
   ]
 }
