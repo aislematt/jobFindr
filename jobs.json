@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-04-10T23:29:36.724137+00:00",
-  "job_count": 4,
+  "last_updated": "2026-04-11T11:25:16.065027+00:00",
+  "job_count": 9,
   "jobs": [
+    {
+      "id": "Z3l-1phdDxVf_WxTAAAAAA==",
+      "title": "Travel Cytotechnologist - Weekly Pay",
+      "company": "Health Marketing",
+      "location": "Fredericksburg, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-04-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-cytotechnologist-weekly-pay-at-health-marketing-4398188831?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "We are seeking a dedicated Travel Cytotechnologist to join our team in Fredericksburg, VA, earning $2,446 per week.\n\nResponsibilities Include\n\u2022 Performing microscopic examination of cellular samples t",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "Q9Q-uvB6Y-dUys6RAAAAAA==",
+      "title": "Associate Director, CRM Commercial Field Optimization",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "location": "Hopewell Township, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-04-10T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/associate-director-crm-commercial-field-optimization-at-johnson-johnson-innovative-medicine-4400639929?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "At Johnson & Johnson,\u202fwe believe health is everything. Our strength in healthcare innovation empowers us to build a\u202fworld where complex diseases are prevented, treated, and cured,\u202fwhere treatments are",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSE3KcjrjhA7lzPnHpp_ER49f3QtFqN6okAGVb&s=0"
+    },
+    {
+      "id": "WLzDA7j1F-5ChLAaAAAAAA==",
+      "title": "Director, CRM Field Optimization",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "location": "Hopewell Township, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-04-10T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-crm-field-optimization-at-johnson-johnson-innovative-medicine-4400639928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "At Johnson & Johnson,\u202fwe believe health is everything. Our strength in healthcare innovation empowers us to build a\u202fworld where complex diseases are prevented, treated, and cured,\u202fwhere treatments are",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSE3KcjrjhA7lzPnHpp_ER49f3QtFqN6okAGVb&s=0"
+    },
     {
       "id": "TjfZtgA7YjiNElHHAAAAAA==",
       "title": "GTM Marketing Manager | King of Prussia PA | Medical Device",
@@ -15,18 +51,6 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67uH2S0-rHz9aSiejce1ehFG6LawKgu_pnjDS&s=0"
     },
     {
-      "id": "pt1FewbaOgGp5niOAAAAAA==",
-      "title": "Parttime Womens Health Nurse Practitioner WHNP in Brooklyn NY",
-      "company": "Doral Medical and Multi Specialty Facility LLC",
-      "location": "Brooklyn, New York",
-      "is_remote": false,
-      "date_posted": "2026-04-10T01:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.wayup.com/i-j-Part-time-Womens-Health-Nurse-Practitioner-WHNP-in-Brooklyn-NY-Doral-Medical-and-Multi-Specialty-Facility-LLC-538696431714175/",
-      "description_snippet": "Doral Health & Wellness is a modern, multi-specialty medical center committed to delivering compassionate, patient-centered care to East New York and surrounding communities. As part of our ongoing ex",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiv57wRXeI4vdaC7cuDQyNTr7z3eiWy9bhCDdr&s=0"
-    },
-    {
       "id": "UVnpbxGK3DHvbcDRAAAAAA==",
       "title": "Women\u2019s Medicine Physician Assistant / Nurse Practitioner",
       "company": "Goodwin Recruiting",
@@ -34,21 +58,57 @@
       "is_remote": false,
       "date_posted": "2026-04-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.goodwinrecruiting.com/job/a0wr7000002hy6vmae-womens-medicine-physician-assistant-nurse-practitioner-astoria-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "apply_link": "https://www.goodwinrecruiting.com/job/a0wr7000002hy6vmae-womens-medicine-physician-assistant-nurse-practitioner-astoria-new-york",
       "description_snippet": "A well-established women\u2019s health practice in Queens is seeking a Nurse Practitioner or Physician Assistant to join a collaborative, high-performing clinical team. This opportunity offers the ability ",
       "employer_logo": null
     },
     {
-      "id": "OIKh1lzxdfaHFf2SAAAAAA==",
-      "title": "Urgent GYN APP-$200/hr-NYC",
-      "company": "Aya Locums",
+      "id": "sOfOaf87YkPv1BtPAAAAAA==",
+      "title": "Program Manager - Women's Health",
+      "company": "VirtualVocations",
+      "location": "Hamilton Township, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-04-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.talent.com/view?id=614420465557571865",
+      "description_snippet": "A company is looking for a Program Manager for Women's Health.\n\nKey Responsibilities\n\nCoordinate and oversee all administrative activities in support of the program\n\nDevelop and monitor key performanc",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0"
+    },
+    {
+      "id": "pt1FewbaOgGp5niOAAAAAA==",
+      "title": "Parttime Womens Health Nurse Practitioner WHNP in Brooklyn NY",
+      "company": "Doral Medical and Multi Specialty Facility LLC",
+      "location": "Brooklyn, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.wayup.com/i-j-Part-time-Womens-Health-Nurse-Practitioner-WHNP-in-Brooklyn-NY-Doral-Medical-and-Multi-Specialty-Facility-LLC-538696431714175/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description_snippet": "Doral Health & Wellness is a modern, multi-specialty medical center committed to delivering compassionate, patient-centered care to East New York and surrounding communities. As part of our ongoing ex",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiv57wRXeI4vdaC7cuDQyNTr7z3eiWy9bhCDdr&s=0"
+    },
+    {
+      "id": "WEYQBl6PJZZxiiHqAAAAAA==",
+      "title": "Creator Partnerships Manager TikTok One & UGC",
+      "company": "Femtech Insider Ltd.",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-04-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20239214/urgent-gyn-app-200-hr-nyc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Women\u2019s Health NP/PA \u2013 Full Time | Outpatient | New York\n\nWe are seeking an experienced Women\u2019s Health NP or PA for a full-time outpatient position in New York. This is a Monday\u2013Friday role with a con",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqIXDV6FvXSZwhdlip6Lche5A9_ogJq-xHPoG&s=0"
+      "date_posted": "2026-04-10T00:00:00.000Z",
+      "salary": "$60,000 - $80,000 (YEAR)",
+      "apply_link": "https://www.jobleads.com/us/job/creator-partnerships-manager-tiktok-one-ugc-paid-social--town-of-poland--e3e67525ef4109f1dcfe7278ba90b635c",
+      "description_snippet": "Job\n\nWe\u2019re looking for someone who sits at the intersection of creators, creative, and paid social \u2013 gets TikTok at a native level, can scale UGC pipelines, and knows how to turn data into better brie",
+      "employer_logo": null
+    },
+    {
+      "id": "UFDTnxmrQzQ2y6jaAAAAAA==",
+      "title": "TikTok Creator Partnerships & UGC Lead",
+      "company": "Femtech Insider Ltd.",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-10T00:00:00.000Z",
+      "salary": "$60,000 - $80,000 (YEAR)",
+      "apply_link": "https://www.jobleads.com/us/job/tiktok-creator-partnerships-ugc-lead--town-of-poland--eb9f3c1007cb740f649aaf2f5cb530546",
+      "description_snippet": "A leading firm in the social media marketing sector is seeking a Creator Partnerships Manager to oversee the UGC pipeline and enhance performance through strong collaboration with creators. The role r",
+      "employer_logo": null
     }
   ]
 }
