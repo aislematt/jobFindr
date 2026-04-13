@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-12T23:28:08.346909+00:00",
-  "job_count": 3,
+  "last_updated": "2026-04-13T12:00:01.637190+00:00",
+  "job_count": 7,
   "jobs": [
+    {
+      "id": "MuqlbXTGoB-5Mn0UAAAAAA==",
+      "title": "Operating Room Technician-Surgical Technician \u2013Women's Health-Part Time Nights",
+      "company": "NewYork-Presbyterian",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-12T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.nyp.org/job/manhattan/operating-room-technician-surgical-technician-women-s-health-part-time-nights/19715/93896221552",
+      "description_snippet": "Feel the Pride of History-Making Surgical Care and Caring\nOperating Room Technician/Surgical Technician \u2013Women's Health- Part Time Nights\n\nBring your talents where we\u2019re proudly introducing the world ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEX-Vx1DvT-9QCBNiLqtcZu_nWYeuXQuKz0pB&s=0"
+    },
+    {
+      "id": "r-sn4NfRJqCYJc3xAAAAAA==",
+      "title": "Nurse Practitioner FT Day NBI Gyn Onc",
+      "company": "RWJBarnabas Health",
+      "location": "Newark, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-04-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.rwjbarnabashealthcareers.org/job/145563/nurse-practitioner-ft-day-nbi-gyn-onc-nurse-practitioner-us-nj-newark-201-lyons-ave/",
+      "description_snippet": "Job Title: Nurse Practitioner\n\nLocation: Newark Beth Israel Med Ctr\n\nDepartment Name: NBI Women's Health\n\nReq #: 0000236665\n\nStatus: Salaried\n\nShift: Day\n\nPay Range: $120,000.00 - $190,000.00 per year",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nRrj6VAqf1jJ1F6LvZW8vNpbHxjE-xpT6DE7&s=0"
+    },
     {
       "id": "skty5l_dc31tl1ZRAAAAAA==",
       "title": "Executive Director, Strategic Marketing - Medicaid",
@@ -27,16 +51,40 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "JJD7YpuVCNinuQ7sAAAAAA==",
-      "title": "Oncology Physician",
-      "company": "Health Marketing",
-      "location": "Lewistown, Pennsylvania",
+      "id": "sJzyUZIUiI5vT0mvAAAAAA==",
+      "title": "Strategic Planning Manager, Healthcare- Remote within EST or CST",
+      "company": "Siemens Healthineers",
+      "location": "New York, New York",
       "is_remote": false,
       "date_posted": "2026-04-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/oncology-physician-at-health-marketing-4398770708?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We are seeking a dedicated Oncology Physician to join our team in Lewistown, Pennsylvania.\n\nResponsibilities Include\n\u2022 Providing comprehensive cancer care, including diagnosis, treatment, and patient ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+      "apply_link": "https://www.whatjobs.com/jobs/strategic-planning-manager-healthcare-remote/new-york?id=2630263435",
+      "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.\n\nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We",
+      "employer_logo": null
+    },
+    {
+      "id": "kjBxxlyG2Nl6FJSYAAAAAA==",
+      "title": "Remote AI Productivity Platform Admin (6-Month FTC)",
+      "company": "Femtech Insider Ltd.",
+      "location": "None, California",
+      "is_remote": false,
+      "date_posted": "2026-04-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.whatjobs.com/jobs/remote-ai-productivity-platform-admin/california?id=2629826306",
+      "description_snippet": "A growing technology company is looking for an AI Productivity Platform Manager to enhance its AI initiatives. The role includes managing user access to a suite of AI tools, ensuring operational readi",
+      "employer_logo": null
+    },
+    {
+      "id": "fVU3bb1sUltoeZn3AAAAAA==",
+      "title": "Senior System Administrator, AI Productivity (6-month Fixed Term)",
+      "company": "Femtech Insider Ltd.",
+      "location": "None, California",
+      "is_remote": false,
+      "date_posted": "2026-04-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.whatjobs.com/jobs/senior-system-administrator-ai-productivity/california?id=2629833012",
+      "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep qualit",
+      "employer_logo": null
     }
   ]
 }
