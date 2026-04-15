@@ -1,42 +1,54 @@
 {
-  "last_updated": "2026-04-15T11:52:28.529578+00:00",
-  "job_count": 3,
+  "last_updated": "2026-04-15T23:37:35.447528+00:00",
+  "job_count": 4,
   "jobs": [
     {
-      "id": "cBTNedcIpHZjtyZgAAAAAA==",
-      "title": "Women's Health Care Specialist - Wilmington, NC",
-      "company": "Bayer",
-      "location": "Greenville, North Carolina",
-      "is_remote": null,
-      "date_posted": "2026-04-14T16:00:00.000Z",
+      "id": "m3S3L9pcN8fV1VczAAAAAA==",
+      "title": "Business Development Director",
+      "company": "UVA Encompass Health Rehabilitation Hospital",
+      "location": "Harrisonburg, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-04-15T20:00:00.000Z",
       "salary": "",
-      "apply_link": "https://talent.bayer.com/careers/job/562949976008977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "At Bayer we\u2019re visionaries, driven to solve the world\u2019s toughest challenges and striving for a world where 'Health for all Hunger for none\u2019 is no longer a dream, but a real possibility. We\u2019re doing it",
+      "apply_link": "https://www.ziprecruiter.com/c/UVA-Encompass-Health-Rehabilitation-Hospital/Job/Business-Development-Director/-in-Harrisonburg,VA?jid=89aad4553b9e7f9b",
+      "description_snippet": "Business Development Director Career Opportunity\n\nAcknowledged and Appreciated for your expertise in Business Development\nAre you an experienced Business Development Director that is ready to lead wit",
       "employer_logo": null
     },
     {
-      "id": "skty5l_dc31tl1ZRAAAAAA==",
-      "title": "Executive Director, Strategic Marketing - Medicaid",
-      "company": "CVS Health",
-      "location": "Hartford, Connecticut",
-      "is_remote": null,
-      "date_posted": "2026-04-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0863019/Executive-Director-Strategic-Marketing-Medicaid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8JKxXYfTuQJ2WiSS61pMdKn1DPFw4DfcX4aK&s=0"
+      "id": "fF_rGSzl6gpRi8G8AAAAAA==",
+      "title": "Marketing & Business Development Lead (Healthcare)",
+      "company": "EZ CARE",
+      "location": "Roanoke, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-04-15T17:00:00.000Z",
+      "salary": "$55,000 - $75,000 (YEAR)",
+      "apply_link": "https://www.indeed.com/viewjob?jk=c1e483315fe529ed",
+      "description_snippet": "Marketing & Business Development Lead (Healthcare)\n\nWe\u2019re looking for a dynamic, hands-on Marketing & Business Development professional to support a growing network of outpatient medical clinics acros",
+      "employer_logo": null
     },
     {
-      "id": "tD7lOMHwauvyM_2hAAAAAA==",
-      "title": "Staff System Engineering Program Manager",
-      "company": "Femtech Insider Ltd.",
-      "location": "California, Missouri",
-      "is_remote": null,
+      "id": "IM7iUkGjLikkPZt4AAAAAA==",
+      "title": "Head of Growth (strategy + executor) - FemTech, AI, HealthTech - Contract to Hire",
+      "company": "Upwork",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-04-15T13:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.upwork.com/freelance-jobs/apply/Head-Growth-strategy-executor-FemTech-HealthTech_~022044402499572096379/",
+      "description_snippet": "Head of Growth (strategy + executor) - FemTech, AI, HealthTech\n\nWe are building an AIxFemTech platform and looking for our next key addition to own the entire growth function.\n\nHow You'll Work: Two Tr",
+      "employer_logo": null
+    },
+    {
+      "id": "Lqas02uufjrawx5eAAAAAA==",
+      "title": "Women's Health NP or PA - Virginia Beach Obstetrics & Gynecology",
+      "company": "Unified Women's Healthcare",
+      "location": "Virginia Beach, Virginia",
+      "is_remote": false,
       "date_posted": "2026-04-14T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.talent.com/view?id=615053185511260884&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award\u2011winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep qualit",
-      "employer_logo": null
+      "apply_link": "https://www.healthecareers.com/job/womens-health-np-or-pa-virginia-beach-obstetrics-gynecology/13535074",
+      "description_snippet": "Overview\n\nUnified Women's Healthcare is the leading national platform for women's healthcare. Our affiliated practice is seeking a Full Time Women's Health Nurse Practitioner or Physician Assistant to",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyg4LIS5XyDXa-8Ij_xX6I99YM9iEJiNUEu0mY&s=0"
     }
   ]
 }
