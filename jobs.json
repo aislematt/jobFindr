@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-04-16T23:35:43.662303+00:00",
-  "job_count": 7,
+  "last_updated": "2026-04-17T11:45:11.867663+00:00",
+  "job_count": 6,
   "jobs": [
+    {
+      "id": "wn03mws2InOIniBpAAAAAA==",
+      "title": "Executive Director, Utilization Management",
+      "company": "Beth Israel Lahey Health",
+      "location": "Boston, Massachusetts",
+      "is_remote": false,
+      "date_posted": "2026-04-16T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/executive-director-utilization-management-at-beth-israel-lahey-health-4403141730",
+      "description_snippet": "When you join the growing BILH team, you're not just taking a job, you\u2019re making a difference in people\u2019s lives.\n\nThe Executive Director of Utilization Management (UM) provides strategic and operation",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikOMXKYNQqFD5XkyJXBypIzPZ22IIdPonBMTv&s=0"
+    },
+    {
+      "id": "-cNrQ2LZv1SCnDYMAAAAAA==",
+      "title": "Women's Health Nurse Practitioner",
+      "company": "Unified Women's Healthcare",
+      "location": "Raleigh, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-04-16T21:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-nurse-practitioner-at-unified-women-s-healthcare-4403119886",
+      "description_snippet": "Overview\n\nOur affiliate, Unified Women\u2019s Healthcare of the Carolinas, is looking for a Maternal Fetal Medicine Nurse Practitioner to join their prestigious Women's Health Care Center in Raleigh, NC. J",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
+    },
+    {
+      "id": "wdJMdQkNA1q3ygkfAAAAAA==",
+      "title": "Pharmacy Relationship Manager",
+      "company": "Healthcare Marketing Group LLC",
+      "location": "Pompton Lakes, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-04-16T17:00:00.000Z",
+      "salary": "$85,000 - $100,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/pharmacy-relationship-manager-at-healthcare-marketing-group-llc-4400451170",
+      "description_snippet": "Whether you are working in a Pharmacy, a seasoned healthcare sales expert, or aspiring to break into the Medical Sales industry, Healthcare Marketing Group, LLC provides an excellent opportunity for y",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6Sm7zqlFNZSkXfkD2B1YS1rSq1EBqZqdFd73&s=0"
+    },
     {
       "id": "XdWDt9awY13TvII2AAAAAA==",
       "title": "OBGYN PA/NP/CNM",
@@ -15,76 +51,28 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BnYwDYKq07HUw2bgyg4XLTLHKXMkTaPt60on&s=0"
     },
     {
-      "id": "ZfMo-7VnqcLvYgnnAAAAAA==",
-      "title": "Spanish-speaking Women's Health Nurse Practitioner WHNP or PA $10,000 Sign-on Bonus",
-      "company": "Doral Health & Wellness",
-      "location": "New York, New York",
+      "id": "kH8Gwct93lDlUrr4AAAAAA==",
+      "title": "Practice Nurse RN - Women's Health",
+      "company": "Cone Health",
+      "location": "Greensboro, North Carolina",
       "is_remote": false,
-      "date_posted": "2026-04-15T00:00:00.000Z",
-      "salary": "$90 - $95 (HOUR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/spanish-speaking-women-s-health-nurse-practitioner-whnp-or-pa-%2410-000-sign-on-bonus-at-doral-health-wellness-4401476101",
-      "description_snippet": "Doral Health & Wellness is a modern, multi-specialty medical center dedicated to providing compassionate, patient-centered care to East New York and surrounding communities. As we continue to expand, ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XYY49CduiwQgzOmhhNWkFy1v81WzT-yeZasb&s=0"
-    },
-    {
-      "id": "rJXWRG8VouOFNJkQAAAAAA==",
-      "title": "Women's Health Operations Manager",
-      "company": "United Health Services",
-      "location": "Johnson City, New York",
-      "is_remote": false,
-      "date_posted": "2026-04-15T00:00:00.000Z",
-      "salary": "$37 - $56 (HOUR)",
-      "apply_link": "https://www.glassdoor.com/job-listing/women-s-health-operations-manager-united-health-services-JV_IC1131819_KO0,33_KE34,56.htm?jl=1010102816421",
-      "description_snippet": "Position Overview\n\nUnder the general direction of the assigned Director of Physician Practice Operations, the Manager of the Multi-Specialty Practices is responsible for the overall planning, developm",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkM0A7NdmN3_LUUH57WGf3xB3JA6pw9opnrK9w&s=0"
-    },
-    {
-      "id": "yyaqW7Chuqv5NilzAAAAAA==",
-      "title": "Senior Director of Product",
-      "company": "CRISP Shared Services",
-      "location": "Columbia, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-04-15T00:00:00.000Z",
+      "date_posted": "2026-04-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-director-of-product-at-crisp-shared-services-4402530810",
-      "description_snippet": "Job Summary:\n\nCRISP Shared Services (CSS) is a non-profit, mission-driven company that provides shared technical infrastructure, user applications, and data exchange services through a cloud-native pl",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5p-FXaqBKhf5ccBsGLTJBd3hzgt4S146jbLlT&s=0"
+      "apply_link": "https://bebee.com/us/jobs/practice-nurse-rn-womens-health-cone-health-greensboro-nc-guilford-county-nc-north-carolina-united-s--resume-24456_9117456139364294200--8d6bbaabf072cadad9ad34880d2fd6b6",
+      "description_snippet": "The Registered Nurse (RN) delivers high-quality patient care and ensures positive patient outcomes through the compassionate and efficient application of nursing knowledge. Working under general super",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkB4viyWVGEfDT4cWA9nTYO44rww8tIAx6-Saw&s=0"
     },
     {
-      "id": "fF_rGSzl6gpRi8G8AAAAAA==",
-      "title": "Marketing & Business Development Lead (Healthcare)",
-      "company": "EZ CARE",
-      "location": "Roanoke, Virginia",
+      "id": "ibxVDOak-N7wtm-WAAAAAA==",
+      "title": "Pricing Strategy Manager",
+      "company": "Athenahealth",
+      "location": "Boston, Massachusetts",
       "is_remote": false,
-      "date_posted": "2026-04-15T00:00:00.000Z",
-      "salary": "$55,000 - $75,000 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=c1e483315fe529ed",
-      "description_snippet": "Marketing & Business Development Lead (Healthcare)\n\nWe\u2019re looking for a dynamic, hands-on Marketing & Business Development professional to support a growing network of outpatient medical clinics acros",
-      "employer_logo": null
-    },
-    {
-      "id": "m3S3L9pcN8fV1VczAAAAAA==",
-      "title": "Business Development Director",
-      "company": "UVA Encompass Health Rehabilitation Hospital",
-      "location": "Harrisonburg, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-04-15T00:00:00.000Z",
+      "date_posted": "2026-04-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.ziprecruiter.com/c/UVA-Encompass-Health-Rehabilitation-Hospital/Job/Business-Development-Director/-in-Harrisonburg,VA?jid=89aad4553b9e7f9b",
-      "description_snippet": "Business Development Director Career Opportunity\n\nAcknowledged and Appreciated for your expertise in Business Development\nAre you an experienced Business Development Director that is ready to lead wit",
-      "employer_logo": null
-    },
-    {
-      "id": "IM7iUkGjLikkPZt4AAAAAA==",
-      "title": "Head of Growth (strategy + executor) - FemTech, AI, HealthTech - Contract to Hire",
-      "company": "Upwork",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-04-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.upwork.com/freelance-jobs/apply/Head-Growth-strategy-executor-FemTech-HealthTech_~022044402499572096379/",
-      "description_snippet": "Head of Growth (strategy + executor) - FemTech, AI, HealthTech\n\nWe are building an AIxFemTech platform and looking for our next key addition to own the entire growth function.\n\nHow You'll Work: Two Tr",
-      "employer_logo": null
+      "apply_link": "https://careers.athenahealth.com/us/en/job/R14473/Pricing-Strategy-Manager",
+      "description_snippet": "Grow your career internally or refer a friend to athenahealth!\n\nJob Title:\n\nPricing Strategy Manager\n\nPosition Summary:\n\nThe Pricing Strategy Manager at athenahealth is a key contributor to the compan",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAj7EClG2SsVy9UEdTQg0zCTxmH9Ntj9rF7AbK&s=0"
     }
   ]
 }
