@@ -1,78 +1,42 @@
 {
-  "last_updated": "2026-04-17T11:45:11.867663+00:00",
-  "job_count": 6,
+  "last_updated": "2026-04-17T23:34:20.814389+00:00",
+  "job_count": 3,
   "jobs": [
-    {
-      "id": "wn03mws2InOIniBpAAAAAA==",
-      "title": "Executive Director, Utilization Management",
-      "company": "Beth Israel Lahey Health",
-      "location": "Boston, Massachusetts",
-      "is_remote": false,
-      "date_posted": "2026-04-16T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/executive-director-utilization-management-at-beth-israel-lahey-health-4403141730",
-      "description_snippet": "When you join the growing BILH team, you're not just taking a job, you\u2019re making a difference in people\u2019s lives.\n\nThe Executive Director of Utilization Management (UM) provides strategic and operation",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikOMXKYNQqFD5XkyJXBypIzPZ22IIdPonBMTv&s=0"
-    },
-    {
-      "id": "-cNrQ2LZv1SCnDYMAAAAAA==",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "Unified Women's Healthcare",
-      "location": "Raleigh, North Carolina",
-      "is_remote": false,
-      "date_posted": "2026-04-16T21:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-nurse-practitioner-at-unified-women-s-healthcare-4403119886",
-      "description_snippet": "Overview\n\nOur affiliate, Unified Women\u2019s Healthcare of the Carolinas, is looking for a Maternal Fetal Medicine Nurse Practitioner to join their prestigious Women's Health Care Center in Raleigh, NC. J",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
-    },
     {
       "id": "wdJMdQkNA1q3ygkfAAAAAA==",
       "title": "Pharmacy Relationship Manager",
       "company": "Healthcare Marketing Group LLC",
       "location": "Pompton Lakes, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-04-16T17:00:00.000Z",
+      "date_posted": "2026-04-16T00:00:00.000Z",
       "salary": "$85,000 - $100,000 (YEAR)",
       "apply_link": "https://www.linkedin.com/jobs/view/pharmacy-relationship-manager-at-healthcare-marketing-group-llc-4400451170",
       "description_snippet": "Whether you are working in a Pharmacy, a seasoned healthcare sales expert, or aspiring to break into the Medical Sales industry, Healthcare Marketing Group, LLC provides an excellent opportunity for y",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6Sm7zqlFNZSkXfkD2B1YS1rSq1EBqZqdFd73&s=0"
     },
     {
-      "id": "XdWDt9awY13TvII2AAAAAA==",
-      "title": "OBGYN PA/NP/CNM",
-      "company": "Boston Medical Center",
-      "location": "Boston, Massachusetts",
-      "is_remote": false,
-      "date_posted": "2026-04-16T15:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.bmc.org/jobs/obgyn-pa-np-cnm-brighton-massachusetts-united-states",
-      "description_snippet": "POSITION SUMMARY:\n\nDually reporting to the Collaborating Physician and the Administrative Director, the licensed and credentialed Nurse Practitioner (NP) provides diagnosis, treatment, consultation, a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BnYwDYKq07HUw2bgyg4XLTLHKXMkTaPt60on&s=0"
-    },
-    {
-      "id": "kH8Gwct93lDlUrr4AAAAAA==",
-      "title": "Practice Nurse RN - Women's Health",
-      "company": "Cone Health",
-      "location": "Greensboro, North Carolina",
+      "id": "2WMCAfP_bzgpfJW6AAAAAA==",
+      "title": "Sr. Director, Medical Affairs",
+      "company": "The Elle Group",
+      "location": "Harrisburg, Pennsylvania",
       "is_remote": false,
       "date_posted": "2026-04-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/practice-nurse-rn-womens-health-cone-health-greensboro-nc-guilford-county-nc-north-carolina-united-s--resume-24456_9117456139364294200--8d6bbaabf072cadad9ad34880d2fd6b6",
-      "description_snippet": "The Registered Nurse (RN) delivers high-quality patient care and ensures positive patient outcomes through the compassionate and efficient application of nursing knowledge. Working under general super",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkB4viyWVGEfDT4cWA9nTYO44rww8tIAx6-Saw&s=0"
+      "apply_link": "https://bebee.com/us/jobs/sr-director-medical-affairs-the-elle-group-pennsylvania--theirstack-664961892",
+      "description_snippet": "Senior Director, Medical Affairs\n\nRare Hematology\n\nWe are partnering with a global biopharmaceutical company to identify a Senior Director, Medical Affairs, to lead the US Medical strategy within the ",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://theellegroup.com&size=128"
     },
     {
-      "id": "ibxVDOak-N7wtm-WAAAAAA==",
-      "title": "Pricing Strategy Manager",
-      "company": "Athenahealth",
-      "location": "Boston, Massachusetts",
+      "id": "ndhWj-fr0P8DSP8rAAAAAA==",
+      "title": "Supervisor Strategic Risk Adjustment and Quality",
+      "company": "Highmark Health",
+      "location": "Harrisburg, Pennsylvania",
       "is_remote": false,
       "date_posted": "2026-04-16T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.athenahealth.com/us/en/job/R14473/Pricing-Strategy-Manager",
-      "description_snippet": "Grow your career internally or refer a friend to athenahealth!\n\nJob Title:\n\nPricing Strategy Manager\n\nPosition Summary:\n\nThe Pricing Strategy Manager at athenahealth is a key contributor to the compan",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAj7EClG2SsVy9UEdTQg0zCTxmH9Ntj9rF7AbK&s=0"
+      "salary": "$7,200 - $11,550 (MONTH)",
+      "apply_link": "https://bebee.com/us/jobs/supervisor-strategic-risk-adjustment-and-quality-highmark-health-pennsylvania--theirstack-665186294",
+      "description_snippet": "Company :\n\nHighmark Inc.\nJob Description :\n\nJOB SUMMARY\nThis job is responsible for developing plans and managing activities in support of Risk Adjustment and Quality/HEDIS. Directs the daily activiti",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4NQKFL-1MYQnvyxMXJeml5ddSlAbDFTpuIjr&s=0"
     }
   ]
 }
