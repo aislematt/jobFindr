@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-04-18T23:28:53.779020+00:00",
-  "job_count": 8,
+  "last_updated": "2026-04-19T11:30:41.380202+00:00",
+  "job_count": 12,
   "jobs": [
+    {
+      "id": "OtNwUQQd-jb3P84aAAAAAA==",
+      "title": "Women's Health Nurse Practitioner",
+      "company": "University of Maryland Medical System",
+      "location": "Easton, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-04-19T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.umms.org/us/en/job/UOJUOMUSREF41212XEXTERNALENUS/Women-s-Health-Nurse-Practitioner",
+      "description_snippet": "Job Requirements\nCompany Description\n\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Marylan",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggDVV4rUqmeqtUr-YCjxNb3gnugs0hdUvg_kW&s=0"
+    },
+    {
+      "id": "D7yDLEEMbgfXbBOhAAAAAA==",
+      "title": "Travel Cath Lab Tech - Weekly Pay",
+      "company": "Health Marketing",
+      "location": "Arlington, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-04-19T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-cath-lab-tech-weekly-pay-at-health-marketing-4403090220",
+      "description_snippet": "We are seeking a dedicated Travel Cath Lab Tech to join our team in Arlington, VA. This position offers a weekly pay of $2,889.33 and provides an excellent opportunity to work in a dynamic healthcare ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "YuAgu_j34mP1LY_qAAAAAA==",
+      "title": "Travel Nurse - Registered Nurse - Emergency Room",
+      "company": "Health Marketing",
+      "location": "Altoona, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-04-19T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-registered-nurse-emergency-room-at-health-marketing-4403086131",
+      "description_snippet": "We are seeking a dedicated Travel Nurse - Registered Nurse (ER) in Altoona, PA, to provide exceptional emergency care in a fast-paced environment.\n\n\u2022 Provide immediate assessment, stabilization, and t",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "RttGyz5CHE8kDx-zAAAAAA==",
+      "title": "RN - Educator, Women's Health Office",
+      "company": "Albany Medical Center",
+      "location": "Amsterdam, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/rn-educator-womens-health-office-albany-medical-center-amsterdam-ny-montgomery-county-ny-new-york-st--oneredce-26737_-5889971633538105988--3423d8f99800a9398ca591761c510060",
+      "description_snippet": "Department/Unit:HBD - OBGYN Generalist Work Shift: RN Educator Women's Health Outpatient Practice The Nurse Educator may provide direct patient care, patient triage (in-person and telephonic), assessm",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaQeOlyoX8hhD3aeaWtUJUQJGH4NFqpuSDeus&s=0"
+    },
+    {
+      "id": "NSfhFczfXY_S1gUHAAAAAA==",
+      "title": "RN - Educator, Women's Health Office",
+      "company": "Albany Medical Center",
+      "location": "Petersburg, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/rn-educator-womens-health-office-albany-medical-center-petersburg-va-va-united-states--oneredce-26737_-6062388362541341388",
+      "description_snippet": "Department/Unit:HBD - OBGYN Generalist\n\nWork Shift\n\nDay (United States of America)Salary Range:\n\n$94,957.00 - $147,183.00 RN Educator\n\nWomen's Health Outpatient Practice\n\nAlbany, NY The Nurse Educator",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdaQeOlyoX8hhD3aeaWtUJUQJGH4NFqpuSDeus&s=0"
+    },
+    {
+      "id": "ICNWWrok_J6cin04AAAAAA==",
+      "title": "Spanish-speaking WHNP (Women's Health) $10,000 Sign-on Bonus",
+      "company": "Doral Health & Wellness",
+      "location": "Brooklyn, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/spanish-speaking-whnp-womens-health-10000-sign-on-bonus-doral-health-wellness-brooklyn-ny--theirstack-665494565",
+      "description_snippet": "Doral Health & Wellness is a modern, multi-specialty medical center dedicated to providing compassionate, patient-centered care to East New York and surrounding communities. As we continue to expand, ",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doralhw.org&size=128"
+    },
+    {
+      "id": "4Cw_gQ_nV3AjWyNkAAAAAA==",
+      "title": "Director of Community Outreach - Adolescent Mental Health",
+      "company": "LearnWell",
+      "location": "Plymouth, Massachusetts",
+      "is_remote": false,
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "$100,000 - $110,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/EI-US-LLC/Job/Director-of-Community-Outreach-Adolescent-Mental-Health/-in-Plymouth,MA?jid=a5ab026838afd011",
+      "description_snippet": "LearnWell improves the lives of those facing behavioral health needs by addressing gaps in education and access to mental health care for students, individuals, and families.\n\nA Director of Community ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ-NX1RneMS9EukKYN01ZrS0LwgT2PUvx2Boc&s=0"
+    },
     {
       "id": "PouflPUuZQ6HpuEVAAAAAA==",
       "title": "VP, Brand Strategy; Healthcare Provider",
@@ -13,6 +97,18 @@
       "apply_link": "https://www.learn4good.com/jobs/boston/massachusetts/management_and_managerial/5040381342/e/",
       "description_snippet": "Position: VP, Brand Strategy (Healthcare Provider)\nAt MERGE, we are Built Different. We are a marketing and technology agency purpose-built for the intersection of health and wellness-where human impa",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://merge.dev&size=128"
+    },
+    {
+      "id": "pYbRjYpyGx6aU1InAAAAAA==",
+      "title": "Business Development - Strategy Consultant (Partnerships Operations & Analytics Healthcare) \u2013 Hybrid (ET/CT)  R0056075",
+      "company": "Wolters Kluwer",
+      "location": "Boston, Massachusetts",
+      "is_remote": false,
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://ability.usnlx.com/boston-ma/business-development-strategy-consultant-partnerships-operations-analytics-healthcare-hybrid-etct-r0056075/1BD82F00FD654555B9C02D69E30A3888/job/",
+      "description_snippet": "Business Development - Strategy Consultant (Partnerships Operations & Analytics Healthcare) \u2013 Hybrid (ET/CT) R0056075 | Health Management & Staff - UpToDate, Inc. | Wolters Kluwer\n\nAbout Role:\n\nWolter",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://wolterskluwer.com&size=128"
     },
     {
       "id": "N2_mJ1-F_iQJN1p9AAAAAA==",
@@ -39,64 +135,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "NtA-8RM3OJcbD3toAAAAAA==",
-      "title": "RN - Educator, Women's Health Office",
-      "company": "Albany Medical Center",
-      "location": "New York, New York",
+      "id": "MA4TdnDnVkSKVz-9AAAAAA==",
+      "title": "Senior Manager Global Media B2B Healthcare and Partnerships",
+      "company": "Femtech Insider Ltd.",
+      "location": "None, None",
       "is_remote": false,
-      "date_posted": "2026-04-17T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/rn-educator-women-s-health-office-at-albany-medical-center-4403533384",
-      "description_snippet": "Department/Unit:\n\nHBD - OBGYN Generalist\n\nWork Shift:\n\nDay (United States of America)\n\nSalary Range:\n\n$94,957.00 - $147,183.00\n\nRN Educator\n\nWomen's Health Outpatient Practice\n\nAlbany, NY\n\nThe Nurse E",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0G0lN4WxK-kZEul57T96-90ON3JAKQOUz5xE&s=0"
-    },
-    {
-      "id": "w-dW26bqmikHNQHXAAAAAA==",
-      "title": "Full-Time Gynecologist \u2013 Women\u2019s Health Physician Role $10,000 Sign-on Bonus",
-      "company": "Doral Medical and Multispecialty Facility LLC",
-      "location": "Brooklyn, New York",
-      "is_remote": false,
-      "date_posted": "2026-04-17T00:00:00.000Z",
-      "salary": "$300,000 - $350,000 (YEAR)",
-      "apply_link": "https://www.doccafe.com/job/physician/gynecology/20326229/full-time-gynecologist-womens-health-physician-role-10-000-sign-on-bonus",
-      "description_snippet": "Doral Health & Wellness, a fast-growing, patient-centered multi-specialty medical practice, is seeking a dedicated and experienced Full-Time Gynecologist to join and strengthen our Women\u2019s Health depa",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doccafe.com&size=128"
-    },
-    {
-      "id": "vRVc0QhOfZfuFfhGAAAAAA==",
-      "title": "Senior Director, Corporate Strategy - Full-time",
-      "company": "Olympus Corporation of the Americas",
-      "location": "Westborough, Massachusetts",
-      "is_remote": false,
-      "date_posted": "2026-04-17T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.snagajob.com/jobs/1241019493",
-      "description_snippet": "**Working Location: MASSACHUSETTS, WESTBOROUGH; Massachusetts, Boston; NATIONWIDE; PENNSYLVANIA, CENTER VALLEY**\n\u2022 *Workplace Flexibility: Remote**\n\u2022 *_For more than 100 years, Olympus has focused on ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://olympusamerica.com&size=128"
-    },
-    {
-      "id": "AF7zzWl2HvJDPPpQAAAAAA==",
-      "title": "Associate Director, Media Excellence & Innovation",
-      "company": "Johnson & Johnson Innovative Medicine",
-      "location": "Hopewell Township, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-04-17T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/associate-director-media-excellence-innovation-at-johnson-johnson-innovative-medicine-4403553650",
-      "description_snippet": "At Johnson & Johnson,\u202fwe believe health is everything. Our strength in healthcare innovation empowers us to build a\u202fworld where complex diseases are prevented, treated, and cured,\u202fwhere treatments are",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSE3KcjrjhA7lzPnHpp_ER49f3QtFqN6okAGVb&s=0"
-    },
-    {
-      "id": "sbYGhZ1DKHsy4p1dAAAAAA==",
-      "title": "Associate Director Strategy - Medical (Health)",
-      "company": "VML New York, NY",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-04-17T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.vml.com/careers/job/8436090002-us-associate-director-strategy-medical-health",
-      "description_snippet": "Who We Are\nVML, part of WPP, is a leading creative company that combines brand experience, customer experience, and commerce, creating connected brands to drive growth. VML is celebrated for its innov",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxmVrZzxfarW5w_9YxPWiEIR9HFQ7rXxzvaXH&s=0"
+      "date_posted": "2026-04-18T00:00:00.000Z",
+      "salary": "$143,000 - $169,000 (YEAR)",
+      "apply_link": "https://www.jobleads.com/us/job/senior-manager-global-media-b2b-healthcare-and-partnerships--united-states--e1d07eb9871a3976e61e7b27174107bbf",
+      "description_snippet": "\u014cURA is seeking a strategic, data\u2011driven Senior Manager, Global Media \u2013 B2B, Healthcare & Partnerships to lead full\u2011funnel paid media strategy and activation for Oura\u2019s commercial business and key eco",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
