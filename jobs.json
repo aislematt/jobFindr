@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-04-20T12:01:23.844006+00:00",
-  "job_count": 2,
+  "last_updated": "2026-04-20T23:37:33.957848+00:00",
+  "job_count": 7,
   "jobs": [
+    {
+      "id": "baPW-4927hBuwo1GAAAAAA==",
+      "title": "Senior Medical Director, Therapeutic Area Leader - Women's Health",
+      "company": "Parexel",
+      "location": "Washington, District of Columbia",
+      "is_remote": false,
+      "date_posted": "2026-04-20T19:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://salutemyjob.com/jobs/senior-medical-director-therapeutic-area-leader-womens-health-washington-washington-dc/2732789619-2/",
+      "description_snippet": "As a Senior Medical Director, you will be a prominent medical expert and leader with specialized expertise in women's health, coupled with extensive experience across various indications and drug deve",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://parexel.com&size=128"
+    },
+    {
+      "id": "bIcMlehAYEX7BWIxAAAAAA==",
+      "title": "Nurse Practitioner - Women\u2019s Health",
+      "company": "NewYork-Presbyterian",
+      "location": "Babylon, New York",
+      "is_remote": false,
+      "date_posted": "2026-04-20T18:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/aae96sto8pv4-02e-fa54a7624e-2dc336-e97fd4c4caa78",
+      "description_snippet": "Advanced Practice. Advanced Impact. Join Our NP Team.\n\nThrive at the forefront of top-notch nursing at New York Presbyterian Hospital. As an essential part of our Ambulatory Care Network (ACN), you wi",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWTOUXJqu0iVnLf8wJf_UXrbA1AQbYS3ITrVz&s=0"
+    },
+    {
+      "id": "mbnwdf1PdVjFrXLBAAAAAA==",
+      "title": "Marketing Representative",
+      "company": "Pyramid Healthcare",
+      "location": "Altoona, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-04-20T11:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/marketing-representative-at-pyramid-healthcare-4403600230",
+      "description_snippet": "Pyramid Healthcare is dedicated to offering the highest quality of care to those we serve. A focus on client-focused care establishes our family of brands as respected leaders in addiction treatment, ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV87RAw0q053ZS2EJ12oe62WplDNrpzZg8vQ3S&s=0"
+    },
     {
       "id": "CXtTe6GD3LauxDCiAAAAAA==",
       "title": "Provider Partnerships Consultant (Contract)",
@@ -15,16 +51,40 @@
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     },
     {
+      "id": "-xU5x_Oux3PYM1jMAAAAAA==",
+      "title": "Provider Partnerships Consultant (Contract)",
+      "company": "Femtech Insider Ltd.",
+      "location": "Mission Bend, Texas",
+      "is_remote": false,
+      "date_posted": "2026-04-20T01:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/mission-bend-tx/provider-partnerships-consultant-contract-255224/",
+      "description_snippet": "Objective: Promote the value and impact of a groundbreaking maternal health platform across the Houston Metropolitan Area.\n\nAbout Us: Delfina provides a leading pregnancy care data platform to improve",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
+    {
       "id": "OtNwUQQd-jb3P84aAAAAAA==",
       "title": "Women's Health Nurse Practitioner",
       "company": "University of Maryland Medical System",
       "location": "Easton, Maryland",
       "is_remote": false,
-      "date_posted": "2026-04-20T00:00:00.000Z",
+      "date_posted": "2026-04-19T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://careers.umms.org/us/en/job/UOJUOMUSREF41212XEXTERNALENUS/Women-s-Health-Nurse-Practitioner",
       "description_snippet": "Job Requirements\nCompany Description\n\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Marylan",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggDVV4rUqmeqtUr-YCjxNb3gnugs0hdUvg_kW&s=0"
+    },
+    {
+      "id": "q_yysQ9rY8aSAracAAAAAA==",
+      "title": "Growth Marketing Director (FemTech / DTC)",
+      "company": "HiredChina.com\u56fd\u9645\u4eba\u624d\u62db\u8058\u7f51",
+      "location": "San Francisco, California",
+      "is_remote": false,
+      "date_posted": "2026-04-19T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.whatjobs.com/jobs/growth-marketing-director-femtech/san-francisco-california?id=2644694073",
+      "description_snippet": "Overview Reporting to: VP & Head of North America / CEO Level: Director / Senior Manager Salary: Open to negotiate About the Role\n\nAs the Growth Marketing Director, you will sit at the intersection of",
+      "employer_logo": null
     }
   ]
 }
