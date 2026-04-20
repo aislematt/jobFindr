@@ -1,54 +1,30 @@
 {
-  "last_updated": "2026-04-19T23:30:11.930380+00:00",
-  "job_count": 4,
+  "last_updated": "2026-04-20T12:01:23.844006+00:00",
+  "job_count": 2,
   "jobs": [
+    {
+      "id": "CXtTe6GD3LauxDCiAAAAAA==",
+      "title": "Provider Partnerships Consultant (Contract)",
+      "company": "Femtech Insider Ltd.",
+      "location": "Manvel, Texas",
+      "is_remote": false,
+      "date_posted": "2026-04-20T01:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/manvel-tx/provider-partnerships-consultant-contract-063035/",
+      "description_snippet": "Objective: Promote the value and impact of a groundbreaking maternal health platform across the Houston Metropolitan Area.\n\nAbout Us: Delfina provides a leading pregnancy care data platform to improve",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
     {
       "id": "OtNwUQQd-jb3P84aAAAAAA==",
       "title": "Women's Health Nurse Practitioner",
       "company": "University of Maryland Medical System",
       "location": "Easton, Maryland",
       "is_remote": false,
-      "date_posted": "2026-04-19T00:00:00.000Z",
+      "date_posted": "2026-04-20T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://careers.umms.org/us/en/job/UOJUOMUSREF41212XEXTERNALENUS/Women-s-Health-Nurse-Practitioner",
       "description_snippet": "Job Requirements\nCompany Description\n\nUniversity of Maryland Shore Regional Health (UMMS) is seeking a compassionate and dedicated Women's Health Nurse Practitioner to join our team in Easton, Marylan",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggDVV4rUqmeqtUr-YCjxNb3gnugs0hdUvg_kW&s=0"
-    },
-    {
-      "id": "D7yDLEEMbgfXbBOhAAAAAA==",
-      "title": "Travel Cath Lab Tech - Weekly Pay",
-      "company": "Health Marketing",
-      "location": "Arlington, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-04-19T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-cath-lab-tech-weekly-pay-at-health-marketing-4403090220",
-      "description_snippet": "We are seeking a dedicated Travel Cath Lab Tech to join our team in Arlington, VA. This position offers a weekly pay of $2,889.33 and provides an excellent opportunity to work in a dynamic healthcare ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "YuAgu_j34mP1LY_qAAAAAA==",
-      "title": "Travel Nurse - Registered Nurse - Emergency Room",
-      "company": "Health Marketing",
-      "location": "Altoona, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-04-19T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-registered-nurse-emergency-room-at-health-marketing-4403086131",
-      "description_snippet": "We are seeking a dedicated Travel Nurse - Registered Nurse (ER) in Altoona, PA, to provide exceptional emergency care in a fast-paced environment.\n\n\u2022 Provide immediate assessment, stabilization, and t",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "v7a_wrMwqsaKUCvOAAAAAA==",
-      "title": "Associate Director of US Government Affairs (Washington) at Femtech Insider Ltd. Washington DC",
-      "company": "Femtech Insider Ltd.",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-04-18T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://agronigeria.ng/career/job/associate-director-of-us-government-affairs-washington-at-femtech-insider-ltd-washington-dc-elNCaWd3RUJVUC85b0dwWVdCTkhtdm1rQkE9PQ==",
-      "description_snippet": "Associate Director of US Government Affairs (Washington) job at Femtech Insider Ltd.. Washington DC.\n\nJob Description Given the area of responsibility, it is recommended that the candidate be located ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
