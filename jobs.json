@@ -1,54 +1,42 @@
 {
-  "last_updated": "2026-05-10T23:44:08.162893+00:00",
-  "job_count": 4,
+  "last_updated": "2026-05-11T13:41:13.658901+00:00",
+  "job_count": 3,
   "jobs": [
+    {
+      "id": "7PIGL3ZJrFMhcs_qAAAAAA==",
+      "title": "Strategy Manager",
+      "company": "Siemens Healthineers",
+      "location": "Malvern, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-05-11T02:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/strategy-manager-at-siemens-healthineers-4372639197",
+      "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.\n\nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs6wO7GcuIz7pmbBVGWiOcH5_Ca7jcAn7jPqs&s=0"
+    },
+    {
+      "id": "O9stkFaKC7aWP8ZSAAAAAA==",
+      "title": "Chair of OB/GYN at United Memorial Medical Center",
+      "company": "Rochester Regional Health",
+      "location": "White Plains, New York",
+      "is_remote": false,
+      "date_posted": "2026-05-10T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/chair-of-ob-gyn-at-united-memorial-medical-center-rochester-regional-health-white-plains--dc-6D7E09353C64309E82D8FF3F3C2C80CF",
+      "description_snippet": "At Rochester Regional Health, we believe leadership in Obstetrics and Gynecology is about more than clinical expertise-it's about uplifting humanity through compassionate care, inspiring teams, and ad",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUua2NYNE26jMgh9SMFcV3O6XstTFiw9RJ29au&s=0"
+    },
     {
       "id": "9D7jvwiyDNnEo6H4AAAAAA==",
       "title": "Registered Nurse, Ambulatory- Full Time, Days, AMG Women's Health, Clark NJ",
       "company": "Atlantic Health",
       "location": "Clark, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-05-10T04:00:00.000Z",
+      "date_posted": "2026-05-10T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://careers.il-asca.org/jobs/22265786/registered-nurse-ambulatory-full-time-days-amg-women-s-health-clark-nj",
       "description_snippet": "Job Description\n\nRegistered Nurse, Ambulatory, uses the nursing process to assess, plan, implement, and evaluate patient care. Manages patient teaching, communication, triage, and documentation in Epi",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://atlantichealth.org&size=128"
-    },
-    {
-      "id": "HALicsZD0akgSesRAAAAAA==",
-      "title": "OB/GYN Physician: Silver Spring, MD",
-      "company": "Advantia Health",
-      "location": "None, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-05-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/ob-gyn-physician-silver-spring-md-advantia-health-silver-spring-station--dc-1A9672EF3E72F91A5479CC53174153F9",
-      "description_snippet": "Ob-Gyn Associates of Advantia is seeking an OB/GYN physician to join our experienced team of providers! Our Practice is a diverse group of multilingual practitioners who provide comprehensive care for",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://advantiahealth.com&size=128"
-    },
-    {
-      "id": "7Q6kVg1RohJufZ5cAAAAAA==",
-      "title": "Manager, Finance Planning & Analysis (FP&A)",
-      "company": "Axia Women's Health",
-      "location": "Voorhees Township, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-05-09T00:00:00.000Z",
-      "salary": "$115,000 - $140,000 (YEAR)",
-      "apply_link": "https://jobs.inwomenshealth.com/companies/axia-women-s-health/jobs/78089801-manager-finance-planning-analysis-fp-a",
-      "description_snippet": "Axia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At its core, Axi",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLh7ucsKtA2P09eA2971_v_yGhZtSnQaTc3FF0&s=0"
-    },
-    {
-      "id": "71XA02X4PGwHK5yqAAAAAA==",
-      "title": "Travel Nurse - Progressive Care Unit",
-      "company": "Health Marketing",
-      "location": "Columbia, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-05-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-progressive-care-unit-at-health-marketing-4412318417",
-      "description_snippet": "We are seeking a dedicated Travel Nurse RN for the Progressive Care Unit (PCU) in Leonardtown, MD, offering competitive pay of $1,975 per week.\n\nIn this role, you will provide high-quality patient car",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
