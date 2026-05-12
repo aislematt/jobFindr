@@ -1,66 +1,18 @@
 {
-  "last_updated": "2026-05-11T23:52:12.894810+00:00",
-  "job_count": 5,
+  "last_updated": "2026-05-12T13:01:19.782931+00:00",
+  "job_count": 1,
   "jobs": [
     {
-      "id": "7PIGL3ZJrFMhcs_qAAAAAA==",
-      "title": "Strategy Manager",
-      "company": "Siemens Healthineers",
-      "location": "Malvern, Pennsylvania",
+      "id": "ctT6caRvpwUkt9RpAAAAAA==",
+      "title": "Womens Health Nurse Practictioner",
+      "company": "True Health NY",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-05-11T13:00:00.000Z",
+      "date_posted": "2026-05-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/strategy-manager-at-siemens-healthineers-4372639197",
-      "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.\n\nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs6wO7GcuIz7pmbBVGWiOcH5_Ca7jcAn7jPqs&s=0"
-    },
-    {
-      "id": "O9stkFaKC7aWP8ZSAAAAAA==",
-      "title": "Chair of OB/GYN at United Memorial Medical Center",
-      "company": "Rochester Regional Health",
-      "location": "White Plains, New York",
-      "is_remote": false,
-      "date_posted": "2026-05-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/chair-of-ob-gyn-at-united-memorial-medical-center-rochester-regional-health-white-plains--dc-6D7E09353C64309E82D8FF3F3C2C80CF",
-      "description_snippet": "At Rochester Regional Health, we believe leadership in Obstetrics and Gynecology is about more than clinical expertise-it's about uplifting humanity through compassionate care, inspiring teams, and ad",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUua2NYNE26jMgh9SMFcV3O6XstTFiw9RJ29au&s=0"
-    },
-    {
-      "id": "88PWzyHpRtK4rBKJAAAAAA==",
-      "title": "OB/GYN Physician \u2013 Robotic Surgery, Call & Rural Western NY",
-      "company": "VISTA Staffing Solutions",
-      "location": "Olean, New York",
-      "is_remote": false,
-      "date_posted": "2026-05-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/ob-gyn-physician-robotic-surgery-call-rural-western-ny-vista-staffing-solutions-city-of-olean--pureheal-28528_25303_2d2e73bfb2b371f1e9e396a3fdd0fc2e",
-      "description_snippet": "A reputable healthcare staffing firm is seeking an OB/GYN to join a thriving women's health team in beautiful Western New York. This role involves both inpatient and outpatient practice, with one week",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrXRt7TrTWFEcqjqDXHuBrc_gp8TjoMwcyVeh5&s=0"
-    },
-    {
-      "id": "QHAmMpo2N1jxJZXiAAAAAA==",
-      "title": "VP, Brand Strategy 8",
-      "company": "Avalere Health",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-05-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.jobilize.com/job/us-dc-all-cities-vp-brand-strategy-8-avalere-health-hiring-now-job",
-      "description_snippet": "About Avalere Health\n\nUnited by one profound purpose:\nto reach EVERY PATIENT POSSIBLE. At Avalere Health, we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisor",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://avalerehealth.com&size=128"
-    },
-    {
-      "id": "Ffa5TyCuI1i298dVAAAAAA==",
-      "title": "Locum Urology Physician (MD/DO)",
-      "company": "Health Marketing",
-      "location": "Allentown, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-05-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/locum-urology-physician-md-do-health-marketing-allentown-pa--theirstack-680752274",
-      "description_snippet": "We are seeking a dedicated\nLocum Physician (MD/DO) - Urology\nto provide high-quality patient care in Johnstown, PA. The successful candidate will deliver comprehensive urological services, including d",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+      "apply_link": "https://bebee.com/us/jobs/womens-health-nurse-practictioner-true-health-ny-fresh-meadows-ny-united-states--resume-25343_3662348572",
+      "description_snippet": "Job DescriptionJob DescriptionWOMENS HEALTH NURSE PRACTITIONER\n\nFull Time\n\nNew York, NY The \u201cTRUE HEALTH\u201d is a for-profit healthcare organization with 7 health centers, providing primary care and prev",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXwcWu6ewc0C2IjTADsrEQBqGBF7zaz_FGlc_&s=0"
     }
   ]
 }
