@@ -1,18 +1,102 @@
 {
-  "last_updated": "2026-05-12T13:01:19.782931+00:00",
-  "job_count": 1,
+  "last_updated": "2026-05-12T23:55:00.116712+00:00",
+  "job_count": 8,
   "jobs": [
+    {
+      "id": "xfLoviRpyIkZkOeAAAAAAA==",
+      "title": "Administrative Services Supv, Full Time, Women's Health, Cedar Knolls",
+      "company": "Atlantic Health",
+      "location": "Hanover, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-05-12T17:00:00.000Z",
+      "salary": "$24 - $40 (HOUR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/administrative-services-supv-full-time-women-s-health-cedar-knolls-at-atlantic-health-4413598699",
+      "description_snippet": "Principal Accountabilities\n\nJOB DESCRIPTION\n\n\u2022 Effectively communicates staff or practice activity to superiors, supervises back end staff, conducts staff evaluations, trains new staff members, provid",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_07JghmEOeacVSADM5eqrJq2KUIRqfdjUnt8&s=0"
+    },
+    {
+      "id": "3choIKYgsW4Np_TWAAAAAA==",
+      "title": "Women's Health Nurse Practitioner",
+      "company": "Unified Women's Healthcare",
+      "location": "Garden City, New York",
+      "is_remote": false,
+      "date_posted": "2026-05-12T15:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-nurse-practitioner-at-unified-women-s-healthcare-4413468622",
+      "description_snippet": "Overview\n\nUnified Women\u2019s Healthcare is the leading national platform for women\u2019s healthcare. Our affiliated practice, Complete Women's Care, is seeking a Part Time Women's Health Nurse Practitioner.\n",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
+    },
+    {
+      "id": "Qgx_Md5Rxb712wUFAAAAAA==",
+      "title": "Women\u2019s Health Physician | Strong Income, Light Schedule, Established Patient Base",
+      "company": "Jordan Search Consultants",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-05-12T15:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.jamanetwork.com/job/110685572/women-s-health-physician-strong-income-light-schedule-established-patient-base/",
+      "description_snippet": "We're hiring a Women's Health Physician in Monroe, New York who is looking for strong income, a balanced schedule, and the ability to make a meaningful impact in patient care.\n\nThis role focuses on co",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jordansc.com&size=128"
+    },
+    {
+      "id": "9sbol3lA-gQHO3iYAAAAAA==",
+      "title": "Director of Marketing",
+      "company": "Elite Connect",
+      "location": "New Salem Borough, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-05-12T05:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.adzuna.com/details/5726722900",
+      "description_snippet": "Director of Marketing \u2013 Peer Support Services (Behavioral Health)\nWe are seeking a mission-driven Director of Marketing to lead growth and outreach for our peer support services across Pennsylvania, w",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://myeliteconnect.com&size=128"
+    },
     {
       "id": "ctT6caRvpwUkt9RpAAAAAA==",
       "title": "Womens Health Nurse Practictioner",
       "company": "True Health NY",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-05-12T00:00:00.000Z",
+      "date_posted": "2026-05-11T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/womens-health-nurse-practictioner-true-health-ny-fresh-meadows-ny-united-states--resume-25343_3662348572",
       "description_snippet": "Job DescriptionJob DescriptionWOMENS HEALTH NURSE PRACTITIONER\n\nFull Time\n\nNew York, NY The \u201cTRUE HEALTH\u201d is a for-profit healthcare organization with 7 health centers, providing primary care and prev",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXwcWu6ewc0C2IjTADsrEQBqGBF7zaz_FGlc_&s=0"
+    },
+    {
+      "id": "-BaOJg-JY-8KdIrzAAAAAA==",
+      "title": "Gynecology PA-C Full Time/PT",
+      "company": "First Medical Associates",
+      "location": "White Marsh, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-05-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/gynecology-pa-c-full-time-pt-first-medical-associates-white-marsh--lensa-2365_b4f1b18f89334f798ee45189f4570eecea445e3a28f7a383a7a164377f9450dc",
+      "description_snippet": "GYN Physician Assistant Opportunity\nAre you a Physician Assistant passionate about Women's Health and looking to escape the burnout of obstetrics? First Medical Associates is seeking a dedicated GYN P",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://drsfirst.com&size=128"
+    },
+    {
+      "id": "rqhFWGi3B7LlxkwFAAAAAA==",
+      "title": "Certified Medical Assistant (CMA) II",
+      "company": "Axia Women's Health",
+      "location": "Phoenixville, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-05-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/certified-medical-assistant-cma-ii-axia-womens-health-phoenixville--lensa-2365_c84db1cae2ddbfb02037e078514a7dcc829bc28c9ca1f4ba96247630432488b9",
+      "description_snippet": "Certified Medical Assistant (CMA) II\nAxia Women's Health is the nation's largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, In",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+    },
+    {
+      "id": "7PIGL3ZJrFMhcs_qAAAAAA==",
+      "title": "Strategy Manager",
+      "company": "Siemens Healthineers",
+      "location": "Malvern, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-05-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/strategy-manager-at-siemens-healthineers-4372639197",
+      "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.\n\nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs6wO7GcuIz7pmbBVGWiOcH5_Ca7jcAn7jPqs&s=0"
     }
   ]
 }
