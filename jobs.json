@@ -1,30 +1,42 @@
 {
-  "last_updated": "2026-05-16T23:44:33.299545+00:00",
-  "job_count": 10,
+  "last_updated": "2026-05-17T11:56:41.162194+00:00",
+  "job_count": 14,
   "jobs": [
+    {
+      "id": "SwmsMK-R04OQ-EL3AAAAAA==",
+      "title": "Licensed Practical Nurse - Sign-On Bonus",
+      "company": "Health Marketing",
+      "location": "Elmwood Park, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-05-16T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/licensed-practical-nurse-sign-on-bonus-at-health-marketing-4415407575",
+      "description_snippet": "We are seeking a compassionate and dedicated Licensed Practical Nurse (LPN) to join our team in Elmwood Park, New Jersey. This position offers a sign-on bonus and the opportunity to make a positive im",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "uJwK_BWwTqoNKtA4AAAAAA==",
+      "title": "Women\u2019s Health Physician | Strong Income, Light Schedule, EstablishedPatientBase",
+      "company": "Jordan Search Consultants",
+      "location": "Jersey City, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/womens-health-physician-strong-income-light-schedule-establishedpatientbase-jordan-search-consultant--dc-5E2940159F51A881A8F535A78FB33851",
+      "description_snippet": "We're hiring a Women's Health Physician in Monroe, New York who is looking for strong income, a balanced schedule, and the ability to make a meaningful impact in patient care.\n\nThis role focuses on co",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jordansc.com&size=128"
+    },
     {
       "id": "M_OgHXUBGeJDO5M7AAAAAA==",
       "title": "Minimally Invasive Gynecology Surgery",
       "company": "HCA Healthcare",
       "location": "Jersey City, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/minimally-invasive-gynecology-surgery-hca-healthcare-jersey-city--dc-6ACD749FF22C19F70017B5889CB07F69",
       "description_snippet": "Description Specialization: Gynecological Surgery Job Summary: Well established Practice, Institute for Women\u2019s Health and Body affiliated with HCA Florida Highlands Hospital is looking to employ a BE",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bma4Z51ClpIw9bEroSzzIY1CrGa_ku4BX2_6&s=0"
-    },
-    {
-      "id": "978IALJZzMHeIoxtAAAAAA==",
-      "title": "Established Private Practice Seeking OB/GYN Physician in PrescottSign-on/retention/ bonus available",
-      "company": "Unified Women's Healthcare",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/established-private-practice-seeking-ob-gyn-physician-in-prescottsign-on-retention-bonus-available-u--dc-C8276EA7548699911F8185BA014B19F7",
-      "description_snippet": "Overview Women's Medical Care\n\n,\n\nan affiliate of\n\nUnified Women's Healthcare\n\n, is currently seeking an\n\nOB/GYN Physician to join our highly recognized and growing practice in\n\nPrescott, AZ\n\n. A new ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
     },
     {
       "id": "EgNEbGnf94oHojOJAAAAAA==",
@@ -32,23 +44,11 @@
       "company": "Summit Health Medical Group",
       "location": "Jersey City, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/womens-heath-nurse-practitioner-experienced-summit-health-medical-group-jersey-city--dc-8BFFF661719B232C2C91BC92C52FD793",
       "description_snippet": "About Our Company We're a physician-led, patient-centric network committed to simplifying health care and bringing a more connected kind of care. Our primary, multispecialty, and urgent care providers",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0"
-    },
-    {
-      "id": "dfNdQHdBl-XQdF4bAAAAAA==",
-      "title": "Patient Scheduler",
-      "company": "Axia Women's Health",
-      "location": "Voorhees Township, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/patient-scheduler-at-axia-women-s-health-4415567407",
-      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
     },
     {
       "id": "TkgKQX8VIIzhMDQlAAAAAA==",
@@ -56,7 +56,7 @@
       "company": "Intermountain Health",
       "location": "Arlington, Virginia",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/advanced-practice-provider-womens-health-intermountain-health-arlington--dc-776068727B9ABD695CF14EBF0A4685CE",
       "description_snippet": "Job Description: When you join us, you'll become a part of a nationally recognized health system dedicated to our mission of \\\"helping people live the healthiest lives possible.\\\"\n\nAbout this role: As",
@@ -68,11 +68,35 @@
       "company": "Summit Health Medical Group",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/womens-heath-nurse-practitioner-experienced-summit-health-medical-group-washington--dc-3120BEA8DD983B75CFD7D92ACDA1D6AB",
       "description_snippet": "About Our Company We're a physician-led, patient-centric network committed to simplifying health care and bringing a more connected kind of care. Our primary, multispecialty, and urgent care providers",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0"
+    },
+    {
+      "id": "jJyPEubayIY3RW8bAAAAAA==",
+      "title": "PA, Physician Assistant - Gynecology",
+      "company": "CHRISTUS Health",
+      "location": "Arlington, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/pa-physician-assistant-gynecology-christus-health-arlington--dc-6CCF2A4CB38101377A612D634A92ED66",
+      "description_snippet": "Description\n\nJob Summary We are seeking a\n\nPhysician Assistant to join our\n\nOB/GYN clinic in Texarkana, TX\n\n. This is a clinic-only position focused on providing comprehensive women's health services ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0GcUqPLmP2WdUwlgIlc4SQXk9tX9T9T6IHjx&s=0"
+    },
+    {
+      "id": "iKC3hykOPtV0AYEcAAAAAA==",
+      "title": "Clinical Chair, OB/GYN - Onvida Health",
+      "company": "Onvida Health",
+      "location": "Arlington, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/clinical-chair-ob-gyn-onvida-health-onvida-health-arlington--dc-5722DFB4F90E9197378CC96B31A8058C",
+      "description_snippet": "Onvida Health\n\n, a regional not-for-profit health system in Arizona, is seeking an accomplished physician leader to serve as the next Chair of Women's Health, providing strategic oversight and clinica",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpvo73b_jwJT1H_9agLsMzWD5zxqKA1nAo10o&s=0"
     },
     {
       "id": "PRGnYCv29JGcR2DUAAAAAA==",
@@ -80,11 +104,47 @@
       "company": "Bayer",
       "location": "Hanover, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "$116,880 - $175,320 (YEAR)",
       "apply_link": "https://www.learn4good.com/jobs/hanover-township/new-jersey/healthcare/5100667762/e/",
       "description_snippet": "Position: Brand Strategy Lead \u2014 Growth & Innovation\nBayer is seeking a Brand Manager in Hanover Township, New Jersey. The successful candidate will develop and execute brand strategies while leading c",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSI2gAXuh0RvRH3LPAggdvP1nEN0qa-E39cQk&s=0"
+    },
+    {
+      "id": "xkbArYHXiKnt3C_yAAAAAA==",
+      "title": "Lead Director, Strategy & Growth",
+      "company": "CVS Health",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0864289/Lead-Director-Strategy-Growth",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
+    },
+    {
+      "id": "GFpDY58rNqR1mhgGAAAAAA==",
+      "title": "Senior Brand Strategy Director \u2014 Insight-Driven Growth",
+      "company": "BGB Group",
+      "location": "None, Connecticut",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "$170,000 - $190,000 (YEAR)",
+      "apply_link": "https://www.jobleads.com/us/job/senior-brand-strategy-director-insight-driven-growth--connecticut--e0e559adfa793824b33c0c48cd1b832d8",
+      "description_snippet": "BGB Group seeks a Senior Director, Brand Strategy in the United States to lead strategic development and cross-functional collaboration within healthcare communications. This role involves synthesizin",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcV0sPGpuWjrkTVcpJ3M2pUTU7O8s91ZRcoLlX&s=0"
+    },
+    {
+      "id": "CTP4jF_XC8tSqGrdAAAAAA==",
+      "title": "Director, Access Marketing",
+      "company": "Zydus Therapeutics Inc.",
+      "location": "Hackensack, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-05-16T00:00:00.000Z",
+      "salary": "$125,000 - $150,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/hackensack/new-jersey/healthcare/5101255219/e/",
+      "description_snippet": "ROLE SUMMARY\n\nAs a key member of the Marketing and Market Access Teams, the Director of Access Marketing will be responsible for translating brand strategy into meaningful and compelling payer and pat",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2ogwRk-pjHxGGQgFVWbxrrvJ6ALUuRw1Zv-Y&s=0"
     },
     {
       "id": "PWL2a33909g3HIofAAAAAA==",
@@ -92,7 +152,7 @@
       "company": "Health Marketing",
       "location": "York, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/urology-locums-physician-at-health-marketing-4415145427",
       "description_snippet": "We are seeking a qualified Urology Locum Tenens provider to fulfill a temporary need in York, Pennsylvania. The ideal candidate will provide comprehensive urological care in a busy clinical setting, e",
@@ -104,23 +164,11 @@
       "company": "CVS Health",
       "location": "Dover, Delaware",
       "is_remote": false,
-      "date_posted": "2026-05-15T00:00:00.000Z",
+      "date_posted": "2026-05-16T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://jobs.cvshealth.com/us/en/job/R0858515/Clinical-Innovation-Lead-Director",
       "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
-    },
-    {
-      "id": "BlC7RKg-mGbEDtUXAAAAAA==",
-      "title": "Senior Director, Client Success",
-      "company": "Maven Clinic",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-05-15T00:00:00.000Z",
-      "salary": "$165,000 - $210,000 (YEAR)",
-      "apply_link": "https://jobs.femtechinsider.com/companies/maven-clinic/jobs/78907556-senior-director-client-success",
-      "description_snippet": "Maven is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Maven's award-winning digital programs provide clinical, emotional, and financial",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcAnD00kjG7_pd3eFdNeUI2yxV6QyUjX_QY6Z&s=0"
     }
   ]
 }
