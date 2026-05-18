@@ -1,18 +1,42 @@
 {
-  "last_updated": "2026-05-18T14:26:58.606984+00:00",
-  "job_count": 1,
+  "last_updated": "2026-05-18T23:59:44.517431+00:00",
+  "job_count": 3,
   "jobs": [
+    {
+      "id": "CJ41dZCGktw-0q7WAAAAAA==",
+      "title": "OB/GYN Generalist in Northern NJ, near NYC",
+      "company": "Confidential",
+      "location": "Bergenfield, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-05-17T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/ob-gyn-generalist-in-northern-nj-near-nyc-confidential-bergenfield--dc-7E9295A09B488BDF927BF592CFBE20CF",
+      "description_snippet": "Englewood Women's Health, an Axia Women's Health care center, is seeking a BE/BC\n\nObstetrician/Gynecologist (Ob/Gyn) Associate Physician to join their established practice. Locations: Englewood, NJ an",
+      "employer_logo": null
+    },
     {
       "id": "mo1dcf_hfzKoFc-aAAAAAA==",
       "title": "Obstetrics & Gynecology Physician - UNC Women's Health at Clayton/Smithfield",
       "company": "UNC Health",
       "location": "None, Virginia",
       "is_remote": false,
-      "date_posted": "2026-05-18T00:00:00.000Z",
+      "date_posted": "2026-05-17T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/obstetrics-gynecology-physician-unc-womens-health-at-clayton-smithfield-unc-health-isle-of-wight--dc-36EF81AB7EAE72C6322E5659AEAFCDBD",
       "description_snippet": "UNC Health Medical Group and UNC Women's Health at Smithfield & Clayton, located in Smithfield & Clayton, NC, are currently seeking a BC/BE, OBGYN, Obstetrics & Gynecology Physician to join their grou",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKTNasdCVTIq2xmEAwFkRtB307QvGfGMjHaRJ&s=0"
+    },
+    {
+      "id": "9-ePLMvPkO7X0JPJAAAAAA==",
+      "title": "Director of Business Development, HHS",
+      "company": "Coforma",
+      "location": "North Bethesda, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-05-17T00:00:00.000Z",
+      "salary": "$174,400 - $187,007 (YEAR)",
+      "apply_link": "https://bebee.com/us/jobs/director-of-business-development-hhs-coforma-north-bethesda--bs-us-3c2a2132-260c-40ec-99b2-4cfb87056c66",
+      "description_snippet": "Director of Business Development, HHS\nDepartment: Growth\nEmployment Type: Full Time\n\nLocation: Remote (select US states)\n\nReporting To: Imogen Thomas\n\nCompensation: $174,400 - $187,007 / year\n\nDescrip",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://coforma.io&size=128"
     }
   ]
 }
