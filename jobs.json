@@ -1,78 +1,18 @@
 {
-  "last_updated": "2026-05-17T23:53:01.714437+00:00",
-  "job_count": 6,
+  "last_updated": "2026-05-18T14:26:58.606984+00:00",
+  "job_count": 1,
   "jobs": [
-    {
-      "id": "C2FlQTwUl-R-gfr-AAAAAA==",
-      "title": "OBGYN Chair - Vassar Brothers Medical Center - Poughkeepsie, New York (75 minutes north of New York City)",
-      "company": "Northwell Health Physician Partners",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/obgyn-chair-vassar-brothers-medical-center-poughkeepsie-new-york-75-minutes-north-of-new-york-city-n--jobg8-3109701458",
-      "description_snippet": "Vassar Brothers Medical Center, located 75 minutes north of New York City, has an excellent opportunity for a regional OBGYN Chair of the women's health service line. This is a unique opportunity to b",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0"
-    },
-    {
-      "id": "CrVOLzbgJTmslNT5AAAAAA==",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "Pediatrix Medical Group",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/womens-health-nurse-practitioner-pediatrix-medical-group-washington--dc-45C26BDF8A1D81F33719D0CA84C6A595",
-      "description_snippet": "Requisition ID: Location\n\nUS-WA-Everett Specialty:\n\nWomen's Health Nurse Practitioner Position Type:\n\nFull Time HR Rep / Recruiter:\n\nMarquise Courseault Contact: Overview Exciting Women's Health Nurse",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4BxDovGEmsdi5d6WYRrTh8WOBVmYlQKo7Tdqt&s=0"
-    },
     {
       "id": "mo1dcf_hfzKoFc-aAAAAAA==",
       "title": "Obstetrics & Gynecology Physician - UNC Women's Health at Clayton/Smithfield",
       "company": "UNC Health",
       "location": "None, Virginia",
       "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
+      "date_posted": "2026-05-18T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://bebee.com/us/jobs/obstetrics-gynecology-physician-unc-womens-health-at-clayton-smithfield-unc-health-isle-of-wight--dc-36EF81AB7EAE72C6322E5659AEAFCDBD",
       "description_snippet": "UNC Health Medical Group and UNC Women's Health at Smithfield & Clayton, located in Smithfield & Clayton, NC, are currently seeking a BC/BE, OBGYN, Obstetrics & Gynecology Physician to join their grou",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKTNasdCVTIq2xmEAwFkRtB307QvGfGMjHaRJ&s=0"
-    },
-    {
-      "id": "SwmsMK-R04OQ-EL3AAAAAA==",
-      "title": "Licensed Practical Nurse - Sign-On Bonus",
-      "company": "Health Marketing",
-      "location": "Elmwood Park, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/licensed-practical-nurse-sign-on-bonus-at-health-marketing-4415407575",
-      "description_snippet": "We are seeking a compassionate and dedicated Licensed Practical Nurse (LPN) to join our team in Elmwood Park, New Jersey. This position offers a sign-on bonus and the opportunity to make a positive im",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "CxzXuFsonlZqPXcDAAAAAA==",
-      "title": "Senior Brand Strategy Director \u2014 Insight-Driven",
-      "company": "BGB Group",
-      "location": "Darien, Connecticut",
-      "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
-      "salary": "$170,000 - $190,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/darien/connecticut/healthcare/5103007552/e/",
-      "description_snippet": "Position: Senior Brand Strategy Director \u2014 Insight-Driven Growth\nBGB Group seeks a Senior Director, Brand Strategy in the United States to lead strategic development and cross-functional collaboration",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcV0sPGpuWjrkTVcpJ3M2pUTU7O8s91ZRcoLlX&s=0"
-    },
-    {
-      "id": "snTguk_yIP4ATAidAAAAAA==",
-      "title": "Travel Nurse - RN - Progressive Care Unit",
-      "company": "Health Marketing",
-      "location": "Leonardtown, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-05-16T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-progressive-care-unit-at-health-marketing-4415408504",
-      "description_snippet": "We are seeking a dedicated Travel Nurse - RN for the Progressive Care Unit (PCU) in Leonardtown, Maryland. This dynamic role offers an exciting opportunity to provide exceptional patient care in a fas",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
