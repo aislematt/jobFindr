@@ -1,18 +1,78 @@
 {
-  "last_updated": "2026-06-10T00:06:43.380118+00:00",
-  "job_count": 4,
+  "last_updated": "2026-06-10T14:19:45.685103+00:00",
+  "job_count": 7,
   "jobs": [
     {
-      "id": "xE3trNCqDf7altVlAAAAAA==",
-      "title": "Licensed Practical Nurse - Womens Health Cherry Drive",
-      "company": "Penn State Health",
+      "id": "wC1J7ef3rKPLOL24AAAAAA==",
+      "title": "Certified Medical Assistant (CMA) I",
+      "company": "Axia Women's Health",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-06-10T03:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/certified-medical-assistant-cma-i-at-axia-women-s-health-4426713660",
+      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
+    },
+    {
+      "id": "XTq65Vdb31vlPLJNAAAAAA==",
+      "title": "NIH Data Science to Advance Women\u2019s Health Research",
+      "company": "Oak Ridge Institute for Science and Education",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/nih-data-science-to-advance-women%E2%80%99s-health-research-at-oak-ridge-institute-for-science-and-education-4426571641",
+      "description_snippet": "Organization\n\nNational Institutes of Health (NIH)\n\nReference Code\n\nNIH-DPCPSI-ORWH-DataScience-2026\n\nHow To Apply\n\nClick on Apply below to start your application. An initial review of applications wil",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECwJyf4PmFwwdc-kgSyiuLlYMei1TVAfPzAQn&s=0"
+    },
+    {
+      "id": "hHppGTJ6gRQUPNgTAAAAAA==",
+      "title": "NIH New Approach Methodologies (NAMs) and Women\u2019s Health",
+      "company": "Oak Ridge Institute for Science and Education",
+      "location": "Bethesda, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/nih-new-approach-methodologies-nams-and-women%E2%80%99s-health-at-oak-ridge-institute-for-science-and-education-4426550996",
+      "description_snippet": "Organization\n\nNational Institutes of Health (NIH)\n\nReference Code\n\nNIH-DPCPSI-ORWH-NAM-2026\n\nHow To Apply\n\nClick on Apply below to start your application. An initial review of applications will occur ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECwJyf4PmFwwdc-kgSyiuLlYMei1TVAfPzAQn&s=0"
+    },
+    {
+      "id": "XYj73wwPuFSCpAgYAAAAAA==",
+      "title": "Licensed Practical Nurse (Bilingual Women\u2019s Health)",
+      "company": "Mitchell Martin Inc.",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-06-09T21:00:00.000Z",
+      "salary": "$30 - $33 (HOUR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/licensed-practical-nurse-bilingual-women%E2%80%99s-health-at-mitchell-martin-inc-4422757485",
+      "description_snippet": "Licensed Practical Nurse - Bilingual Women's Health - Newark, NJ (Onsite) - Full Time - 5 days/week, 07:45am-04:45pm-$30.00-$33.00 Per Hr\n\nTitle: Licensed Practical Nurse (Bilingual Women\u2019s Health)\n\nL",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIC2sIqptUx29V1FgbRT3luBOvpsjPRQZsOhq&s=0"
+    },
+    {
+      "id": "YPoHb304Ho80bwfeAAAAAA==",
+      "title": "RN Registered Nurse - Inpatient Nurse Women's Health 1",
+      "company": "Hershey Medical Center",
       "location": "Hershey, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-06-09T05:00:00.000Z",
+      "date_posted": "2026-06-09T18:00:00.000Z",
       "salary": "",
-      "apply_link": "https://jobboard.bmes.org/jobs/22337083/licensed-practical-nurse-womens-health-cherry-drive",
-      "description_snippet": "\u2022 *$5,000 Sign-On Bonus - eligible to those that qualify**?\n\nPenn State Health - Hershey Medical Center\n\nLocation: US:PA: Hershey\nWork Type: Full Time\nFTE: 1.00\nShift: Varied\nHours: Varied\nRecruiter C",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pennstatehealth.org&size=128"
+      "apply_link": "https://www.indeed.com/viewjob?jk=dea897e27b229ba4",
+      "description_snippet": "***$10,000 SIGN-ON BONUS - eligible to those that qualify ***\n\nPenn State Health - Hershey Medical Center\n\nLocation: US:PA: Hershey\nWork Type: Full Time\nFTE: 0.90\nShift: Night\nNight Shift Differential",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0MoGkbaNKl81iL1PFqQqO-yMkqVAJE5Xjfo3&s=0"
+    },
+    {
+      "id": "VwqVBqTByOhv4f3JAAAAAA==",
+      "title": "Womens Health Nurse Practitioner",
+      "company": "Medlead Careers",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-06-09T17:00:00.000Z",
+      "salary": "$150,000 - $160,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/Medlead-Careers/Job/Womens-Health-Nurse-Practitioner/-in-Rego-Park,NY?jid=48b6dccb69074718",
+      "description_snippet": "A well-established and growing outpatient GYN practice in Manhattan is seeking a GYN Nurse Practitioner to join its dedicated team.\n\nWe are looking for a provider who is compassionate, collaborative, ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpC0rA6udtROtERyhsVOQqitsbvXeUrK7mkcd1&s=0"
     },
     {
       "id": "-qG1qFPqjnFj-IMyAAAAAA==",
@@ -20,35 +80,11 @@
       "company": "Guidehouse",
       "location": "McLean, Virginia",
       "is_remote": false,
-      "date_posted": "2026-06-09T04:00:00.000Z",
+      "date_posted": "2026-06-09T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/managing-consultant-strategy-transformation-federal-health-at-guidehouse-4425986526",
       "description_snippet": "Job Family\n\nStrategy & Transformation Consulting\n\nTravel Required\n\nUp to 25%\n\nClearance Required\n\nAbility to Obtain Public Trust\n\nWhat You Will Do\n\nAs a Managing Consultant within our Federal Health p",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHu760mZcVMrxAGr7Cs29-UvvD16to5FQy0Z&s=0"
-    },
-    {
-      "id": "xKavvXKlRbih6FfGAAAAAA==",
-      "title": "Director - U.S. Public Policy",
-      "company": "Fresenius Medical Care",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-06-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.freseniusmedicalcare.com/director-u-s-public-policy/job/AA76BE0268316D20489D1421B7771293",
-      "description_snippet": "PURPOSE AND SCOPE:\n\nThe Director of U.S. Public Policy (Drug, Device & FDA Focus) is responsible for shaping and advancing policy strategies that support market access, reimbursement, and regulatory s",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh66t173KH9-5cvdimedwknWthE6DKLXpU2yPI&s=0"
-    },
-    {
-      "id": "GT1gL2si2cEShpWzAAAAAA==",
-      "title": "Maternity Care Support Specialist",
-      "company": "Femtech Insider Ltd.",
-      "location": "Norwalk, Connecticut",
-      "is_remote": false,
-      "date_posted": "2026-06-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.talent.com/view?id=623074952447208183",
-      "description_snippet": "Femtech Insider Ltd. is looking for a Patient Care Support Associate in Norwalk, CT. This full-time role focuses on providing exceptional support to patients through inquiries, scheduling, and collabo",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
