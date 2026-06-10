@@ -1,42 +1,54 @@
 {
-  "last_updated": "2026-06-09T13:40:18.996550+00:00",
-  "job_count": 3,
+  "last_updated": "2026-06-10T00:06:43.380118+00:00",
+  "job_count": 4,
   "jobs": [
+    {
+      "id": "xE3trNCqDf7altVlAAAAAA==",
+      "title": "Licensed Practical Nurse - Womens Health Cherry Drive",
+      "company": "Penn State Health",
+      "location": "Hershey, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-06-09T05:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobboard.bmes.org/jobs/22337083/licensed-practical-nurse-womens-health-cherry-drive",
+      "description_snippet": "\u2022 *$5,000 Sign-On Bonus - eligible to those that qualify**?\n\nPenn State Health - Hershey Medical Center\n\nLocation: US:PA: Hershey\nWork Type: Full Time\nFTE: 1.00\nShift: Varied\nHours: Varied\nRecruiter C",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pennstatehealth.org&size=128"
+    },
     {
       "id": "-qG1qFPqjnFj-IMyAAAAAA==",
       "title": "Managing Consultant - Strategy & Transformation, Federal Health",
       "company": "Guidehouse",
       "location": "McLean, Virginia",
       "is_remote": false,
-      "date_posted": "2026-06-09T03:00:00.000Z",
+      "date_posted": "2026-06-09T04:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/managing-consultant-strategy-transformation-federal-health-at-guidehouse-4425986526",
       "description_snippet": "Job Family\n\nStrategy & Transformation Consulting\n\nTravel Required\n\nUp to 25%\n\nClearance Required\n\nAbility to Obtain Public Trust\n\nWhat You Will Do\n\nAs a Managing Consultant within our Federal Health p",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHu760mZcVMrxAGr7Cs29-UvvD16to5FQy0Z&s=0"
     },
     {
-      "id": "TD4wa5QoVtoobS8vAAAAAA==",
-      "title": "Engagement Manager - Healthcare",
-      "company": "Ipsos in US",
+      "id": "xKavvXKlRbih6FfGAAAAAA==",
+      "title": "Director - U.S. Public Policy",
+      "company": "Fresenius Medical Care",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-06-08T14:00:00.000Z",
+      "date_posted": "2026-06-09T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/engagement-manager-healthcare-at-ipsos-in-us-4359754812",
-      "description_snippet": "Job Description\n\nWhat makes this role important at Ipsos?\n\nAt Ipsos, we are passionately curious about people, markets, brands, and society. We deliver information and analysis that make our complex w",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLTxYYWNQu1j8PtPjFHv01mJHiM9M8tDXoc9d&s=0"
+      "apply_link": "https://jobs.freseniusmedicalcare.com/director-u-s-public-policy/job/AA76BE0268316D20489D1421B7771293",
+      "description_snippet": "PURPOSE AND SCOPE:\n\nThe Director of U.S. Public Policy (Drug, Device & FDA Focus) is responsible for shaping and advancing policy strategies that support market access, reimbursement, and regulatory s",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh66t173KH9-5cvdimedwknWthE6DKLXpU2yPI&s=0"
     },
     {
-      "id": "30IHNhdnqS1JxFi-AAAAAA==",
-      "title": "Head of Brand (FemTech, DTC) | Irvine, CA",
-      "company": "Brelia Inc.",
-      "location": "Irvine, California",
+      "id": "GT1gL2si2cEShpWzAAAAAA==",
+      "title": "Maternity Care Support Specialist",
+      "company": "Femtech Insider Ltd.",
+      "location": "Norwalk, Connecticut",
       "is_remote": false,
-      "date_posted": "2026-06-08T00:00:00.000Z",
-      "salary": "$200,000 - $300,000 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=03e9b74a8d56acfe",
-      "description_snippet": "Company: Brelia (www.brelia.com)\n\nOffice Address: 8845 Research Drive, Suite 120, Irvine, CA 92618 (On-Site, In-Office Required)\n\nEmployment Type: Full-Time\n\nAbout Brelia\n\nBrelia is a premium DTC well",
-      "employer_logo": null
+      "date_posted": "2026-06-09T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.talent.com/view?id=623074952447208183",
+      "description_snippet": "Femtech Insider Ltd. is looking for a Patient Care Support Associate in Norwalk, CT. This full-time role focuses on providing exceptional support to patients through inquiries, scheduling, and collabo",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
