@@ -1,30 +1,18 @@
 {
-  "last_updated": "2026-06-13T00:15:38.971351+00:00",
-  "job_count": 7,
+  "last_updated": "2026-06-13T12:21:37.013246+00:00",
+  "job_count": 4,
   "jobs": [
     {
-      "id": "7crfGPlfbf6cNJtDAAAAAA==",
-      "title": "Marketing Coordinator (Pharma / Healthcare)",
-      "company": "LanceSoft, Inc.",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-06-12T14:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/marketing-coordinator-pharma-healthcare-at-lancesoft-inc-4425308042",
-      "description_snippet": "\u2022 The Associate Product Manager supports the execution of commercial strategy for assigned pharmaceutical products, with a primary focus on managing relationships with external advertising agencies.\n\u2022",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzp-TqtMv96Cn9hLCYRYg5-gvOV6i8FCI9eTP&s=0"
-    },
-    {
-      "id": "vK0OHrXsAQtQu_WrAAAAAA==",
-      "title": "Regional VP, Sales - Health Systems Sales",
-      "company": "LucyRx",
-      "location": "Bethesda, Maryland",
+      "id": "XDb14rdDh_3uxhYdAAAAAA==",
+      "title": "Mental Health Therapist",
+      "company": "Health Marketing",
+      "location": "Jersey City, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-06-12T12:00:00.000Z",
+      "date_posted": "2026-06-12T18:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/regional-vp-sales-health-systems-sales-at-lucyrx-4425917292",
-      "description_snippet": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nWe're committed to bringing passion and customer focus to the business.\n\nThe Regional Vice President - Sales is account",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZT5andpC5wpf8eii0ueyZLTspOY0_6foT0NyZ&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/mental-health-therapist-at-health-marketing-4426987614",
+      "description_snippet": "Seeking a fully licensed Mental Health Therapist (master's level or higher) with valid credentials, NPI, and malpractice insurance to launch or expand a private practice.\n\nWage: Up to $121.8/hour.\n\nBe",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
       "id": "HqXGNQRyZ4GrYU4aAAAAAA==",
@@ -32,7 +20,7 @@
       "company": "Centerlight Healthcare, Inc.",
       "location": "Bronx, New York",
       "is_remote": false,
-      "date_posted": "2026-06-12T09:00:00.000Z",
+      "date_posted": "2026-06-12T00:00:00.000Z",
       "salary": "$90,000 - $120,000 (YEAR)",
       "apply_link": "https://www.theladders.com/job/women-s-health-general-manager-centerlight-healthcare-inc-bronx-ny_87272794",
       "description_snippet": "Job Summary\n\nThe General Manager, Women's Health is responsible for overseeing operations across multipleWomen's Health locations, ensuring consistent workflows, exceptional patient experience, andope",
@@ -44,47 +32,23 @@
       "company": "Essen Health Care",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-06-12T02:00:00.000Z",
+      "date_posted": "2026-06-12T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/women-s-health-supervisor-at-essen-health-care-4426697686",
       "description_snippet": "Essen Health Care is the largest privately held, multispecialty medical group in New York, providing high-quality, compassionate care to some of the state\u2019s most vulnerable and underserved residents.\n",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjk4AT8E7394dqe3g6KmiKsdjh74wLVSASioAQ&s=0"
     },
     {
-      "id": "gpnsHySUWAFVC9mWAAAAAA==",
-      "title": "Manager, Brand Marketing - Healthcare & Pharma",
-      "company": "The Trade Desk",
-      "location": "None, None",
+      "id": "vK0OHrXsAQtQu_WrAAAAAA==",
+      "title": "Regional VP, Sales - Health Systems Sales",
+      "company": "LucyRx",
+      "location": "Bethesda, Maryland",
       "is_remote": false,
       "date_posted": "2026-06-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.thetradedesk.com/jobs/5158015007/manager-brand-marketing-healthcare-pharma",
-      "description_snippet": "The Trade Desk is a global technology company and the world\u2019s leading independent platform for digital advertising, with nearly 4,000 employees across more than 30 offices. Our technology helps advert",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTri5t88Fu6WuuJSU8Xe68NcUZdyQs1gRTgWf00&s=0"
-    },
-    {
-      "id": "V6WYbzRgwFZDe77lAAAAAA==",
-      "title": "VP, Brand Strategy \u2014 Shape Global Healthcare Brands",
-      "company": "Real Chemistry, Inc.",
-      "location": "Boston, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.whatjobs.com/jobs/vp-brand-strategy-shape/boston-virginia?id=2798335099",
-      "description_snippet": "Real Chemistry, Inc. is seeking a VP, Brand Strategy to lead the global brand and communications strategy. The ideal candidate will work closely with cross-functional teams to ensure impactful healthc",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITGs2pKQ1-cQueuw7EYjxja_Um2GfjAuw8_tT&s=0"
-    },
-    {
-      "id": "OEBxNFTWZo7-KXW0AAAAAA==",
-      "title": "Regional Campaigns Director",
-      "company": "Femtech Insider Ltd.",
-      "location": "Champaign, Illinois",
-      "is_remote": false,
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "salary": "$100,000 - $125,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/champaign/illinois/non-profit/5172592843/e/",
-      "description_snippet": "Planned Parenthood is the nation\u2019s leading provider and advocate of high-quality, affordable sexual and reproductive health care for all people, as well as the nation\u2019s largest provider of sex educati",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+      "apply_link": "https://www.linkedin.com/jobs/view/regional-vp-sales-health-systems-sales-at-lucyrx-4425917292",
+      "description_snippet": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nWe're committed to bringing passion and customer focus to the business.\n\nThe Regional Vice President - Sales is account",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZT5andpC5wpf8eii0ueyZLTspOY0_6foT0NyZ&s=0"
     }
   ]
 }
