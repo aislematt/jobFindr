@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T12:58:58.027408+00:00",
-  "job_count": 2,
+  "last_updated": "2026-06-15T00:04:57.559981+00:00",
+  "job_count": 1,
   "jobs": [
     {
       "id": "-c57zA58THUhJV7eAAAAAA==",
@@ -8,23 +8,11 @@
       "company": "BBG Ventures",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-06-13T21:00:00.000Z",
+      "date_posted": "2026-06-14T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/head-of-health-systems-strategy-at-bbg-ventures-4427405462",
       "description_snippet": "Our mission: to eliminate every barrier to mental health.\n\nAt Spring Health, we\u2019re on a mission to revolutionize mental healthcare by removing every barrier that prevents people from getting the help ",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3qm-SVdn9vAwTyOqhCMcW6mhcKyLX-TUxpa5&s=0"
-    },
-    {
-      "id": "YyM5j7aYfKW0f5nNAAAAAA==",
-      "title": "Site Medical Director - Women's Health, Rose M Singer Center",
-      "company": "NYC Health + Hospitals",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-06-13T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.marithealth.com/jobs/7ac2692d-bfa0-4c68-a868-85be0962197f",
-      "description_snippet": "NYC Health + Hospitals/Correctional Health Services is seeking a Site Medical Director for Women's Health at the Rose M Singer Center (RMSC) at Rikers Island. This role involves overseeing medical car",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL-8XnW6_VeXbvjrjRxFqh9XZZcRmBrg90j59&s=0"
     }
   ]
 }
