@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-16T00:25:35.117382+00:00",
-  "job_count": 3,
+  "last_updated": "2026-06-16T15:50:53.786806+00:00",
+  "job_count": 6,
   "jobs": [
+    {
+      "id": "XGQRljcXoF1EbYzZAAAAAA==",
+      "title": "Healthcare Business Development Advisor",
+      "company": "KeyBank",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-16T04:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/healthcare-business-development-advisor-at-keybank-4426461675",
+      "description_snippet": "Location:\n\n124 East 14th Street, Suite 1100, New York New York\n\nJob Summary\n\nThe Business Development Advisor is responsible for developing and nurturing relationships with prospective and existing he",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbrqkDJ2UjSR992iNCluFij2RoTmrB8zrYzFW&s=0"
+    },
+    {
+      "id": "7xDKjd1HpIjSOf8nAAAAAA==",
+      "title": "Manager, Brand & Talent Marketing",
+      "company": "VNS Health",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-16T01:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/manager-brand-talent-marketing-at-vns-health-4426455378",
+      "description_snippet": "Overview\n\nDevelops, implements, and manages marketing communications to help achieve business goals, regulatory compliance, and to support individual business unit needs. Contributes to overall succes",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHNXcML4KQA9WCTCOk0BkeE3wMV2eaJmcd6xC&s=0"
+    },
+    {
+      "id": "EaRQncXwI5tu3q_-AAAAAA==",
+      "title": "Regional Campaigns Director",
+      "company": "Femtech Insider Ltd.",
+      "location": "Missoula, Montana",
+      "is_remote": false,
+      "date_posted": "2026-06-15T23:00:00.000Z",
+      "salary": "$100,000 - $125,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/missoula/montana/non-profit/5180062989/e/",
+      "description_snippet": "Planned Parenthood is the nation\u2019s leading provider and advocate of high-quality, affordable sexual and reproductive health care for all people, as well as the nation\u2019s largest provider of sex educati",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
+    {
+      "id": "Bg3k0x9Uxlq-kzrmAAAAAA==",
+      "title": "Senior Multistate Campaigns Director",
+      "company": "Femtech Insider Ltd.",
+      "location": "Lee's Summit, Missouri",
+      "is_remote": false,
+      "date_posted": "2026-06-15T23:00:00.000Z",
+      "salary": "$105,000 - $110,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/lees-summit/missouri/non-profit/5179648249/e/",
+      "description_snippet": "Location: Lee's Summit\n\nA non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 ",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
+    {
+      "id": "KmvmStGXOSJIuOe-AAAAAA==",
+      "title": "Senior Multistate Campaigns Director",
+      "company": "Femtech Insider Ltd.",
+      "location": "North Charleston, South Carolina",
+      "is_remote": false,
+      "date_posted": "2026-06-15T23:00:00.000Z",
+      "salary": "$105,000 - $110,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/north-charleston/south-carolina/non-profit/5180036265/e/",
+      "description_snippet": "A non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 years of experience in c",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
     {
       "id": "T7vlYmFEIbvOLC6LAAAAAA==",
       "title": "Medical Marketing Specialist (m/f/x)*",
@@ -13,30 +73,6 @@
       "apply_link": "https://www.linkedin.com/jobs/view/medical-marketing-specialist-m-f-x-at-solventum-4297666604",
       "description_snippet": "Thank you for your interest in joining Solventum. Solventum is a new healthcare company with a long legacy of solving big challenges that improve lives and help healthcare professionals perform at the",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1vJoJc9BFzE9Qnj6n8fKPgKA9FbAhkCKRlzx&s=0"
-    },
-    {
-      "id": "VsnQVWP9iKAHqXAFAAAAAA==",
-      "title": "Senior Multistate Campaigns Director",
-      "company": "Femtech Insider Ltd.",
-      "location": "Schenectady, New York",
-      "is_remote": false,
-      "date_posted": "2026-06-15T00:00:00.000Z",
-      "salary": "$105,000 - $110,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/schenectady/new-york/non-profit/5178991457/e/",
-      "description_snippet": "A non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 years of experience in c",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
-    },
-    {
-      "id": "J29tcAU46E1QjgbqAAAAAA==",
-      "title": "Director, Category Management; Store",
-      "company": "Femtech Insider Ltd.",
-      "location": "Tucson, Arizona",
-      "is_remote": false,
-      "date_posted": "2026-06-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.learn4good.com/jobs/tucson/arizona/business/5179386332/e/",
-      "description_snippet": "Position: Director, Category Management (Store Growth)\n\nHi \ud83d\udc4b I\u2019m Em \u2014 SVP of Growth at Midi Health.\n\nWe\u2019ve built one of the fastest-growing women\u2019s health platforms in the U.S. Now we\u2019re scaling our n",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
