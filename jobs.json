@@ -1,14 +1,50 @@
 {
-  "last_updated": "2026-06-16T15:50:53.786806+00:00",
-  "job_count": 6,
+  "last_updated": "2026-06-17T00:12:13.526636+00:00",
+  "job_count": 10,
   "jobs": [
+    {
+      "id": "rdk5mo1_drrrdljBAAAAAA==",
+      "title": "Account Based Marketing Specialist - Consumer Healthcare",
+      "company": "Wiley",
+      "location": "Hoboken, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-06-16T16:00:00.000Z",
+      "salary": "$89,100 - $128,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/account-based-marketing-specialist-consumer-healthcare-at-wiley-4426851359",
+      "description_snippet": "Job Description\n\nWe believe in bold ideas, diverse perspectives, and the drive to transform knowledge into impact. Here, your curiosity fuels progress, your voice shapes innovation, and your ambition ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQHgsT4xocOkhymhRD6Zh-FelQHcKRpIOBJcv&s=0"
+    },
+    {
+      "id": "gXZI_CsK5t23DcZgAAAAAA==",
+      "title": "White Plains, New York \u2013 Women\u2019s Health Nurse Practitioner Job",
+      "company": "RecruitWell",
+      "location": "White Plains, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-16T11:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20427248/white-plains-new-york-womens-health-nurse-practitioner-job",
+      "description_snippet": "White Plains, New York, Women's Health Nurse Practitioner Job\n\n\u2022 Clinical Role:\n\no Do you know someone that might be a good fit for this position? Please ask about our generous referral fees!\n\no Perma",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://recruitwell.com&size=128"
+    },
+    {
+      "id": "WTzp-lGRtptRzMczAAAAAA==",
+      "title": "B2B Marketing Strategy Partner - Health100",
+      "company": "CVS Health",
+      "location": "Annapolis, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-06-16T07:00:00.000Z",
+      "salary": "$54,300 - $159,120 (YEAR)",
+      "apply_link": "https://www.indeed.com/viewjob?jk=6499b9c2a1cdbf34",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHP11rnvL_EujABQVZTqUrJDWZENGgxuz_nrHY&s=0"
+    },
     {
       "id": "XGQRljcXoF1EbYzZAAAAAA==",
       "title": "Healthcare Business Development Advisor",
       "company": "KeyBank",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-06-16T04:00:00.000Z",
+      "date_posted": "2026-06-16T05:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/healthcare-business-development-advisor-at-keybank-4426461675",
       "description_snippet": "Location:\n\n124 East 14th Street, Suite 1100, New York New York\n\nJob Summary\n\nThe Business Development Advisor is responsible for developing and nurturing relationships with prospective and existing he",
@@ -27,27 +63,39 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHNXcML4KQA9WCTCOk0BkeE3wMV2eaJmcd6xC&s=0"
     },
     {
+      "id": "Nrc9rHCCiVsZN1j8AAAAAA==",
+      "title": "Director of Narrative & Brand Strategy ($100k-$150k + Equity) at Doctours",
+      "company": "Jack & Jill",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-of-narrative-brand-strategy-%24100k-%24150k-%2B-equity-at-doctours-at-jack-jill-4427747523",
+      "description_snippet": "This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network.\n\nThe next step is to speak to Jack.\n\nJob Title\n\n",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVzXznTxtj1WpnvJA1UNkxw_sR7KE7luERTzk&s=0"
+    },
+    {
+      "id": "T7vlYmFEIbvOLC6LAAAAAA==",
+      "title": "Medical Marketing Specialist (m/f/x)*",
+      "company": "Solventum",
+      "location": "Vienna, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/medical-marketing-specialist-m-f-x-at-solventum-4297666604",
+      "description_snippet": "Thank you for your interest in joining Solventum. Solventum is a new healthcare company with a long legacy of solving big challenges that improve lives and help healthcare professionals perform at the",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1vJoJc9BFzE9Qnj6n8fKPgKA9FbAhkCKRlzx&s=0"
+    },
+    {
       "id": "EaRQncXwI5tu3q_-AAAAAA==",
       "title": "Regional Campaigns Director",
       "company": "Femtech Insider Ltd.",
       "location": "Missoula, Montana",
       "is_remote": false,
-      "date_posted": "2026-06-15T23:00:00.000Z",
+      "date_posted": "2026-06-16T00:00:00.000Z",
       "salary": "$100,000 - $125,000 (YEAR)",
       "apply_link": "https://www.learn4good.com/jobs/missoula/montana/non-profit/5180062989/e/",
       "description_snippet": "Planned Parenthood is the nation\u2019s leading provider and advocate of high-quality, affordable sexual and reproductive health care for all people, as well as the nation\u2019s largest provider of sex educati",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
-    },
-    {
-      "id": "Bg3k0x9Uxlq-kzrmAAAAAA==",
-      "title": "Senior Multistate Campaigns Director",
-      "company": "Femtech Insider Ltd.",
-      "location": "Lee's Summit, Missouri",
-      "is_remote": false,
-      "date_posted": "2026-06-15T23:00:00.000Z",
-      "salary": "$105,000 - $110,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/lees-summit/missouri/non-profit/5179648249/e/",
-      "description_snippet": "Location: Lee's Summit\n\nA non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 ",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     },
     {
@@ -56,23 +104,23 @@
       "company": "Femtech Insider Ltd.",
       "location": "North Charleston, South Carolina",
       "is_remote": false,
-      "date_posted": "2026-06-15T23:00:00.000Z",
+      "date_posted": "2026-06-16T00:00:00.000Z",
       "salary": "$105,000 - $110,000 (YEAR)",
       "apply_link": "https://www.learn4good.com/jobs/north-charleston/south-carolina/non-profit/5180036265/e/",
       "description_snippet": "A non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 years of experience in c",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     },
     {
-      "id": "T7vlYmFEIbvOLC6LAAAAAA==",
-      "title": "Medical Marketing Specialist (m/f/x)*",
-      "company": "Solventum",
-      "location": "Vienna, Virginia",
+      "id": "nVBuMyzuiYAYFe7iAAAAAA==",
+      "title": "Director, Category Management; Store",
+      "company": "Femtech Insider Ltd.",
+      "location": "Warner Robins, Georgia",
       "is_remote": false,
-      "date_posted": "2026-06-15T16:00:00.000Z",
+      "date_posted": "2026-06-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/medical-marketing-specialist-m-f-x-at-solventum-4297666604",
-      "description_snippet": "Thank you for your interest in joining Solventum. Solventum is a new healthcare company with a long legacy of solving big challenges that improve lives and help healthcare professionals perform at the",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1vJoJc9BFzE9Qnj6n8fKPgKA9FbAhkCKRlzx&s=0"
+      "apply_link": "https://www.learn4good.com/jobs/warner-robins/georgia/business/5180575041/e/",
+      "description_snippet": "Position: Director, Category Management (Store Growth)\n\nHi \ud83d\udc4b I\u2019m Em \u2014 SVP of Growth at Midi Health.\n\nWe\u2019ve built one of the fastest-growing women\u2019s health platforms in the U.S. Now we\u2019re scaling our n",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
