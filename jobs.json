@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-18T13:59:00.415240+00:00",
-  "job_count": 6,
+  "last_updated": "2026-06-19T00:21:28.094172+00:00",
+  "job_count": 10,
   "jobs": [
+    {
+      "id": "tfYvRCCPmBg6IsDbAAAAAA==",
+      "title": "Team Lead - Creative Services Marketing",
+      "company": "Amergis Healthcare Staffing",
+      "location": "Columbia, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-06-18T15:00:00.000Z",
+      "salary": "$80,000 - $95,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/team-lead-creative-services-marketing-at-amergis-healthcare-staffing-4430496139",
+      "description_snippet": "The Creative Services Team Lead leads a multidisciplinary team in delivering high-quality, forward-thinking creative assets across all Amergis brands. This role provides creative direction for assigne",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UP4rHcwO3IdjIJwPv3xLtTRAn_6v9vVlgEAM&s=0"
+    },
     {
       "id": "wLmgfNofe9zV3vIgAAAAAA==",
       "title": "Medical Assistant - Women's health - Valley Stream",
@@ -15,16 +27,28 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8byMa9yxey0vKBP19YLJ8cmLNsZhAQ8xZwvV&s=0"
     },
     {
-      "id": "fgoB9CGGBbR_tALDAAAAAA==",
-      "title": "Senior Multistate Campaigns Director",
-      "company": "Femtech Insider Ltd.",
-      "location": "North Las Vegas, Nevada",
+      "id": "TlCokk-vkPx1AW4BAAAAAA==",
+      "title": "Womens Health Nurse Practitioner (Full-Time) | Bronx, NY",
+      "company": "The Provider Finder",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-06-17T23:00:00.000Z",
-      "salary": "$105,000 - $110,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/north-las-vegas/nevada/non-profit/5186211197/e/",
-      "description_snippet": "A non-profit health organization is seeking a Regional Campaigns Director to lead advocacy and electoral campaigns across multiple states. The ideal candidate will have over 7 years of experience in c",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/The-Provider-Finder/Job/Womens-Health-Nurse-Practitioner-(Full-Time)-%7C-Bronx,-NY/-in-New-York,NY?jid=9a849b5d66f54db3",
+      "description_snippet": "Organization OverviewAs one of the region\u2019s largest and most comprehensive multi-specialty medical networks, the organization is dedicated to improving patient outcomes through prevention, education, ",
+      "employer_logo": null
+    },
+    {
+      "id": "ElZ5VpoT3xKzDtBmAAAAAA==",
+      "title": "Behavioral Health Program Director - Urgent Hiring!",
+      "company": "Lancesoft INC",
+      "location": "Roxboro, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "$65,000 - $80,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/LanceSoft/Job/Behavioral-Health-Program-Director-Urgent-Hiring!/-in-Roxboro,NC?jid=25bac413d2487bba",
+      "description_snippet": "Program Director\n\nLocation: Roxboro, NC\n\nSalary:\n\n$65,000 - $80,000 per year\n\nEmployment Type:\n\nFull-Time\n\nAbout the Opportunity\n\nWe are seeking an experienced and compassionate Program Director to le",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128"
     },
     {
       "id": "ASUtuE-mbVQ6HGEWAAAAAA==",
@@ -32,7 +56,7 @@
       "company": "LifeBridge Health",
       "location": "Owings Mills, Maryland",
       "is_remote": false,
-      "date_posted": "2026-06-17T20:00:00.000Z",
+      "date_posted": "2026-06-18T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/director-digital-marketing-and-analytics-at-lifebridge-health-4430121475",
       "description_snippet": "Summary\n\nLifeBridge Health is seeking a Director of Digital Marketing and Analytics to join our Marketing team. You will act as a primary care coordinator for surgeons, referring physicians, nursing s",
@@ -44,35 +68,59 @@
       "company": "FTI Consulting",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-06-17T19:00:00.000Z",
+      "date_posted": "2026-06-18T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/consultant-center-for-healthcare-economics-and-policy-at-fti-consulting-4430118086",
       "description_snippet": "Who We Are\n\nFTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world\u2019s top multinational corporations, law firms, banks and p",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5hNUPOCTBXS-CH2wJuFT3zOzyDsK-XzFSVgq&s=0"
     },
     {
-      "id": "PgILXiX0ebnvd93mAAAAAA==",
-      "title": "Business Consulting - Life Sciences - Senior - Consulting - Location OPEN",
-      "company": "EY",
-      "location": "McLean, Virginia",
+      "id": "nXzTGAVUWXASivcHAAAAAA==",
+      "title": "Director, Supply Chain & Strategy \u2014 AI-Driven",
+      "company": "Femtech Insider Ltd.",
+      "location": "San Francisco, California",
       "is_remote": false,
-      "date_posted": "2026-06-17T19:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/business-consulting-life-sciences-senior-consulting-location-open-at-ey-4427378956",
-      "description_snippet": "Location: Anywhere in Country\n\nAt EY, we\u2019re all in to shape your future with confidence.\n\nWe\u2019ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you w",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZ66B6ghniNTEFs4o7QLTG1RvcBKx1cs9hzyP&s=0"
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "$226,000 - $266,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/san-francisco/california/healthcare/5188370793/e/",
+      "description_snippet": "Position: Director, Supply Chain & Strategy \u2014 AI-Driven Growth\n\nFemtech Insider Ltd. in San Francisco is seeking a Director of Supply Chain & Strategy to lead supply chain operations aligning with bus",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     },
     {
-      "id": "ElZ5VpoT3xKzDtBmAAAAAA==",
-      "title": "Behavioral Health Program Director - Urgent Hiring!",
-      "company": "Lancesoft INC",
-      "location": "Roxboro, North Carolina",
+      "id": "tlUCqkFljIh6XAihAAAAAA==",
+      "title": "Product Design Technologist - Prototyping & Fabrication",
+      "company": "Femtech Insider Ltd.",
+      "location": "None, None",
       "is_remote": false,
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "salary": "$65,000 - $80,000 (YEAR)",
-      "apply_link": "https://www.ziprecruiter.com/c/LanceSoft/Job/Behavioral-Health-Program-Director-Urgent-Hiring!/-in-Roxboro,NC?jid=25bac413d2487bba",
-      "description_snippet": "Program Director\n\nLocation: Roxboro, NC\n\nSalary:\n\n$65,000 - $80,000 per year\n\nEmployment Type:\n\nFull-Time\n\nAbout the Opportunity\n\nWe are seeking an experienced and compassionate Program Director to le",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128"
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.talent.com/view?id=624420742381897797",
+      "description_snippet": "Femtech Insider Ltd. is looking for a Product Design Technologist in San Francisco. This role emphasizes fabrication and prototyping, requiring strong skills in CAD and machining. The candidate will w",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
+    {
+      "id": "HxYubOTWetLiQD70AAAAAA==",
+      "title": "Category Director - Store Revenue & Merch",
+      "company": "Femtech Insider Ltd.",
+      "location": "South Burlington, Vermont",
+      "is_remote": false,
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "$100,000 - $125,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/south-burlington/vermont/business/5187311989/e/",
+      "description_snippet": "Position: Category Growth Director - Store Revenue & Merch\nA growing health tech company in the U.S. is seeking an experienced Category Operator to lead the growth of their Care + Commerce segments. T",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
+    },
+    {
+      "id": "sSFK2rKpd-C67cM_AAAAAA==",
+      "title": "Category Director - Store Revenue & Merch",
+      "company": "Femtech Insider Ltd.",
+      "location": "Town of Rockingham, Vermont",
+      "is_remote": false,
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "salary": "$100,000 - $125,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/bellows-falls/vermont/business/5187210095/e/",
+      "description_snippet": "Position: Category Growth Director - Store Revenue & Merch\nA growing health tech company in the U.S. is seeking an experienced Category Operator to lead the growth of their Care + Commerce segments. T",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
