@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-06-20T12:24:49.831582+00:00",
-  "job_count": 8,
+  "last_updated": "2026-06-21T00:02:20.403981+00:00",
+  "job_count": 7,
   "jobs": [
+    {
+      "id": "8vx8qFCVmSuSAFbKAAAAAA==",
+      "title": "Senior Managing Director, Performance Improvement, Healthcare",
+      "company": "Ankura",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-20T13:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-managing-director-performance-improvement-healthcare-at-ankura-4412182271",
+      "description_snippet": "Ankura is a team of excellence founded on innovation and growth.\n\nPractice Overview\n\nOur Performance Improvement practice provides extensive industry expertise combined with data-driven, objective, an",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagekARiQQOZHGnX7F_Jw9Tm2eo5C6R5cqEKx_&s=0"
+    },
+    {
+      "id": "nrZl3WhVQd4FhD_EAAAAAA==",
+      "title": "Ambulatory Care Nurse - NYU Langone Women's Health - New Hyde Park",
+      "company": "NYU Langone Health",
+      "location": "New Hyde Park, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.indeed.com/viewjob?jk=870a61d31c2fcf84",
+      "description_snippet": "Job ID: 1161496_RR00119631\n\nFacility: NYU Langone Hospital\u2013Long Island\n\nPosition Type: Full-Time/Regular\n\nShift: Day\n\nSchedule: Mon \u2013 Fri; 9am-5pm\n\nDepartment: Medical Office Support, NYU Langone Hosp",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1IJGVg1mtutlxjn6Qke5EauT8lYxXmSe_Fpd&s=0"
+    },
+    {
+      "id": "4bvoWPW-HG6vO5n1AAAAAA==",
+      "title": "Contract Women's Health Nurse Practitioner - Columbia, MD",
+      "company": "ProTouch Staffing",
+      "location": "Columbia, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-06-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20020204/contract-womens-health-nurse-practitioner-columbia-md",
+      "description_snippet": "Contract Nurse Practitioner - Women's Health\n\n\ud83d\udccd Columbia, MD | \ud83d\udd52 13-weeks Contract\r\n\r\nResponsibilities\r\n\r\n\u2022 \r\nConduct well-woman and gynecological exams.\r\n\n\r\n\u2022 \r\nDiagnose/manage pelvic pain, endometri",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://protouchstaffing.com&size=128"
+    },
+    {
+      "id": "aVvT71Wv3EkxITTdAAAAAA==",
+      "title": "Growth Marketing Manager - Behavioral Health",
+      "company": "Northeast Family Services",
+      "location": "New Rochelle, New York",
+      "is_remote": false,
+      "date_posted": "2026-06-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/growth-marketing-manager-behavioral-health-at-northeast-family-services-4430021935",
+      "description_snippet": "Growth Marketing Manager\n\nRemote (NY, MA, or RI)| Full-Time\n\nAt Northeast Family Services, we believe quality behavioral healthcare should be accessible, responsive, and available when people need it ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpoEvZtpp1n3uMZxGx7RNY2WKK8gkrKj9Gl4w&s=0"
+    },
     {
       "id": "YoIby-JIZfjoNmRnAAAAAA==",
       "title": "Travel Physical Therapist (PT)",
@@ -15,28 +63,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "aVvT71Wv3EkxITTdAAAAAA==",
-      "title": "Growth Marketing Manager - Behavioral Health",
-      "company": "Northeast Family Services",
-      "location": "New Rochelle, New York",
+      "id": "5P5kCQnkR0eFTQO9AAAAAA==",
+      "title": "VP, Brand Strategy \u2014 Healthcare Innovation Leader",
+      "company": "Real Chemistry",
+      "location": "Lambertville, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-06-19T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/growth-marketing-manager-behavioral-health-at-northeast-family-services-4430021935",
-      "description_snippet": "Growth Marketing Manager\n\nRemote (NY, MA, or RI)| Full-Time\n\nAt Northeast Family Services, we believe quality behavioral healthcare should be accessible, responsive, and available when people need it ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpoEvZtpp1n3uMZxGx7RNY2WKK8gkrKj9Gl4w&s=0"
-    },
-    {
-      "id": "nrZl3WhVQd4FhD_EAAAAAA==",
-      "title": "Ambulatory Care Nurse - NYU Langone Women's Health - New Hyde Park",
-      "company": "NYU Langone Health",
-      "location": "New Hyde Park, New York",
-      "is_remote": false,
-      "date_posted": "2026-06-19T20:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.indeed.com/viewjob?jk=870a61d31c2fcf84",
-      "description_snippet": "Job ID: 1161496_RR00119631\n\nFacility: NYU Langone Hospital\u2013Long Island\n\nPosition Type: Full-Time/Regular\n\nShift: Day\n\nSchedule: Mon \u2013 Fri; 9am-5pm\n\nDepartment: Medical Office Support, NYU Langone Hosp",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1IJGVg1mtutlxjn6Qke5EauT8lYxXmSe_Fpd&s=0"
+      "date_posted": "2026-06-20T00:00:00.000Z",
+      "salary": "$195,000 - $225,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/new-jersey/marketing_and_pr/5197179426/e/",
+      "description_snippet": "Location: Lambertville\n\nReal Chemistry is on the lookout for a VP, Brand Strategy to lead their brand and communications strategy. This role offers an opportunity to inspire a creative team and tackle",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITGs2pKQ1-cQueuw7EYjxja_Um2GfjAuw8_tT&s=0"
     },
     {
       "id": "7dbArrTofBsWoUWxAAAAAA==",
@@ -44,59 +80,11 @@
       "company": "Health Marketing",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-06-19T18:00:00.000Z",
+      "date_posted": "2026-06-20T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/certified-dental-assistant-11101-%E2%86%92-dental-assistant-at-health-marketing-4430014159",
       "description_snippet": "Seeking a Certified Dental Assistant with CDA and X-ray licenses to support clinical operations. Responsibilities include seating patients, preparing treatment units, assisting during examinations and",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "4bvoWPW-HG6vO5n1AAAAAA==",
-      "title": "Contract Women's Health Nurse Practitioner - Columbia, MD",
-      "company": "ProTouch Staffing",
-      "location": "Columbia, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-06-19T14:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20020204/contract-womens-health-nurse-practitioner-columbia-md",
-      "description_snippet": "Contract Nurse Practitioner - Women's Health\n\n\ud83d\udccd Columbia, MD | \ud83d\udd52 13-weeks Contract\r\n\r\nResponsibilities\r\n\r\n\u2022 \r\nConduct well-woman and gynecological exams.\r\n\n\r\n\u2022 \r\nDiagnose/manage pelvic pain, endometri",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://protouchstaffing.com&size=128"
-    },
-    {
-      "id": "nHIZwXg9NwXexfpaAAAAAA==",
-      "title": "Registered Nurse, Ambulatory, Full Time, Days, AMG Women's Health, Cedar Knolls, NJ",
-      "company": "Atlantic Health System",
-      "location": "Rockaway, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "salary": "$70,000 - $95,000 (YEAR)",
-      "apply_link": "https://www.theladders.com/job/registered-nurse-ambulatory-full-time-days-amg-women-s-health-cedar-knolls-nj-atlantichealthsysteminc-rockaway-nj_87362965",
-      "description_snippet": "Job Description\n\nRegistered Nurse:\n\nAccountabilities:\n\u2022 Budget Responsibility: Assists management with maintaining par inventory levels in a fiscally responsible manner.\n\u2022 Authority/Decision Making: T",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTdaiGNP5rIoZCeMxy1-D45D4VzUvJkTVWP8rb&s=0"
-    },
-    {
-      "id": "wDKuhBAzhqouY0N3AAAAAA==",
-      "title": "Marketing Strategist",
-      "company": "Texas Health Resources",
-      "location": "Arlington, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "salary": "$70,000 - $95,000 (YEAR)",
-      "apply_link": "https://www.theladders.com/job/marketing-strategist-texas-health-resources-arlington-va_87360710",
-      "description_snippet": "Marketing Strategist\n\nWork Location: Remote: Texas Health Corporate, 612 E. Lamar Blvd., Arlington, TX 76011\n\nWork Hours: Full Time Days (8:00am-5:00pm) for 40 hrs/week (remote work allowed at manager",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVis49mUS7AJDc7wK36X2mPGIyrDE7iibTY9K1&s=0"
-    },
-    {
-      "id": "LSYbNjd8yfIN-CxBAAAAAA==",
-      "title": "Senior Staff Product Manager, Fertility & Family Building",
-      "company": "Maven Clinic",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "salary": "$245,000 - $340,000 (YEAR)",
-      "apply_link": "https://jobs.femtechinsider.com/companies/maven-clinic/jobs/83347416-senior-staff-product-manager-fertility-family-building",
-      "description_snippet": "Maven is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Maven's award-winning digital programs provide clinical, emotional, and financial",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcAnD00kjG7_pd3eFdNeUI2yxV6QyUjX_QY6Z&s=0"
     }
   ]
 }
