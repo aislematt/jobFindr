@@ -1,30 +1,66 @@
 {
-  "last_updated": "2026-07-09T00:03:48.897838+00:00",
-  "job_count": 8,
+  "last_updated": "2026-07-09T13:45:18.893633+00:00",
+  "job_count": 6,
   "jobs": [
     {
-      "id": "11F7dJyTbGUQjy6vAAAAAA==",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "BMS Family Health and Wellness Centers",
-      "location": "Lynbrook, New York",
+      "id": "ASUtuE-mbVQ6HGEWAAAAAA==",
+      "title": "Director- Digital Marketing and Analytics",
+      "company": "LifeBridge Health",
+      "location": "Owings Mills, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-07-09T09:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-digital-marketing-and-analytics-at-lifebridge-health-4430121475",
+      "description_snippet": "Summary\n\nLifeBridge Health is seeking a Director of Digital Marketing and Analytics to join our Marketing team. You will act as a primary care coordinator for surgeons, referring physicians, nursing s",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
+    },
+    {
+      "id": "Nrc9rHCCiVsZN1j8AAAAAA==",
+      "title": "Director of Narrative & Brand Strategy ($100k-$150k + Equity) at Doctours",
+      "company": "Jack & Jill",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-07-09T01:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-of-narrative-brand-strategy-%24100k-%24150k-%2B-equity-at-doctours-at-jack-jill-4437336290",
+      "description_snippet": "This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network.\n\nThe next step is to speak to Jack.\n\nJob Title\n\n",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVzXznTxtj1WpnvJA1UNkxw_sR7KE7luERTzk&s=0"
+    },
+    {
+      "id": "W3K5LKJDNDtVfZyBAAAAAA==",
+      "title": "Market Development Director",
+      "company": "Behavioral Health Group - BHG",
+      "location": "Hagerstown, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-07-08T16:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/market-development-director-at-behavioral-health-group-bhg-4437067844",
+      "description_snippet": "Compensation: $90,000 - 120,000 + Bonus structure\n\nTravel Requirements: 50% remote, 50% travel within the greater DMV area.\n\nJob Summary\n\nThe Manager of Partnerships serves as a pivotal liaison, foste",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQlWSJFRIkMrdkNKXcOzvFEGxKCAcVG6ZmYkd&s=0"
+    },
+    {
+      "id": "q56YnwWxwbzUo_2bAAAAAA==",
+      "title": "Nurse Practitioner - Women's Health",
+      "company": "Bedford Stuyvesant Family Health Center",
+      "location": "New York, New York",
       "is_remote": false,
       "date_posted": "2026-07-08T15:00:00.000Z",
       "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/womens-health-nurse-practitioner-lynbrook-new-york/2866295867-2/",
-      "description_snippet": "Job Summary\n\nThe Women's Health Nurse Practitioner (WHNP) plays a vital role in delivering high-quality, comprehensive healthcare tailored to women of all ages within an OB/GYN practice. This position",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bmsfamilyhealth.org&size=128"
+      "apply_link": "https://www.linkedin.com/jobs/view/nurse-practitioner-women-s-health-at-bedford-stuyvesant-family-health-center-4437058856",
+      "description_snippet": "The Bedford-Stuyvesant Family Health Center (BSFHC) is a patient-centered, team based multi-specialty practice in central Brooklyn. BSFHC has been providing affordable, comprehensive, outpatient medic",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe-B69aIrDqSGo0zUJbL2lCE7SQ1m5u52wOLk&s=0"
     },
     {
-      "id": "9pEKl3Q3JKpXUMPvAAAAAA==",
-      "title": "Marketing Representative (Healthcare)",
-      "company": "SoTalent",
-      "location": "Princeton, New Jersey",
+      "id": "WA1IN6cuYRYcNgE0AAAAAA==",
+      "title": "IT Clinical Trainer",
+      "company": "Axia Women's Health",
+      "location": "Voorhees Township, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-07-08T13:00:00.000Z",
+      "date_posted": "2026-07-08T15:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/marketing-representative-healthcare-at-sotalent-4434856142",
-      "description_snippet": "Hospital Liaison / Marketing Representative\n\nAn opportunity is available for an experienced Hospital Liaison / Marketing Representative to support business development and referral growth for a skille",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjKyzl30jL2eYFJLWyAQhVQb0Zg7ks7SQrT0T&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/it-clinical-trainer-at-axia-women-s-health-4438262009",
+      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
     },
     {
       "id": "ZAsJ9MKTEevdOMu7AAAAAA==",
@@ -32,71 +68,11 @@
       "company": "Full Stack FemTech Inc.",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-07-08T05:00:00.000Z",
+      "date_posted": "2026-07-08T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.ziprecruiter.com/c/Full-Stack-FemTech/Job/Remote-Outbound-Sales-Health-Tech-AI-Business-Development/-in-Remote,US?jid=c9f553f5786cdaf3",
       "description_snippet": "Job Title: Business Development and Sales \u2013 Healthcare AI & Digital Solutions\n\nRole Type: Independent Contractor (Commission-Only)\n\nIndustry: Agentic AI & Digital Healthcare Software Development\n\nAbou",
       "employer_logo": null
-    },
-    {
-      "id": "xDe5lweDJWNC2W2LAAAAAA==",
-      "title": "Director of Marketing \u2013 Behavioral Health Services",
-      "company": "Advanced Telepsych PLLC",
-      "location": "Cheshire, Connecticut",
-      "is_remote": false,
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "salary": "$110,000 - $140,000 (YEAR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-of-marketing-%E2%80%93-behavioral-health-services-at-advanced-telepsych-pllc-4437889804",
-      "description_snippet": "Position Summary\n\nThe Director of Marketing is the organization's senior marketing leader and reports directly to the Chief Executive Officer. This is a hands-on, individual contributor role responsib",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://advancedtelepsych.org&size=128"
-    },
-    {
-      "id": "7xDKjd1HpIjSOf8nAAAAAA==",
-      "title": "Manager, Brand & Talent Marketing",
-      "company": "VNS Health",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/manager-brand-talent-marketing-at-vns-health-4426455378",
-      "description_snippet": "Overview\n\nDevelops, implements, and manages marketing communications to help achieve business goals, regulatory compliance, and to support individual business unit needs. Contributes to overall succes",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHNXcML4KQA9WCTCOk0BkeE3wMV2eaJmcd6xC&s=0"
-    },
-    {
-      "id": "vAvAhJxmagr-d2RcAAAAAA==",
-      "title": "Director/Senior Director, Healthcare CEO Programs",
-      "company": "The Health Management Academy",
-      "location": "Arlington, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-senior-director-healthcare-ceo-programs-at-the-health-management-academy-4437827301",
-      "description_snippet": "The Health Management Academy (THMA) brings together health system leaders and innovators to collectively address the industry\u2019s biggest challenges and opportunities. By assisting executives in cultiv",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHhq5jw3tpXvtKm7mvu4Ykdqxi16QH_dhRuz7&s=0"
-    },
-    {
-      "id": "Pf9Kn21hha45WHcUAAAAAA==",
-      "title": "Director, Category Management; Store",
-      "company": "Femtech Insider Ltd.",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "salary": "$100,000 - $140,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/new-york/business/5266797168/e/",
-      "description_snippet": "Position: Director, Category Management (Store Growth)\nLocation: New York\n\nHi \ud83d\udc4b I\u2019m Em \u2014 SVP of Growth at Midi Health.\n\nWe\u2019ve built one of the fastest-growing women\u2019s health platforms in the U.S. Now ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
-    },
-    {
-      "id": "GUWE6DTLojVAyVWeAAAAAA==",
-      "title": "Category Director - Store Revenue & Merch",
-      "company": "Femtech Insider Ltd.",
-      "location": "Philadelphia, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "salary": "$100,000 - $140,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/philadelphia/pennsylvania/business/5266591801/e/",
-      "description_snippet": "Position: Category Growth Director - Store Revenue & Merch\nA growing health tech company in the U.S. is seeking an experienced Category Operator to lead the growth of their Care + Commerce segments. T",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://femtechinsider.com&size=128"
     }
   ]
 }
