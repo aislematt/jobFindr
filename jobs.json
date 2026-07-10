@@ -1,42 +1,18 @@
 {
-  "last_updated": "2026-07-10T13:07:00.051740+00:00",
-  "job_count": 7,
+  "last_updated": "2026-07-10T23:53:33.707986+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "Nrc9rHCCiVsZN1j8AAAAAA==",
-      "title": "Director of Narrative & Brand Strategy ($100k-$150k + Equity) at Doctours",
-      "company": "Jack & Jill",
-      "location": "New York, New York",
+      "id": "HYE1LYrdYUmFSyrWAAAAAA==",
+      "title": "Generalist/Director of Ambulatory Care in OB/GYN",
+      "company": "LifeBridge Health",
+      "location": "Baltimore, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-10T08:00:00.000Z",
+      "date_posted": "2026-07-10T09:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-of-narrative-brand-strategy-%24100k-%24150k-%2B-equity-at-doctours-at-jack-jill-4437964642",
-      "description_snippet": "This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network.\n\nThe next step is to speak to Jack.\n\nJob Title\n\n",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVzXznTxtj1WpnvJA1UNkxw_sR7KE7luERTzk&s=0"
-    },
-    {
-      "id": "xgydQ9KyIGUNhF71AAAAAA==",
-      "title": "Women's Health Nurse Practitioner - Virtua Maternal Fetal Medicine",
-      "company": "VIRTUA HEALTH",
-      "location": "Voorhees Township, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.ziprecruiter.com/c/VIRTUA-HEALTH/Job/Womens-Health-Nurse-Practitioner-Virtua-Maternal-Fetal-Medicine/-in-Voorhees-Township,NJ?jid=2f17ed522f0ccd56",
-      "description_snippet": "At Virtua Health, we exist for one reason - to better serve you. That means being here for you in all the moments that matter, striving each day to connect you to the care you need. Whether that's wel",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ofDq8i3ZE8Gf5zaupYz6Ne1fT7MxHWbhattH&s=0"
-    },
-    {
-      "id": "cebjKwLB2y_08kr8AAAAAA==",
-      "title": "Creative Director, Healthcare, Ruder Finn",
-      "company": "Ruder Finn",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-09T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/creative-director-healthcare-ruder-finn-at-ruder-finn-4438845554",
-      "description_snippet": "Ruder Finn is one of the world's largest independent global communications and integrated marketing agencies, recognized for bold ideas, strategic thinking, and a culture that pushes what's next. The ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9tChp9hV1D23DzIg9aN9WyaIhdIXd_YqT56T&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/generalist-director-of-ambulatory-care-in-ob-gyn-at-lifebridge-health-4336222564",
+      "description_snippet": "Summary\n\nGeneralist/Director of Ambulatory Care in OB/GYN\n\nSinai Hospital of Baltimore\n\nLifeBridge Health System, Baltimore, Maryland\n\nThe Department of Obstetrics and Gynecology is seeking a board-ce",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
     },
     {
       "id": "5pxr69Ak5qGGh2TLAAAAAA==",
@@ -44,47 +20,47 @@
       "company": "Unified Women's Healthcare",
       "location": "Silver Spring, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-09T22:00:00.000Z",
+      "date_posted": "2026-07-09T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/multi-modality-breast-imaging-technologist-at-unified-women-s-healthcare-4438845162",
       "description_snippet": "Overview\n\nUnified is a nationwide community of providers, operations specialists, and thought leaders who look for the greatest opportunities to impact every woman\u2019s health, at every stage of their jo",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
     },
     {
-      "id": "kyDdEs63GdMnue7GAAAAAA==",
-      "title": "Contract Video Editor \u2014 Performance-Driven for Women\u2019s Health",
-      "company": "Maven-Clinic",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "salary": "$50 - $90 (HOUR)",
-      "apply_link": "https://www.mediabistro.com/jobs/3541672222-contract-video-editor-performance-driven-for-womens-health",
-      "description_snippet": "Maven-Clinic is seeking a Contract Video Editor based in New York, NY. This 3-month contract position involves creating and optimizing video ads for social media platforms. Candidates should have a da",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLnHVOAnir_U7vVrnP8EUtmgKxR2OzcGTqHiw&s=0"
-    },
-    {
-      "id": "ASUtuE-mbVQ6HGEWAAAAAA==",
-      "title": "Director- Digital Marketing and Analytics",
-      "company": "LifeBridge Health",
-      "location": "Owings Mills, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-digital-marketing-and-analytics-at-lifebridge-health-4430121475",
-      "description_snippet": "Summary\n\nLifeBridge Health is seeking a Director of Digital Marketing and Analytics to join our Marketing team. You will act as a primary care coordinator for surgeons, referring physicians, nursing s",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
-    },
-    {
-      "id": "YzhWkS8dm1Ll9wSIAAAAAA==",
-      "title": "Director of Healthcare Business Development, Government (CLEAR1 - B2B)",
-      "company": "CLEAR",
+      "id": "u3Ghyb3IABxCyETjAAAAAA==",
+      "title": "Marketing Strategy Intern (Fall 2026)",
+      "company": "Active Minds, Inc.",
       "location": "Washington, District of Columbia",
       "is_remote": false,
       "date_posted": "2026-07-09T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-of-healthcare-business-development-government-clear1-b2b-at-clear-4419970329",
-      "description_snippet": "CLEAR is building THE secure identity company of the future. Our mission is to make experiences safer and easier\u2014physically and digitally. With more than 38 million Members and a growing network of pa",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJmK6DzMnU04gVkx29GQm2vbRSfQVVghZse0y&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/marketing-strategy-intern-fall-2026-at-active-minds-inc-4437571167",
+      "description_snippet": "Position Title: Intern\n\nLocation: Remote, but must be a college student/grad residing in the U.S.\n\nAbout The Active Minds Internship Program\n\nActive Minds is the nation\u2019s leading nonprofit organizatio",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99_XuIAh-euaxiwngl4gWgJ8F_LnkrB22iJuR&s=0"
+    },
+    {
+      "id": "cebjKwLB2y_08kr8AAAAAA==",
+      "title": "Creative Director, Healthcare, Ruder Finn",
+      "company": "Ruder Finn",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/creative-director-healthcare-ruder-finn-at-ruder-finn-4438845554",
+      "description_snippet": "Ruder Finn is one of the world's largest independent global communications and integrated marketing agencies, recognized for bold ideas, strategic thinking, and a culture that pushes what's next. The ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9tChp9hV1D23DzIg9aN9WyaIhdIXd_YqT56T&s=0"
+    },
+    {
+      "id": "JVj2LMqHc4nk_5gFAAAAAA==",
+      "title": "Ecommerce Growth Lead (Remote) | PDP & Digital Shelf Expert",
+      "company": "Femtech Insider Ltd.",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.mediabistro.com/jobs/3541683924-ecommerce-growth-lead-remote-pdp-digital-shelf-expert",
+      "description_snippet": "Femtech Insider Ltd. is seeking an E-Commerce Manager to join their Digital & E-commerce team in Miami, FL. This role focuses on enhancing e-commerce presence with responsibilities including product s",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLnHVOAnir_U7vVrnP8EUtmgKxR2OzcGTqHiw&s=0"
     }
   ]
 }
