@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-07-09T13:45:18.893633+00:00",
-  "job_count": 6,
+  "last_updated": "2026-07-10T00:00:00.513723+00:00",
+  "job_count": 4,
   "jobs": [
+    {
+      "id": "f1BUTdmt7EMKp-HZAAAAAA==",
+      "title": "Sr. Product Marketing Manager - Tech, Healthcare and Life Sciences Industry, AWS Industry Marketing",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Arlington, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-07-09T12:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-tech-healthcare-and-life-sciences-industry-aws-industry-marketing-at-amazon-web-services-aws-4389949993",
+      "description_snippet": "Description\n\nAre you a tech-savvy storyteller who can translate complex cloud solutions into compelling customer value? At AWS, we're seeking a Product Marketing Manager who can shape the future of cl",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhrsiwqZ87o_GbEtiPnJBd_9_wDeh86Wk6uMM&s=0"
+    },
     {
       "id": "ASUtuE-mbVQ6HGEWAAAAAA==",
       "title": "Director- Digital Marketing and Analytics",
       "company": "LifeBridge Health",
       "location": "Owings Mills, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-09T09:00:00.000Z",
+      "date_posted": "2026-07-09T08:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/director-digital-marketing-and-analytics-at-lifebridge-health-4430121475",
       "description_snippet": "Summary\n\nLifeBridge Health is seeking a Director of Digital Marketing and Analytics to join our Marketing team. You will act as a primary care coordinator for surgeons, referring physicians, nursing s",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
-    },
-    {
-      "id": "Nrc9rHCCiVsZN1j8AAAAAA==",
-      "title": "Director of Narrative & Brand Strategy ($100k-$150k + Equity) at Doctours",
-      "company": "Jack & Jill",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-09T01:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-of-narrative-brand-strategy-%24100k-%24150k-%2B-equity-at-doctours-at-jack-jill-4437336290",
-      "description_snippet": "This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.\n\nShe will pick the best candidates from Jack's network.\n\nThe next step is to speak to Jack.\n\nJob Title\n\n",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPVzXznTxtj1WpnvJA1UNkxw_sR7KE7luERTzk&s=0"
     },
     {
       "id": "W3K5LKJDNDtVfZyBAAAAAA==",
@@ -32,47 +32,23 @@
       "company": "Behavioral Health Group - BHG",
       "location": "Hagerstown, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-08T16:00:00.000Z",
+      "date_posted": "2026-07-08T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/market-development-director-at-behavioral-health-group-bhg-4437067844",
       "description_snippet": "Compensation: $90,000 - 120,000 + Bonus structure\n\nTravel Requirements: 50% remote, 50% travel within the greater DMV area.\n\nJob Summary\n\nThe Manager of Partnerships serves as a pivotal liaison, foste",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQlWSJFRIkMrdkNKXcOzvFEGxKCAcVG6ZmYkd&s=0"
     },
     {
-      "id": "q56YnwWxwbzUo_2bAAAAAA==",
-      "title": "Nurse Practitioner - Women's Health",
-      "company": "Bedford Stuyvesant Family Health Center",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-08T15:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/nurse-practitioner-women-s-health-at-bedford-stuyvesant-family-health-center-4437058856",
-      "description_snippet": "The Bedford-Stuyvesant Family Health Center (BSFHC) is a patient-centered, team based multi-specialty practice in central Brooklyn. BSFHC has been providing affordable, comprehensive, outpatient medic",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe-B69aIrDqSGo0zUJbL2lCE7SQ1m5u52wOLk&s=0"
-    },
-    {
-      "id": "WA1IN6cuYRYcNgE0AAAAAA==",
-      "title": "IT Clinical Trainer",
-      "company": "Axia Women's Health",
-      "location": "Voorhees Township, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-08T15:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/it-clinical-trainer-at-axia-women-s-health-4438262009",
-      "description_snippet": "Job Details\n\nDescription\n\nAxia Women's Health is the nation\u2019s largest community-based, integrated women's health network in the country serving women throughout New Jersey, Pennsylvania, Indiana, and ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29poaT6u9-txJNmruj8xlKdp_VeuD9hH6GdTf&s=0"
-    },
-    {
-      "id": "ZAsJ9MKTEevdOMu7AAAAAA==",
-      "title": "Remote Outbound Sales - Health Tech AI Business Development",
-      "company": "Full Stack FemTech Inc.",
-      "location": "New York, New York",
+      "id": "ZHxuu7ijy1WhAdkXAAAAAA==",
+      "title": "Senior Director / VP \u2013 Strategic Alliances & Partnerships (Microsoft + Workday Healthcare)",
+      "company": "InterScripts, Inc.",
+      "location": "Chantilly, Virginia",
       "is_remote": false,
       "date_posted": "2026-07-08T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.ziprecruiter.com/c/Full-Stack-FemTech/Job/Remote-Outbound-Sales-Health-Tech-AI-Business-Development/-in-Remote,US?jid=c9f553f5786cdaf3",
-      "description_snippet": "Job Title: Business Development and Sales \u2013 Healthcare AI & Digital Solutions\n\nRole Type: Independent Contractor (Commission-Only)\n\nIndustry: Agentic AI & Digital Healthcare Software Development\n\nAbou",
-      "employer_logo": null
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-director-vp-%E2%80%93-strategic-alliances-partnerships-microsoft-%2B-workday-healthcare-at-interscripts-inc-4438280665",
+      "description_snippet": "Senior Director / VP \u2013 Strategic Alliances & Partnerships (Microsoft + Workday Healthcare)\n\nLocation: Chantilly, Virginia (Onsite)\n\nEmployment Type: Full-Time\n\nPosition Overview:\n\nWe are seeking a sea",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVts40O83BnRjVNKVTfV4N831A-PEDDrRIf4Z&s=0"
     }
   ]
 }
