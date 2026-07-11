@@ -1,66 +1,90 @@
 {
-  "last_updated": "2026-07-10T23:53:33.707986+00:00",
-  "job_count": 5,
+  "last_updated": "2026-07-11T11:47:01.609597+00:00",
+  "job_count": 7,
   "jobs": [
+    {
+      "id": "UtONmwcLKn05GDSfAAAAAA==",
+      "title": "Registered Nurse, Ambulatory, Full Time - 8am-4pm, Women's Health, Clark",
+      "company": "Atlantic Health",
+      "location": "Clark, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-07-10T23:00:00.000Z",
+      "salary": "$42 - $74 (HOUR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-ambulatory-full-time-8am-4pm-women-s-health-clark-at-atlantic-health-4438379274",
+      "description_snippet": "Job Description\n\nJob Responsibilities/Essential Functions\n\n\u2022 Utilizes the nursing process effectively (assessing the patient and situation, identifying the problem, planning, implementing, and evaluat",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_07JghmEOeacVSADM5eqrJq2KUIRqfdjUnt8&s=0"
+    },
+    {
+      "id": "6o_LBvWCCsXibs3rAAAAAA==",
+      "title": "Registered Nurse - ICU/Telemetry/L&D, Per Diem",
+      "company": "Health Marketing",
+      "location": "Harpers Ferry, West Virginia",
+      "is_remote": false,
+      "date_posted": "2026-07-10T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-icu-telemetry-l-d-per-diem-at-health-marketing-4438370948",
+      "description_snippet": "Role Overview: This position seeks experienced Registered Nurses (RNs) for per diem assignments in various hospital specialties, including ICU, Telemetry, and Labor & Delivery.\n\nResponsibilities: Prov",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "q8XRIqWs6idUTTLLAAAAAA==",
+      "title": "Travel Radiology Tech - Weekly Pay",
+      "company": "Health Marketing",
+      "location": "Baltimore, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-07-10T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/travel-radiology-tech-weekly-pay-at-health-marketing-4438370879",
+      "description_snippet": "Radiology Tech\n\nLocation: Hagerstown, MD\n\nRole Overview: Responsible for performing radiologic procedures, specializing in interventional radiology, to assist in patient diagnosis and treatment. Ensur",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
+    },
+    {
+      "id": "v3lk9XcPyuv5nz6rAAAAAA==",
+      "title": "Communications and Marketing Specialist",
+      "company": "Mental Health Partnerships",
+      "location": "Philadelphia, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-07-10T15:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/communications-and-marketing-specialist-at-mental-health-partnerships-4438318967",
+      "description_snippet": "Apply\n\nDescription\n\nThe Communications and Marketing Specialist is responsible for driving MHP's digital communications, marketing, advocacy, donor engagement, and volunteer outreach efforts. This rol",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE10WXTv19Uwww5mQFqWocvvAId0ET0AMznYXt&s=0"
+    },
+    {
+      "id": "u83J8FU3W5dWkQcWAAAAAA==",
+      "title": "Associate Director / Director, Medical Science Liaison Womens Health",
+      "company": "BESTMSLs",
+      "location": "Little Ferry, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-07-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/associate-director-director-medical-science-liaison-womens-health-bestmsls-little-ferry--lensa-7428_7d6e3ec1f466e42d665a73854627145f723a5f795835a520324f626ded8523bf",
+      "description_snippet": "Associate Director / Director, Medical Science Liaison Womens Health\n\nUS--\n\nJob ID: 2026-1902\n\n# of Openings: 1\n\nCategory: Medical Science Liaison\n\nBESTMSLs\n\nOverview\n\nThis field-based Medical Science",
+      "employer_logo": null
+    },
     {
       "id": "HYE1LYrdYUmFSyrWAAAAAA==",
       "title": "Generalist/Director of Ambulatory Care in OB/GYN",
       "company": "LifeBridge Health",
       "location": "Baltimore, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-10T09:00:00.000Z",
+      "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/generalist-director-of-ambulatory-care-in-ob-gyn-at-lifebridge-health-4336222564",
       "description_snippet": "Summary\n\nGeneralist/Director of Ambulatory Care in OB/GYN\n\nSinai Hospital of Baltimore\n\nLifeBridge Health System, Baltimore, Maryland\n\nThe Department of Obstetrics and Gynecology is seeking a board-ce",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
     },
     {
-      "id": "5pxr69Ak5qGGh2TLAAAAAA==",
-      "title": "Multi-Modality Breast Imaging Technologist",
-      "company": "Unified Women's Healthcare",
-      "location": "Silver Spring, Maryland",
+      "id": "pt1BHomd2DHp-3iGAAAAAA==",
+      "title": "OFFICE SUPERVISOR- WOMEN'S HEALTH",
+      "company": "Independence Health System",
+      "location": "North Huntingdon, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-07-09T00:00:00.000Z",
+      "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/multi-modality-breast-imaging-technologist-at-unified-women-s-healthcare-4438845162",
-      "description_snippet": "Overview\n\nUnified is a nationwide community of providers, operations specialists, and thought leaders who look for the greatest opportunities to impact every woman\u2019s health, at every stage of their jo",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
-    },
-    {
-      "id": "u3Ghyb3IABxCyETjAAAAAA==",
-      "title": "Marketing Strategy Intern (Fall 2026)",
-      "company": "Active Minds, Inc.",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/marketing-strategy-intern-fall-2026-at-active-minds-inc-4437571167",
-      "description_snippet": "Position Title: Intern\n\nLocation: Remote, but must be a college student/grad residing in the U.S.\n\nAbout The Active Minds Internship Program\n\nActive Minds is the nation\u2019s leading nonprofit organizatio",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99_XuIAh-euaxiwngl4gWgJ8F_LnkrB22iJuR&s=0"
-    },
-    {
-      "id": "cebjKwLB2y_08kr8AAAAAA==",
-      "title": "Creative Director, Healthcare, Ruder Finn",
-      "company": "Ruder Finn",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/creative-director-healthcare-ruder-finn-at-ruder-finn-4438845554",
-      "description_snippet": "Ruder Finn is one of the world's largest independent global communications and integrated marketing agencies, recognized for bold ideas, strategic thinking, and a culture that pushes what's next. The ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9tChp9hV1D23DzIg9aN9WyaIhdIXd_YqT56T&s=0"
-    },
-    {
-      "id": "JVj2LMqHc4nk_5gFAAAAAA==",
-      "title": "Ecommerce Growth Lead (Remote) | PDP & Digital Shelf Expert",
-      "company": "Femtech Insider Ltd.",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.mediabistro.com/jobs/3541683924-ecommerce-growth-lead-remote-pdp-digital-shelf-expert",
-      "description_snippet": "Femtech Insider Ltd. is seeking an E-Commerce Manager to join their Digital & E-commerce team in Miami, FL. This role focuses on enhancing e-commerce presence with responsibilities including product s",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLnHVOAnir_U7vVrnP8EUtmgKxR2OzcGTqHiw&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/office-supervisor-women-s-health-at-independence-health-system-4437977103",
+      "description_snippet": "Job Summary/Overall Objectives\n\nThe Office Supervisor will be responsible for daily operation workflow on customer satisfaction in the office. This position oversees projects that are assigned to staf",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_1wFRhqOHuGg-VCDCmAfGUyNk_d-nWPYqnx9&s=0"
     }
   ]
 }
