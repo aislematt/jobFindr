@@ -1,42 +1,30 @@
 {
-  "last_updated": "2026-07-11T11:47:01.609597+00:00",
-  "job_count": 7,
+  "last_updated": "2026-07-11T23:47:02.446446+00:00",
+  "job_count": 5,
   "jobs": [
+    {
+      "id": "Nc9mq6GXp3kOrmNRAAAAAA==",
+      "title": "Manager, Health Plan Consulting",
+      "company": "ECG Management Consultants",
+      "location": "Arlington, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-07-11T01:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/manager-health-plan-consulting-at-ecg-management-consultants-4438904053",
+      "description_snippet": "Overview\n\nWith over 50 years of proven success, ECG, ranked as a Best Midsized Firm to Work For 2025 by Consulting Magazine, is the most experienced healthcare consulting firm in the US. Working exclu",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemyh6Fija51m5OAagkCc1qxdoioVSq4AjUbx5&s=0"
+    },
     {
       "id": "UtONmwcLKn05GDSfAAAAAA==",
       "title": "Registered Nurse, Ambulatory, Full Time - 8am-4pm, Women's Health, Clark",
       "company": "Atlantic Health",
       "location": "Clark, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-07-10T23:00:00.000Z",
+      "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "$42 - $74 (HOUR)",
       "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-ambulatory-full-time-8am-4pm-women-s-health-clark-at-atlantic-health-4438379274",
       "description_snippet": "Job Description\n\nJob Responsibilities/Essential Functions\n\n\u2022 Utilizes the nursing process effectively (assessing the patient and situation, identifying the problem, planning, implementing, and evaluat",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_07JghmEOeacVSADM5eqrJq2KUIRqfdjUnt8&s=0"
-    },
-    {
-      "id": "6o_LBvWCCsXibs3rAAAAAA==",
-      "title": "Registered Nurse - ICU/Telemetry/L&D, Per Diem",
-      "company": "Health Marketing",
-      "location": "Harpers Ferry, West Virginia",
-      "is_remote": false,
-      "date_posted": "2026-07-10T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-icu-telemetry-l-d-per-diem-at-health-marketing-4438370948",
-      "description_snippet": "Role Overview: This position seeks experienced Registered Nurses (RNs) for per diem assignments in various hospital specialties, including ICU, Telemetry, and Labor & Delivery.\n\nResponsibilities: Prov",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "q8XRIqWs6idUTTLLAAAAAA==",
-      "title": "Travel Radiology Tech - Weekly Pay",
-      "company": "Health Marketing",
-      "location": "Baltimore, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-07-10T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-radiology-tech-weekly-pay-at-health-marketing-4438370879",
-      "description_snippet": "Radiology Tech\n\nLocation: Hagerstown, MD\n\nRole Overview: Responsible for performing radiologic procedures, specializing in interventional radiology, to assist in patient diagnosis and treatment. Ensur",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
       "id": "v3lk9XcPyuv5nz6rAAAAAA==",
@@ -44,47 +32,35 @@
       "company": "Mental Health Partnerships",
       "location": "Philadelphia, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-07-10T15:00:00.000Z",
+      "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/communications-and-marketing-specialist-at-mental-health-partnerships-4438318967",
       "description_snippet": "Apply\n\nDescription\n\nThe Communications and Marketing Specialist is responsible for driving MHP's digital communications, marketing, advocacy, donor engagement, and volunteer outreach efforts. This rol",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE10WXTv19Uwww5mQFqWocvvAId0ET0AMznYXt&s=0"
     },
     {
-      "id": "u83J8FU3W5dWkQcWAAAAAA==",
-      "title": "Associate Director / Director, Medical Science Liaison Womens Health",
-      "company": "BESTMSLs",
-      "location": "Little Ferry, New Jersey",
+      "id": "Ky8ImuPpUE9bXFnvAAAAAA==",
+      "title": "Senior Strategy Manager, Customer Segment Strategy (Health Systems)",
+      "company": "Genentech",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
       "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/associate-director-director-medical-science-liaison-womens-health-bestmsls-little-ferry--lensa-7428_7d6e3ec1f466e42d665a73854627145f723a5f795835a520324f626ded8523bf",
-      "description_snippet": "Associate Director / Director, Medical Science Liaison Womens Health\n\nUS--\n\nJob ID: 2026-1902\n\n# of Openings: 1\n\nCategory: Medical Science Liaison\n\nBESTMSLs\n\nOverview\n\nThis field-based Medical Science",
-      "employer_logo": null
+      "apply_link": "https://careers.gene.com/us/en/job/202606-115483/Senior-Strategy-Manager-Customer-Segment-Strategy-Health-Systems",
+      "description_snippet": "The Position\nThe Opportunity\nAs the Senior Manager, Customer Segment Strategy - Health Systems, you will lead the development of access and contracting strategy recommendations across Genentech\u2019s port",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchGaonU9pLW2eBg3pGt-Za70WArd0XmPNun34&s=0"
     },
     {
-      "id": "HYE1LYrdYUmFSyrWAAAAAA==",
-      "title": "Generalist/Director of Ambulatory Care in OB/GYN",
-      "company": "LifeBridge Health",
-      "location": "Baltimore, Maryland",
+      "id": "6o_LBvWCCsXibs3rAAAAAA==",
+      "title": "Registered Nurse - ICU/Telemetry/L&D, Per Diem",
+      "company": "Health Marketing",
+      "location": "Harpers Ferry, West Virginia",
       "is_remote": false,
       "date_posted": "2026-07-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/generalist-director-of-ambulatory-care-in-ob-gyn-at-lifebridge-health-4336222564",
-      "description_snippet": "Summary\n\nGeneralist/Director of Ambulatory Care in OB/GYN\n\nSinai Hospital of Baltimore\n\nLifeBridge Health System, Baltimore, Maryland\n\nThe Department of Obstetrics and Gynecology is seeking a board-ce",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXM27nMUgojMRTjWxC24NOSVcYIve3cFtRRNE&s=0"
-    },
-    {
-      "id": "pt1BHomd2DHp-3iGAAAAAA==",
-      "title": "OFFICE SUPERVISOR- WOMEN'S HEALTH",
-      "company": "Independence Health System",
-      "location": "North Huntingdon, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-07-10T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/office-supervisor-women-s-health-at-independence-health-system-4437977103",
-      "description_snippet": "Job Summary/Overall Objectives\n\nThe Office Supervisor will be responsible for daily operation workflow on customer satisfaction in the office. This position oversees projects that are assigned to staf",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_1wFRhqOHuGg-VCDCmAfGUyNk_d-nWPYqnx9&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-icu-telemetry-l-d-per-diem-at-health-marketing-4438370948",
+      "description_snippet": "Role Overview: This position seeks experienced Registered Nurses (RNs) for per diem assignments in various hospital specialties, including ICU, Telemetry, and Labor & Delivery.\n\nResponsibilities: Prov",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
