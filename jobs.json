@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-12T23:45:56.971041+00:00",
-  "job_count": 8,
+  "last_updated": "2026-07-13T13:14:09.950711+00:00",
+  "job_count": 4,
   "jobs": [
+    {
+      "id": "M6Sph2MteQZPxuiZAAAAAA==",
+      "title": "Executive Director, Partner Marketing Strategy \u2013 Health100",
+      "company": "CVS Health",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0917854/Executive-Director-Partner-Marketing-Strategy-Health100",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
+    },
     {
       "id": "Nrc9rHCCiVsZN1j8AAAAAA==",
       "title": "Director of Narrative & Brand Strategy ($100k-$150k + Equity) at Doctours",
@@ -20,7 +32,7 @@
       "company": "MultiCare Health System",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-07-12T16:00:00.000Z",
+      "date_posted": "2026-07-12T17:00:00.000Z",
       "salary": "$119,829 - $172,432 (YEAR)",
       "apply_link": "https://www.theladders.com/job/senior-marketing-communications-business-partner-multicarehealth-washington-dc_87710490",
       "description_snippet": "FTE: 1.0, Shift: Day, Schedule: Standard business hours, occasional evenings or weekends\n\nPosition Summary\nThe Senior Marketing & Communications Business Partner serves as the primary strategic adviso",
@@ -37,66 +49,6 @@
       "apply_link": "https://www.linkedin.com/jobs/view/senior-market-research-manager-healthcare-at-ipsos-in-us-4391724321",
       "description_snippet": "Job Description\n\nWhat makes this role important at Ipsos?\n\nAs a Senior Market Research Manager in Healthcare, you will provide strategic insight to our clients in the delivery of research services. Yo",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLTxYYWNQu1j8PtPjFHv01mJHiM9M8tDXoc9d&s=0"
-    },
-    {
-      "id": "LgY8y93LEY9ltYUmAAAAAA==",
-      "title": "Director, HCP Marketing",
-      "company": "Compass Pathways",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-hcp-marketing-at-compass-pathways-4439571794",
-      "description_snippet": "Company Introduction\n\nCompass Pathways plc (Nasdaq: CMPS) is a biotechnology company dedicated to accelerating patient access to evidence-based innovation in mental health. The Company is headquartere",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKPXt9uUQP37MN2hTd7Rf96I9MHyx992SyFONQ&s=0"
-    },
-    {
-      "id": "VZLKBneA4gxtKiPgAAAAAA==",
-      "title": "Travel Physical Therapist (PT) - Full-Time",
-      "company": "Health Marketing",
-      "location": "Paterson, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-physical-therapist-pt-full-time-at-health-marketing-4438960247",
-      "description_snippet": "Role: Physical Therapist in Freehold, NJ.\n\nResponsibilities: Provide patient care, assess and develop treatment plans, and support patient recovery.\n\nQualifications: Licensed or eligible to practice a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "j0UJK8zVV1aFzahvAAAAAA==",
-      "title": "Expert Opportunity - Healthcare Strategy Consultant",
-      "company": "Ethos",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/expert-opportunity-healthcare-strategy-consultant-at-ethos-4439577316",
-      "description_snippet": "About This Opportunity\n\nWe're working with a leading foundational AI lab to find experienced healthcare-focused strategy consultants who can help train their latest language model on professional pres",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCO93_2BYZU0GscYpi3zcfp0bvE2C2BLMFTXgu&s=0"
-    },
-    {
-      "id": "M6Sph2MteQZPxuiZAAAAAA==",
-      "title": "Executive Director, Partner Marketing Strategy \u2013 Health100",
-      "company": "CVS Health",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0917854/Executive-Director-Partner-Marketing-Strategy-Health100",
-      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
-    },
-    {
-      "id": "7AtypaWxLc_z2UQYAAAAAA==",
-      "title": "Travel Ultrasound Tech - Weekly Pay",
-      "company": "Health Marketing",
-      "location": "Columbia, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-ultrasound-tech-weekly-pay-at-health-marketing-4438969093",
-      "description_snippet": "Role: Ultrasound Tech\n\nLocation: Randallstown, MD\n\nResponsibilities: Perform diagnostic ultrasound procedures, ensure accurate imaging, and maintain patient safety and comfort.\n\nQualifications & Skill",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
