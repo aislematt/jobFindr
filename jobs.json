@@ -1,90 +1,42 @@
 {
-  "last_updated": "2026-07-15T23:53:37.858983+00:00",
-  "job_count": 7,
+  "last_updated": "2026-07-16T12:15:45.275436+00:00",
+  "job_count": 3,
   "jobs": [
     {
-      "id": "NvX6ptWFZ7czNtHfAAAAAA==",
-      "title": "Environmental Compliance Specialist",
-      "company": "Hims & Hers",
-      "location": "Menlo Park, California",
+      "id": "_bX5V08sV0Wit5zVAAAAAA==",
+      "title": "Medical Assistant - Women's Medical Mobile Unit",
+      "company": "UPMC",
+      "location": "Mechanicsburg, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-07-15T12:00:00.000Z",
+      "date_posted": "2026-07-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://jobs.femtechinsider.com/companies/hims-hers-2-172ff514-1d3c-49ca-b635-5ec41404ad1d/jobs/86396112-environmental-compliance-specialist",
-      "description_snippet": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and de",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSWBoKE6XFm7oPFgKDuwxFtFL70pqCnaRM42z&s=0"
+      "apply_link": "https://careers.upmc.com/job/23598967/medical-assistant-women-s-medical-mobile-unit/",
+      "description_snippet": "Join our team of Life Changers!\n\nUPMC is hiring a full-time Medical Assistant to support the Women's Medical Mobile Unit team/office in Mechanicsburg.\n\u2022 Job title and salary will be based on qualifica",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.upmc.com&size=128"
     },
     {
-      "id": "XDu-AIE33xOCU_H8AAAAAA==",
-      "title": "Senior Product Manager \u2013 Women's Health",
-      "company": "Quest Diagnostics",
-      "location": "Secaucus, New Jersey",
+      "id": "cVEAkah14q2lqeDoAAAAAA==",
+      "title": "OB/GYN Physician",
+      "company": "Unified Women's Healthcare",
+      "location": "Fulton, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-14T00:00:00.000Z",
+      "date_posted": "2026-07-15T22:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.questdiagnostics.com/job/secaucus/senior-product-manager-women-s-health/38852/97807033824",
-      "description_snippet": "Job Description\n\nWe Provide Solutions. Patients and Physicians rely on our diagnostic testing, information, and services to help them make better healthcare decisions. These are often serious decision",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0tz_biw9Eled95zaqMFm2KKVSMSVbcG51ZHz&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/ob-gyn-physician-at-unified-women-s-healthcare-4441265779",
+      "description_snippet": "Overview\n\nUnified Women's Healthcare is the leading national platform for women's healthcare. Our affiliated practice, Capital Women's Care, Division 32, in Fulton Maryland is seeking a Full Time OB/G",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
     },
     {
-      "id": "6bWqjliEB_qlufMvAAAAAA==",
-      "title": "Womens Health Business Specialist - Concord, NH",
-      "company": "Astellas Pharma",
-      "location": "Manchester, New Hampshire",
+      "id": "k-NH55tbWuS6J11pAAAAAA==",
+      "title": "Deal Advisory Manager (Healthcare)",
+      "company": "Cherry Bekaert",
+      "location": "Bethesda, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-14T00:00:00.000Z",
+      "date_posted": "2026-07-15T18:00:00.000Z",
       "salary": "",
-      "apply_link": "https://astellascareers.jobs/manchester-nh/womens-health-business-specialist-concord-nh/A1591879B04C4DE58CF8AD381F08A899/job/",
-      "description_snippet": "Women\u2019s Health Business Specialist \u2013 Concord, NH\n\nAbout Astellas\n\nAstellas is a global life sciences company committed to turning innovative science into VALUE for patients. We provide transformative ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://astellas.com&size=128"
-    },
-    {
-      "id": "ClrV1eYHh4FGjOlSAAAAAA==",
-      "title": "Nurse Practitioner-Women's Health/ Physician Assistant",
-      "company": "Jersey Womens Care Center Inc",
-      "location": "Jersey City, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "salary": "$75 - $78 (HOUR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Jersey-Womens-Care-Center/Job/Nurse-Practitioner-Womens-Health-Physician-Assistant/-in-Jersey-City,NJ?jid=6e57914aa374851d",
-      "description_snippet": "Benefits/Perks\n\u2022 Competitive Compensation\n\u2022 Great Work Environment\n\u2022 Career Advancement Opportunities\nJob Summary\nWe are seeking a dedicated Nurse Practitioner (NP) or Physician Assistant (PA) to prov",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy9Tex72a_--oa7a3fTvYcREp7ZHRLaB-DuoD&s=0"
-    },
-    {
-      "id": "qYRIfn4o1xhjarFHAAAAAA==",
-      "title": "SVP Health (Media)",
-      "company": "FleishmanHillard",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/svp-health-media-at-fleishmanhillard-4439859370",
-      "description_snippet": "Agency\n\nFleishmanHillard\n\nJob Function\n\nConsulting\n\nJob Subfunction\n\nBusiness and Change Consulting\n\nOverview\n\nJob Description:\n\nFleishmanHillard is seeking an enthusiastic, energetic and self-startin",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctYpLItYvndDR_mRY037YCpwQzYeFZKU-9tRJ&s=0"
-    },
-    {
-      "id": "VOnqokKUIdl_0-BwAAAAAA==",
-      "title": "Brand Manager, Commercialization Health & Wellness",
-      "company": "Opella",
-      "location": "Montville, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/brand-manager-commercialization-health-wellness-at-opella-4440563435",
-      "description_snippet": "Location: Pine Brook, NJ\n\nYou\u2019ve built experience, now use it where bold ideas meet real impact. At Opella, we\u2019re challenging how self-care works for millions of people and need leaders and experts re",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimE1GnhZlI339ioGcOBsmgDkGv3oAsF0oYUFu&s=0"
-    },
-    {
-      "id": "34DEzGJKNKMV-976AAAAAA==",
-      "title": "Associate Principal, Market Access, Strategic Pricing & Contractin",
-      "company": "Avalere Health",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/associate-principal-market-access-strategic-pricing-contractin-at-avalere-health-4440839977",
-      "description_snippet": "About Avalere Health\n\nUnited by one profound purpose: to reach EVERY PATIENT POSSIBLE. At Avalere Health, we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisor",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl82sIKvvUl6HqiJQEV29STjoHwlBveVw5KVno&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/deal-advisory-manager-healthcare-at-cherry-bekaert-4422343401",
+      "description_snippet": "Ranked among the largest accounting and consulting firms in the country and consistently recognized as a Great Place to Work, Cherry Bekaert delivers innovative advisory, assurance and tax services to",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYV1DYFLFB3HUG-wN5Di2-o5EkLsiSwUhT4oo&s=0"
     }
   ]
 }
