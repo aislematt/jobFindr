@@ -1,54 +1,42 @@
 {
-  "last_updated": "2026-07-19T11:51:14.060902+00:00",
-  "job_count": 4,
+  "last_updated": "2026-07-19T23:51:47.132129+00:00",
+  "job_count": 3,
   "jobs": [
+    {
+      "id": "2a1HPk4K-XPJ1uNXAAAAAA==",
+      "title": "Womens Health Business Specialist - Greenville, NC",
+      "company": "Astellas Pharma",
+      "location": "Greenville, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-07-19T08:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/womens-health-business-specialist-greenville-nc-at-astellas-pharma-4434231886",
+      "description_snippet": "About Astellas\n\nAstellas is a global life sciences company committed to turning innovative science into VALUE for patients. We provide transformative therapies in disease areas that include oncology, ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbGef3am8hjvAbqn0tjjk2qIjwOIsGSeIlBaG&s=0"
+    },
     {
       "id": "AdPvTXC_hCpn8eZpAAAAAA==",
       "title": "(LPN) Licensed Practical Nurse | 5,000 SOB | 4p-12a New York",
       "company": "Health Marketing",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-07-18T23:00:00.000Z",
+      "date_posted": "2026-07-18T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.linkedin.com/jobs/view/lpn-licensed-practical-nurse-5-000-sob-4p-12a-new-york-at-health-marketing-4441758222",
       "description_snippet": "We are seeking licensed practical nurses (LPNs) for full-time and part-time roles across all shifts, including day, evening, and overnight. Walk-ins and new graduates are welcome to apply. Key respons",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "Qf06yKM33rvIDhr2AAAAAA==",
-      "title": "Travel Nurse - Registered Nurse - Cath Lab",
+      "id": "g0Wpf-MbMluKpW_cAAAAAA==",
+      "title": "Registered Nurse - ICU - Relocation to Glens Falls, NY",
       "company": "Health Marketing",
-      "location": "Clifton, New Jersey",
+      "location": "Woodmere, New York",
       "is_remote": false,
-      "date_posted": "2026-07-18T23:00:00.000Z",
+      "date_posted": "2026-07-18T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-registered-nurse-cath-lab-at-health-marketing-4441743591",
-      "description_snippet": "Role: The Travel Cath Lab RN provides specialized cardiac care during catheterization procedures, assisting physicians, monitoring patient vital signs, and ensuring safety and regulatory compliance.\n\n",
+      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-icu-relocation-to-glens-falls-ny-at-health-marketing-4441741897",
+      "description_snippet": "Role: Provides high-quality, patient-centered nursing care in ICU and PCU environments.\n\nResponsibilities: Conduct assessments, develop and evaluate care plans, monitor patient conditions, and adjust ",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "MKDuVW6ayybOCKYTAAAAAA==",
-      "title": "VP, Marketing & Brand Strategy \u2014 Healthcare Growth",
-      "company": "Complete Care",
-      "location": "Toms River, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-07-18T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/vp-marketing-brand-strategy-healthcare-growth-complete-care-toms-river-nj-united-states--jobgoal-9663_ed4e81774c458b7e589e6df03e9a9ccf",
-      "description_snippet": "Complete Care Management is hiring a Vice President of Marketing & Branding to elevate the brand, drive enterprise-wide marketing initiatives, and support growth across multiple states. You will lead ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://completecareathome.com&size=128"
-    },
-    {
-      "id": "fb17s2njAY36Pm5sAAAAAA==",
-      "title": "Creative Director: Brand Strategy & Visual Storytelling",
-      "company": "Avalere Health",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-07-18T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.jobilize.com/amp/job/us-dc-washington-creative-director-brand-strategy-visual-storytelling",
-      "description_snippet": "The Writing Intern will provide administrative support to the communications team (and other departments as needed) at Anera. The ideal candidate will have a strong connection to Anera's mission and\n\n",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://avalerehealth.com&size=128"
     }
   ]
 }
