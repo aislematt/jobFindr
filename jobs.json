@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-07-20T13:01:55.473535+00:00",
-  "job_count": 1,
+  "last_updated": "2026-07-20T23:51:32.708565+00:00",
+  "job_count": 2,
   "jobs": [
     {
-      "id": "2a1HPk4K-XPJ1uNXAAAAAA==",
-      "title": "Womens Health Business Specialist - Greenville, NC",
-      "company": "Astellas Pharma",
-      "location": "Greenville, North Carolina",
+      "id": "SQRYsTwNFqf6YQStAAAAAA==",
+      "title": "Associate Director, Customer Experience - Integrated Insights (Media)",
+      "company": "Publicis Health Media",
+      "location": "Philadelphia, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-07-20T16:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/associate-director-customer-experience-integrated-insights-media-at-publicis-health-media-4434127455",
+      "description_snippet": "Company Description\n\nPHM is the leading health media agency in the US, built for the modern healthcare experience. Here, industry depth meets media scale, where data becomes direction, where creativit",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVPMJPNHuv58BYR9rjpELOwuK3QbyuaoCOr65&s=0"
+    },
+    {
+      "id": "qmZSRRwWOB5llCiTAAAAAA==",
+      "title": "Strat & Planning Analyst",
+      "company": "Amerihealth Caritas",
+      "location": "Newtown Square, Pennsylvania",
       "is_remote": false,
       "date_posted": "2026-07-19T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/womens-health-business-specialist-greenville-nc-at-astellas-pharma-4434231886",
-      "description_snippet": "About Astellas\n\nAstellas is a global life sciences company committed to turning innovative science into VALUE for patients. We provide transformative therapies in disease areas that include oncology, ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbGef3am8hjvAbqn0tjjk2qIjwOIsGSeIlBaG&s=0"
+      "apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44283/Strategy-Planning-Analyst",
+      "description_snippet": "Role Overview:\n\nThe Strategy and Planning Analyst is responsible for assisting in several key functions of the department: (1) Board of Directors and Committee Engagements, (2) Corporate and Growth St",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3p8xcBvXzpHHYbnRvnCKrcfFyN8cBXj6gW5e&s=0"
     }
   ]
 }
