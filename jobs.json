@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-07-20T23:51:32.708565+00:00",
+  "last_updated": "2026-07-21T12:21:09.703000+00:00",
   "job_count": 2,
   "jobs": [
     {
-      "id": "SQRYsTwNFqf6YQStAAAAAA==",
-      "title": "Associate Director, Customer Experience - Integrated Insights (Media)",
-      "company": "Publicis Health Media",
-      "location": "Philadelphia, Pennsylvania",
+      "id": "K9enOnjeDPrHVRrKAAAAAA==",
+      "title": "Transformation Strategy Lead",
+      "company": "Humana",
+      "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-07-20T16:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/associate-director-customer-experience-integrated-insights-media-at-publicis-health-media-4434127455",
-      "description_snippet": "Company Description\n\nPHM is the leading health media agency in the US, built for the modern healthcare experience. Here, industry depth meets media scale, where data becomes direction, where creativit",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVPMJPNHuv58BYR9rjpELOwuK3QbyuaoCOr65&s=0"
+      "date_posted": "2026-07-20T22:00:00.000Z",
+      "salary": "$127,000 - $174,000 (YEAR)",
+      "apply_link": "https://www.linkedin.com/jobs/view/transformation-strategy-lead-at-humana-4433996530",
+      "description_snippet": "Become a part of our caring community\n\nJoin the team shaping Humana\u2019s future\n\nHumana\u2019s Transformation Office team is a high-performing team that works closely with senior leaders to help chart the cou",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOu6HpymOdadnLr_Gc4eUo29W0ET9IQfkIxKD&s=0"
     },
     {
-      "id": "qmZSRRwWOB5llCiTAAAAAA==",
-      "title": "Strat & Planning Analyst",
-      "company": "Amerihealth Caritas",
-      "location": "Newtown Square, Pennsylvania",
+      "id": "lUHVMGK0fhZq9jtuAAAAAA==",
+      "title": "OBGYN Capital Women's Care - Germantown - Rockville",
+      "company": "Unified Women's Healthcare - Germantown",
+      "location": "Germantown, Maryland",
       "is_remote": false,
-      "date_posted": "2026-07-19T00:00:00.000Z",
+      "date_posted": "2026-07-20T15:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44283/Strategy-Planning-Analyst",
-      "description_snippet": "Role Overview:\n\nThe Strategy and Planning Analyst is responsible for assisting in several key functions of the department: (1) Board of Directors and Committee Engagements, (2) Corporate and Growth St",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3p8xcBvXzpHHYbnRvnCKrcfFyN8cBXj6gW5e&s=0"
+      "apply_link": "https://www.practicematch.com/physicians/jobs/obstetrics-and-gynecology/maryland/germantown",
+      "description_snippet": "Obstetrics & Gynecology Physician (MD,DO, Resident) opportunity in Germantown, Maryland",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://practicematch.com&size=128"
     }
   ]
 }
