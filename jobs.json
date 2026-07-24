@@ -1,5 +1,54 @@
 {
-  "last_updated": "2026-07-23T23:53:40.663454+00:00",
-  "job_count": 0,
-  "jobs": []
+  "last_updated": "2026-07-24T12:14:35.487427+00:00",
+  "job_count": 4,
+  "jobs": [
+    {
+      "id": "QVU1RlpyaDdjeHFLU3FIeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEJFUzNwa2IyaFFWR1pNWjJSdVZXTlFRVFl4T1dsQ05IRlZUWEV6WjJreFN6WmlOSE0yVVVWQ1JXWklRV2gyVVZWR1dtaGhiRlI2U0dOcllVVkVielpOWVU1dVQzSldUa1J2T1hWMmJEUnNVblJyVjA1RVgxbFJhRXBMTmpocU9FODNaRlUwTjFaTFJYUTVjM1pEWmpSUFZXSkdVREZsY0VsRlNXdExjRXhaUTNGSVoyWVNGMFpXWkdwaGNFaDNSV0o1YUdrdFoxQm9kVU4zTUZGSkdpSkJSSE55T1daVU5VeE5hRWxOYzBKbWJ6SkJTbGRvZDB4a2FrSldaWHB6Tm5SUg",
+      "title": "Manager, Clinical Informatics & Analytics, Women\u2019s Health & Genomics",
+      "company": "CVS Health",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-07-24T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/manager-clinical-informatics-analytics-women%E2%80%99s-health-genomics-at-cvs-health-4444095413",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbl3xJ8lBBci3OSqDgwHJ0BEciBzIu1hOBM5U&s=0"
+    },
+    {
+      "id": "WGdPajJxeWswclZoTlpkUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWgzTlU5Q2RtUnFaaTFtY1VvMlowSmZRMlJIUWtoRlZGZ3hNMWRhTkRZNVpYSjJNVkJJVFVwRWEwRk5SekJOVldZdGQyZzROREpqU2kxM1VHbE1SSGx3TFVkWk9UWjBOVUV0UkVNMFpuQndURW81V1ZCU1UySnhUbFpSV0ZGR1NWbGllSHAyZVZCa1pqSXRkekpmTm0xS1puVklOVlp3U0U1bmFVeGFlSEpaUjFoZlMzQVNGMFpXWkdwaGNFaDNSV0o1YUdrdFoxQm9kVU4zTUZGSkdpSkJSSE55T1daUk1WWjVSMjlzT1ZSUlkyVnBSSGRwT1U5eWJYbEZhV2xQWlZOMw",
+      "title": "Associate Director / Director of Medical Science Liaison in Women's Health",
+      "company": "BESTMSLs",
+      "location": "Englewood Cliffs, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-07-23T17:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://salutemyjob.com/jobs/associate-director-director-of-medical-science-liaison-in-womens-health-englewood-cliffs-new-jersey/2889929384-2/",
+      "description_snippet": "Overview\n\nThis is an exciting opportunity to join our team as a Medical Science Liaison specializing in Women's Health. In this field-based role, you will engage with key opinion leaders (KOLs) and he",
+      "employer_logo": null
+    },
+    {
+      "id": "cVVoX1JWSkhhRjB5N0EwVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkYyWWxOelQwMUxRVmxZWWtOVWMyaGlRWEpEWjBoWE5sTTJTREZ6WmtabVNVZFJWVEJFWlc1eVRISnBZMmN4VjB4SmNXWmtSbTQzYzBSbWRVZDVaalpuVG10U1dscFNRbmhtVEZnek9GSlpZMnhETUhCellrNTFTakF4YTJ3NWEzSlVhMUYxU2xoVFUzcHVjRWRaZVdOS1JuUk5OMVpsUTJweVMyaDBjVWs1ZUV0VldtUVNGMFpXWkdwaGNFaDNSV0o1YUdrdFoxQm9kVU4zTUZGSkdpSkJSSE55T1daVFZtcHdjbkJwV1ZWTlZVOVhiV3BKUzJkbGNWTXRaMk5ZVmpKMw",
+      "title": "Patient Care Director - RN \u2013 Labor and Delivery",
+      "company": "NewYork-Presbyterian",
+      "location": "Brooklyn, New York",
+      "is_remote": false,
+      "date_posted": "2026-07-23T13:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.womenforhire.com/job/usa/brooklyn-ny/patient-care-director-rn-labor-and-delivery-089798/",
+      "description_snippet": "Leadership That Inspires Excellence:\nPatient Care Directors Make It Possible\nPatient Care Director - RN \u2013 Labor and Delivery\n\nAt NewYork-Presbyterian Hospital, Women's Health nurses have created a sup",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWTOUXJqu0iVnLf8wJf_UXrbA1AQbYS3ITrVz&s=0"
+    },
+    {
+      "id": "M1RIalBfME0xd0YzN0xvYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2RPYzJoQ2VUaHFTVlk0V25GNWR5MWxNVUZ2ZGpGSWVIRmtaRlpYUm1ST2QyNTNOa1JpUW14dWNsSmZhR294TTJWV2N6VmZSM0JNYlcxNFVrZFpiVmQyU1hKa2RXSlJUbEZLVkZkcmJsaDRNVFU0Wm14cmJIVmlPRU5OZGtGTGFHRnlkSGQwV0cwM1RWRmFOV3MyVDBOSE9EQkRZbEJHU0ZaV1pFMVdPRkk1UkMxdFpXc1NGMFpXWkdwaGNFaDNSV0o1YUdrdFoxQm9kVU4zTUZGSkdpSkJSSE55T1daVWNERkVkRkpCYjNCNVREWmtSMFUyTFdSdk1GTjVTRUYzV0RSbg",
+      "title": "Certified Midwife / Women's Health NP / Experienced FNP - OB/GYN",
+      "company": "True Health",
+      "location": "Brooklyn, New York",
+      "is_remote": false,
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "salary": "$150,000 - $180,000 (YEAR)",
+      "apply_link": "https://www.theladders.com/job/certified-midwife-women-s-health-np-experienced-fnp-ob-gyn-true-health-brooklyn-ny_87954076",
+      "description_snippet": "Certified Nurse-Midwife / Women's Health NP / Experienced FNP - Outpatient OB/GYN\nLocation: Brooklyn, New York\nEmployment Type: Full-Time\nSchedule: Four- or five-day outpatient schedule\nCompensation: ",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mytruehealth.org&size=128"
+    }
+  ]
 }
