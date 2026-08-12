@@ -1,54 +1,90 @@
 {
-  "last_updated": "2026-08-11T11:39:10.629602+00:00",
-  "job_count": 4,
+  "last_updated": "2026-08-12T11:41:21.884901+00:00",
+  "job_count": 7,
   "jobs": [
     {
-      "id": "QTJkOHVoTzJfVzdDanFZN0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa0pNV2tWcGFrTjNhMkZ4ZVdWNGVtTnhaWGxLVW1wb1ZuSmZUa1pwV0RoM1F6WlNkRFJDZUVnMmNVUmhURXRpYVVWdWRGSmZiR3BCV0RKYVZUTmZiVFYzVjJGTE5GcE9ObDlmWldaVGVtTmxZM1o2ZDNsRVRDMVZVMU0xZGxOelVuZ3RVbUZoTlhOUFJWZExaR3BuVGt4elgyUTJObkJqVm5vd1NHVlZRMVp5WXpSaVJUa1NGM2xSYkRkaGN6Y3RTMjlYVEhCMFVWQnNTM1ZPTWxGWkdpSkJSSE55T1daVFFraHZWVFpMY2pob1VrWjVNRWt0WVVwQ1NVWXdXbUk1ZDE5Mw",
-      "title": "Director- Digital Marketing And Analytics",
-      "company": "LifeBridge Health",
-      "location": "Baltimore, Maryland",
+      "id": "X0UxTVlfSFpnM0NiRk1KRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhXYkZRd05WaGhRMVI0Umtob2NXTnRabFpMWVZCTVFsZHNibXN4VFdGMlRqUTBXRUV0Ym1KNFQwWmxVSFoyVGpCWVpIWjVXbmsyVGtKWFJHazBVVmhVUVd4NmNWZExRbmswT0RaelJIaHNaRjh6TkdaNWJXdEdVVzEzUmtkR1JUVkVUbWhxVEZWa1ZucDRiRUp0TmpOamNXaHpOMjR0YVZkalprZDBaRFZ1VkZsMFkxOFNGM0pzZERoaGNIbFJTM0psY1hWeU9GQnRMV3B3TkVGekdpSkJSSE55T1daUk1tWlNMV3QyZG1WcFNUTmxWMGhVVFdKeWQwSlNUVEkwUW5CUg",
+      "title": "Womens Health Business Specialist - Arlington, VA",
+      "company": "Astellas Pharma",
+      "location": "Arlington, Virginia",
       "is_remote": false,
-      "date_posted": "2026-08-10T15:00:00.000Z",
+      "date_posted": "2026-08-11T18:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-digital-marketing-and-analytics-at-lifebridge-health-4451570298",
-      "description_snippet": "LifeBridge Health is seeking a Director of Digital Marketing and Analytics to join our Marketing team. You will act as a primary care coordinator for surgeons, referring physicians, nursing staff, and",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1qouiunDMfzLcy8HL4cu5kg6hXdxTISp3LNw&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/womens-health-business-specialist-arlington-va-at-astellas-pharma-4452608454",
+      "description_snippet": "Women\u2019s Health Business Specialist - Arlington, VA\n\nAbout Astellas\n\nAstellas is a global life sciences company committed to turning innovative science into VALUE for patients. We provide transformativ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbGef3am8hjvAbqn0tjjk2qIjwOIsGSeIlBaG&s=0"
     },
     {
-      "id": "b25hZWx4cS1TNVB0ZndBZEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJLVkdWWFpHOXFkVUpUTVVsemVHMUliM0JKVERCaVUxQnlkaTFqVlZabVVWZHlaRTVCWlZoclJHRkdiakYyV1VZeVNEZDFlbXRtV0dOM1JqUkJVR2xCZDJ4aFlYcEVRbE5RVG1jdFNqQndiakI1VlV3eVVuTktTVGR5UWxSa00yWjBSa2s1Y2pVNVNuWTVkazVHZW5aUE1UQlFXVU54V25CRFJVZzVUWFJtWTAxTWNXMFNGMjkzYkRkaGNqZE1SaTFmVDJ0UVNWQTVTM1pzYVVGWkdpSkJSSE55T1daVFJXSjVNRWM1UkVKaGVVaGxXbDlTTm10cmNGVXplRTVaUkhwQg",
-      "title": "OB/GYN Service Line Director \u2013 Women\u2019s Health Leader",
-      "company": "Flexstaff Ltd.",
-      "location": "New York, New York",
+      "id": "SmVqMk0yb1h5ZjJhRk1ZekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGxUTjE5b2RHMW5RakpPU2tKUlVsWTNjRXRqTVRObFVWOTRXVmR3WjFGSk1EZ3hVVnBMWlhWS1oyNDJhVjlhYWtwaU9FTnJSV2haVTNkM1prcHRSVWRQY25sVk1GVnNTRTEzWm5JeVFsSXdhRzkwWlhOSWNsSllhbGhOTlZRMFdWWjZkVXRDY0docVVXaE9MVmw2U2toQk16QktNRk5LZDJsZlRIbHBhMDlHVlhSMVowNFNGM0F4ZERoaGNVODNRbVZQVFcxTVVWQXlZeTAwYzFGSkdpSkJSSE55T1daU2FtZEJVVW96VWs1Vk5tUlZOblZ5ZVRsaE9WTTBkMkZITUhOUg",
+      "title": "Senior Director, Insights & Analytics \u2013 Neuropsychiatry / Women\u2019s Health Franchise",
+      "company": "Analytic Recruiting Inc.",
+      "location": "None, Massachusetts",
       "is_remote": false,
-      "date_posted": "2026-08-10T00:00:00.000Z",
+      "date_posted": "2026-08-11T17:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/ob-gyn-service-line-director-womens-health-leader-flexstaff-ltd-new-york--pureheal-28528_25200_153b121b0a57a04ce552da9d4a08a91c",
-      "description_snippet": "FlexStaff is seeking a compassionate Obstetrician/Gynecologist with New York State MD licensure to join an outpatient healthcare center in Queens, NY. The role oversees the OB/GYN service line across ",
-      "employer_logo": null
+      "apply_link": "https://www.linkedin.com/jobs/view/senior-director-insights-analytics-%E2%80%93-neuropsychiatry-women%E2%80%99s-health-franchise-at-analytic-recruiting-inc-4452613141",
+      "description_snippet": "The Senior Director, Insights & Analytics will serve as the strategic analytics leader for a major Neuropsychiatry and Women\u2019s Health franchise at a leading commercial pharmaceutical company, responsi",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5FJWvkyl52bmFjQr44ydv0JfIDFwhIhxXNyd&s=0"
     },
     {
-      "id": "QVN2S3FMWjBlUUdHSUw3MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXhMZFdWcmVrOVphbWcyWW1KYWJHcG9UekpPV0ZOa05scDJhQzFRTFVReU5tZ3lkelJRVnpCZlMyOXFTa3RGWDFaeVlucFZURFJNYWxwVk0wNURiMlp0VW5KS0xWWnFRVlZzWHpKQ2VHRnNRV0kzTWxoUFp6QlZjV3hNVDBwb1RGOXRSbU5LVG1kcVpVaEtXRkJOY2xoNVJFUjJNSGt5UW5aUGFGRlBRa2hxYnpkT2N6SVNGMjkzYkRkaGNqZE1SaTFmVDJ0UVNWQTVTM1pzYVVGWkdpSkJSSE55T1daVU9YTndXVzFyYTBGbGVUaENlRzFpUzFCYVEyVTJUR2hpVm14Mw",
-      "title": "OB/GYN Gynecologist \u2014 Patient-Centered Women\u2019s Health",
-      "company": "Endocrine News",
-      "location": "New York, New York",
+      "id": "VTNXZ0FQYk5lVXlYR1J6SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJqVW5sNmRGaDJZVmRLWkhKc1ltOUhjVWxwZGtzMlRqUmpTbkJSY21KcFVFaE1WRWxRWVhKQlJscGFSWGRZUzFreU4xVTRSSFpzT1VkNlRYbFhjbUpOU25OYU1WcEJjVU5qYW5sNFFYaENkMloxZWtaMVF6VnNaVzQyZUZGdVdqWk1ja2RIVURaUFVreGpaV3R1UjFjMGJsZ3pSVk16WkdGcVZtdGxlRGxFTWpGV2MxZ1NGM0F4ZERoaGNVODNRbVZQVFcxTVVWQXlZeTAwYzFGSkdpSkJSSE55T1daU00zRlJXRkEwWkVwb1dYVjRUR0ZTZGpWV1RVVktlRmMyYkZOUg",
+      "title": "NP - Women's Health OBGYN Outpatient",
+      "company": "Hackensack Meridian Health",
+      "location": "Clark, New Jersey",
       "is_remote": false,
-      "date_posted": "2026-08-10T00:00:00.000Z",
+      "date_posted": "2026-08-11T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/ob-gyn-gynecologist-patient-centered-womens-health-endocrine-news-new-york--pureheal-28528_25304_28a2772fd89ebf819919885fec86722b",
-      "description_snippet": "Endocrine News is seeking a dedicated Gynecologist to join our women\u2019s health team in New York. You will provide comprehensive gynecologic care, preventive services, and office-based procedures in a p",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://endocrine.org&size=128"
+      "apply_link": "https://careers-hackensackmeridianhealth.icims.com/jobs/184898/np---women%27s-health-obgyn-outpatient/job",
+      "description_snippet": "Overview\n\nThe Advanced Practice Nurse (APN) utilizes a patient-centered coordinated care model, demonstrating competencies in leadership, direct clinical practice, consultation/collaboration, coaching",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hackensackmeridianhealth.org&size=128"
     },
     {
-      "id": "b25hZWx4cS1TNVB0ZndBZEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVTVwWm5CV2NGQnZTazVET1d0WVUxZDFUVWxpTjNOMFJVZzRkR1pwZG5oSU5VRndhV2N5TFhaaVVFbEljbVowTVhORldFVTNVMUIyTWtsbE9WTnNORmMwTWxwS2EwSjZlbk56VTBsTFp6Uk9OMDUyZG05aFZscHNjVTlUV1RoVVRsQkxUVWhXZDFCSWRtSXhTbXBMVFRCbWJWa3RkbkZvVVVaemMweDFNWE5RY21aMGEySVNGbkZSYkRkaGNYVjBUMll6VEd0UVNWQjBjV2x4U1VFYUlrRkVjM0k1WmxNeVluRkZUalpxUXprNGVqTlFSVlptUjI0MU5UZGxhMnR0UlZF",
-      "title": "OB/GYN Service Line Director \u2013 Women\u2019s Health Leader",
-      "company": "Flexstaff Ltd.",
+      "id": "dmZXZEwzSm1jTjZPNWNzYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVnBsWm5GaFR6WlZVRzE2YVdsVlMzZGhlVmRGTVRGMVVIRk9NRkphYkdOdWJEQXlRMjVTTUhwYVVIQkljMGhWWTNaYVoxWkNUVlZRUTE4dFVWSTJYMFJPUW1zdGRtOU1kakE0V1dKME9YVkVTMGhVWTBWUWNWaGtXbXgzT1dKNWNuRk5XRUZrUmxOeVVsOHhVR3BSVVU1MGVXMDBaRlpyYkd0Zk1XMUlNVmhyTFdWaVkyOFNGM0pzZERoaGNIbFJTM0psY1hWeU9GQnRMV3B3TkVGekdpSkJSSE55T1daU2NrVXhORmswYTFSNWQySXROa3hQWHpKZlkxZ3lSUzB4YkdwMw",
+      "title": "MSL/Sr. MSL, Women's Health, MA-US",
+      "company": "Astellas Pharma",
+      "location": "Philadelphia, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/msl-sr-msl-women-s-health-ma-us-at-astellas-pharma-4443066468",
+      "description_snippet": "MSL/Sr. MSL, Women's Health (MD/DC/DE/NJ/NYC/Philly)\n\nDo you want to be part of an inclusive team that works to develop innovative therapies for patients? Every day, we are driven to develop and deliv",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbGef3am8hjvAbqn0tjjk2qIjwOIsGSeIlBaG&s=0"
+    },
+    {
+      "id": "TUYzZzEtZFhEelpfU0VMTkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFJRZUVGSVRYUndUR0UzTWkxNWNEaFlObTFqYlV0dVJteDVkR05rYldSbWVrTlFZamhhUzNoV2QxWmZVRmhVY0ZGT01EaHphbVpQVmpKUU5WQkNRMk5yYm10ME5VUXdhMWxmUWtrMFZ6TjNRVE5DVWxRemVHbHJMVGxoUldGWFYxcE9lV1pOUlVGQ01GSlpNMmxpUjAxdVJsbDNUV2hNUldaaVRqbG5kMmRLYVhKTWFUVVNGM1ZzZERoaGIzRmhTa3hxVkd0UVNWQTRZVXRITkVGVkdpSkJSSE55T1daVFQxTmpTR1pTWDJGbFJFNUhOR2hxZUZwa1drTlhUREEyZW5sMw",
+      "title": "Marketing Analytics Director",
+      "company": "Rula",
+      "location": "None, None",
+      "is_remote": false,
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://salutemyjob.com/jobs/marketing-analytics-director-youngstown-ohio/2919919780-2/",
+      "description_snippet": "Director Of Marketing Analytics\n\nWe believe that mental health is just as important as physical health. We recognize that mental health issues can be complex and multifaceted, and we are dedicated to ",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rula.com&size=128"
+    },
+    {
+      "id": "M3VnNmpCVW16bHhGV3ZTQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbnBmYWxsaE5HdENOelZHZDJGUFRIVmxaR2t4VURGWFFXOXJibHBRZEdkeWMyVTFNWE5wYm1KUmJsOXphRXhoVlZwaloycDZjVkpuUVRCWk9ISlRVbFZHTVhWRk0wMTZRMDlJT1RGWk9FdFpielJ2ZGtFdGNXSjZPRzQzVDA1WmMyWjFkVTFyT0ZvemNHeG9lRGhUWXpnMU5GQTVjMFUyZEd4blkxbDNUVlZST0ZOdFZIb1NGM1l4ZERoaGRuVnVTMWxFYW0xTVVWQjFPVlJIZDFGRkdpSkJSSE55T1daVFZXaHBlR3d5YkhkVk4yMVFRV05DV0hsMlV6WXRTRXRRVURWMw",
+      "title": "Senior Manager, Enterprise Strategy",
+      "company": "CVS Health",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-08-10T00:00:00.000Z",
+      "date_posted": "2026-08-11T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/ob-gyn-service-line-director-womens-health-leader-flexstaff-ltd-new-york--pureheal-28528_25200_153b121b0a57a04ce552da9d4a08a91c",
-      "description_snippet": "FlexStaff is seeking a compassionate Obstetrician/Gynecologist with New York State MD licensure to join an outpatient healthcare center in Queens, NY. The role oversees the OB/GYN service line across ",
-      "employer_logo": null
+      "apply_link": "https://jobs.cvshealth.com/us/en/job/R0946307/Senior-Manager-Enterprise-Strategy",
+      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
+    },
+    {
+      "id": "a1hGa3pLeHRKVnVrMm5SaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1I2YjFkaFVWRTNUMHRGWHpadlNVbEtVa1kxUlhaRldFVXdjMVZtYmxSeVQwVnFZakJXVUZKdVVVVkVNSFJJY1RGZk9GcGtWbTh6ZVZsNWIxOUJabWhLTkV0bFVrMU9iMGhTT0U1d1oxOXdibFpGWkZWaVR6VlRZVEF6TjBsdk5YRkZWSGR2VTJ0aE4yUTVkemhTZERKM1QyRm1TakZ2YTAxeU1XdGlPWGRJWm0xTmNuTVNGM2hXZERoaGMxQm1SV1Z5WW5kT05GQnRjM2xNTmxGUkdpSkJSSE55T1daUk5uUmFSR0pvUkZSMVlUUjNNRzlVTkMxV1lWSjBhbWxtU2tSbg",
+      "title": "Senior Director, Medical Evidence Strategy",
+      "company": "AstraZeneca",
+      "location": "Gaithersburg, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.astrazeneca.com/job/gaithersburg/senior-director-medical-evidence-strategy/7684/97785998464",
+      "description_snippet": "At AstraZeneca we turn ideas into life changing medicines. Working here means being entrepreneurial, thinking big and working together to improve lives of people with serious diseases.\n\nBiopharmaceuti",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpCeJ_aVsRkj3NIcgOigrHrVbMVduQIVVSA_R&s=0"
     }
   ]
 }
