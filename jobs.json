@@ -1,90 +1,18 @@
 {
-  "last_updated": "2026-08-18T23:15:13.217213+00:00",
-  "job_count": 7,
+  "last_updated": "2026-08-19T11:18:36.405073+00:00",
+  "job_count": 1,
   "jobs": [
     {
-      "id": "ZmdtYndKSUpBU3lVNDdVWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTVLWlhjdFNWSlBUeTEzZWt0U1F6TjNhM2swWW5kcVZqRlNZMWRSWHkxV1JsSllTMUpYU0hRNWNqZHhVSHBKU2s1Q09IVktOVXg1UzNseGRuTk5lRmRwUVVkaFYwdG1PWFp4VTAxWE5EbHlVMTlHYVRScFNGbFZSV0ZxTmtONmFFVTBYMnROYzNaQmJEQjVPWEpITm1GdGNFRm1jR0pYVDBOMGFVUktSbFEzV1ZGdFEwMFNGMU10WlVWaGNXRm9SbU5QY25KMVJWQjZORkJIWjBGM0dpSkJSSE55T1daVFJHVjBObVpaVWtwQ1VIZ3RlbXhxV0VobmJtcG9NamRSTlVwQg",
-      "title": "Women's Health Nurse Practitioner",
-      "company": "GreenLife Healthcare Staffing",
-      "location": "Bronx, New York",
-      "is_remote": false,
-      "date_posted": "2026-08-18T16:00:00.000Z",
-      "salary": "$130,000 - $150,000 (YEAR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=27a06bf0788160cd",
-      "description_snippet": "Women's Health Nurse Practitioner (WHNP) - Bronx, NY (#2842A)\n\nMust have experience in the specialty (Job do not do deliveries)\n\nGreenlife Healthcare Staffing is currently seeking a Nurse Practitioner",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxeEIZic9_2CYCQCDZekTz-f-Y-GySCyAWWMf9&s=0"
-    },
-    {
-      "id": "eEszZHAxRHppb0pDYmExMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakoxTVhSdk1tZGhlRTl3U0dkTVVucFBWV0pEYjJGMVJUbDNRMEUyUm5kcmR5MXVWWHB6UzBaMWIwUlRjMDFNTVVwVE5tSmFkVEJwYkdrdFpub3dTMTlDUjFWMFVrUjFORzU0TW5sWlgySjZSSFI0WmpkQmVGQk5Obk56TjFaQ1gxSmZaRVZwTmtWeFVrZFpla1F6WDFGUlp6WjZTMHc1TVRjM1pHZFlSbkJDVVc4emJHNFNGMkl0WlVWaGMzSTFTVnBQUzJ0UVNWQnZURFpZY1ZFMEdpSkJSSE55T1daUlN6UmFha2RIUTNkR1JVdEpORUZITVhaVFdqWkZhMFpuTkMxMw",
-      "title": "Director of Business Development, Legal, Compliance, and Risk (Healthcare)",
-      "company": "BDO USA",
-      "location": "Potomac, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-08-18T09:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/director-of-business-development-legal-compliance-and-risk-healthcare-at-bdo-usa-4425375825",
-      "description_snippet": "Job Summary\n\nJOB DESCRIPTION\n\nUnder the direction of the National Director, Channel Business Development and in collaboration with practice leadership, and the Chief Business Development Officer, the ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDY2t6kMhID5A0RQc6zhFvPD36Raw83YINzUma&s=0"
-    },
-    {
-      "id": "eWtRNXlMZ3dHWUZJSGZLVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGczY1ZweWRqWmtaa2xRVldzMVZWRlVabnBwZG0xWFJIcE9XVkE0T0MwdGNFWjBjVU5NY21Od1drOWtaVUUxYkVjME9WcHBjalpQUmtNMFpGRjRabWhFZFdNdE1FaE5ORmhhZFdsR2JIWm9aRmRtTjE5TU1WUnRVV0ZQUmpoaU4wNXJkamQyWlU5MmVUVTBVbkZUWmtabVRUQlliMmhIVEhweVdsQjJRMGRyTjJSWVJEVVNGMkl0WlVWaGMzSTFTVnBQUzJ0UVNWQnZURFpZY1ZFMEdpSkJSSE55T1daUldrSnlaRFpTVHpVelJEUk9VRzVpTmtoWmVUSjBWMU54U0c5bg",
-      "title": "Director, Service Design, Healthcare Practice Operations & Innovation",
-      "company": "Cencora",
-      "location": "Conshohocken, Pennsylvania",
+      "id": "T1NzcmlKQmZoeXBXZ2I5YkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV04wZFhaQk1FTlhhRkJIVVZwbE5IWXdTRmxFU3pGMmNtczJkWFZCVlZOemNqaHZUWFJSYURkS1EwMWFSVk0zY3kxdVJtNWxlVlF3YkU1NFIxVlRRMHh2YTJneVVsa3dPVkpMV0VoM1NEZ3RUSEZEVG1KS1gwdFlSbmxZUVdzeFdUWjVhVzR0ZERoSmRXMWFMV05mV0hKNFRESlBhbTUwWVVSWU5FMVpSMGhoZERWeVoyY1NGekJLUTBaaGRrZ3hTeTB5V0hkME1GQnBja2RHTWtGUkdpSkJSSE55T1daVE0wUnpURWxYVlhoQk1WUXRTWE5vZG10U2QxWktXVlEyTW1SQg",
+      "title": "Clinical Applications Specialist - Women's Health Ultrasound - NYC",
+      "company": "GE HEALTHCARE",
+      "location": "None, None",
       "is_remote": false,
       "date_posted": "2026-08-18T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.cencora.com/us/en/job/R2613039/Director-Service-Design-Healthcare-Practice-Operations-Innovation",
-      "description_snippet": "Job Details\n\nAbout the Role\nCencora is seeking an experienced service designer with healthcare operations experience to help drive operational innovation across the practices within its Management Ser",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cencora.com&size=128"
-    },
-    {
-      "id": "bllPUF9veU1uRi1BNG9wREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnd0VDJwNFZXUnJlSFo2V1U0MFoxWndhRFUzZERoT2VIUlJUVzVqY3pCek0wVmpiVlZMTldrd1VFWmFVWG80WkVwalh6RnJVRWhFUWxkdVRtSkhZMDQ1YjI5RFZYUkZVekYzY1Y5UWRHVmtPVk5tT0RkMVJYUmtORzEyWTBWd1ZHTk5iVTFPTTB0d1NGcDNOVjlpYzNsVFVUTklSVkUyTlhBeFVVeHpSRWN4UzJWU1owWVNGMkl0WlVWaGMzSTFTVnBQUzJ0UVNWQnZURFpZY1ZFMEdpSkJSSE55T1daU1VIWnlkalE0ZEdObmJtNUJiVmRDZEc1VmNFdEhRWGhHYkRkUg",
-      "title": "Associate Director, Field Medical Marketing; Mid- Atlantic",
-      "company": "Scorpion Therapeutics",
-      "location": "Richmond, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.digitalhire.com/job-listing/opening/E8EwcsWmKwBCr2scSrAkT",
-      "description_snippet": "Position: Associate Director, Field Medical Marketing (Mid- Atlantic)\n\nRole Summary\n\nA field-based key member of Neurocrine\u2019s Medical Marketing team, aligned to a specific specialty within the broader",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELHQ4UGxKNzBJ0Nww0c45G9ELtnqCjx5j2ejk&s=0"
-    },
-    {
-      "id": "ajlNWlY4dDdkT3BlaV9waUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2wwU1c5b1EzSnpOWE5NZG1ScWFVaDJhVnBqUTBkTWRuRm5kV1pVU0VGR1ZWVnVPVWRuVmtwcVQzUTVTa1IyVm10R09VVlNWek5oUjJSbk5XMXZXV1pOVWpFeFNrbGxUekF0U1ZJMFFuVmZZMVp4VW5FMFpHdzJkV2xaTFhSaGRtcDJiVlZzVldodVRXOWZOMWxGTjJwU2RsVnpNVTFuWjBWall6ZGlhbmRLUlMweVZ6UVNGMU10WlVWaGNXRm9SbU5QY25KMVJWQjZORkJIWjBGM0dpSkJSSE55T1daU1dqWXRjVWhJZFVoUmVrbFRYMDlJUjB4RWRWZzNaRXhaZFU1Ug",
-      "title": "OB/GYN Department Manager",
-      "company": "Community Medical and Dental Care",
-      "location": "Monsey, New York",
-      "is_remote": false,
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/ob-gyn-department-manager-at-community-medical-and-dental-care-4452529267",
-      "description_snippet": "A growing health center in Rockland County, NY is seeking a full-time OB/GYN Department Manager to join our dynamic and fast-paced team. This role entails overseeing the daily clinical and administrat",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-iupkAc4tPB82MCBk8mkd0jon5L4lMhGIKI&s=0"
-    },
-    {
-      "id": "VlJVTVhqV0RCZVAyeENlUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1UzVTFsRVZEQklWRGQzYWkxWk5taHZja0Z6VUc1V2RtcGhZbXhOUzBoMVVYcE9NMHAyVHpVMlFtWmZZa0pETVVGWWFGQm5UemhRY1ZOcFMwZExSVTVsVmtGSk1Fa3pOazFPVlVNMmVuSlNVVTV5V0dWNWJqUjRXR05mTW0xVk0wOVJjbVEwUVhaTlJXcEVSa1V0T0RSMGJqaG1Nekl6VUhaRE16SmtjbnAwZFcxMGNGRVNGMU10WlVWaGNXRm9SbU5QY25KMVJWQjZORkJIWjBGM0dpSkJSSE55T1daU1VsTnhRbWQ0VWxGM2JtcGtWR0ZpTTFvNVRYbFlXamxQZVd0Ug",
-      "title": "Spanish-Speaking Women's Health Nurse Practitioner (WHNP or PA)",
-      "company": "Healthcare Enterprise",
-      "location": "Brooklyn, New York",
-      "is_remote": false,
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "salary": "$90 - $95 (HOUR)",
-      "apply_link": "https://www.ziprecruiter.com/c/Healthcare-Enterprise/Job/Spanish-Speaking-Womens-Health-Nurse-Practitioner-(WHNP-or-PA)/-in-New-York,NY?jid=fa41c531677005b3",
-      "description_snippet": "Part-Time (16\u201324 Hours/Week) | OB/GYN Outpatient Practice | Brooklyn, NY\n\nJoin a Growing Women's Health Practice\n\nA well-established and growing outpatient OB/GYN practice in Brooklyn, NY is seeking a",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5rxR6ZivXdlSi1YqksG52YK0_F57zgpxTF92&s=0"
-    },
-    {
-      "id": "WDN0NGpwOWxjdjF3WGx2dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTUzA1UXpWZlZVSklXSFEwVlVrMU1ETkRTVEZ6TlZOd2NsWXRRVEJMVFVKVlkyUlJhRUV4YlcxSmJHUTFNR1pqTW5WQ2MzcFNVVTFvYTNoT01TMUlVVGN6TmxKUlRtOUVNM0V6Y1ZaRFUxaDBRa0ppWDBkSmIzRlpTVFJGV25Sd05qbElObVJNWVhwUGVGWlZSR014VDFGNlNXRnROUzFDTjBFNWVWRlFNVGxuVGpsc2NVa1NGMXBsWlVWaGNIRm9SVFp1VlhKMVJWQTRZMkpUTUVFMEdpSkJSSE55T1daUmIzaHlSSGxHTURnMlZ6ZElTblJ3ZUdnM2NsOUtaR3BYTjBwMw",
-      "title": "AVP- Marketing- Medical College",
-      "company": "Phyton Talent Advisors",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "salary": "$140,000 - $160,000 (YEAR)",
-      "apply_link": "https://www.linkedin.com/jobs/view/avp-marketing-medical-college-at-phyton-talent-advisors-4455363301",
-      "description_snippet": "Off shore medical college with business offices in NYC is seeking a strategic and innovative marketing and communications leader to strengthen institutional visibility, brand positioning, and engageme",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEIUyYY858XRak5BQ2HIw6hM1Fi4GpfTaLLmf&s=0"
+      "apply_link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4045005EXTERNALENGLOBAL/Clinical-Applications-Specialist-Women-s-Health-Ultrasound-NYC",
+      "description_snippet": "Job Description Summary\nProvides expertise in analyzing technical learning needs for the services function, then designs and delivers training solutions. Impacts departmental operations and responsibl",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6WpYBOJtvWyVYZG30MTCwFUYiIH3--971FG5&s=0"
     }
   ]
 }
