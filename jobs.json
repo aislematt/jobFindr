@@ -1,18 +1,78 @@
 {
-  "last_updated": "2026-09-10T14:43:12.266899+00:00",
-  "job_count": 6,
+  "last_updated": "2026-09-11T00:44:19.386316+00:00",
+  "job_count": 14,
   "jobs": [
     {
-      "id": "YmluZzoxMjEyMTc4ODQ1LlJldHJv",
-      "title": "Senior Brand Manager - Boston",
-      "company": "Procter & Gamble",
-      "location": "Boston, Massachusetts",
+      "id": "YmluZzoyNzU3MTI5Mi5SZXRybw",
+      "title": "B2B Product Marketing Manager",
+      "company": "Oscar Health",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-09-09T11:24:19.000Z",
+      "date_posted": "2026-09-10T06:06:19.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-brand-manager-boston-at-procter-gamble-4453406026?trk=bingjobs",
-      "description_snippet": "Job Location\n\r\n\n\r\nBOSTON GO & TECH CENTER\n\r\n\n\r\nJob Description\n\r\n\n\r\nAre you looking for meaningful work? Come to P&G where Brand Management was born!\n\r\n\n\r\nDid you know P&G invented the concept of bran",
-      "employer_logo": "https://th.bing.com/th/id/OJA.-1976335865NS?w=24&h=24&o=6&pid=JobAns"
+      "apply_link": "https://www.linkedin.com/jobs/view/b2b-product-marketing-manager-at-oscar-health-4429198729?trk=bingjobs",
+      "description_snippet": "Hi, we're Oscar. We're hiring a B2B Product Marketing Manager to join our Marketing team.\n\r\n\n\r\nOscar is the first health insurance company built around a full stack technology platform and a relentles",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-1071571990NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzotMTg0MTgyMTIxNi5SZXRybw",
+      "title": "VP, Scientific Strategy",
+      "company": "Fingerpaint Marketing",
+      "location": "Cedar Knolls, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-09-10T05:28:31.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/Fingerpaint-Marketing/Job/VP,-Scientific-Strategy/-in-Cedar-Knolls,NJ?jid=790612e91f479d07&trk=bingjobs",
+      "description_snippet": "Reset your expectations of a health and wellness agency. From our inception, Fingerpaint has been driven by an unstoppable collective spirit of possibility. It\u2019s that curiosity that\u2019s at the heart of ",
+      "employer_logo": "https://th.bing.com/th/id/OJA.251683257NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzotMTgwMTY2NzA0NS5SZXRybw",
+      "title": "Brand Specialist",
+      "company": "Kendra Scott",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-09T15:01:59.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/brand-specialist-at-kendra-scott-4464142144?trk=bingjobs",
+      "description_snippet": "Macy's Herald Square Shop in Shop - Manhattan, NY\n\r\n\n\r\nPlease note that while this role is based in Macy's Herald Square, training will take place in our Kendra Scott SoHo flagship.\n\r\n\n\r\n\n\r\nAbout Kend",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-729798570NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzoyNjU0Mjk4NzcuUmV0cm8",
+      "title": "Brand Designer",
+      "company": "ProFound",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-09T12:40:14.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/brand-designer-at-profound-4463062861?trk=bingjobs",
+      "description_snippet": "Profound is the marketing platform for the age of AI search. The way brands reach people is being rewritten \u2014 AI models like ChatGPT, Perplexity, and Google AI Mode are now the answer layer between co",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-468210647NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzotNTE5Nzg1NjcuUmV0cm8",
+      "title": "VP Group Account Director",
+      "company": "Fingerpaint Marketing",
+      "location": "Cedar Knolls, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-09-09T10:57:50.000Z",
+      "salary": "",
+      "apply_link": "https://www.ziprecruiter.com/c/Fingerpaint-Marketing/Job/VP,-Group-Account-Director/-in-Cedar-Knolls,NJ?jid=15deab3bd9310f63&trk=bingjobs",
+      "description_snippet": "Reset your expectations of a health and wellness agency. From our inception, Fingerpaint has been driven by an unstoppable collective spirit of possibility. It's that curiosity that's at the heart of ",
+      "employer_logo": "https://th.bing.com/th/id/OJA.251683257NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzoyMjI0MjEwNTAuUmV0cm8",
+      "title": "Services Brand Manager",
+      "company": "CDW",
+      "location": "Chicago, Illinois",
+      "is_remote": false,
+      "date_posted": "2026-09-09T09:53:23.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/services-brand-manager-at-cdw-4463892630?trk=bingjobs",
+      "description_snippet": "Description\n\r\n\n\r\nThe Services Brand Manager is the central liaison for the partner for working with CDW stakeholders across the organization, including sales, finance, and marketing. This position is ",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-961566405NS?w=24&h=24&o=6&pid=JobAns"
     },
     {
       "id": "YmluZzotODAwODA5OTY3LlJldHJv",
@@ -39,16 +99,40 @@
       "employer_logo": "https://th.bing.com/th/id/OJA.13656210NS?w=24&h=24&o=6&pid=JobAns"
     },
     {
-      "id": "YmluZzo1MDAzMDkyMTQuUmV0cm8",
-      "title": "Manager, Brand & Talent Marketing",
-      "company": "VNS Health",
+      "id": "YmluZzo3MTI5ODA0MzcuUmV0cm8",
+      "title": "Brand Manager I",
+      "company": "Prestige Consumer Healthcare",
+      "location": "Tarrytown, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-09T08:49:02.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/brand-manager-i-at-prestige-consumer-healthcare-4463882370?trk=bingjobs",
+      "description_snippet": "Prestige Consumer Healthcare is a company that focuses on product innovation and quality in the over-the-counter healthcare and women\u2019s health categories to better improve the lives of our customers a",
+      "employer_logo": "https://th.bing.com/th/id/OJA.13656210NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzotNzcyNjEzNDY0LlJldHJv",
+      "title": "VP, Product Marketing",
+      "company": "Via",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-09-09T07:17:34.000Z",
+      "date_posted": "2026-09-09T08:37:27.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/manager-brand-talent-marketing-at-vns-health-4426455378?trk=bingjobs",
-      "description_snippet": "Overview\n\r\n\n\r\nDevelops, implements, and manages marketing communications to help achieve business goals, regulatory compliance, and to support individual business unit needs. Contributes to overall su",
+      "apply_link": "https://www.linkedin.com/jobs/view/vp-product-marketing-at-via-4370472104?trk=bingjobs",
+      "description_snippet": "Via is using technology to transform transportation around the world. From changing a single person\u2019s daily commute to reducing humanity\u2019s collective environmental footprint \u2014 we\u2019ve got huge goals.\n\r\n",
       "employer_logo": null
+    },
+    {
+      "id": "YmluZzotMTAxMzY1OTY3OC5SZXRybw",
+      "title": "Sr. WW Brand Marketing Manager, DSP Program",
+      "company": "Amazon",
+      "location": "NY, None",
+      "is_remote": false,
+      "date_posted": "2026-09-09T07:12:34.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/sr-ww-brand-marketing-manager-dsp-program-at-amazon-4455915822?trk=bingjobs",
+      "description_snippet": "Description\n\r\n\n\r\nDo you want to support Amazon\u2019s mission to build the world\u2019s safest, most efficient, and sustainable delivery network by bringing the stories of those delivering on behalf of Amazon t",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-1844965498NS?w=24&h=24&o=6&pid=JobAns"
     },
     {
       "id": "YmluZzoyMDcwMDg1MTE1LlJldHJv",
@@ -63,15 +147,27 @@
       "employer_logo": "https://th.bing.com/th/id/OJA.-1833594658NS?w=24&h=24&o=6&pid=JobAns"
     },
     {
-      "id": "YmluZzotMzY5NzU4MjcuUmV0cm8",
-      "title": "Brand Ambassador",
-      "company": "Dr. Marnie",
+      "id": "YmluZzo1NDY0OTI1OTMuUmV0cm8",
+      "title": "Director Of Strategy & Product - Healthcare AI ",
+      "company": "Bowden Brown",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-09-08T21:06:26.000Z",
+      "date_posted": "2026-09-09T05:35:54.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/brand-ambassador-at-dr-marnie-4463583773?trk=bingjobs",
-      "description_snippet": "Location: New York City\n\r\nType: Part-time, flexible\n\r\nCompensation: Hourly + complimentary product and select aesthetic treatments\n\r\n\n\r\n\n\r\nDR. MARNIE is looking for a small group of Brand Ambassadors ",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-of-strategy-product-healthcare-ai-at-bowden-brown-4465053396?trk=bingjobs",
+      "description_snippet": "Director of Strategy & Product AI Transformation\n\r\nHealthcare AI & Digital Strategy Portfolio Operations NYC\n\r\n\n\r\n\n\r\nTotal Compensation Range - $450-550k (Salary + Bonus)\n\r\n\n\r\n\n\r\nWhat if you could hel",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-287964824NS?w=24&h=24&o=6&pid=JobAns"
+    },
+    {
+      "id": "YmluZzoxNDI5NTc2MDA2LlJldHJv",
+      "title": "EVP, Director Of Brand Strategy, Consumer",
+      "company": "REMEDY EDGE\u2122 NY",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-09T02:49:28.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/evp-director-of-brand-strategy-consumer-at-remedy-edge%E2%84%A2-ny-4439867189?trk=bingjobs",
+      "description_snippet": "Agency\n\r\n\n\r\nRemedy Edge\n\r\n\n\r\nJob Function\n\r\n\n\r\nStrategy and Planning\n\r\n\n\r\nJob Subfunction\n\r\n\n\r\nAccount Planning and Brand Planning\n\r\n\n\r\nJob Description\n\r\n\n\r\nAt Remedy Edge NY, we believe health can\u2019t ",
       "employer_logo": null
     }
   ]
