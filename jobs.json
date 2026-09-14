@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-09-14T00:34:08.822800+00:00",
-  "job_count": 0,
-  "jobs": []
+  "last_updated": "2026-09-14T16:43:54.276029+00:00",
+  "job_count": 1,
+  "jobs": [
+    {
+      "id": "cGw2RDVmeDZhcEduTlJZSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGRDUVhsb1drbFhjWFpxT1hGQlJETkJlUzExV2pGck5tUnNNVEpUWW1VNU5uazNTMjl1VkRjdFdsSnBkVkZET0VkTFVFZHBUWE5UVTJOdFNXRllNR2RqUm1kWFFuRTBVM1ZQVDJaRVNETldka1o0U25KR1FsRktZV3d6VDBreE5VRkpkMUp2Y1dKUVl6bFBVRUpzUzJwVlVtOUJjRGxaV0RKSlZqQnpkbU5HVVV0UVRuZ1NGMDFwVTI5aGRtcE1RalZ4Um5aeU1GQTJPVTlGWjFGM0dpSkJSSE55T1daUlZYUnRRVE5mUTJSS2JFMUNMVzFNVVY5elVXNTBUWGQzWkVkQg",
+      "title": "Manager, Downstream Marketing - Remote",
+      "company": "Stryker",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-09-14T10:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/manager-downstream-marketing-remote-at-stryker-4464817009",
+      "description_snippet": "We are seeking a dynamic Manager, Downstream Marketing to lead the strategic growth and development of our Neurovascular portfolio. This people leadership role will set the brand and portfolio strateg",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGNsYTjI-mkls1D7F9OyKbk-37tdQ8yQ_5IdB&s=0"
+    }
+  ]
 }
