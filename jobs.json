@@ -1,18 +1,30 @@
 {
-  "last_updated": "2026-09-14T16:43:54.276029+00:00",
-  "job_count": 1,
+  "last_updated": "2026-09-15T01:06:44.669789+00:00",
+  "job_count": 2,
   "jobs": [
     {
-      "id": "cGw2RDVmeDZhcEduTlJZSUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGRDUVhsb1drbFhjWFpxT1hGQlJETkJlUzExV2pGck5tUnNNVEpUWW1VNU5uazNTMjl1VkRjdFdsSnBkVkZET0VkTFVFZHBUWE5UVTJOdFNXRllNR2RqUm1kWFFuRTBVM1ZQVDJaRVNETldka1o0U25KR1FsRktZV3d6VDBreE5VRkpkMUp2Y1dKUVl6bFBVRUpzUzJwVlVtOUJjRGxaV0RKSlZqQnpkbU5HVVV0UVRuZ1NGMDFwVTI5aGRtcE1RalZ4Um5aeU1GQTJPVTlGWjFGM0dpSkJSSE55T1daUlZYUnRRVE5mUTJSS2JFMUNMVzFNVVY5elVXNTBUWGQzWkVkQg",
-      "title": "Manager, Downstream Marketing - Remote",
-      "company": "Stryker",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-09-14T10:00:00.000Z",
+      "id": "YmluZzotMTEzMzYwNDI3My5SZXRybw",
+      "title": "Associate Director, Brand Analytics & Forecasting",
+      "company": "Madrigal Pharmaceuticals",
+      "location": "Waltham, Massachusetts",
+      "is_remote": false,
+      "date_posted": "2026-09-13T11:10:07.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/manager-downstream-marketing-remote-at-stryker-4464817009",
-      "description_snippet": "We are seeking a dynamic Manager, Downstream Marketing to lead the strategic growth and development of our Neurovascular portfolio. This people leadership role will set the brand and portfolio strateg",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGNsYTjI-mkls1D7F9OyKbk-37tdQ8yQ_5IdB&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/associate-director-brand-analytics-forecasting-at-madrigal-pharmaceuticals-4447158991?trk=bingjobs",
+      "description_snippet": "Madrigal is a biopharmaceutical company focused on delivering novel therapeutics for metabolic dysfunction-associated steatohepatitis (MASH), a serious liver disease that can progress to cirrhosis, li",
+      "employer_logo": null
+    },
+    {
+      "id": "YmluZzo2NjA0MTM3NzMuUmV0cm8",
+      "title": "Marketing Director, Brand And Creative",
+      "company": "GEICO",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-13T02:59:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/marketing-director-brand-and-creative-at-geico-4418828706?trk=bingjobs",
+      "description_snippet": "At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.\r\n\n\r\n\n\r\nEvery day we honor our iconic brand by offering quality coverage to millions of customers and bein",
+      "employer_logo": "https://th.bing.com/th/id/OJA.-1823650016NS?w=24&h=24&o=6&pid=JobAns"
     }
   ]
 }
