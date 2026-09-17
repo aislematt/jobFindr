@@ -1,21 +1,81 @@
 {
-  "last_updated": "2026-09-16T15:20:17.864300+00:00",
-  "job_count": 4,
+  "last_updated": "2026-09-17T01:02:38.466737+00:00",
+  "job_count": 11,
   "jobs": [
     {
-      "id": "RzNCamltbGV6a3BEb1QtbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEoyTkZaMk5FeEtTM2xHWWxKb01FOVdVbkZTVEd4bmMyeGFOaTFUY0ZaU1ltUnhOMVprY0dWNVdqTXlURXh1VXpOUmRXdHRNMFJzYTJkemFWaHFVRE50YVZNelZWa3pWMmRxY21WT2FrMVpVelpuVjJJMmIySnVURWhmTW1oMlZrOUVTMWN6VUc0MmFXazVRMkpsWjFsRGIxRXhkbGsxVlVSclNWVkxjVFl6VW1OclkzQVNGMDVNVDNGaGNXcFhUa3RYV0RRdFJWQjFXbGR4ZVVFNEdpSkJSSE55T1daVGFXTk1aMjFPYkV0Mk5EUnZjelZ2VWpkclZVMHdVV04xVEhGUg",
-      "title": "Healthcare Global Marketing Manager - Cardiovascular Segment (Remote)",
-      "company": "Dupont",
-      "location": "None, None",
+      "id": "eTNBUXVRdmRVMVEtSVloekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3A2UWtjMk1qUnpjbWxhUnkweE4wUXdkblJMYldKaGJXbzJXa2gzZWpjNVNISmhWR2RqZFZaNGVtd3RhRzAyVW1WQ1ZXNDBTR05HTkRoUmFVVm5UVzQxTVVSaVpGTnBhRVoxTVhKTFVTMXBZVEZ6U0dReFJ6azBUMDFSTUhkWVZrZGhTeTFUU2t0ZmNHZEZaekpCYW1GamRFSXdhWGRtUXpKVWRYcExNMGxzYkhoZkxUa1NGMjlFZFhKaGMwUjFSVTF4WjJrdFoxQjFVSFZhTFZGdkdpSkJSSE55T1daVGJXMXZOakIxZVZkVE1HWXpSMEYzZEVkdGNtRmtNelE0VTFWbg",
+      "title": "Certified Nurse Midwife",
+      "company": "Unified Women's Healthcare",
+      "location": "Germantown, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-09-16T22:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/certified-nurse-midwife-at-unified-women-s-healthcare-4468303793",
+      "description_snippet": "Overview\n\nUnified Women\u2019s Healthcare is the leading national platform for women\u2019s healthcare. Our affiliated practice, Capital Women's Care, Division 83 in Germantown is seeking a Full Time Certified ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNO8WjU-vEK5wTBCAKQdFrXgaC0pLpoGHbVrg&s=0"
+    },
+    {
+      "id": "ZkktbUxCYjlwYnNfRWxLNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1F0VWxrNWMzb3dabmcyU2s1TU5uRllXbTVLUm1WTVFtMXlUa1V3Vlc0eFh6WmxVVUYyYUVreU1XcHRjVU5GV1hGaExWSnBXRk5XTUc1amMweFRaMFkwUVROWVpVUnFSalJWZERKcmVXMXlhRjh6ZW14VGEyWjNWRFpSY0ZsVk1ETXpTek5qYjNoc2FFUkhWbE5mV1c4MWMwWnVjM2RYWmtONGNWaGZVMjk2ZDFKbmRHOFNGMFZFZVhKaGNVeGFSblJQYVdoaVNWQTBkbmxsYjFGekdpSkJSSE55T1daVFUydzJNVFkwYlRsS2JrczRVMWxaUldwMGNHRXpMWEY0VXpWMw",
+      "title": "Sr. Content Strategist Patient Education",
+      "company": "WebMD Ignite",
+      "location": "Newark, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-09-16T19:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/sr-content-strategist-patient-education-at-webmd-ignite-4468275625",
+      "description_snippet": "Role Overview\n\nAs a Content Strategist at WebMD Ignite, you will guide the strategic vision for our patient education assets in support of multiple products and solutions. You will ensure that our con",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_bvoY7Q5QKh6qV9QS-he26Xq-7U8zmQCH2lbU&s=0"
+    },
+    {
+      "id": "bmZUU3JVRF9zUzZtMUFqb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXN6UjJGbFVUTm9lR3MyYjBoNlNYcGFiVEZZUVdNMmRUY3pWVTFZYld4MlRuTjRjSFY1Ymt3Mk1WcG5lREk0ZDJOcVVEUnlaMGROVFdGNmVYbEpXbGRxUVdweldqbHpUM0J3VjFONlIyRmlOVVUxYWkxc1kxVjZia0pTYkdGQ0xUUXpRMHBIUkhkUWJWQTBjMnhIZVhkTVEzZEVjeTF0WTJGRFIxOHhUSGwzYUVVdFJIWVNGelZVZFhKaGMycHFUVmxsV1hObFRWQnpaRzFOZVZGM0dpSkJSSE55T1daUlkycFJTVTVWTUhsNFdWVnBla0pMV2twbGJVVlVPV3d0YmpKQg",
+      "title": "Marketing Representative",
+      "company": "Pyramid Healthcare",
+      "location": "Radford, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-09-16T18:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/marketing-representative-at-pyramid-healthcare-4467111013",
+      "description_snippet": "Pyramid Healthcare is dedicated to offering the highest quality of care to those we serve. A focus on client-focused care establishes our family of brands as respected leaders in addiction treatment, ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV87RAw0q053ZS2EJ12oe62WplDNrpzZg8vQ3S&s=0"
+    },
+    {
+      "id": "dTlpNnN2ajYxTHVhcUlTSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFU0VWtoSWNGRmZiR2hPVmpkVFIyRmxjVXRuV0hGSFV6QnFOMmxDTUc5SVpGUm9hMVJtYTFSd1p6ZGhOMGswVlhaWFF6ZGhaalZYVEhseGJWVjVYMHBqVDNST0xURklWVWhzUTFaSlZIVllUbVIxVW1ONVdFMUdNamhyT0ZOelpUUjVObTVoWlU5eFdtTkRWVW8wWkZvNE5FaFVUMUJpTFRneWVtdFNOa2RCVDJsRGJVWVNGMk5VZFhKaGRXWjVSM0JoV25kaWExQjFkV1ZJTmxGakdpSkJSSE55T1daUmRVZGFWVkl5WlhKaFpFSXdSa3BLUlVsbGRWRjJjSGxFYzFOUg",
+      "title": "Women's Health Clinic LPN",
+      "company": "Clover Health Services",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-09-16T00:00:00.000Z",
+      "salary": "$46 - $48 (HOUR)",
+      "apply_link": "https://www.monster.com/job-openings/women-s-health-clinic-lpn-new-york-ny--7a97003c-7a9c-4979-94e7-66e62212fcb5",
+      "description_snippet": "Women's Health Clinic LPN - will float to Peds Clinic as needed\n8a-4p\n\nBROOKLYN, NY\n\u2022 $46-$47.74/hour Local Contract.\n\u2022 M-F - alternating Saturdays.\n\u2022 MUST have Clinic and Peds experience.\n\u2022 MUST have",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cloverstaffing.com&size=128"
+    },
+    {
+      "id": "SVJUSnp5b2JQS0RTRXV6SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzUzUTJJNE5XeGtabTE2VWxRMFZuQkZlRU42UVVWcmVsTldiMjUzYTBZMmVsWkVVMFpFUTNabGRHNWtkbWRTYmkxVU5GUjJhSFY2TlU4M2FsSlhhVXhNYkdsRlIyNXdOREk1VEVsc2RtOWtXRlZYT0RkeVQzQXpaVTF1UlROb1ZGZHJReTFQV2psWlFVbGhaREpXTVVNd1NXbG1ibFIxWjNkVFVGY3RRVGxGZUZCTk1UZ1NGMFZFZVhKaGNVeGFSblJQYVdoaVNWQTBkbmxsYjFGekdpSkJSSE55T1daUmVYTlRhRGhNTW1kaGJWQkVXSEUyZGs5WmJXeElUVU5tUnpCQg",
+      "title": "Healthcare Sector Leader",
+      "company": "Buro Happold",
+      "location": "New York, New York",
       "is_remote": false,
       "date_posted": "2026-09-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://careers.dupont.com/cz/cz/job/249361W/Healthcare-Global-Marketing-Manager-Cardiovascular-Segment-Remote",
-      "description_snippet": "At DuPont, our purpose is to empower the world with essential innovations to thrive. We work on things that matter. Whether it\u2019s providing clean water to more than a billion people on the planet, prod",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4_n4qJ3G8rI7ZaKerzwseMrBGxRpNx0PXb1f&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/healthcare-sector-leader-at-buro-happold-4440357005",
+      "description_snippet": "Lead healthcare sector growth and expansion with us!\n\nWe are seeking a highly skilled and experienced Northeast Region based Healthcare Sector Leader to join us at Buro Happold. You will play a pivota",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBLzCZ7ZwcFZ7e-XOd8HspIuTeHJuM2vs2Ylw&s=0"
     },
     {
-      "id": "LUtNZUozM0RfVHp4ejNrX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGg0Y1RkcUxVOWtVR3REZUVkeVdrbExaVk5rVEhsd2FESmxUbUp3VFd0MmFqbG9lWE5mTmxZMVFqUTNZVkU0TlVOMlVTMVVXV2xJZFMwNFlTMUhOVVY2YjFnMGJIUTBiRWR6WDJoSmNVSm5TRU5hVm14V1pFZEZWRzltZG5CRVEwMTJURTkxWkhOcU4yaEZWRFp4UTNGdFlXNUxZMVoyTjBGaGRVaFZhekpzTTI5d1JUSVNGMDVNVDNGaGNXcFhUa3RYV0RRdFJWQjFXbGR4ZVVFNEdpSkJSSE55T1daVUxVaFFXV2gxYTB0c2NsSkRWa1ZqYm5reVVXOUdSRkl6Vm5kUg",
+      "id": "dklLcVVJakdERnBuTFIzNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREpwTjNVMVh6UnlNQzFrZFVWWWVVRkdOMGQyWVc4MU9YcHlSazVyTWpsS1ZHNDFZM3BtUW1KWWVIRlZRVzB5T0Vac09VcFVaRll6WlhKNFIzWkdMVzAxVVZoUk1GWlpiMWM0UW14bE4xWnNia3hJYUROdmNGSjRXVkJVTm1sS1kzRTVMV05qVnpocU0zVmZZMDlCTmtsMVJHWmhjRkJ1TTJaTFFtbFRSRFZSWkVaNlJUVVNGMFZFZVhKaGNVeGFSblJQYVdoaVNWQTBkbmxsYjFGekdpSkJSSE55T1daUmNrTnpWVmhOTlV4SGNVcFJNRWgyU0ZNNVpsaEljVkJ5WDNGQg",
+      "title": "Strategy and Operations, Office of CEO",
+      "company": "Conduit Health",
+      "location": "Remote",
+      "is_remote": true,
+      "date_posted": "2026-09-16T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.ashbyhq.com/conduit-health/3b867724-787b-491c-9539-d6dcd1c036a3",
+      "description_snippet": "About Conduit Health\nConduit Health is transforming one of the hardest, most outdated corners of post-acute care \u2014 getting essential medical equipment and supplies into patients\u2019 homes. We\u2019re the firs",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREd0zFxQgkdG4w1qXXZEJ2149w4sBXxlmBKclB&s=0"
+    },
+    {
+      "id": "LUtNZUozM0RfVHp4ejNrX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1JZUzBWM1YybHhPVkZJUlZCTVdsZFNORVJCVG14SlZtSnVWa0ZCVEZBMVJsSjBja2hHT1dkdlMyTk5RbUpMUmxGQ1ZqVlhVMmhIYWt4WGJFNHhialpaVG5KeVJIUnhSMkp1U2w5WGMzTTNRblJVZWtaRVdVRTNYMFpQYzA1Zk9HOVNabEYxU25SV1NFVkNTemRQWW1JMGRrMVNkbkZDY1ZaYVJUaEhNbGhTTWxCQ0xURVNGMGQ2ZVhKaGNWOTJTRzh0VHkxa09GQjRZMVJsYVVGekdpSkJSSE55T1daVU5YWnNObEp3UTA1TVFqTm9kM0pYYlZoeE1UVmhaRE5tU1RWQg",
       "title": "Volunteer: Board Member Recruitment Strategy",
       "company": "Walk Towards Health",
       "location": "Remote",
@@ -27,28 +87,52 @@
       "employer_logo": null
     },
     {
-      "id": "ZnlHRWVmMEhDUmRXZVhyU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3gyUTJSNGJrcFNZMWMwU0V0bFNrSjVkRUpmUlRSRGMxVjZjVFl6YmswNFp6VldORU5WYmt0NWR6TTFlRlZoWDBkaVkyWlpRMTlSZWxrM2EzWk9iRTFzYW5kS2JuaFBha0ZRY1hkTFlqTXRNa2hNVkZJM1YxVXpRbWxxTkhBMGFUUkxjRW95YkY5eloyRkpZV0ZpVG1kVU5qUjBTazFoYlcxUlpGWkZWMTlsVlhCRU1sSVNGMDVNVDNGaGNXcFhUa3RYV0RRdFJWQjFXbGR4ZVVFNEdpSkJSSE55T1daU1EzaHViSFJhUWtkVlZHMVZMV0ZEUjNZdE0yaFlUR0ZWU0ZCQg",
-      "title": "Senior Director of Strategy and Growth",
-      "company": "Rothman Orthopaedics",
+      "id": "SF9GaWJZUWxyTko4OEdBckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEUyUTBKQ2RtSXhPRjlmYldzNVNTMWtWbFp6WDBwVFZUSkhSR1ZMWnpnMGVFaFhhVE42WTFaR1pXODNiMlZZWlVsblkyMHphWGhEVEhSeFIwRnBNV2hSZVcxaVpsbE1NSFpKU1MxTFZsZE1jbUpvYTJwalNuVkdMVTF0UWs5eVFsOUZWbkpVTTBKalp6Z3ljVmhPUWpSZk0xODBhMjFVVjJKNFRtTm5hRkIzU0RoaUxWRVNGMGQ2ZVhKaGNWOTJTRzh0VHkxa09GQjRZMVJsYVVGekdpSkJSSE55T1daU1UxRjFSbGxFV1VWMWJHVlBMVlJ1WkdSeldrTlJZV1ZHWDNwUg",
+      "title": "Clinic Marketing Specialist",
+      "company": "Vos Collection",
       "location": "Philadelphia, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-09-15T19:00:00.000Z",
+      "date_posted": "2026-09-16T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-director-of-strategy-and-growth-at-rothman-orthopaedics-4467743932",
-      "description_snippet": "Description\n\nJob Summary:\n\nThe Senior Director, Strategy and Growth provides dedicated enterprise ownership for complex and strategic planning, emerging revenue opportunities, new business initiatives",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPIVG7Y1Q5_R6IL4vMtbQkjjf2oNzIb5c0l14&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/clinic-marketing-specialist-at-vos-collection-4457029499",
+      "description_snippet": "Clinic Marketing Specialist\n\nRegion: U.S. East\n\nSalary: $70,000 Annual\n\nLocation: Hybrid, Greater Philadelphia (with monthly visits to regional clinics)\n\nWhat We Are About\n\nVos Collection is a network",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIeLlyz-PeHteron0M4Lr6QCusNuZFFspSxl6&s=0"
     },
     {
-      "id": "elFidHZVOWFnenFDa3dVNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzV4UTNSeVZraDROM0l4VGtkdWNubG5hbkpZZGpodlZuWmpNM2hLV214RVUwUjVWbGs1YUdwMlNYWm1RMmR1UldOVVJtSmxNek5PV0hGdWVHaFJSM1F6V2w5T1ZERmFSV3BPWXpCT1JraE5OamRPUkUxT09YTTBhVzEyY0V0dlExTm5XVkJZYTBabVRrWk9hVXhZUzJSZmNsQlJMWFZFUlVOMVJrdHVlRVk0WkhOeVNEWVNGMWszUzNGaGNtVjBSbUpwWkd0a1ZWQm9kbEJLWjFGTkdpSkJSSE55T1daVVFrMDBSamszYVZaUmEybFlOek5JU1ZGa05WODVZVjlzYkc1bg",
-      "title": "Part Time - FNP/WHNP opportunity in NYC, NY",
-      "company": "GO Staffing",
-      "location": "New York, New York",
+      "id": "YmhaaG1Zd204MUYtN2tCWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURE5mU1hKdVJFUkVUMHBvVXpGVVlWRnROamRWZEV4dlkycFBWMWhKY25aV09VeDBVMWgyWHpWWU1tUmpiR3RVY0ZkVVFVVnpNV2hYUzNvM1IyMXhjMVUzV21SR01TMXRXV0ppZVVJMVNVRkNSRjlQUXpOdE5scFNWV2hHTTFWVVEwdElaWGRIUjFOYWVHVnVWVFpsWkRWeWNVRlhTbkZqZEhWaVlrbHVla2xhZGxKelZURVNGMGQ2ZVhKaGNWOTJTRzh0VHkxa09GQjRZMVJsYVVGekdpSkJSSE55T1daVVducDRSRGMxTFVSMlRIVnFkMGM0U0d4UGEyUXdhWEJtVm1oMw",
+      "title": "Executive Director, Marketing & Campaign Effectiveness",
+      "company": "MSD Animal Health Technology Labs",
+      "location": "North Wales, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-09-15T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20438430/part-time-fnp-whnp-opportunity-in-nyc-ny",
-      "description_snippet": "Great opportunity to join a rapidly growing National Women's Healthcare Platform in New York City, NY - looking for a Part Time Family or Women's Health Nurse Practitioner who has experience in an off",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gostaffingus.com&size=128"
+      "date_posted": "2026-09-16T00:00:00.000Z",
+      "salary": "$256,000 - $403,000 (YEAR)",
+      "apply_link": "https://builtin.com/job/executive-director-marketing-campaign-effectiveness/11213394",
+      "description_snippet": "Job Description\n\nThe Executive Director, Marketing & Campaign Effectiveness is a new leadership role accountable for the strategy, governance, performance, and continuous evolution of the end-to-end M",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://builtin.com&size=128"
+    },
+    {
+      "id": "RjZkX1NnUzdIZkx1N1VXeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURk5UVWtFeGJWa3RRMUU0WkMxQk1GSnBVbFJaYWtoVFFYWllPRzFRUW5OUVJEQTJVazVsVlVWUFNERmhibk50V0hoS2NrdExZM1ZoWlRWVlZVa3pRbU16WjFKbWJrRjRkakJsYW05dFNFeHFNa3RTTVROdWVXdDZTRGxLTjFkSmQzWkNjSEJoY2xSdmIwb3pSelpLYVhRMlpGTkhabXRmUjNoblh5MVZSbnBuYlVneGVqQVNGMGxxZVhKaGNqZHNSMGsyVlhObFRWQXpka2RFYlVGbkdpSkJSSE55T1daVUxVaDZYekUwYjI4MU5sWlhZbmx2VG1aNFRtOTBNR1Y1TW0xQg",
+      "title": "Per Diem Registered Nurse; RN; Little Canada, MN",
+      "company": "Femtech Insider Ltd.",
+      "location": "Little Canada, Minnesota",
+      "is_remote": false,
+      "date_posted": "2026-09-16T00:00:00.000Z",
+      "salary": "$30 - $38 (HOUR)",
+      "apply_link": "https://www.learn4good.com/jobs/little-canada/minnesota/healthcare/5472299583/e/",
+      "description_snippet": "Position: Per Diem Registered Nurse (RN) - Little Canada, MN\n\nPlanned Parenthood North Central States\n\nMinnesota, Iowa, Nebraska, North Dakota, South Dakota\n\nPer Diem\n\nRegistered Nurse \u2013 Little Canada",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
+    },
+    {
+      "id": "RjZkX1NnUzdIZkx1N1VXeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamRHVm5SbWFVWmlVa2hTYWtsek5GbHlNelV3VWtkcWFsVmxPV2RUTW1JdGNXZElja2huUTJOVFZXSjNNWGxpU2tGUVNqUmhiRm8zWmxsMFp6aFZjREZ2WWs4ek56aDNPRUYzTVVsbWVubFBPWEExTVd3M2VGcFlUR1p4VkRGYVlVOXRUMDl5VlhkNmRITTNWV1ZhV2twVVIxSk9abU5xV1VOVGNHUlRNRTlsYlZJMFJFOFNGMHRFZVhKaGRHcG1SbUZ5VXpKeWIxQm9aVXhWTFVGRkdpSkJSSE55T1daUmQwNU9NVTlTUVZGS1QzaHBjVWh4U1RaM2RtUlZZVTVUTmpaMw",
+      "title": "Per Diem Registered Nurse; RN; Little Canada, MN",
+      "company": "Femtech Insider Ltd.",
+      "location": "Little Canada, Minnesota",
+      "is_remote": false,
+      "date_posted": "2026-09-16T00:00:00.000Z",
+      "salary": "$30 - $38 (HOUR)",
+      "apply_link": "https://www.learn4good.com/jobs/little-canada/minnesota/healthcare/5472299583/e/",
+      "description_snippet": "Position: Per Diem Registered Nurse (RN) - Little Canada, MN\n\nPlanned Parenthood North Central States\n\nMinnesota, Iowa, Nebraska, North Dakota, South Dakota\n\nPer Diem\n\nRegistered Nurse \u2013 Little Canada",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
     }
   ]
 }
