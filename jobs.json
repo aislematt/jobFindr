@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-10T02:02:06.529384+00:00",
-  "job_count": 16,
+  "last_updated": "2026-10-10T16:04:45.147249+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "U2oyempCOTNpb0J6V2ZIM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmM0WVRGU2RFSjNPVmhzZVdScFJFeFBkWE5WWDA1SU5HZFVWa2xMT0hOM01tWnZNRTFKWm1aVFZYQXllR1J5WjNaUFJWUTRiMjVXVGxCWlNXY3dXSFpwUkhOU1ZsODBaM05SWkhWSVdVZGhjR2RoVUdoclNUSnVkM0JGVmtwaGMzUjZhMWRUVlV0cFNFTm5laTA1Tkdsc2MwcFRXbE5FUTJSeVJVaHhSV1JRZFZWb1ZIRVNGMWh3ZWtwaGNGZEpRM1ZmYUhBNE5GQjZZM2xyTFZGdkdpSkJSSE55T1daUlVXRnpSV0pCWDJKRWRGVndkRTF4ZDNOTVF6WXlZM2RCTTFoQg",
+      "id": "U2oyempCOTNpb0J6V2ZIM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGc1ZEVkNmJXUXRVSGM1TURneGJVMTZhVTB5Vm05TFowSkhkbWx3ZGtoWWNXaDRaMHROTVdGZk5tdHNTRko2VEVReU5IQkhOMUZzUkhoa1FUVjBRbkJJUkU5ZmFUbFBlbU14V0VoMGQwcFNWRk5vVEZwWlpGcFVYMjFOY0hCVFVFWmZlazl2UjNwWmQzbExaRzVWVG1sU2NIUnVUV2xZYkdoc01EUmxRa1ZoTlZaQlpEY1NGelp0U0V0aGNGTlhRWFJxWld0UVNWQXRYeTFUYTBGRkdpSkJSSE55T1daUmQwRnJRV1ZwY3pGS1V6ZE9XbUZzYjJ4bGJWY3hjMVZzVUhWbg",
       "title": "Registered Nurse (RN) - Adult Inpatient Behavioral Health - Full Time",
       "company": "Health Marketing",
       "location": "Devens, Massachusetts",
@@ -15,7 +15,7 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "eFlkU09Lc09FN1Y5VjhlakFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTWEJzYkRWNFduSjFaMHBpVDI5ak5VZFlTMjgzY2psSE4yMWllSFkxZFZSaFYycGtVMmR2WkVGc09FMHRRMWQ0WlVWT1NYTkZZbFJsYXpZd2QyaG1TVTVYYUdsMmVWbFpSRGRsVUc4eWJEWTBhR013TjBOR2NIWjBXRlF6VGxkU2IxWjZhbWRaWmpSc2RXczNjRlJQYUdnMGRHUkRVRTlYVFhGbVNGaEtha0l0TWtwbVgyNFNGbWhLZWtwaGN6ZFpSRFpmYkhkT05GQTJielpuWTFFYUlrRkVjM0k1WmxGMFdtcDNZMHBZTmxCQ1FXaFJVMjlrVDFOdE1DMDFZbU14Y0VF",
+      "id": "eFlkU09Lc09FN1Y5VjhlakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRzTVZCM1gxUkNUV05OZDJrNGJGQnFPRTFxTTFad2RuWnBWa1pMWTBwM2FXeDVUMHRyUlRSUU1rdHFhV05CWmt0YVprNXphV3BoV2t0TWJIZE9Oa0U0UldzeFNFVlFRa2xTZWpSNU5GVjFTVjkxVEd4bVpqUnRlRmw2TUhWcmVsOU9XV2QzWlRkbGVIZG5UbUpoYkhCVVdWUnZZVlJRTVhndGRFcDFNVmhhTVVJM1RGRVNGMTh5U0V0aGMzRnBRMHN5YTIxMGExQmZOWEZaY1VGbkdpSkJSSE55T1daUlZ6RlZOMDVEWjBFeU5ITktWMjFsV1ZReFNIaE9RVU53UmpGQg",
       "title": "ICU Registered Nurse - Full-Time",
       "company": "Health Marketing",
       "location": "Brentwood, Maryland",
@@ -27,19 +27,19 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "UlBnSExSSlRfUGNUQWViWUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbTlETlZFd05HdFVNRlpPT0Vod1RtUmhjbXN5YjFOME5IcHhSbVpJU1VSMWFrNXJReTFSWkRSb09WcG5kak5UVUdZMGNXVnBNRXhtWDBVelpIRmZhemQ1V1VseFUzbEphbFpLVDAxMlNEbGZkM2RCVWtabmFHSnNTM1o0TW5WTlkycE5jR3BOZERkdGFsUXdNMDl1ZUZaS1dHeGhiMUUwYms1eVFWSTVNM2RqZGtOUk5uRVNGbWhLZWtwaGN6ZFpSRFpmYkhkT05GQTJielpuWTFFYUlrRkVjM0k1WmxOcmMxZEVkRFpMWmxCT2VHaGlPV3BJTUY4elYzaDJiMnQwYkdj",
-      "title": "Registered Nurse - Per Diem, 12-Hour Shifts",
+      "id": "Qldzc3VzXzRCcWtmUGxtNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEZ1WDFCaloxSmtOMnhmWmtOb1ptcFZWemx3TkRWblZYUkhVVEZGYlhCRVdubzBhMlJqU0ZkWWVUQTRSWGxYUkhCMVltVlVhWHBLUVdKbE5uQkJTRWhZTm1OMk9FcG1aVjlmTjBaVVgxSmhRa3BJWjJ0alZ6QldObkl3YTJ0dlZHNXhURkkyUlUxck1IQjNOVWgyY1hOc2IwVXdPSGRDVXpRNWVFczBSMFJLTW5oYWNEY1NGMTh5U0V0aGMzRnBRMHN5YTIxMGExQmZOWEZaY1VGbkdpSkJSSE55T1daUldsa3ROR1Z1T0MxdWNGSmtNblEwTjIwNWJGOVhNVzFtZVhaQg",
+      "title": "PRN ICU Registered Nurse",
       "company": "Health Marketing",
-      "location": "Schley, Virginia",
+      "location": "Dunn Loring, Virginia",
       "is_remote": false,
       "date_posted": "2026-10-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-per-diem-12-hour-shifts-at-health-marketing-4476862763",
-      "description_snippet": "We are seeking experienced PCU Registered Nurses for flexible, per diem hospital shifts in Hampton Roads, Virginia.\n\nKey responsibilities include assessing, monitoring, and documenting patient conditi",
+      "apply_link": "https://www.linkedin.com/jobs/view/prn-icu-registered-nurse-at-health-marketing-4476871576",
+      "description_snippet": "We are seeking an experienced ICU Registered Nurse (RN) for a PRN position in Arlington, VA.\n\nKey responsibilities include: providing direct patient care in a critical care setting, administering medi",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "WF9SbWg3MFRfaTEzRW9IQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5QTTA1TWMwbFBNazFCYVVoRFh6Vm9OSGhaVnpScFFrNUVhbWgxWlhvNFZuVm9aRGxtTkZKUGRXOXZOSG94VjB0YVprNXNjVUpmVFhscVdXSTVlbXRKV0ZSRGFqWkVhRFV4TFhGaGRubE9UMlpKVkc4NFEyaElkV1ZsZFVnNVVVWldXbUpDTFZsV1RtcGtOak4xTUdwVE1IVlVUMDVVTnpGTmRtVkdYM0JMWjJ3eE5Ga1NGMVkxZWtwaGIzSTJTVFJ4VUhaeU1GQjBXUzFKYlZGbkdpSkJSSE55T1daVFFWUkROVGhZTlRkSWNWRkdSM1ZsYkZSbkxVSlhUREJvTFZGQg",
+      "id": "WF9SbWg3MFRfaTEzRW9IQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3htTm1GSkxXVTVZa3hRVUVKdU9UZHhjbFo0WVZvMGRtSnVSSFJVTFVKdVdUTXhNV2d3Y2xGQ2NtbGlOM1IwV0VOWE4wZDJWekpDZVdselFteGpPVzloT0ZsM1h6ZE9NRlp1WjNKcUxXUkhTREZDYldoVGRFdDBhVGxyVDJ0TVgyTkNOVkUwWkhVd0xXMVdRa3RTTFVWalRsOXBla1pFTTJKRGFHMHRPSFZ0ZDBGVmJWVVNGek50U0V0aGNYVmhUWFpET1RRdFJWQjFTM2xwYlZGckdpSkJSSE55T1daVVlsUkxPVEYxTFRreE5teGFWME5GV2xRelJVVTNOM1Y1TkZsUg",
       "title": "Assistant Director Nursing (RN) Ambulatory OB/GYN and Women's Wellness",
       "company": "MedStar Health",
       "location": "Washington, District of Columbia",
@@ -51,148 +51,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzwUwAbYMO5Cbg7qQxm6D2xqvACtE9urZzx4Y&s=0"
     },
     {
-      "id": "R3M3TUo1c09TUHJQZ05NTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTVKY1V0dlZsa3lhbFpJUkV4cmFVaE9aRTQ0WTJ0VmRXa3lOa1pqYkdrMVJXeFdka3RhV1MxUVExSjRYekY0VEVad1IyWTRSa3hHZUVOMVNXODNSMVJ2UjBaWlEwMXFORGMyU1ZWS1VHWlBNelF5YTFkSVJrbEdjR2s0TlUxeVkwcHVUVVUzYkdOd1NqTTBTRkJOYkRGQ1IxTlZTM3B3VkY4eGQzWTFPVXRaWDJVNFpXUVNGMDQxZWtwaGRrZDRSVFJQUnpWUFZWQmZMVE5sYTFGSkdpSkJSSE55T1daU01rYzNNalpIV1U4dGR6RnNNVGxrUkVRelExUk5XVUo2VGpSUg",
-      "title": "Healthcare Sales Representative \u2013 Women\u2019s Health / DME",
-      "company": "A Medical Supply",
-      "location": "New York, New York",
+      "id": "dDBMTTlMZXZvMXVKbE1rYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzV0VDJjd1FtRTRYMFpoT0hwbmFqRnZWall5VDBSdFZFbzFPVkpRWWtKSWVXbHNXbFZ6VFdGMmIxTmFhbk5hU1hKYVNraHNjelE1VDJaSlVXaHRjblo1T1VWWGF6QkphWFpuY2s1Rk5HeFhTMnd4ZVVaQ2VFaDBNa2hmWm1wcWVuRnNia3RZVDJ0WFpETlJUblZvVDBWcmJtbEhXWEZHWVRCU1pXRlZSa1ZUYkZwSmN6Z1NGemxYU0V0aGNubG1TWFpwVjNKMVJWQTNZME5NTkZGekdpSkJSSE55T1daVWRYQnZRamd0U1hOa1JITldTMWx4YjBSUVNVcEpRbTVMU2pGbg",
+      "title": "Vice President, Brand Strategist",
+      "company": "RevHealth",
+      "location": "Morristown, New Jersey",
       "is_remote": false,
       "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/healthcare-sales-representative-%E2%80%93-women%E2%80%99s-health-dme-at-a-medical-supply-4477411502",
-      "description_snippet": "Healthcare Sales Representative \u2013 Women\u2019s Health / DME\n\nA Medical Supply is looking for a motivated and friendly Field Sales Representative to visit healthcare facilities throughout New York and build",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://amedsupplies.com&size=128"
-    },
-    {
-      "id": "NzA3elFzVThUNUpLcDdNZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURU5mVjA1a1pUbGtSemR5WjFWTmRHOHpVM0pwYVVKcmRtRTNiekF6V200MlVWTnRkR3hMUW05alJXdzNhR1JyTUZGdVJqaHRTRWsxYm1oYWIxTlZRVFo1VDFjM0xVMW1TRVJSTkVkeGRVcFBkRWN3VkROaE5sVktObTUyT1VoNE9HRnhjMFY0YzNoVldGTlRiMHhpYkdGV1dtVm5ZME5ET1d0VWJrbHdUMFUyUldGbE9WSVNGMDQxZWtwaGRrZDRSVFJQUnpWUFZWQmZMVE5sYTFGSkdpSkJSSE55T1daUlNqQTNTV1JXVUdWVU5sRmhjSGh0U1RVM1IwSnlUbkZHT0hWMw",
-      "title": "Registrar, Women's Health Center",
-      "company": "RWJBarnabas Health",
-      "location": "Elizabeth, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/registrar-women-s-health-center-at-rwjbarnabas-health-4475975410",
-      "description_snippet": "Req #: 0000266808\n\nCategory: Revenue Cycle and Patient Access\n\nStatus: Full-Time\n\nShift: Day\n\nFacility: Trinitas Regional Medical Center\n\nDepartment: Womens Health Center\n\nPay Range: $20.63 - $25.71 p",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12STQJXndhB3W9peU8o1b5ELiA3U15kL0YVj_&s=0"
-    },
-    {
-      "id": "dTM4V3R6RGg3RXNWRmdpMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTEzT1c1alJXbFJOMmxZZDJ0TWRrRkhRMEZoZHpaTlFWQjZNMWRXU0ZkQlpXRjZVbFE1WmpsMlNYWk1WMlJxV1Uxdk1DMTZaRVJGVHpaZk5UTTJabVkxTkZBd1V6RXdRMVp4Tkhac2NGaHVVVlpLYVdKa1gyY3lhbmRCUkRNMGVFcE5kbG8zTkdSM1kyaFNTVWd0VVd0aVFWTnpTVUV0UnpsR2EyaHdOMkpTVTBORlExTVNGMVkxZWtwaGIzSTJTVFJ4VUhaeU1GQjBXUzFKYlZGbkdpSkJSSE55T1daVVR6WXRTWGhZY2tGM2VsazVOWE51YjJ0alRsaG9UMFY0ZFhSQg",
-      "title": "Women&#39;s Health &amp; Float Pool Nursing Professional Development",
-      "company": "LifeBridge Health",
-      "location": "Baltimore, Maryland",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/women-%2339-s-health-amp-float-pool-nursing-professional-development-at-lifebridge-health-4477478408",
-      "description_snippet": "About the Role: The Women's Health Nursing Professional Development Practitioner (NPD Practitioner) at Sinai Hospital, under limited supervision, designs, develops, implements, and evaluates comprehen",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1qouiunDMfzLcy8HL4cu5kg6hXdxTISp3LNw&s=0"
-    },
-    {
-      "id": "R3M3TUo1c09TUHJQZ05NTEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2c1VlMxTVkyWmpZMlZQZWpoSlJGQkNMVWh4WWpKSlkzUnFTVTFuY0haVWIwVnVRa2xRUm1WclIxVmZRMDFNV21OSVlVOURTV010UTE5U1pXTXpOMHhZTFdaclZtRm9OR3h5WTA1VVJsQnFWMjlEVWxCa1QyUk1ZWFp5Tm1Kd1JGQmtWWGRSTFVkUWRIUXljM0p3T0UxME9EWmlNVlpFU25ac1RFMDNRbXhWYm1sVU9TMFNGMVkxZWtwaGIzSTJTVFJ4VUhaeU1GQjBXUzFKYlZGbkdpSkJSSE55T1daVFZETlhOR3BXVlRsa1RXeGlSR2RIUmxOTmRreDJka28wVVcxUg",
-      "title": "Healthcare Sales Representative \u2013 Women\u2019s Health / DME",
-      "company": "A Medical Supply",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/healthcare-sales-representative-%E2%80%93-women%E2%80%99s-health-dme-at-a-medical-supply-4477411502",
-      "description_snippet": "Healthcare Sales Representative \u2013 Women\u2019s Health / DME\n\nA Medical Supply is looking for a motivated and friendly Field Sales Representative to visit healthcare facilities throughout New York and build",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://amedsupplies.com&size=128"
-    },
-    {
-      "id": "LU91RHJMTEZ3bERudmFYMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1ZFT1hKMExXRjBORTlOTVVwWFlrZHNhRVpOYldOU1ltbEtXVXhRZEVsQ1RHOXNlRWRsUzBkQ1VrMVBaVjlxTmtWbE1rOVdaVU01Y1ZSZlJGbE1PSE5DY0dOb2NWWXpkMXBNU2tzM2VXTm1UVmRuU25sTmNreG9OMlZJWkRCYVNrOHpWM1ZwUVMxUGVtZHdUR1paTVZKeVgxOUtOVEZtYUdsUk1TMHdhRVJsVFhKVGFFZ1NGMkkxZWtwaGRHSkVTWFF0TkcxMGExQTRZak55Y1ZGWkdpSkJSSE55T1daVFNreHpZbWgzY0VGV2VtVXlXV2xrZW1kVU4wRlJPRlp0ZEZWUg",
-      "title": "Health Strategy & Commercialization",
-      "company": "Microsoft AI",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/health-strategy-commercialization-at-microsoft-ai-4459001309",
-      "description_snippet": "Overview\n\nMicrosoft AI Health\n\nHelp Build the Future of AI in Healthcare\n\nMicrosoft AI is building frontier AI products and platforms designed to transform how people experience healthcare. We are cre",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUtX0l8vfpV6lKdsFS6LoMSqU0M0ouMOr5BQY&s=0"
-    },
-    {
-      "id": "b1hXRnpuU1VtYUZ4LXFGR0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMGN5Y201b1UweDNRMU5aV25OTWVrZEpkblZRYjAxTWIybG1YME5wYVdoTWFHVnVUbEp1ZUVsV1FrcEJNbTFHVWt4aVRqSXlWR3RUVGtoeVkxTXdhblJSYUVRelUzZHJja2RoTlhvMVlXbDBNSGgxWXpSbFEySlFjRlZ1TjBscFZGSnpaakl0VDBkRGVqaFVRVFU1Vm10eUxURklSMlo1YldsTE9HVjFVWFZ0UlZwS2RWWVNGbWhLZWtwaGN6ZFpSRFpmYkhkT05GQTJielpuWTFFYUlrRkVjM0k1WmxFeVNWSllXRGhHU0RWUFNIWlFSbVphZVRCNFlYY3hSVUkwUzBF",
-      "title": "Associate Director, Thought Leader Marketing Liaison",
-      "company": "Merck",
-      "location": "North Wales, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://jobs.merck.com/us/en/job/R420265/Associate-Director-Thought-Leader-Marketing-Liaison",
-      "description_snippet": "Job Description\n\nOur US Immunology team is committed to transforming the lives of patients living with Inflammatory Bowel Disease (IBD). We aspire to achieve this through relentless commitment to pati",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFtTU6dH1FwwF9_qSB0jWpCvGlPMuU0Exl77L&s=0"
-    },
-    {
-      "id": "aDRVZHlOS2tzWUtiZ1p3b0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3REVW5odE5XOVRTSEI0U21wbmRHVjVkRGgyY0hGTFlWOXViM3BwVFd0aVlqQnpjRXhvVEVsdWJXUjNiMWxZY0RKU01tbzNiSFYzZFhOQ2RVTnNiRGhqTW10ZlJVVndhVUpVYlVaaGIxSnBiRFJwV1hCWVluTnpUalp0WWsxcWRVOWFPREJTY0d3NVpFeGFkMlozTFRsMVNtNTNTMmxxYWpsaFdHNVlaakV4Tkc1aFlUa1NGMmx3ZWtwaGRsUnZRa3hsV0RRdFJWQTJaRkJTTkVFd0dpSkJSSE55T1daVWFrUmhlblJKY0d4UE1HNDJlbTlFVFVjemJFVTJZMGRhVDBSbg",
-      "title": "Manager, Creative Strategy; Ventures",
-      "company": "Femtech Insider Ltd.",
-      "location": "Yonkers, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$110,000 - $130,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/yonkers/new-york/education/5534837143/e/",
-      "description_snippet": "Position: Manager, Performance Creative Strategy (New Ventures)\nAbout us\n\nPomelo Care is the leading virtual medical practice for women and children, providing care across pregnancy, postpartum, pedia",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
-    },
-    {
-      "id": "WlNvWFF0SVJXUGJ2SWl0NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVphVVRSVFpITjRUa2xpV2tZME5qRlVjbkZyTkdFNWMyNUZNME5JVTA5WVIyUnNUM2RTY2tGVFZXOXdOemRSWjBkNWNtWXhYMFV6TFRWeVIxb3pVRXBhUkZsTVYwMUljR1YzYTJaSkxXbFJUVXN0V2sxamVGaGZOVGRtYzBZMFkxSXRURGRqZWpkT1pYZ3RSa2xTZEU5bGFtVjNTblZ6UW1sMVV6YzRkbDlJVFRGMlJURVNGMmx3ZWtwaGRsUnZRa3hsV0RRdFJWQTJaRkJTTkVFd0dpSkJSSE55T1daU1luQkpVRFp5U1dkTk9FUnJVMnhtUjFoSE0xZG9lVWxEUWxGbg",
-      "title": "Remote Head of Product - Build FemTech Vision",
-      "company": "I4-Consulting-Pvt-Ltd-",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$120,000 - $180,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/online_remote/management_and_managerial/5534523582/e/",
-      "description_snippet": "Veera Health, a Fem Tech startup, is seeking a Head of Product to build the product culture from the ground up. You will collect deep insights from customers and partners and translate them into a com",
-      "employer_logo": null
-    },
-    {
-      "id": "TUxVb1lvSFVWc3ZEeFdraUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpJWHpCMmNETXlZVTVPWkhsMmIyNWZkRTAzYlhWU2JIVkVUWFpqVFhSVGJWaHJZWEZCTkdFMlV6SnNjbkpyTVVkcWVsazRibkF3TldodE4wMUlaMmxWWVZsTWJqSkpjRlp2UzJ0bFVqbHlhVGRQU2tsSWRHWTNkV0pLV0hGaFUyc3hVVEYwVW5GdWNWVnNOSEpOUTB0aFh6SlpaekZIZG01RVlubG5WMk5mV2xwdlVXb1NGMmx3ZWtwaGRsUnZRa3hsV0RRdFJWQTJaRkJTTkVFd0dpSkJSSE55T1daVVoyOVBSSFJ5TlUxZmEzTmhjbXAzU1VOclpYcDFXRFkzUWxaUg",
-      "title": "Associate Director, Promo Medical Education and Training Operations",
-      "company": "Femtech Insider Ltd.",
-      "location": "Seattle, Washington",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$114,000 - $193,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/seattle/washington/healthcare/5534988518/e/",
-      "description_snippet": "Job Description\nThe Position\n\nThe Associate Director, Promo Medical Education and Training Operations is responsible for leading the internal operations of the CTP (Certified Training Program) for Nex",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
-    },
-    {
-      "id": "WlNvWFF0SVJXUGJ2SWl0NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGh6TkZacU5tOVRWR1p5TkdZeVJUQk1ORkppWkhWTE9XVk9ORzkzUjNjdGFuQnZXRk13YmtacGMyWkdMWE00V2tjNE1GaE5SelI0WWxaQ1puZE5kVlJ6VGpCQk5tWnNWRE5UWm5nMGNUVjFTUzFEWkd4SE1uRlBSVFJSUVZWSllrTkJiRkJFT0cxSGRsTnFVVGxUY20xNFUwSmtWM3BVUnpkeVQwWldibGh6VFRsVFZVb1NGMjFLZWtwaGNVdFBTVFZ4Vm1oMlkxQXRObnBFYjFGSkdpSkJSSE55T1daUlRrYzJjblpJY0haNFRWQnlSbWxmVFVoMFN6Sm5SRk0zY3paMw",
-      "title": "Remote Head of Product - Build FemTech Vision",
-      "company": "I4-Consulting-Pvt-Ltd-",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$120,000 - $180,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/online_remote/management_and_managerial/5534523582/e/",
-      "description_snippet": "Veera Health, a Fem Tech startup, is seeking a Head of Product to build the product culture from the ground up. You will collect deep insights from customers and partners and translate them into a com",
-      "employer_logo": null
-    },
-    {
-      "id": "aDRVZHlOS2tzWUtiZ1p3b0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5PYTBrMFozTnlXR3R5V1hGalMxaGFSWE0xYVhaWlVsZzVTWFpHVkdGeFlsUmZPVkEzYlVkb1IyOWlRMnRGTUZSWWExaERaVzVTU0hoWldIa3pYM1YzWkZseVJHcDViRk5sY2xsaWNIQkNkMkpKTjJ3dGEzbEpUVUkzVDNjNFpEVnRXRFJ2ZEhWRmFXd3plRWx6V1hGWmJHTlJWVjkyUjFsRVMwbEVNbmhEV1dWR1JrOFNGMjFLZWtwaGNVdFBTVFZ4Vm1oMlkxQXRObnBFYjFGSkdpSkJSSE55T1daVFYwWllZVlZoZDBWcVpIZFNhVmh4UVRNM05WQTNTa2x6ZG10Ug",
-      "title": "Manager, Creative Strategy; Ventures",
-      "company": "Femtech Insider Ltd.",
-      "location": "Yonkers, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$110,000 - $130,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/yonkers/new-york/education/5534837143/e/",
-      "description_snippet": "Position: Manager, Performance Creative Strategy (New Ventures)\nAbout us\n\nPomelo Care is the leading virtual medical practice for women and children, providing care across pregnancy, postpartum, pedia",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
-    },
-    {
-      "id": "TUxVb1lvSFVWc3ZEeFdraUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkpaTW5FelVVTkhSRVYzUTNJMlIzQlFUekl4WWtGSlJVcEhaMTlMYTJaeVJXaHlSVmRJT0daU1gyeGZTRVUwYkZVNGJERkVaVFY0UVVaVGQwSnNSMEV0UVRKUkxUZDFTWHBLZGpsdlVFVktXVUk0U1VsTldsRkZjVkZ5Ulc4MllWSkhZbEl0YTJwUGFEQjZNbWxtVmxWU05XUmpiVFZoWDI1SlYwNWFTbWhRYjNWdGRUSVNGMjFLZWtwaGNVdFBTVFZ4Vm1oMlkxQXRObnBFYjFGSkdpSkJSSE55T1daU2NtWnJlWG81T0ZBMmFsQXpZbE4xUVd0RFUxbFdibGhoWXkxQg",
-      "title": "Associate Director, Promo Medical Education and Training Operations",
-      "company": "Femtech Insider Ltd.",
-      "location": "Seattle, Washington",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$114,000 - $193,000 (YEAR)",
-      "apply_link": "https://www.learn4good.com/jobs/seattle/washington/healthcare/5534988518/e/",
-      "description_snippet": "Job Description\nThe Position\n\nThe Associate Director, Promo Medical Education and Training Operations is responsible for leading the internal operations of the CTP (Certified Training Program) for Nex",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.femtechinsider.com&size=128"
+      "salary": "$170,000 - $190,000 (YEAR)",
+      "apply_link": "https://simplify.jobs/p/68b43b7c-09da-4990-8284-26b07db6b572/Vice-President",
+      "description_snippet": "In a world of big-box\u202fconsolidated\u202fagencies,\u202fRevHealth\u202fstands apart\u2014proudly independent and intentionally different.\u202fThat\u2019s\u202fnot just our ownership\u2014it\u2019s\u202four mindset. It empowers us to think fearlessly,",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5V91GGEnxejjcufNI-01iIn-lvVbY13P4P_2&s=0"
     }
   ]
 }
