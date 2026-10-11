@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-10-10T16:04:45.147249+00:00",
-  "job_count": 5,
+  "last_updated": "2026-10-11T01:27:33.102766+00:00",
+  "job_count": 7,
   "jobs": [
     {
-      "id": "U2oyempCOTNpb0J6V2ZIM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGc1ZEVkNmJXUXRVSGM1TURneGJVMTZhVTB5Vm05TFowSkhkbWx3ZGtoWWNXaDRaMHROTVdGZk5tdHNTRko2VEVReU5IQkhOMUZzUkhoa1FUVjBRbkJJUkU5ZmFUbFBlbU14V0VoMGQwcFNWRk5vVEZwWlpGcFVYMjFOY0hCVFVFWmZlazl2UjNwWmQzbExaRzVWVG1sU2NIUnVUV2xZYkdoc01EUmxRa1ZoTlZaQlpEY1NGelp0U0V0aGNGTlhRWFJxWld0UVNWQXRYeTFUYTBGRkdpSkJSSE55T1daUmQwRnJRV1ZwY3pGS1V6ZE9XbUZzYjJ4bGJWY3hjMVZzVUhWbg",
+      "id": "WF9SbWg3MFRfaTEzRW9IQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbDlRUTNwcmIxTkVjWFprVEUxSVFsQlhiV2RWVm5jd1JHWlRRWGxUT1ZBMkxWYzROMXA0WkdzdE16Um1RbXhtVFZaNVoyZHdaa2RXYUZOblNIWnFWR1JQYlcxclFVdGhUbTlsUmsxb1NFbFNjalo0Y1VFeFUzRTRVa0p2YkVOS2VsWlphRFZDYURWS1VuWmhhVTg0TmtaT09GZFJiWHBxU1VKVVR6ZFNlV1JqVFVsMmMySVNGM0V0V0V0aGNFTmpTVFpIWjJoMlkxQTBObTVxYjBGRkdpSkJSSE55T1daUlRVODJWMnhVUzE5V2RUSlZYMlJwVTBkT2FHOXlhekpSZVd4bg",
+      "title": "Assistant Director Nursing (RN) Ambulatory OB/GYN and Women's Wellness",
+      "company": "MedStar Health",
+      "location": "Washington, District of Columbia",
+      "is_remote": false,
+      "date_posted": "2026-10-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/assistant-director-nursing-rn-ambulatory-ob-gyn-and-women-s-wellness-at-medstar-health-4475272269",
+      "description_snippet": "About The Job\n\nGeneral Summary of Position\n\nThe Assistant Director of Nursing (ADON) provides clinical and operational leadership for ambulatory OB/GYN and Women\u2019s Wellness services at MedStar Health,",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzwUwAbYMO5Cbg7qQxm6D2xqvACtE9urZzx4Y&s=0"
+    },
+    {
+      "id": "RUhqcG50bUxlcVd6SGFCWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnRpU1RVeWNtMVFaSFZhUjNKNk16WmFNbTFPTkRsQ1VIWjZUalpMV1ZsbVRHSnJSbWR1T0dFdGRWSk1hVmQ2T0ZZd1VteFZSa0puYVdjdE5qUlVVbFZzWDNOTVEzTlpRVkUyWjNNelNtTlVSV2Q2YldOb1NWQnNVRmMyV0ZSS2VXMXVlVU5yWXpaeWMyWm1UWE5KUW5CbGJpMWhjRTUyU214a1dubHNRMWx6YVU1bVIwa1NGM0V0V0V0aGNFTmpTVFpIWjJoMlkxQTBObTVxYjBGRkdpSkJSSE55T1daU05WZENlbkF6TVVVMlZUVkpYelZzV0hCNVlraEpOM2M0TW14Qg",
+      "title": "Director, Solutions Marketing: Women's Health & Rare Diseases",
+      "company": "LabCorp",
+      "location": "Durham, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-10-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://bebee.com/us/jobs/director-solutions-marketing-womens-health-rare-diseases-labcorp-durham-nc-united-states--jobgoal-9663_f32b11017f626184de79518c57fd4f88",
+      "description_snippet": "Labcorp seeks a Director of Solutions Marketing for Specialty Women's Health, HerCan and Rare. You will shape strategy, messaging, and enablement tools to drive growth and customer engagement across d",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJdB-miNzVwXCUmCdGrMVYuZAkCn5dsRTQNFN&s=0"
+    },
+    {
+      "id": "U2oyempCOTNpb0J6V2ZIM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXRKVDBOQ2RIQkdObGxoU1haMVNqTTRURGwxVUdoQ1luSmliVkoxTFZodFUwVllTMkp4VDE5UFJ6YzNZek5EZGpkNVkycEJWRzFTYVdkRWEwUkVTMGt0VkdsT2JrMXVSV2hDYm0weU4zcFRSRk5HZEVaemF6bGlOR3hIY2tsWGEyNVJjM0Y1Y1U5MVRURXlSakZyYUV4YWVXOUVZVzR0WmxwVFJscHNjSGc0TVdwMVgyY1NGM04xV0V0aGNrUm1TVGRET1haeU1GQm9UWEV3ZDFGM0dpSkJSSE55T1daVGVWazNPVmRGTUY5cVJWQjBOWEY1WjNSTVh6Tk5NSGxRWmpGQg",
       "title": "Registered Nurse (RN) - Adult Inpatient Behavioral Health - Full Time",
       "company": "Health Marketing",
       "location": "Devens, Massachusetts",
@@ -15,7 +39,19 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "eFlkU09Lc09FN1Y5VjhlakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRzTVZCM1gxUkNUV05OZDJrNGJGQnFPRTFxTTFad2RuWnBWa1pMWTBwM2FXeDVUMHRyUlRSUU1rdHFhV05CWmt0YVprNXphV3BoV2t0TWJIZE9Oa0U0UldzeFNFVlFRa2xTZWpSNU5GVjFTVjkxVEd4bVpqUnRlRmw2TUhWcmVsOU9XV2QzWlRkbGVIZG5UbUpoYkhCVVdWUnZZVlJRTVhndGRFcDFNVmhhTVVJM1RGRVNGMTh5U0V0aGMzRnBRMHN5YTIxMGExQmZOWEZaY1VGbkdpSkJSSE55T1daUlZ6RlZOMDVEWjBFeU5ITktWMjFsV1ZReFNIaE9RVU53UmpGQg",
+      "id": "b1V6YXFaNEZpLXNJWWUtX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEJLVVZaVGNtSkxaVTg1ZFhjemVVUlVkWGczYnpocFZtTlRPVXhoVjBSbk1rMTNiVkZCYTJsMGFVRnhZV2hxVkVSSlRYQjRWVXBVTlZwWFdFRlhPVGR1YkVSeFdIcG1aWE5yWjBaV1Jra3dOM1E0UTBsVlR5MUdaMmQ0ZDJodVNqaE1jMEpEWlY5V1JqRXhVVXRIWkZodFlWbDFSa0Y2UTNSc2NrRnhTRWxxV1dOeFpFVVNGekYxV0V0aGRHbHJUV1ptUzNaTlkxQTRMVU52TWtGM0dpSkJSSE55T1daU1VWUTVhblV6Y25jNFozQm1SMmcxV1ZsVmNEbGZZalp4YTNGbg",
+      "title": "Executive Director/Vice President Market Access and Business Development",
+      "company": "Anton Health",
+      "location": "Jersey City, New Jersey",
+      "is_remote": false,
+      "date_posted": "2026-10-10T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.talent.com/view?id=640923445635580710",
+      "description_snippet": "Executive Director / Vice President, Market Access & Business Development\n\nAnton Health \u00b7 Remote (U.S.) \u00b7 Full-time\n\nAbout the job\n\nAnton Health connects healthcare's brightest minds to help pharmaceu",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://antonhealth.com&size=128"
+    },
+    {
+      "id": "eFlkU09Lc09FN1Y5VjhlakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXBPTldKdk1XNTNXV1ZKVFU1SVdYZHFlWFZPZEVwT2RWbDBXRXBUTkhCTVVuaHNhRFpPYm1kME5WcGxkVUphZWtwNmNESmxjR2QyVlhScU1tcDRSSG8xVUZvelMxQmFUMDVGUmxCTWRWWmlTbUUwZDBkT1pXZ3lYMVJKVlhsdGFuRjZVazFhWVUxcWFIWm5kQzFFZFZObU5uWTJlRjg1V1hOSVIydEpUa2hoT0U1U1pHRVNGelJQV0V0aGNXWlJTamx1YUhBNE5GQXRabmt0YTBGSkdpSkJSSE55T1daU2VXWkhTSEpqVkZjdFJVdG1OMmsyTXpOdFIwSXhaMFYwWTBsbg",
       "title": "ICU Registered Nurse - Full-Time",
       "company": "Health Marketing",
       "location": "Brentwood, Maryland",
@@ -27,7 +63,7 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "Qldzc3VzXzRCcWtmUGxtNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEZ1WDFCaloxSmtOMnhmWmtOb1ptcFZWemx3TkRWblZYUkhVVEZGYlhCRVdubzBhMlJqU0ZkWWVUQTRSWGxYUkhCMVltVlVhWHBLUVdKbE5uQkJTRWhZTm1OMk9FcG1aVjlmTjBaVVgxSmhRa3BJWjJ0alZ6QldObkl3YTJ0dlZHNXhURkkyUlUxck1IQjNOVWgyY1hOc2IwVXdPSGRDVXpRNWVFczBSMFJLTW5oYWNEY1NGMTh5U0V0aGMzRnBRMHN5YTIxMGExQmZOWEZaY1VGbkdpSkJSSE55T1daUldsa3ROR1Z1T0MxdWNGSmtNblEwTjIwNWJGOVhNVzFtZVhaQg",
+      "id": "Qldzc3VzXzRCcWtmUGxtNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMU5TVGpnMk4zaGlURXR1ZUhsdk9HbFJObXBCVTFKSlNtcEhRa2hKUjJaUWNVSnNUVWxpYkMxcVNqRTNZVlV3U1RONVZERTVZblUyVTJWRlNFcEJSRTVyUW10c1YyeDNNbnBMYmtkNFJYQndOa2hJVDFkQ1IwRmlXRnBNVUdzeGNFMWphMWx2ZVhnNExWRXlkblJQVm5WVVUyeHFSMFJwVkRkc1ZFZEhWREZNUkdOQ1QwZ1NGelJQV0V0aGNXWlJTamx1YUhBNE5GQXRabmt0YTBGSkdpSkJSSE55T1daVWFXOTZRVXR2Y2xaSVVHSnJSakIwT0RKSk4zVllWbmhFWTFkQg",
       "title": "PRN ICU Registered Nurse",
       "company": "Health Marketing",
       "location": "Dunn Loring, Virginia",
@@ -39,28 +75,16 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     },
     {
-      "id": "WF9SbWg3MFRfaTEzRW9IQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3htTm1GSkxXVTVZa3hRVUVKdU9UZHhjbFo0WVZvMGRtSnVSSFJVTFVKdVdUTXhNV2d3Y2xGQ2NtbGlOM1IwV0VOWE4wZDJWekpDZVdselFteGpPVzloT0ZsM1h6ZE9NRlp1WjNKcUxXUkhTREZDYldoVGRFdDBhVGxyVDJ0TVgyTkNOVkUwWkhVd0xXMVdRa3RTTFVWalRsOXBla1pFTTJKRGFHMHRPSFZ0ZDBGVmJWVVNGek50U0V0aGNYVmhUWFpET1RRdFJWQjFTM2xwYlZGckdpSkJSSE55T1daVVlsUkxPVEYxTFRreE5teGFWME5GV2xRelJVVTNOM1Y1TkZsUg",
-      "title": "Assistant Director Nursing (RN) Ambulatory OB/GYN and Women's Wellness",
-      "company": "MedStar Health",
-      "location": "Washington, District of Columbia",
+      "id": "dkx2U0ItV09PbkN2Q2p1NEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamRuTkVKc1ppMU1TVWMwY0RaSFQzcGhRbVkwWVRSSmNrRjFNWFJWTW5neldqbE5iSEpwU1ZkVlZrTmFYMlJTWkhac09IQlVVekF0UlRCQ1RGQmFWVXBmZG0xemNqQTJPQzFQWkdGaE56WkdSV0UxVWpscWNYTkdlWFExYVdSQ015MWhjek5RWVhCdmEyNVNURkpEVjNnM1NqVmFSa00xUVVkM1VtOVdkRmgyZEVkeFUzTVNGelJQV0V0aGNXWlJTamx1YUhBNE5GQXRabmt0YTBGSkdpSkJSSE55T1daUk9FRjZiM1E1WmpoVVJuZ3dNRzFEWTFWTGMzUndPV1Z5TXpoUg",
+      "title": "PCU RN - Per Diem",
+      "company": "Health Marketing",
+      "location": "Claremont, Virginia",
       "is_remote": false,
-      "date_posted": "2026-10-09T22:00:00.000Z",
+      "date_posted": "2026-10-10T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/assistant-director-nursing-rn-ambulatory-ob-gyn-and-women-s-wellness-at-medstar-health-4475272269",
-      "description_snippet": "About The Job\n\nGeneral Summary of Position\n\nThe Assistant Director of Nursing (ADON) provides clinical and operational leadership for ambulatory OB/GYN and Women\u2019s Wellness services at MedStar Health,",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzwUwAbYMO5Cbg7qQxm6D2xqvACtE9urZzx4Y&s=0"
-    },
-    {
-      "id": "dDBMTTlMZXZvMXVKbE1rYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzV0VDJjd1FtRTRYMFpoT0hwbmFqRnZWall5VDBSdFZFbzFPVkpRWWtKSWVXbHNXbFZ6VFdGMmIxTmFhbk5hU1hKYVNraHNjelE1VDJaSlVXaHRjblo1T1VWWGF6QkphWFpuY2s1Rk5HeFhTMnd4ZVVaQ2VFaDBNa2hmWm1wcWVuRnNia3RZVDJ0WFpETlJUblZvVDBWcmJtbEhXWEZHWVRCU1pXRlZSa1ZUYkZwSmN6Z1NGemxYU0V0aGNubG1TWFpwVjNKMVJWQTNZME5NTkZGekdpSkJSSE55T1daVWRYQnZRamd0U1hOa1JITldTMWx4YjBSUVNVcEpRbTVMU2pGbg",
-      "title": "Vice President, Brand Strategist",
-      "company": "RevHealth",
-      "location": "Morristown, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-10-09T00:00:00.000Z",
-      "salary": "$170,000 - $190,000 (YEAR)",
-      "apply_link": "https://simplify.jobs/p/68b43b7c-09da-4990-8284-26b07db6b572/Vice-President",
-      "description_snippet": "In a world of big-box\u202fconsolidated\u202fagencies,\u202fRevHealth\u202fstands apart\u2014proudly independent and intentionally different.\u202fThat\u2019s\u202fnot just our ownership\u2014it\u2019s\u202four mindset. It empowers us to think fearlessly,",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5V91GGEnxejjcufNI-01iIn-lvVbY13P4P_2&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/pcu-rn-per-diem-at-health-marketing-4476856910",
+      "description_snippet": "We are seeking experienced PCU Registered Nurses to provide high-quality patient care in hospital settings.\n\nAs a PCU RN, your responsibilities include\n\n\u2022 assessing and monitoring patient conditions\n\u2022",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
