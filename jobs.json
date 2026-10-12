@@ -1,78 +1,30 @@
 {
-  "last_updated": "2026-10-12T02:00:03.021619+00:00",
-  "job_count": 6,
+  "last_updated": "2026-10-12T20:05:42.548684+00:00",
+  "job_count": 2,
   "jobs": [
     {
-      "id": "UlppSmhkazgtWDI0TkpFYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhQUTB0eU9GQXRObXh5WVhkd00wMTNSSGhwVjJkc1psRmxaall4WlZGdmRtdG9PWGt6TTNCbFNVZGtia3hKUkcxelEyWTFObXhXWkRSa1JEZEtkMjAzVkRsT1lXeGZibDlaZUZFNVowbHRaMHd5TUVSclZuZGZXamh0VVhwNlFUWkNUMGhEVW0wNWJtMVlhVXBaVmtaUWVHdE5NRk5MUkZCMVVYVnVUekZ2TTNSbWMwSVNGMnhFTjAxaGNsY3dRM1ZUT1hCMFVWQjRUVmd3Y1VGWkdpSkJSSE55T1daU2NtaHBlREIyZW1GV01UWnZURTlxYVRVd1ZqaEpiSFJ0ZUc5bg",
-      "title": "SVP, Payor Strategy",
-      "company": "Axia Women's Health",
+      "id": "bllPUF9veU1uRi1BNG9wREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEI0UWtoNWJHUXdaR3QxYVdSbFYycGpaWHBVU1RoWGFUTnVibkoyVkc1WGNrUkxOMFZEY1ZSWlNsODJPRFJOTkZKb2RVZDJUSEZTVG5kMk1sVmlZVEZrU0hkNVdFZHBTRzF2TUU1MlVtRjFlRUp3T1U5aWIzSjJlblpMYlVSQ1pFaFBPV0phZUY5WFRHUjFNRWhSYUhNNGMwMTFhelZCWW5OWlRubFdSRVZuWmtaSFoxZ1NGMlZFTTA1aGNYWlpRUzB5YUdoMlkxQjNPV3BoYTBGRkdpSkJSSE55T1daVVlrTnRXWEpFUldZNVNXdE1WbFJ5YjJKUWQxTnNZMHhwZUVOUg",
+      "title": "Associate Director, Field Medical Marketing; Mid- Atlantic",
+      "company": "Scorpion Therapeutics",
+      "location": "Richmond, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-10-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.digitalhire.com/job-listing/opening/E8EwcsWmKwBCr2scSrAkT",
+      "description_snippet": "Position: Associate Director, Field Medical Marketing (Mid- Atlantic)\n\nRole Summary\n\nA field-based key member of Neurocrine\u2019s Medical Marketing team, aligned to a specific specialty within the broader",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELHQ4UGxKNzBJ0Nww0c45G9ELtnqCjx5j2ejk&s=0"
+    },
+    {
+      "id": "RjFFc0pjblZKOTJTT2l2YkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTFFVW1ONWJWVnpjMGw0Y21oMmVtSXhZVmxuZDBOamNHMUxPSFJVTFdjNGVsTkpibkF6WjNnNVNtVXplV0pVVDJKUk1ISmhaR05KTUdKUFVsTXlVVlJUVEZObFR6SjVSa0puVHpod1prWk5aa0V3T0daeVVIaDJWbkF4UlhKUE5raEthVXBTY2pjeWFrMTNkVFpxZUhReE1qVjRkVFJaUjBGMVFraEthMkpNVUdkRVYyTVNGMkpFTTA1aGRsUnJUMXBITVRWT2IxQTJXVWQyTkZFMEdpSkJSSE55T1daVFJuUjZSa3R6UmxScmF6VTNjMWhZU2t0blNra3pVa3d3YVhSMw",
+      "title": "Benefits Manager \u2013 Healthcare Strategy",
+      "company": "Morgan Stanley",
       "location": "New York, New York",
       "is_remote": false,
       "date_posted": "2026-10-11T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://bebee.com/us/jobs/svp-payor-strategy-axia-womens-health-new-york--lifeworq-1ea8d050-7bc6-438b-ad8b-1a6a0edbd221",
-      "description_snippet": "About Axia Women's Health AxiaWomen's Health is the nation's largest community-based, integrated women's health network, serving women throughout New Jersey, Pennsylvania, Indiana, and Kentucky. At it",
-      "employer_logo": null
-    },
-    {
-      "id": "REdKYWxpeGxqT1gxN2xQYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0owVVZCYVZrcGFVMWRyTUZGYVpFRk5jbFV3UXpodFpIVmpVMDlqTlhsNU4yNXBkV1k0VlVweVRsSjRSMFJpZEVwTFlXRm5UVWxsUnpSSmNGWTBSRE5SVkRkdlJHVk1OMnRQTVhCeFF6bEpUbXhwZDNkZkxWRmZUbHBFVm1WNWMyaGpiV1IyYkZnMVMwZHdWMnRvVHpod2RERjFUWFY0V0RoRWFuazJjR2xLVEZaaE1WOFNGME5VWDAxaGMweEpUMk5wUmpRdFJWQjVkRFpvTWtFMEdpSkJSSE55T1daU2JIRkNkWEpYTUZjM2QzQlRWRUUyV0RsZlJVWlRNM2syWlRsbg",
-      "title": "Senior Manager, Brand Marketing - Provider",
-      "company": "Zocdoc",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/senior-manager-brand-marketing-provider-at-zocdoc-4450001912",
-      "description_snippet": "Our Mission\n\nYou call. You wait. You call again. In every other part of your life, you book in seconds. In healthcare, you\u2019re blocked.\n\nWe\u2019re here to give power to the patient.\n\nFor nearly 20 years, w",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvF6d2hCNh_6WWgA-cYwzNm72mal2uqqk4BAS&s=0"
-    },
-    {
-      "id": "RjlKVW8xQTVmR3F5Vi1hOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSE54UkVVemJIRXdNbVZsYVc5SlpGWnpYMjVpVGxobVUwcEZPRU5OTUZCeWNUTkpUR1JtTUZVemVUVmtVV1ZITXpkVFpsQjBVRE5YYVRaRlpWUm1VRUZTWVhSWlVrRnFjRmxZTlVKdE5EWXdkV2MwWkZkMFZGSlZjRWxIWWxacE56TnhSMHhMZWt4dWIyMXJRMlZsWVVWSE9FRjRNVXh1YlhVMGFVNXhkV1pPTURaVVYzVVNGME5VWDAxaGMweEpUMk5wUmpRdFJWQjVkRFpvTWtFMEdpSkJSSE55T1daUmFqRktiSE5ZVkd3MWMwVTJMVWxKZUc5RVlVaFRTRlJGVEVSbg",
-      "title": "Neuro-hospitalist",
-      "company": "Health Marketing",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/neuro-hospitalist-at-health-marketing-4477230611",
-      "description_snippet": "We are seeking Neuro-hospitalists to join our expanding neurology department within a large health system.\n\nRole & Responsibilities\n\n\u2022 Provide inpatient neurological care across multiple hospital loca",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "TkR5QUllQXd3SEhUYmFtMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0kzWTA5UVgxZEphM3BVYjNkbmRsaEtibGxsVGtnelUxUkNkbWxCZGpCSE5tb3hjbU40VTA1cWJFcHJSMmR6YzB4TFJsSnliWE5mUm5keVdIUjBlbGc0WkRsYVNVZFVOVnBWU0RscWVVaE9Sa0prVXpod1JWTlljRGhvUlRkUVRVWnlabmhVVjFGd1ZUbE5Zblp3WDE5eGNXcHhVSFpvWDJwTWVuRjJjVTFaWkRJeFRsRVNGME5VWDAxaGMweEpUMk5wUmpRdFJWQjVkRFpvTWtFMEdpSkJSSE55T1daVGVGbEpTSFpsZVc1dFVUSm1jMk53Yldkd1JWZFNRbFZhWHpGbg",
-      "title": "Neuro RN Job",
-      "company": "Health Marketing",
-      "location": "Morristown, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-10-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/neuro-rn-job-at-health-marketing-4477247092",
-      "description_snippet": "Responsibilities: Neuro Nurses (RN) care for patients with neurological injuries and disorders, such as head and spinal trauma, Parkinson's disease, Alzheimer's, epilepsy, and multiple sclerosis.\n\nThe",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "anhnU2dOMkZhX1NmTnRJVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3RtVkRGd1MxQmhYMEpIVmtKQ1ZuaE5SRzlDTTFaa2VrWTBkbWQ1YUVKbmVuTlJTblk0VURoQmNuWlNTeTB3YXpoYU9FUTVjbVZhTkVob2JVUkxhMUE0VUdoWVprOTZRVkpFUTJ4WVIzSkdOMkZPTFRsblpEVlpNVU54V2s0MFZsWnNhbk5QYzB4c1RuWjZZemRQVlVWeVJEY3lZbEZJUmtWNWJXOWtMV2RKUm0xRVFWVVNGME5VWDAxaGMweEpUMk5wUmpRdFJWQjVkRFpvTWtFMEdpSkJSSE55T1daU01USjZOR1p2ZURSNFRGTTBSVXAwVjNaM09HdFVaR2RxVFZsMw",
-      "title": "Locum Tenens Internal Medicine Physician",
-      "company": "Health Marketing",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-10-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/locum-tenens-internal-medicine-physician-at-health-marketing-4477228651",
-      "description_snippet": "Seeking a locum tenens role in a skilled nursing facility with hospital privileges.\n\nResponsibilities include working 36-40 hours per week, managing 15-18 patients daily, and providing care for adult ",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
-    },
-    {
-      "id": "a1BSNEhVOENmMkVoRkFKVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVZHUkdWR1gwaHZVek5HYlZKa1MwTlFZWEZwWkhCeE4wSkRVMDlPWTNFM1RHMVZORkE1Y1UxV1dFZEdYMnhzWkZsRWMxWlVlSFpDVVZaa1dXMHhTVEUyY25CcWFYaHVVVTlSZEhkTmNXTkJaVmhtT1ZoR1ZHMW9PV0ZxVEdGNE1ucGtVRVZVT0hsRGVrSklkWEZ0YWtSc2FGYzRkR2h4UVd4UmN6VXhWMFJKVHpWYU0wOFNGMFpVWDAxaGRUWXRSa3BUVURoTU1GQTBObkZVZDBGbkdpSkJSSE55T1daU1l6TnFiMVZhVjBJNWJUaGhXa2RqY2xkTFdWTjNXSG8xVVU5Ug",
-      "title": "Lead Integrated Marketing Manager",
-      "company": "Inova Health",
-      "location": "Falls Church, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-10-11T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/lead-integrated-marketing-manager-at-inova-health-4477225664",
-      "description_snippet": "Job Description\n\nThe Lead Integrated Marketing Manager is a senior strategic marketing leader responsible for the development, integration, and performance of marketing programs across a complex portf",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASfKqrXlKMIeFyq1jkRyzcduB2XcdPVIWRWpZ&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/benefits-manager-%E2%80%93-healthcare-strategy-at-morgan-stanley-4464899679",
+      "description_snippet": "Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve cl",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6qSH6L7nl5Vv0okdkFN86EFDXeg_k5NbYOle&s=0"
     }
   ]
 }
