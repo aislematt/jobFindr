@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-10-13T17:53:14.068670+00:00",
-  "job_count": 2,
+  "last_updated": "2026-10-14T01:30:57.846859+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "Z2V1OW15LUFGMmd6SmZWQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlJoTldWRlR6RnplREo2WjFaSVZVOVBaMmx0U0ZWSVNtcGZWSFZYYm04M1YzUjJTVlUxY21aNmNYSXRZbUZOTm5BMVdIRndkMnBLUld0eVprSnZVV3hITFV4M2VFazFTR1ZqY1d4UU4yVjFiWFV4TjJKUWNsVm9RbFpXYkZWYU1tazNjekZXWkZGM01tMXlXVE5NYWxWS05XOU1WMTl4V21SUVVFaFpVSGxDVERKM1FXY1NGemR0WDA5aGNHbFVRVFZoZG5KbVkxQjZZUzA1TkVGdkdpSkJSSE55T1daU2RuUnlXbE5RTkRaTmNuRmZWRFJLVHpkcU1sUlFhbVZLYlhCQg",
+      "id": "RTdHSXFNZ1gtcGp1aUtqbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek10TjNKNVZqZzNURkl6TTNoZmNYWmpXRE5IV1UxV2FGVkJiMnR4UlhsWlh6bFFlR1ZPT1V4UlFUZHdYMUZaYzJ0MFpVMTJjRXhhYm5VMlZtcHFlblJ0V1ZSMFZFVTBaMFJYYjFRemVsTnJjRk5XYW5NMVdXMDNUbE5UV0hSS04xcFZSelJCTkdaUlgxUXhiVmd6VjIxc1dXZGhhR3huUlhWbk5VMVJUVmsyYkVNdE5qRVNGMFJPZGs5aGRubEdTMGxUWlRRdFJWQnJTVXgxZDFGbkdpSkJSSE55T1daUlREUjNOMHhxVVdoMFFsTmhZbXd3VkdoRlFWSndVazlPVVRKMw",
+      "title": "Women\u2019s Health Nurse Practitioner \u2013 Starting at $150K | Brooklyn FQHC",
+      "company": "UHC Solutions",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-10-13T22:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20478732/womens-health-nurse-practitioner-starting-at-150k-brooklyn-fqhc",
+      "description_snippet": "Women\u2019s Health Nurse Practitioner \u2013 Starting at $150K | Brooklyn FQHC\n\r\nA mission-driven community health organization in Brooklyn, New York, is seeking a compassionate Women\u2019s Health Nurse Practition",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uhcsolutions.com&size=128"
+    },
+    {
+      "id": "aVd2NWRrYktEbXdYNlc4MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazVNZUhSUGQzRlNPVEJITUZJeldUWnFPVW8wU1hkME4xOW9SVll6VDJGbGVGRmhTbFF4TTFVelVIUm5lRUZ5UVhONFlXUkJObEZqTURKMlRqVTFTRjlOVVV4M2JtbG9XbU4yWkVaaFRXWlpVRkZ2VTNKaGJFZGpTVXBETVRWSFRsbHNUMjVZV0U1eFVsWlBTalJZUzBjMFptaE5VV2xSZUZadlV6Qm9PVGxXVjFwc2VtRVNGMHAwZGs5aGJ6SmtTRXRIVW5aeU1GQnhjblozYjFGVkdpSkJSSE55T1daVVNuVlJia052VVcxalgzbFNUakZ4VWpkV1JXcENaRGxUWTFSUg",
+      "title": "Director of Revenue | Baltimore, MD",
+      "company": "Atlantic Health Strategies\u2122",
+      "location": "Baltimore, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-10-13T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-of-revenue-baltimore-md-at-atlantic-health-strategies%E2%84%A2-4478163153",
+      "description_snippet": "Director of Revenue\n\nBaltimore, MD | $160,000\u2013$190,000 Annually | Full-Time | On-Site (Hybrid Flexibility for the Right Candidate)\n\nAbout the Organization\n\nAtlantic Health Strategies is recruiting on ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyS9vJVngCV4M4e6t5WgsU_Q3054d3hTw4L3cP&s=0"
+    },
+    {
+      "id": "aVd2NWRrYktEbXdYNlc4MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUUwTW5veGNtRmZMVUozZUhOMlgzY3lSbVpLY1ZOUk9YQnJPWGg1TlhWUWVrMWtja3RuUzJsM2NXaDZPV3hYWVVWaVNHeHRNR1oxVVdOdE5VRm5XWEpRWDBkeVF6Qm1RemRSVHpGak1XbDBaV3BDTVdGbFNtSldiSE15VlVaZk1tZFVYelkxY0ZsYVlVbzNTR1p2WlVaM1EwZzNVMFZ0Y1ZkMFQwb3pNMkl3WmpCSU9IVVNGMHQwZGs5aGRraHRUMkpFTmpGbE9GQTFkbXBxYTBGUkdpSkJSSE55T1daVFVuRkxTa1ptVlhBMVl6bGxTa3hFWlhkaFNqVTFMVGsyTVc5Qg",
+      "title": "Director of Revenue | Baltimore, MD",
+      "company": "Atlantic Health Strategies\u2122",
+      "location": "Baltimore, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-10-13T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/director-of-revenue-baltimore-md-at-atlantic-health-strategies%E2%84%A2-4478163153",
+      "description_snippet": "Director of Revenue\n\nBaltimore, MD | $160,000\u2013$190,000 Annually | Full-Time | On-Site (Hybrid Flexibility for the Right Candidate)\n\nAbout the Organization\n\nAtlantic Health Strategies is recruiting on ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyS9vJVngCV4M4e6t5WgsU_Q3054d3hTw4L3cP&s=0"
+    },
+    {
+      "id": "Z2V1OW15LUFGMmd6SmZWQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpWVG1kMVIxZHJWVFozZUZCcFlVMXpjVGhVUm1oNmJ6QnVlRE14U2pNeVozUjJiV1prVFZVMGNtZzVSVmxzVm0xM1l6aHNSaloxVmtFd1YxRkpaM05uZEhaRGNIWnlWWE5TYjNaTFZGcExSSFJIUkVjNWFHSmthMFprYTJsaFVVUlJTblEyWms5dFFrdGxZbVJXYkUxcVNFcENSVjlYYjJwTVVHZFdXbWhhVTFBMVMxQVNGMDVrZGs5aGRWQnBSMXBEZHpWT2IxQXlObkpJWjFGbkdpSkJSSE55T1daUlZVNVdObkprV2pCT2RFZHJTMk5NY0VKWk5HcHBUMGd3YlZKUg",
       "title": "Senior Marketing Manager, Employer Brand & Recruitment Marketing, One Medical Talent Acquisition",
       "company": "Amazon",
       "location": "New York, New York",
@@ -15,12 +51,12 @@
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8cjilIv0noOFj0tHO0SIQi6iDNcIlTstotBh&s=0"
     },
     {
-      "id": "SVRsd2ppV0gtMjZCM1FhUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEZVWVU5V1UzQlNkbWR1V1dORFRXSmFjR0ZPTWpBM2RsSkRWR1JTZEc1SE4wVkNNa3BqUWxGWWNtSnpaVmx0TjB0bFYwNHlkVFJmUzJwS1dHOXFiblJmTTJkNlFrOWlaRFo1Ym5Zd1pHWndhREV6VFVsblNFMTJNMWRyY2paV09GSk1YMjVzZEVKQlRGVlZVRWxwWTFWSmFrbGxZVWxzYURkWU1UbERURTFDY1c1VldWZ1NGemd5WDA5aGRtSTBSRTFVVWpKeWIxQmZZMTh0TWtGakdpSkJSSE55T1daU2N6aDNkR3RVYnpOb2FIZFljSEkyYkUwME1IbG9NalU1WVVkQg",
+      "id": "SVRsd2ppV0gtMjZCM1FhUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGRrWHkweFVuTnNVbkYxYm5KYWRYZG9lbFl0Ymw5T2J5MTRVRFpGZFZaVExWRnBhblJ0VEhOc1pVWlJPVUZyYWxGME9YWjZNbVYxYmxoelR6QmlYME5VTTE5V2FWWnlXRlo1VlRKSlYyUm9TRzh4YTBjNFZGRm5TbU5KYmtwdmRuTnZWVzQyZVc1aGRqWjNhbUpQUlZnMmQzWjNZM05WYzBaTlNFNUZXV2xIVGswNVVFRVNGMUE1ZGs5aGNGOUJTRXBNUVhKMVJWQnJURU5pWjBGSkdpSkJSSE55T1daUlNqaElhbkZqWmxGeWEycHJaRkYwUmpGdWJHMUpTMHRDTURsQg",
       "title": "Healthcare Market Growth Leader",
       "company": "Jacobs",
       "location": "Washington, District of Columbia",
       "is_remote": false,
-      "date_posted": "2026-10-12T00:00:00.000Z",
+      "date_posted": "2026-10-13T00:00:00.000Z",
       "salary": "$144,000 - $251,000 (YEAR)",
       "apply_link": "https://www.linkedin.com/jobs/view/healthcare-market-growth-leader-at-jacobs-4450744059",
       "description_snippet": "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, s",
