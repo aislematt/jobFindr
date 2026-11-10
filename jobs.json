@@ -1,9 +1,45 @@
 {
-  "last_updated": "2026-11-10T04:28:17.195840+00:00",
-  "job_count": 7,
+  "last_updated": "2026-11-10T18:24:22.670762+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "cWdxYUlaSlRrc0pDbWVXREFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbVZQWTFWS2FpMVNWV1p6VFc1U2JqUnJkM2x3ZFc1R1lYZzVPRVYyWjJVd1UwWktNRXhVT1dKUlJXSmtZa3RDWm5acmRrUTBWUzEzUzFOdVNHVjJjVzl0WWpaUGNWbEZWVWRpT1U5Mk5VVmFhbEpIVTFCMk1IUmhTVVZVVFY5ek9VRlBUblpXYlVwSk1YRkhUV28yWldwNE5HbGZhM1pIUTJoaU4wNWhZVXQ0WlRNMFdGOFNGazlLTTNsaGRrdENTVW90YjNCMFVWQnRZVXRaV1VFYUlrRklUakJGTjBadk5WcHNZVWRLVTBWNVZsOW5aVWRFVkZwTmRub3pMVzFMWmxFOmRmMWMzOGNj",
+      "id": "QXBfNEVrSlZ6TW1VYlZjUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVUpSYjFBMVVXeEdkbEl6YzFSWk1qVnlVVE54Y0RkaFNITTBjVnAxTFRSdVRtaDFUSFV3ZFMxbVMwUlhRWGhwV21wd0xWSTJhWHBzVlZkdlZVOXFUMWRUZUdSemRsVldOa2hQY2tSRldUZDVlRXRET1VSWlFrNHhWWGg0TVVOQ1FXSXdWVWd3UWtJNGFtUnVlSFJWTkZNMldETmZiR3RFZG5FMk1HUlZRVk5qZDNwRFFXY1NGMFZIU0hwaGNUY3pRWEZQZWpKeWIxQjNjMlZ2ZVZGWkdpSkJTRTR3UlRkR1lYSkJPRTlWZURoWWVIRlpZbXBNYkZGeGNqbG9WMlJCU2xabjo5ZDM5OGM3Ng",
+      "title": "Vice Chair of Women's Health",
+      "company": "AMN Healthcare",
+      "location": "Tampa, Florida",
+      "is_remote": false,
+      "date_posted": "2026-11-10T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.healthecareers.com/job/vice-chair-of-womens-health/10540006",
+      "description_snippet": "Job Description & Requirements\nVice Chair of Women's Health\nStartDate: ASAP\n\nThe Moffitt Cancer Center is seeking a Vice Chair Women\u2019s Health Pathology.\n\nWorking at Moffitt is both a career and a miss",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKvNyMQXYw3NgCC10GrIW_gUSIU710FKBoW_l&s=0"
+    },
+    {
+      "id": "NloteXlwbkdRSUVNWU5SakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVUpFV0ZwSk4ydE5XRkJGVURObWNIRlJSRUY0YkhsUllVdG9YMEp2ZWkxVFQxOXVNMjlPV21FelpVVm5kemRHT1RobU9FVmpibFJrWVRaZlpXVlFjRFUyYjA0NVdEWkpUMUJ2T0dwQmQyaHJVRkYyYURKSlpWUlFTbE5xVURRM00ySkVNbXQzWTJKamRuazJNRlpsV0ROVFoza3pRM0pmU210Sk9VTjBVbXhDVHpWeFlrZ1NGMFZIU0hwaGNUY3pRWEZQZWpKeWIxQjNjMlZ2ZVZGWkdpSkJTRTR3UlRkR2VFY3hjWGwzV21nNVdGOWhSMmhwWlcxeVdGOHdOakJ4WW1WUjoyMzNmNTdmNg",
+      "title": "Medical Assistant - Women's Health",
+      "company": "MedStar Health",
+      "location": "White Plains, Maryland",
+      "is_remote": false,
+      "date_posted": "2026-11-10T00:00:00.000Z",
+      "salary": "$20 - $35 (HOUR)",
+      "apply_link": "https://www.glassdoor.com/job-listing/jv?jl=1010321950164",
+      "description_snippet": "About this Job:\n\nDepartment: Physician Practice - Women's Health\n\nSchedule: Monday - Friday, 7:30am - 4pm\n\nAddress: 4225 Altamont Pl Unit 102 White Plains, Maryland 20695\n\nGeneral Summary of Position\n",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBI2sodbcI6WJlqq2gACpjFQ3OA0p7OEfzDz1&s=0"
+    },
+    {
+      "id": "RTdHSXFNZ1gtcGp1aUtqbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3B4WkRaVWRVZEllbm81VTJKMFYzSnRTbTQxVkhwVFZXbFBYM1paU3pBdFdVNXBUbkppUTFCVlpuWnBWM1E1UXpkR2FXRjFVVE0yYVZVdE5IRkdla3MxTFc5VVdUaFlOV3QwWXpCc2RIWnZNRk5TVldSU1pFMW1kVEZyWVhKRlVXNVpjalJqWVhCV1QzQnpRMVpGZDFGdmJEUnlXa1JWZERWR2VYTnZhMG95ZWtVeFVtMFNGMEZ0U0hwaGNtRlBUamd5UzE5bWQxQmZjVXQyTkVGakdpSkJTRTR3UlRkSVkyZDJVVkZWUzBwdFEwZzFkM2RhV1RZdE9ESlhSR05RYnkxMzpjYjdiZjg1Mw",
+      "title": "Women\u2019s Health Nurse Practitioner \u2013 Starting at $150K | Brooklyn FQHC",
+      "company": "UHC Solutions",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-11-09T22:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.doccafe.com/job/nurse-practitioner/womens-health/20478732/womens-health-nurse-practitioner-starting-at-150k-brooklyn-fqhc",
+      "description_snippet": "Women\u2019s Health Nurse Practitioner \u2013 Starting at $150K | Brooklyn FQHC\n\r\nA mission-driven community health organization in Brooklyn, New York, is seeking a compassionate Women\u2019s Health Nurse Practition",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uhcsolutions.com&size=128"
+    },
+    {
+      "id": "cWdxYUlaSlRrc0pDbWVXREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUZRWXpKUlNYWmhjV0pKYmpORk1WbEdPV0puYUcxSk5YSlpiMmQ0Y1hKUkxYSTBMVlZGUm1oUllVbzVhR1pOVHpKbE9XdHVaMUZGVFROR1FtTnBXbTB6UTJZNWNqUkdaa1JrYm1GYU16bEpTM0pQVDBadVgycHNXRlJsT0MxaFgzTXRWSGxmUmpsSFFUVmFNa3BrTUVsSlYwTmFaSGRqZEd0VmNXbHBlWFl3ZVVwWllXMFNGMDB5U0hwaGNsQjRSbkY2WW5KMVJWQm9OemRzTkVGVkdpSkJTRTR3UlRkSFZVWkRWemRxVGxsdVNVOXdOMk42WTJwWlQxaElRMFphVFdwUjpkZjFjMzhjYw",
       "title": "Market Development Manager, Northeast - Full-time",
       "company": "Astellas Pharma",
       "location": "Remote",
@@ -15,76 +51,16 @@
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://astellas.com&size=128"
     },
     {
-      "id": "N3A0aV9kZVZZOTd3UkJGb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXROVUdoU05HUjBNemwzVURkRVJIa3RRa2RXVjNacmVYTk9TRkJtTUdWQ05XVmtjRTlFYm5oUWVFTXlVVXRmYURaRWRHNTBiWE5pUkdnd05qVnZZVmx4VUdWcVFXMUZTa3hsY0hGVlEwbzNWbEIxT1UxWVlscHJVVk52YVZjNGMyNTVhbFJUTFdwaVFsOXRiblIyVlVsTVMxQXRjM3BpVEhack5VNWZNMVF6TmxkVVFqQVNGMTgxZW5saGNtMHpUazh5V25CMFVWQjNaR0Z4T0VFd0dpSkJTRTR3UlRkSVNrZEJaVFZYV0RoSllrcExPVVZaWkdSdFRUZ3RhRFpLY2xKMzphMGFjZGQ2Mw",
+      "id": "N3A0aV9kZVZZOTd3UkJGb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0pLUTBFMFRtVjJZVUZ1TWtSa1lYbFNhWGRHWjJKYWJtdDBRMk5tYURVNFMxbFZia1pqYVZWRFFpMXpSRVZhT0dKMFpqVmtkamxsY0ZCdk1UUTRkWFZ6VUhobVgzazViM2xTVGtRd1YxbzFObEpTYTFwd1JVOUNTRTFIYUVkS1ZIcGFhM1JOTjFwbVRUVnlPV05tV25wdk5tUlJjMDFuWmtSZmEzaEtPRXh4UzBoTmEzb1NGMEZ0U0hwaGNtRlBUamd5UzE5bWQxQmZjVXQyTkVGakdpSkJTRTR3UlRkSVNUWlVhekpWVmxGRk0xUnRWREEyVVVoYWMyMTNORlJPV2xwUjphMGFjZGQ2Mw",
       "title": "Nurse Practitioner (NP)- Women's Health: WHNP & CNM's",
       "company": "Infosage system",
       "location": "Bronx, New York",
       "is_remote": false,
-      "date_posted": "2026-11-09T17:00:00.000Z",
+      "date_posted": "2026-11-09T00:00:00.000Z",
       "salary": "$120,000 - $150,000 (YEAR)",
       "apply_link": "https://www.indeed.com/viewjob?jk=f2a8473e30549c8f",
       "description_snippet": "Job Title: NP Women's Health WHNP & CNM's\nType: Full time permanent Direct Hire\nLocation: Bronx, NY\nSalary: $120,000- $150,000\n\nSummary: The Nurse Practitioner for Gynecology will work with female pat",
       "employer_logo": null
-    },
-    {
-      "id": "ZWM1bjF0MDFOWXdQY3ZWcEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFpyWmt0VWRrdHJhRlpMU0RndGF6YzFlR1p3VjJKWlJFMVlTR1ptTVRWd09IUnRTR0YyVDFvMVJHRndaemRVVkVFeGJscFFVbmxDVVhZMFdIbEtTbXBOYWs5RFRsUndlRGh1WjBkS01rZzVTRTlMYzFkM1NXcHNPVGxET0RkeE1FSlZiQzEzVTJKTFpFbGpabXBOTm5SS2NtUlFVa2d3Tm5sd1RsZElhR3RMYVZsemIzVVNGMUZLTTNsaGNWOVlSR05sZHpRdFJWQTFZVTlOTWxGVkdpSkJTRTR3UlRkR1dHZGhWRFF4TWpreWNsVlpaalpGVTNReGRHeDBTbGd0U21SMzphZGExN2UxMg",
-      "title": "Senior Account Supervisor",
-      "company": "Lucid Group",
-      "location": "Remote",
-      "is_remote": true,
-      "date_posted": "2026-11-09T17:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.wearelucidgroup.com/jobs/8693049-senior-account-supervisor",
-      "description_snippet": "ABOUT LUCID GROUP \u202f\nWe are a global healthcare communications agency with deep therapeutic expertise that traverses the asset lifecycle, delivering transformative outcomes for healthcare brands for ov",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lucidmotors.com&size=128"
-    },
-    {
-      "id": "TDhjTWpXdGR5eEFveHROZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWRzU0c5TE0xaEVXVkJPVVVObGMxVmZNVWg0ZEZwTWFFaFFSVlZXUkMxeFUzQnRMV05aWWxCV1ZqRjRkbVZtWjBsUldERmZNbXd0ZG1zdFIxSjZPV281VVdOVVNYbGxkVGgyTldwWlFWWkVSRVEwZVdGbU9YaFRhbU55U25oc1pTMVJkbTVDYkhKTWN6ZHJUell5UTFCV05FNVJZaTFMYzJ4NFRVRXRRaTEyVm5rd1psZ1NGMTgxZW5saGNtMHpUazh5V25CMFVWQjNaR0Z4T0VFd0dpSkJTRTR3UlRkR1RUUldlVmRxY25jMlNFMUxZVVEzTTFkTlZUVm5iMXBTUVhCbjphN2Y0YTRmMQ",
-      "title": "Administrative Supervisor - Women's Health",
-      "company": "UPMC",
-      "location": "Pittsburgh, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-11-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.upmc.com/job/24111809/administrative-supervisor-women-s-health/",
-      "description_snippet": "UPMC University of Pittsburgh Physicians is hiring a full-time Administrative Coordinator to join their Women's Health coding team! Our Women\u2019s Health decentralized coding team provides specialized co",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.upmc.com&size=128"
-    },
-    {
-      "id": "QnZvaEExanU4bGRvNDNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWhXVXpBdGVqVTVZV2cyZEhOTVYwUnVUVFpXTURGaFFuaFFlblZ3ZDFCcmNuZDNSMFJpYnkxcVIyUmxNRVJhYUdwNlRVMWpTRVJ4ZWpsaFZGVkVTbU5QYVc1bVprVXpWbVJUWm01a1QzVjNSVFpDZUhoMWJsUnhUblpuZW5GTU5rZHpORmt3YzBSdlNWVnRTRUZqYzBadmIwWlZVazQwYW1KaFQxTTFXVlJUYTNGa2JVSVNGMTgxZW5saGNtMHpUazh5V25CMFVWQjNaR0Z4T0VFd0dpSkJTRTR3UlRkRldIZENSRFJhTUROV0xXRXhkR0ZwUzJOcllsOVNiVlpwVkVkMzo5Y2U0NjU2Mg",
-      "title": "Director of National Center of Excellence in Women's Health and Nancy Milliken, MD Endowed Chair (m/",
-      "company": "University of California San Francisco",
-      "location": "Oakland, California",
-      "is_remote": false,
-      "date_posted": "2026-11-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/director-of-national-center-of-excellence-in-womens-health-and-nancy-milliken-md-endowed-chair-m-oak/3061808409-2/",
-      "description_snippet": "Position Overview\n\nThe Department of Obstetrics, Gynecology and Reproductive Sciences at the University of California, San Francisco (UCSF) seeks a collaborative and visionary leader to serve as Direc",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVBPhSwwCh49EgUElBNCUGU5SWt_vNsfTj-Vf&s=0"
-    },
-    {
-      "id": "TDhjTWpXdGR5eEFveHROZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUkxTkhCblVUbERYM1pCZG1sTlMxbGlkeTFQUm5KbVdHNXFSbFZIVGpGSFQwNXpUUzFGVW5oaFZsWjRjMk5JZWxONFJsUnhlQzA0UVZKdlZFRlNMWFJUVWtveFZWZHVTbWg0YlU1M1JUTTRSWFZwVVU5eldrNVpVRU5wZFVaMVMxRnRSa0YyVmpaTFpGWkJXR2d4Y25kVVNFZFdTa1JSUVVoNVRTMVJkMDUxU0VocVh6RVNGME5hTTNsaGNqTkZSMWxsUjNjNFkxQnBkVXRHT0VFNEdpSkJTRTR3UlRkSWRtZG5kWGhLTUhsR2VsTkRiVWQ1UW1NMFdWYzVjMUY2Um5wQjphN2Y0YTRmMQ",
-      "title": "Administrative Supervisor - Women's Health",
-      "company": "UPMC",
-      "location": "Pittsburgh, Pennsylvania",
-      "is_remote": false,
-      "date_posted": "2026-11-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.upmc.com/job/24111809/administrative-supervisor-women-s-health/",
-      "description_snippet": "UPMC University of Pittsburgh Physicians is hiring a full-time Administrative Coordinator to join their Women's Health coding team! Our Women\u2019s Health decentralized coding team provides specialized co",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.upmc.com&size=128"
-    },
-    {
-      "id": "QnZvaEExanU4bGRvNDNCa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWxqV1ZZelJUWlFVbkYyWlhSb1pWOVNaMUY0U1RWemNEQkVUMkZrTVRGbFdUQndWeTAwZVdaM1NXcElSVkJ4YTFocWNqVTVXV05DZFUxUFQyRnpTRUpTTUhoSVdWVTFhRXQ0U0RWWFRVWmlWMXBzUzBaWGNrVXRlVGxrVlRjMGR6TXdOelIzWldkMFZubE9aMHRMT1ZsUVpXVTVMVTkxTmt4bVkxTkZXbFZ4ZUVwRVJFMFNGME5hTTNsaGNqTkZSMWxsUjNjNFkxQnBkVXRHT0VFNEdpSkJTRTR3UlRkR1dHVm9WRmxpY1ZCeldrRnRjM2gzUkhOblJtc3dXa0ZyV0cxUjo5Y2U0NjU2Mg",
-      "title": "Director of National Center of Excellence in Women's Health and Nancy Milliken, MD Endowed Chair (m/",
-      "company": "University of California San Francisco",
-      "location": "Oakland, California",
-      "is_remote": false,
-      "date_posted": "2026-11-09T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/director-of-national-center-of-excellence-in-womens-health-and-nancy-milliken-md-endowed-chair-m-oak/3061808409-2/",
-      "description_snippet": "Position Overview\n\nThe Department of Obstetrics, Gynecology and Reproductive Sciences at the University of California, San Francisco (UCSF) seeks a collaborative and visionary leader to serve as Direc",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVBPhSwwCh49EgUElBNCUGU5SWt_vNsfTj-Vf&s=0"
     }
   ]
 }
