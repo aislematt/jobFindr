@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-11-12T18:40:10.111406+00:00",
+  "last_updated": "2026-11-13T03:05:45.025215+00:00",
   "job_count": 6,
   "jobs": [
     {
-      "id": "SFB4bXlvUk5qT2xXTHk5MEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEZFUTFsbGJYWjVNSHBXVkVkV04wdFlTRmhSTlhCQlJsQlhaekZhUVdkcmVGZGtaRzFTWlhwWVZWSTJhazAxV1ZSTFN6UnRUMFpVVDNCMU5tZHFaMG90VTIwNFRIbGFWamRUUVVNNVpERjJiR05KVDIxb2NYSTNjWGN4YWtzdE1tUkdjR2wyTlUwMlMxUkJkWEZTU1hOcmEzUmZha293VWpsM2NIWnpWaTFETFV4SFNFa1NGM3BuWmpKaGNXRTVUVnBxV0RWT2IxQnRUMGhSZVVGckdpSkJTRTR3UlRkSVJXaE9ibWR4V0ZkS1EwTldPVTVTYWxwM1JtVTFjSEZ1VTJaMzoyMzNmNTdmNg",
+      "id": "S1lQR25zVVZ0YWlacWlmQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVzEyVFhwWVZXSnhOMEpUU2pWbmRUVnNlSEJTVVMxUU5qWnhjR2xmWDBzd2IyOXhORFJ3WkZWc05tZFViRWxaWDJ0NFRHaEpOVUZHYUUwNFFXUkpVa2hrVkhsSExWOU5aa3AxZG1GaE5URlBTR2R2WmpKR2NIRlhMVjg1WldObFpYQlFXSFkzTW0xS1dUQlhTWGhVU2tOTU5uZHROa3cyVlZkTVkyaE9hRlpLZUdKbFNWY1NGMTlZTXpKaGMwc3RTazFIWm5CMFVWQjVZbkpuWjBGWkdpSkJTRTR3UlRkSGJXOUZlV1ZJUWpOTFNpMXVjMVp6VFVSeVRHWnZaeTFWZURsQjo3ZGEwODBlMA",
+      "title": "Sr. Director Womens Health Clinics",
+      "company": "University Health",
+      "location": "None, Illinois",
+      "is_remote": false,
+      "date_posted": "2026-11-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.recruit.net/job/director-women-health-clinics-jobs/0AEE33A29A9C43C8",
+      "description_snippet": "If you are a current University Health or University Health Physicians employee and wish to be considered, you must apply via the internal career site.\n\nPlease log into myWORKDAY to search for positio",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjURNOBmK_KjeQGGqlnwrsLlvO4vtUqjVU2ah&s=0"
+    },
+    {
+      "id": "SFB4bXlvUk5qT2xXTHk5MEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZazlNVEVvNE5FZzJXSEZOWlVobVFrRXhWVFpITkZSWFJtUTVhbE5uT0VseFdEWldiVmwyTTBaRFIzRkpNRVJQVFY4MFdqbGhTbWR6UkZWVlVqRnpYMjVQVlZseWIwSjZYemR4UW10UWNHNVpSMHgxTlc0MlVHcFNWWEZJWm1wb2FGOWpjazVsUzNoclNteG9TelZOU1VjemRISnVVVTVpTjNFMGFHdE1ZWGxaUTA5a1JYRVNGMTlZTXpKaGMwc3RTazFIWm5CMFVWQjVZbkpuWjBGWkdpSkJTRTR3UlRkSFluSndNVXhYVVZSamNYTnBZa2hpVW1GMmExUjFSbE5TUlZWQjoyMzNmNTdmNg",
       "title": "Medical Assistant - Women's Health",
       "company": "Cayuga Health System",
       "location": "Ithaca, New York",
       "is_remote": false,
-      "date_posted": "2026-11-11T23:00:00.000Z",
+      "date_posted": "2026-11-12T00:00:00.000Z",
       "salary": "$18 - $22 (HOUR)",
       "apply_link": "https://www.indeed.com/viewjob?jk=15eee6c8ce8e7078",
       "description_snippet": "About Cayuga Health\n\nCayuga Health offers patient-centered, comprehensive health services at Cayuga Medical Center in Ithaca; Schuyler Hospital in Montour Falls; and more than 40 medical offices in th",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWx5_IduDpeODtX9Wu-Q7yIgVS7qjjOMy7r-cd&s=0"
     },
     {
-      "id": "SFB4bXlvUk5qT2xXTHk5MEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmxzZFUxeVlrWlBZbmRaUkZBelNGaEViR3hPT0VoMmNXZGFVa1ZFUVU1d2MxYzJSemh1ZG1wUWNqSklTV1kyTVZwUmFGSmxkSFJtWXpNeVExQnlZVlF3ZEhselZuTndlRkJqVm1SS1gyeGZUWE5aUlUxU1gxaGlOVTFGUWkweU1sTXRSRlI1WTJ0S2Fsa3dTR2xLWXpCamJGRnplazVTYkVwVFQxOHdhbkJaYmtaMFZtRVNGekZCWmpKaGRucGlTVkJUVDI1bGMxQnBkQzAzY1VGdkdpSkJTRTR3UlRkSFQwSlpOVEJFZERsdldrUTFSMEpTUVdoWGIwTlVXV3hDVEdoQjoyMzNmNTdmNg",
-      "title": "Medical Assistant - Women's Health",
-      "company": "Cayuga Health System",
-      "location": "Ithaca, New York",
+      "id": "S1lQR25zVVZ0YWlacWlmQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEYxZFVoSVVXZE1NR0pOYkdaTFlWbDBSV2htTTFKMVNuZzBiVEpWZUdWaE1tdzRURUUzU0VWcVV6QkNUMDh0WkMxa1dHNVljRWxxWDNKTVNYRTRVVkJXZEU5YWFYQmFiSFJFUjI1UGJEVjFRbU5WV1V4eFpWZG1MVW80ZDFKc2RVOXhka1I0UlZKMGVXMXVNblpHYmtGVk4wMWhSVlJWTmxKWlpURnpWa1p1U1RaR1RrWVNGMFpJTnpKaGMzVjJRemhoYjNoak9GQnBZVWcwWjBGM0dpSkJTRTR3UlRkRmNsVkhNMHhtYVVkTlEzWmhTbXBRUVV4U1NucGlWM1IzYVVaUjo3ZGEwODBlMA",
+      "title": "Sr. Director Womens Health Clinics",
+      "company": "University Health",
+      "location": "None, Illinois",
       "is_remote": false,
-      "date_posted": "2026-11-11T23:00:00.000Z",
-      "salary": "$18 - $22 (HOUR)",
-      "apply_link": "https://www.indeed.com/viewjob?jk=15eee6c8ce8e7078",
-      "description_snippet": "About Cayuga Health\n\nCayuga Health offers patient-centered, comprehensive health services at Cayuga Medical Center in Ithaca; Schuyler Hospital in Montour Falls; and more than 40 medical offices in th",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWx5_IduDpeODtX9Wu-Q7yIgVS7qjjOMy7r-cd&s=0"
-    },
-    {
-      "id": "czlBajktYUpFZ2plalJsVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXaTFPTkhoTFUwUlZNM3BOY3pSRFgwSllUblF5T0U5R1JHRmpTRGh3UVVwWmRYcExkSEpxY3pSM2FISnpTMUE1T1dKZk1VVmphVXhwUlVoQ1RuUm1RamhOV1VwVFJXWTROMnA2ZW1oMlh6RmZRbTR6YUVKTlZYRkVkV1oxYjBoWFR6RnFaVTFwWlhGblRGSmxhMWRYU2s1NVNHOWpZVUZST0c1VWR6Z3plbXA1VldOYVgwd1NGemxCWmpKaGRIWTNTamh0VkdoMlkxQnBXV2xCY1ZGSkdpSkJTRTR3UlRkR09ISnpZMmgwWmxSM2FHVjJXWHB1YWpKck5XSTFTVUl4ZVhwMzphNzQ0NmU2Yw",
-      "title": "Creative Marketing Manager",
-      "company": "Mid-Atlantic Permanente Medical Group PC",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-11-11T23:00:00.000Z",
+      "date_posted": "2026-11-12T00:00:00.000Z",
       "salary": "",
-      "apply_link": "https://www.midatlanticpermanentecareers.org/us/en/job/CREAT006676/Creative-Marketing-Manager",
-      "description_snippet": "Mid-Atlantic Permanente Medical Group (MAPMG) invites applications for a Creative Marketing Manager to join our Marketing and Communications team. This position is based out of our regional office loc",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://permanente.org&size=128"
+      "apply_link": "https://www.recruit.net/job/director-women-health-clinics-jobs/0AEE33A29A9C43C8",
+      "description_snippet": "If you are a current University Health or University Health Physicians employee and wish to be considered, you must apply via the internal career site.\n\nPlease log into myWORKDAY to search for positio",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjURNOBmK_KjeQGGqlnwrsLlvO4vtUqjVU2ah&s=0"
     },
     {
-      "id": "Xy1wMEQ5QXhvYXVaT3MxQ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWhaTUdGbExVYzFWWGczYjA1MVVEVlFWV3RXYlhKMGEzZEhTMU10ZFcxVGFtaG1kVE5DUTBsdFNEQk5SMmRvU21KaE5sVllUbTUzV0ZaaFpURm1OR0p0T1daVlVsTmxYMTk2ZVRkV1UwY3hRalJwZVdWV1p6VmtWREl3UzFJM2JsQkphMGszU0ZOalNHWjNVMjVJTFhOck5UVk5VQzAzY3poa05DMVRWa1ZmYzBFMVFVWVNGemxCWmpKaGRIWTNTamh0VkdoMlkxQnBXV2xCY1ZGSkdpSkJTRTR3UlRkSFJrZzRWRTB0TlZCWFZEUlBkbEJRY3psZk0ydEdNVTF1TFVSMzpiMjExMDRkYQ",
-      "title": "Key Account Manager, Tyvek\u00ae Healthcare Packaging (Remote)",
-      "company": "Dupont",
-      "location": "Dover, Delaware",
-      "is_remote": false,
-      "date_posted": "2026-11-11T23:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.dupont.com/fr/fr/job/250253W/Key-Account-Manager-Tyvek%C2%AE-Healthcare-Packaging-Remote",
-      "description_snippet": "Chez DuPont, notre but est de faire avancer le monde gr\u00e2ce \u00e0 des innovations essentielles. Nous travaillons sur ce qui compte. Qu\u2019il s\u2019agisse d\u2019approvisionner plus d\u2019un milliard de personnes en eau po",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4_n4qJ3G8rI7ZaKerzwseMrBGxRpNx0PXb1f&s=0"
-    },
-    {
-      "id": "UWhQODQ3U1hRU0xMLUM0a0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3RHZEhJMWVsRXpPUzA1YzA5MVZXMDJTWGRSWWpaTmVucEJXRFZUWWpsbWIwTjJXbXd5UlhOaFZIRjRRbEphUTA0MFJGTTFXVUZqVDBZMFFVMVRkQzFvY0dad2VqVmZjVVJQWmxsMFZHVkhjbmt4TmtKU1gwRlpXR1YxUlVoU2FEQXpYMEpxWlRNMlNWRTRXbTEyYkdKQmJWcHhkRkpJUWtZeE5FdHRjV2x4TVhOclRXa1NGekZCWmpKaGRucGlTVkJUVDI1bGMxQnBkQzAzY1VGdkdpSkJTRTR3UlRkSVZVNHRRWGxCVlhsM2EycG1VV1ZYTW1OV1N6VXRSRGRLTjFSQjpkMjdiMWQyMA",
-      "title": "RN - Women's Health Phone Triage (m/w/d)",
-      "company": "Mercy",
-      "location": "Country Life Acres, Missouri",
-      "is_remote": false,
-      "date_posted": "2026-11-11T22:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://salutemyjob.com/jobs/rn-womens-health-phone-triage-m-w-d-country-life-acres-missouri/3067019846-2/",
-      "description_snippet": "Find your calling at Mercy!\n\nPerforms as an (RN) Nurse in the Mercy Virtual triage program in accordance with all applicable Federal, State, and Mercy rules, regulations, policies, and procedures, and",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mercy.net&size=128"
-    },
-    {
-      "id": "VVhfTGltZm1nV3RVZ2VLUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbnBqVVVWVlZsUlpXV1V5UVd0VWRWSk1XVzFQTlc0dGNrcHdhVTVqVVVSSFN6ZHdSSEJGYWtkYUxWTnJNRWx1WkZNeU1sODNNazV6WmxKZk5Vc3dPRlozUlZjdE0zWTJXbGhLTmtWMWRqWmZiMVJQWmpGMFUzbFJUWE5OU3kxTk5XNW5NMGRJYVRWeldtODBNRUpsTVhGNFZHcHpUbUk1U1RGU2VqSnVNR3RpUTJGdGRuWVNGekZCWmpKaGRucGlTVkJUVDI1bGMxQnBkQzAzY1VGdkdpSkJTRTR3UlRkR1RtMVRUMUZqY2t4QmFXMVNiSEJHWlhWaFRtMXFOVWxqVkVKMzo0NWZiN2MyNg",
+      "id": "VVhfTGltZm1nV3RVZ2VLUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVlpRVkZweWIycFNPVmxhVjBNNGVtdHRPVlZuV21oTlgzQktVVXcwTm1OVVRVZFRiMWs0TFMxcmJYZEdNM28zYzFaUU5YTk5kMWN6WHpaNVdXMDBTbmhSVVZOMVNWOTBTMWxzWkVkTVREUXpObGx6V0Rkb2FXbFhhRWRaTFRScVYybFFWSHBFTURReE1EVXpPVmd6WXpsVVlVZFhVbGxRYjJab2FHUjFZM2t0VFUxQlNVc1NGMFpJTnpKaGMzVjJRemhoYjNoak9GQnBZVWcwWjBGM0dpSkJTRTR3UlRkSVgwMDVjblZHTTJwTFlraHRaM05TU21vNGRFeFNkV3QxUWxGUjo0NWZiN2MyNg",
       "title": "Eastern Maryland Women's Health Practice seeking OBGyn: 1:7 call",
       "company": "Healthcare Connections",
       "location": "None, Maryland",
       "is_remote": false,
-      "date_posted": "2026-11-11T00:00:00.000Z",
+      "date_posted": "2026-11-12T00:00:00.000Z",
       "salary": "",
       "apply_link": "https://www.doccafe.com/job/physician/obstetrics-gynecology/3662162/eastern-maryland-womens-health-practice-seeking-obgyn-1-7-call",
       "description_snippet": "Eastern Maryland Women's Health Practice seeking OBGyn: 1:7 call\n\nA Women's Health Group Practice of 15 physicians and Midwives is actively recruiting an OBGyn to join their full-spectrum practice in ",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://labcareer.com&size=128"
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doccafe.com&size=128"
+    },
+    {
+      "id": "SGlia2FXVXpaMExkb2hIWkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbE5ZUm5CSVpHeEdUM1p5ZEVoelp6aFRhVzh6TmpCQmFIQldjWGhyU2xGVldrWjFaV0ZwTUVGRmMzUmthQzFwT1RaWVdtUktTVzB3WWpVMGRTMHRObDlhT0MxRFEwSTNNVUl6Ym0xMFIyMVZlRjl3TjB0VlQxcG1hMm93T1RneVV6ZExOMVpEUW5oUFJFbDJUMXBxYWxaVGVYTjJRbTVzT1ZOWmVtcDZialZ6Ym5wWWRYSVNGMVl6TnpKaGRsOVZSa3h0TlhKMVJWQjNUVEpmYjFFMEdpSkJTRTR3UlRkRk5EbFJjRkp5UzIwNGIxUkVaR0k1ZVMxTlNUZEJVRXhHUzBWbjo3MDBjZmFkOQ",
+      "title": "Director, Market Access & Portfolio Strategy - IG",
+      "company": "CSL",
+      "location": "Prospect Park, Pennsylvania",
+      "is_remote": false,
+      "date_posted": "2026-11-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobiak.csl.com/apply/director-market-access-portfolio-strategy-ig-prospect-park-pa-6af5611ae4dc5007876c2422",
+      "description_snippet": "Position Summary\n\nThe Director of Market Access & Portfolio Strategy, IG, serves as the senior market access leader for IG, HIZENTRA and PRIVIGEN brands, and is accountable for integrating payer, prov",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJxqVhQdwhybuC9LkAFN6RYPmD-WYZIzHuhQM&s=0"
+    },
+    {
+      "id": "djduUnVHVXV4blY4VUQtc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEZMVkMxSmNFeHBhRzF5T0RGdWRpMW5TM0JoZEVOVE0xZGFjRVJKY2xFMFVETXRXazg1WkZGU05YSnlPVlpWYkVkRGRGYzNia0YyWnpGWE1UQkxTMFZETTBZeVkxaGpiVUl5ZUZwa2FrRjBVMFJMYWt0VlNXa3pjVzgzU21SWUxURk9aa0pKU3pWRVdYazRaRUpTV0hoRlIxSk5iM1F0UTA1VFFWbGxaVVYzWlU4eU1VVVNGMVl6TnpKaGRsOVZSa3h0TlhKMVJWQjNUVEpmYjFFMEdpSkJTRTR3UlRkSFIyRm5kMm8yV0hCMFkzWkJVRkJ6Y1VKV1NHbFpXRmxVVDFkbjo3MTNhOTdkOA",
+      "title": "Director, Marketing",
+      "company": "University of Virginia",
+      "location": "Charlottesville, Virginia",
+      "is_remote": false,
+      "date_posted": "2026-11-12T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.virginia.edu/us/en/job/UOVUOVUSR0088812EXTERNALENUS/Director-Marketing",
+      "description_snippet": "Reshape how patients, providers, researchers, and communities experience one of the nation\u2019s leading academic health systems. This highly visible leadership opportunity brings together enterprise bran",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0oa-rPXSzUQ9FDQ7f03thI8BiM2njK3xuT7yl&s=0"
     }
   ]
 }
