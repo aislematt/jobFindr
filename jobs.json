@@ -1,78 +1,18 @@
 {
-  "last_updated": "2026-11-15T02:19:04.867317+00:00",
-  "job_count": 6,
+  "last_updated": "2026-11-15T17:32:35.367706+00:00",
+  "job_count": 1,
   "jobs": [
     {
-      "id": "OXhCZ0dNbGtGUzdpcS1zdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXUzFGYW1kbk5YbEljbFJwZG1kdE5VaG1PVUpVT1hjeGRTMW9NME5KVlZaNVRUWjZhME51YW5aalJIaDJSV05uZDA1ME5sVjNaMGt5ZFhOMlpqRkNUQzFPT0VoRFNsbEVkSEJKZUMxTGFuQjNiRWhHV0RKRFJuVlJMUzEyY1dwUWVqVTFNbnBZVjJSelQxSmZlVVpEY1Zod2FWaE1hVWRTYlc5S2EyTXdVbXgyUzI1U2NrWVNGMUJDWWpWaGRVeDJTVGRUVW5BNE5GQnROSEYwYzBGckdpSkJTRTR3UlRkR2JHUXpZelJtUlRObFFrVkVOa0ZVYzNSR1FsUlZOR3RPYXpoUjoyMGRkMjAxOQ",
-      "title": "Director Women and Children Services",
-      "company": "Catholic Health System",
-      "location": "Williamsville, New York",
-      "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
-      "salary": "$125,000 - $150,000 (YEAR)",
-      "apply_link": "https://www.theladders.com/job/director-women-and-children-services-catholichealthsystem-buffalo-ny_89675573",
-      "description_snippet": "Facility: Sisters of Charity Hospital\n\nShift: Shift 1\n\nStatus: Executive FTE: 1.000000\n\nBargaining Unit: ACE Associates\n\nExempt from Overtime: Exempt: Yes\n\nWork Schedule: Days\n\nHours:\n\n8a-4p\n\nSummary:",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgkWNfLyLrziFtmmi0R5WdhPu7xyxUabdopK_&s=0"
-    },
-    {
-      "id": "RkdubksybWxHOWZRRndDVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFF3UmtneFowSTNVa1pITVRabk1GVlJUbGxmY1d4TmVYbG1OMFU1WW5WNVIyNWFWbGgzWkVsb05XTlRUR2RNTlVGMlFWTndWa2RWVDJwdVQwVklZV2gxYTFGQ2QycHBVMVJ1TmtwRk5tNUJjMGcwZVc5aVJGWnZjRWRaWDNwS1pEZExlWEU1TFZCMk9FSlRkbnAwTVRadVozUXhUM290TkVwNmJXbEVlRzlOZW10bFdVZ1NGMUJDWWpWaGRVeDJTVGRUVW5BNE5GQnROSEYwYzBGckdpSkJTRTR3UlRkRmRqTllOMm96Y1RCcU4wRnRORlZRUzNwT2VFZ3RXWGxUU2w5Ujo2NzFkNzJmOQ",
-      "title": "OBGYN Generalist",
-      "company": "Northwell Health Physician Partners",
-      "location": "New York, New York",
-      "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.healthecareers.com/job/obgyn-generalist/13648624",
-      "description_snippet": "The Department of Obstetrics and Gynecology of Northwell Health seeks an OBGYN Generalsit to join our team as we expand Women's Health services across the Health System. Opportunities available in New",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-oBGsIMB25lNo-9bhBOYCGW8b5ibXsipQZ3h&s=0"
-    },
-    {
-      "id": "X0R2UWhfQkk5djl3LVF6VUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEowUm10TWNVUkpaRTg0Y3padWRuUm5XVGRxYkVoNk4yWmhiRE4zY1ZOVVZrcHFSVmswZUVWSlYyWlJaMWxDTUU5d1dYTkVaV1puVWxKeVZteE9kR3QzYkdodFMyNDFkM0ZGZFVGNWJUZENlWE52VkVWbFVFWXRSbGQxYmtnMGMzZHRPVUYxYzJRd1RUbEZOVE5pYXpBMGJWSmhiVVpUT0V0MVgwbEpNbE5ZT1d0dmVXSVNGMUJDWWpWaGRVeDJTVGRUVW5BNE5GQnROSEYwYzBGckdpSkJTRTR3UlRkRmVtTm5PVVpKTTAxM2RraHNialJJUm1sc2RGOUtWUzF0YXpWbjo5ZDAwZDFmMQ",
+      "id": "X0R2UWhfQkk5djl3LVF6VUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWRNZDBOMWMwMHRNMVJ6VTFSYUxVOVZiVWgyT0RKeU9YUTBWM2RuV0ZnNWRtdEVabE5DY25sV1IzbzVhWFV3T1dKdFltUllUVzVHWWsxeGFuWTBRVzAxTkhvdFUzcGhaRXBVZEZsalRETnBSbVJ1YkVoTFJHcHBhblkxTFhGbVJXbGxjblZoTlhodE1WQndTbXg0VW5nNVRXRmZaR2hPWDFsMlNsY3hjbUp4VlZwQ1N6Y1NGMHN0ZWpWaGMySkhTbVJwVVhObFRWQTRTVXR2TkVGTkdpSkJTRTR3UlRkSFlWQXliMUJRTVhCTVdVTjVOVzlrZEMxRFIxSlVhemQ0V25Wbjo5ZDAwZDFmMQ",
       "title": "St. Mary Medical Center- OB Nocturnist",
       "company": "Trinity Health",
       "location": "Langhorne, Pennsylvania",
       "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
+      "date_posted": "2026-11-14T23:00:00.000Z",
       "salary": "",
       "apply_link": "https://jobs.trinity-health.org/midatlantic/job/TRHEUS00634944MIDATLANTICENUS/St-Mary-Medical-Center-OB-Nocturnist",
       "description_snippet": "Employment Type:\nPart timeShift:\nRotating Shift\n\nDescription:\n\nOB Hospitalist/Nocturnist\n\nJoin Our Exceptional OB/GYN Team at Trinity Health Mid-Atlantic \u2013 St. Mary Medical Center in Langhorne, PA\n\nTr",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.trinity-health.org&size=128"
-    },
-    {
-      "id": "YkFMX2NKNDB1aWItUTNrOUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmhSVTBOck1UTXRjM2N0T1RKZmNIVlFOV1p6VkdWR05VOVJlbmRCTmpscWJVaFBhRnBDU21GeU1WQlllREpoZVZoSVRWOVpWVEl5TURNeldWRk5SWHAzVUZKdGNtRmpkRlZNVURWWFdHcHJhV2hXV0dGZk1VNTRkbTFJVWxwNk5XUnlOMlZmTXpodVV6VXhNa2xyVjJSUFRHRkNNV3RJTWtVelZrcHFUbmQ2VjJZMGVISVNGMkZvWWpWaGRIcHFTelJmWVRWT2IxQjFjSFZOYzBGWkdpSkJTRTR3UlRkR1RIVndUbk42TXpCak1HSnBZVVJ6YTFWNWVsWmpWR3d0UTFWQjo4OGYzNDk2OQ",
-      "title": "Associate Medical Marketing Manager",
-      "company": "Reckitt",
-      "location": "Nutley, New Jersey",
-      "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://careers.reckitt.com/job/Nutley-Associate-Medical-Marketing-Manager-NJ-07110/1448624633/",
-      "description_snippet": "We are Reckitt\n\nHome to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner,",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQVQoWeR4r4Yp0D0QtBPrOl9vdqM1w_w8aeJb&s=0"
-    },
-    {
-      "id": "czlBajktYUpFZ2plalJsVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazVNT0d4VVdHZFNZWEJmUkRkTFJHaEdiVTVOZFdoTlExOVpTMGx5VjNCM1pHVkVaV2hzYjJ4Q1YweExjVXN5VGxNd1REZFJMV3BtZVhWT1pYTjRTVGxFVVhRMWRVVTJiMUJ4U21sdlNHNU1NMkZ4TFY5YVpGZzNZVFpNUjFWcE5IWklaMjlEVEVGcloxTjJkVVEwU1ZsclFYSldXWFZoUzB0b1lrcFhUM0ZJVmtjMkxUY1NGMlpTWWpWaGIwZzFSRGxQTlcxMGExQnpkVzU1Y1VFNEdpSkJTRTR3UlRkRldXUk1hVEEwTUVkTmNYaElaMkpwZFd0WWJHbHpkVlF5V2sxQjphNzQ0NmU2Yw",
-      "title": "Creative Marketing Manager",
-      "company": "Mid-Atlantic Permanente Medical Group PC",
-      "location": "Washington, District of Columbia",
-      "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.midatlanticpermanentecareers.org/us/en/job/CREAT006676/Creative-Marketing-Manager",
-      "description_snippet": "Mid-Atlantic Permanente Medical Group (MAPMG) invites applications for a Creative Marketing Manager to join our Marketing and Communications team. This position is based out of our regional office loc",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://midatlanticpermanentecareers.org&size=128"
-    },
-    {
-      "id": "X2tJb0FfbGxIb0xSeVlKdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGRXY1hsRVgwUmFRMU5MTW1aT1JrcEZXVFJEYnpGUmFXVjZTbEZyUVRCMVkyTkpRbFozTFhZMGFFNDNOa0UyU0ZSMlJuWlVXbWRxU0hoNloxaEJObVpQVGprd1gyVllSWFk0VEc5bFNYWkdURVZ0VDA1a2FFaHVZMEp4YldsQ1pIaGFjblZTTlZCS2VISkVRV3B2UlVwSmNUZHlhRlpZZGtOZlUyMVdWRVp0VTFKd1NFNFNGMlpTWWpWaGIwZzFSRGxQTlcxMGExQnpkVzU1Y1VFNEdpSkJTRTR3UlRkSWJYaFdWSGw1V2tablJWbFZMVVJUYlVWcmIxQlNjWE15Y0RoQjphZDY2YTExZg",
-      "title": "Registered Nurse Residency - New Graduate",
-      "company": "Health Marketing",
-      "location": "Tuckahoe, Virginia",
-      "is_remote": false,
-      "date_posted": "2026-11-14T00:00:00.000Z",
-      "salary": "",
-      "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-residency-new-graduate-at-health-marketing-4489806476",
-      "description_snippet": "New Grad RN (Residency Program)\n\nProvide safe, compassionate bedside nursing care with support from experienced preceptors. Rotate through core clinical units to strengthen confidence and competence i",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lxkjxbu-PL9jkLGxHsbMG3qz5Yu-IjdC-scQ&s=0"
     }
   ]
 }
