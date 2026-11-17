@@ -1,5 +1,90 @@
 {
-  "last_updated": "2026-11-17T04:56:04.012087+00:00",
-  "job_count": 0,
-  "jobs": []
+  "last_updated": "2026-11-17T19:31:45.089513+00:00",
+  "job_count": 7,
+  "jobs": [
+    {
+      "id": "VC1yejRxRnZqWmZPYXBjYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGROT0dSYWQxZGlNMDl4ZW5wSlprd3Rja1pzZFZGYVdrUmhkekZFWm5KM056SlpaMnBOUWs1SVYwVmpXbGxHZVVwR1RFRjFkRlYwTkZOUWNIaG1TakIxY21GdlluRTVTRlUxTm1sNk1GVXRkRlZMZDA5NmNYTlFhbE00UWpkaFkweHVNa0pWWkVaMU4yaG1RVkZVZGtSUGRYbGhOazl3UVVkbmNUUjJSekJZY1hnNWVtNFNGMG8yZGpoaGNXWldRamg1Y21oMlkxQjFOSGxVZVVGM0dpSkJTRTR3UlRkSVZsTXRhVk5STmtWemVIVkZNa2x6Tm5rM2Iwa3pVMGhFZEVGbjpkMzEzNDhlMg",
+      "title": "Director of Labor and Delivery",
+      "company": "Northwell Health Physician Partners",
+      "location": "Manhasset, New York",
+      "is_remote": false,
+      "date_posted": "2026-11-17T16:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.jamanetwork.com/job/110741420/director-of-labor-and-delivery/",
+      "description_snippet": "The Department of Obstetrics and Gynecology at Northwell Health and The Zucker School of Medicine seeks a Director of Labor and Delivery to join our Long Island team as we expand our Women's Health Se",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRMfGBLC4bXZDVw_dJ4UZDV47feAcUMcVKY6J&s=0"
+    },
+    {
+      "id": "UFIzS1d0SGZmWUlBM0FObkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVVZmY1ZOWE1rNVpjbTFqTVMxclh6ZGtZM2syVGpSWk56ZzBPR3hzVHpaM1RXdGFNRE4yY0VsQlFYUjNVa0UxTURKTGJtOUpOV1JHYlVscmFUbFhVM2hVYzBsUlVHeGFZV2R3TFRsUmNHTmpNVFF4VFRkMWVEZExRWEJsUkVKQ1V6VjFaRkJ6YmpsTlRXbzBlVWwxYmsxMGIwazBhRzVEZFdvMWFuSk9YMHRmVnkwemRsY1NGMU0yZGpoaGRYVldSMWxITW1oMlkxQnlkbDlrWjBGUkdpSkJTRTR3UlRkSGN6SkRjRFJhVTJWaFpFY3hhM1JITUdWd1NWaEtTbEZ6VDB0QjphOGE4YzcxYg",
+      "title": "Executive Director, Marketing - Women's Health and Reproductive Genetics Segment",
+      "company": "Labcorp",
+      "location": "Durham, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-11-17T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.labcorp.com/executive-director-marketing-women-s-health-and-reproductive-genetics-segment/job/2635140",
+      "description_snippet": "Executive Director, Marketing - Women's Health and Reproductive Genetics Segment\n\nLabcorp is seeking an Executive Director, Marketing, Women's Health and Reproductive Genetics Segment, to join our tea",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_LEwoYeNodjHHom4MkxpTJ-Dgf7ZsVE1NrWj&s=0"
+    },
+    {
+      "id": "SjNxbGt5eHN4aDFmazdOVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTVvZFZOSU4wRTJNbEJKUVRoMFR6aHhPRmh0TmpKMVZYbG5iVzVoY2pOWGMwNUVNblJ2Vm5Cd1RsQndRMTlFTXkxM01uSm5Na2RETm1kTVNXWkpha0ZNYkVSNFJETkVjRXhqVjNJMFVVbG9aWHAxUmxkaFpYcExVMFJCVWxOamRETnJTRUpMTUV3MGFqVTViemwwVFZkNk1VVkdiVmd6Y2tWdFdWcG9OMjltZVcxVU9XNFNGMU0yZGpoaGRYVldSMWxITW1oMlkxQnlkbDlrWjBGUkdpSkJTRTR3UlRkR1pEa3dTMWx3WWxoTGJrdG9PRGRGTFZabFdUTTRaR1p2Yldobjo5NTg4MTdmYQ",
+      "title": "Director, Product Management (Women's Health, Pregnancy and Fertility)",
+      "company": "Labcorp",
+      "location": "Durham, North Carolina",
+      "is_remote": false,
+      "date_posted": "2026-11-17T06:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://careers.labcorp.com/director-product-management-women-s-health-pregnancy-and-fertility/job/2635003",
+      "description_snippet": "Director, Product Management - Women's Health, Pregnancy and Fertility\n\nLabcorp is seeking a Director, Product Management (Women's Health, Pregnancy and Fertility) to join our team\n\nResponsibilities:\n",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_LEwoYeNodjHHom4MkxpTJ-Dgf7ZsVE1NrWj&s=0"
+    },
+    {
+      "id": "MzM4Y3VBbGk0eXNyRUQ1NEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXblZZV0Zsc2N6ZFVOMnREUVhKTlEydzJWMWRVTTNkSFZ6SldZbHBhVGtWWWJtNWlRMlUyY2xoZk5YRXdOM2hXTm0wellWRkxhMjlNTFcxQ1NtZEVSMDFUY0ZWVlRUazRMV3cwYmpSU2NUUkZOM2w0UmxKUFVta3lWV1ZmTFRaMlZXOUlSbWh4WmxoMGNqSnRWbTVmTmxCUFFqTkVTbWxrTW10SlJreFhPR0poZERWWk1UTVNGbUp4ZGpoaGIxOXpRM05IWjI1bGMxQnZkRzVSU1VFYUlrRklUakJGTjBoSVlsZHdaVXg1VVVKb1JtbGplRjl1Tm5STlZFdHdMV2hpVG1jOmY1YzEyYzUw",
+      "title": "Marketing Manager, Hemostasis Solutions-Remote within EST and CST",
+      "company": "Siemens Healthineers",
+      "location": "Tarrytown, New York",
+      "is_remote": false,
+      "date_posted": "2026-11-17T05:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.linkedin.com/jobs/view/marketing-manager-hemostasis-solutions-remote-within-est-and-cst-at-siemens-healthineers-4438765761",
+      "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.\n\nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs6wO7GcuIz7pmbBVGWiOcH5_Ca7jcAn7jPqs&s=0"
+    },
+    {
+      "id": "VkdROVBONlJNMXM2U003cEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3BCVnpWUlRUVm9USEIwYkdWUWMyOUtVekJrYWxaclR6Tk5UMVJxZUhWc1ZtRlBNRUZRTUhKQmExUlZkVmt3YzJsb1JEWjVjbW8zVEcxUVVqTnFiVGhuTjFJMFZXUk1VVkZDWlZsTk5XZzNWMFptUjFSQmFWWmhabWxKVTJ4TlVqTXhUa3BOYUhwV2REazFXVUppVG5WdVlWOWhNVjlPV1dGYWVFMVhUazV6WVhac2IwWVNGMG8yZGpoaGNXWldRamg1Y21oMlkxQjFOSGxVZVVGM0dpSkJTRTR3UlRkR0xUZzNhUzE2TmxaeE1UWm9aMTlsU0hCVldGZDFiRnBrYVdWUjowNzczODdhNg",
+      "title": "Per Diem Women's Health Nurse Practitioner",
+      "company": "Sun River Health",
+      "location": "New York, New York",
+      "is_remote": false,
+      "date_posted": "2026-11-17T02:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.indeed.com/viewjob?jk=970519858f4ee7d6",
+      "description_snippet": "Sun River Health provides the highest quality of comprehensive primary, preventative and behavioral health services to all who seek it, regardless of insurance status and ability to pay, especially fo",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiCwsX-Kx2iWES2v-Tx7DNL3KYX09tOy_AjyO&s=0"
+    },
+    {
+      "id": "czlBajktYUpFZ2plalJsVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGxETlRGU2RFRXhkSE5JUlRWQ2JrODRlRFpWTXpSRFZsaGZWMUJKY0ZoNGFIZFlaekpGVVhjMGIwbFVjV3B2TmxoNE1GOU1WR05OY21KRlRWVktNalp5VjJSRGVWTmxkRWxqV1RSVGJsVTFSVm93UjFoa1pVMUdhMU5UTTI0eldrZHRUVlEzWWkxblYwTlhNV3A2VFhSVVlXMTRNMHBvU2s5Nk1UZExjM2gzU1hwc1Nra1NGMmh4ZGpoaGNXVlRTR010WmpCUVJWQnBORXhXYVZFd0dpSkJTRTR3UlRkSWFrUmFlblJhYXpCNU16Vk1YM2hqT0U4d1ptTmpaa0pmVlhWMzphNzQ0NmU2Yw",
+      "title": "Creative Marketing Manager",
+      "company": "Mid-Atlantic Permanente Medical Group PC",
+      "location": "Washington, District of Columbia",
+      "is_remote": false,
+      "date_posted": "2026-11-16T23:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://www.midatlanticpermanentecareers.org/us/en/job/CREAT006676/Creative-Marketing-Manager",
+      "description_snippet": "Mid-Atlantic Permanente Medical Group (MAPMG) invites applications for a Creative Marketing Manager to join our Marketing and Communications team. This position is based out of our regional office loc",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://midatlanticpermanentecareers.org&size=128"
+    },
+    {
+      "id": "OHU1MGFKeVU4UUdwcV8xREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVzlSU21Kb1NVaG1VMHhLWmtwTFEyODBTMjlqTVZWbFNscEZWVE0yU1RJdFlUTlhia296UjFBNVRrZExRbDl1YlVOVlNrWjNhV3RLYVhOd1JqUXRURVpsVDNoU2RYTXRUSEZoZG01UFZYSkVUVmMxYldNeWNYTlVaVTF0ZFhwVWRGTmtWMDFrWDAxeVJVRkNUMTlOVjJWWmNVVmFTamRrZFRKaU5ISlpSSGhYTFVJNGEyWVNGMG8yZGpoaGNXWldRamg1Y21oMlkxQjFOSGxVZVVGM0dpSkJTRTR3UlRkR1VXZzBkVXg2V0hkblQwNW9jblYyWjJWSExVcHpWRU5oVlhGUjphOGE4YzcxYg",
+      "title": "Executive Director, Marketing - Women's Health and Reproductive Genetics Segment",
+      "company": "Labcorp",
+      "location": "Boston, Massachusetts",
+      "is_remote": false,
+      "date_posted": "2026-11-16T00:00:00.000Z",
+      "salary": "$200,000 - $220,000 (YEAR)",
+      "apply_link": "https://www.ziprecruiter.com/c/labcorp/Job/Executive-Director,-Marketing-Womens-Health-and-Reproductive-Genetics-Segment/-in-Boston,MA?jid=c04544792b5d3986",
+      "description_snippet": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoGtbWpX7RVFIAu1UUsNJ0-0gW1KY97MbgRfP&s=0"
+    }
+  ]
 }
