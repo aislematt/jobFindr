@@ -1,30 +1,66 @@
 {
-  "last_updated": "2026-11-20T18:56:32.878696+00:00",
-  "job_count": 2,
+  "last_updated": "2026-11-21T03:41:41.659907+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "id": "OVBzS19UeENFQ1oxNmRRVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlJ4V0dseU9VSkZjUzFMUWtsNVMyWm9TRTVNYmtsTllXa3phVXBYYWt0Q2RtdHpOVzF4WWtwa1drZDRRMFoxTTFKQ2JqUk9iR2QzV2t4WGRrSnhkMDE0TmxoWlRVTmlUMnBEUW5NNVozaFhaa1UwZVZsclJFdFlkamxIZG5KWFoycEdUVmhpU0VsblRtbHJMV1pUV0RWaldqQm1kWFYxWm1kV1p6QjVXVU5oUm1rNGVGQVNGM2xhWTBGaE5TMXJRMDVQYVdoMlkxQXpiMWhsTWxGUkdpSkJTRTR3UlRkRlZFbGZkWEI2VTFONlQyZGtjM2x6Y1dGUWQwVkdOemhoWTJ0Qjo3YmI3ZTk5YQ",
-      "title": "Senior Digital Product Manager",
-      "company": "CVS Health",
-      "location": "Richmond, Virginia",
+      "id": "bmdBMl8tTy1QVGQ5dW9mTUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamhHTkZoRVExQXpRazFZV0RkRVZFaHdRbGw2TnpGQloyOXdSekl0WkVJMlgwTnVWRFZJYzNKS1kwdDBUWE5yWlVsVmIyeGZOelpmZG1ZelFXNUNXVVJGTFdNNWQyUmpRMGxSYkd0T2RtcFFhRjk1VTBZMVVWYzRhMjE2VjFGeFZEVnRjMUJ1VTFsVVpsbDNPREpOVVRabmFsWnhUSGd6ZERCMFoyWlVRVmxTV1c5cFFXMFNGekJvU1VKaE4wOU9RWEp1TWpGbE9GQTRXbFIzY1VGSkdpSkJTRTR3UlRkSGVEaFVURU5GZUhsVlJsWkVkbmwwVERNNVMyOTRXbTlNYVVKMzozODQwMWYwZg",
+      "title": "Director, Medical Insights",
+      "company": "Pfizer",
+      "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-11-19T23:00:00.000Z",
+      "date_posted": "2026-11-20T16:00:00.000Z",
       "salary": "",
-      "apply_link": "https://jobs.cvshealth.com/us/en/job/R1087753/Senior-Digital-Product-Manager",
-      "description_snippet": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who c",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0"
+      "apply_link": "https://www.linkedin.com/jobs/view/director-medical-insights-at-pfizer-4492957476",
+      "description_snippet": "Role Summary\n\nAcross Medical Affairs, Pfizer Medical colleagues engage with healthcare professionals and other stakeholders to generate insights that inform medical strategy, evidence generation, and ",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrGtFz2yL6j6SMoYg8nj1aehbSdX2_3cl1qhB&s=0"
     },
     {
-      "id": "QThBVVhTVDRVVDVOTU5YbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEpUT1V4dFl6QXhUMUIxTTBGb1psUnRaekYyUzIxMWNVdGlVRWh2VFV0WmRGSnNSMGhpYzJWbldXWmFiamxEUlRWbE5uSlVORkpKTUV0dVRHWXlTbGwyUjNrelJtNHdPR3RyTVhJMFVHTk5jbFF4Y0RaSWNYVmFWWFpQZHpKUE0zSXRUekprVjFaV09VRXdXRmhLWjNOeE5tdHdWRkJLVEZSdVNtTTRiRFZrWVhGTE1GRVNGMnh3WTBGaE5IVTVUVXRpYXpKeWIxQnhiMWRNTmtGM0dpSkJTRTR3UlRkR1NUZHRjM3BDUjNOTFJVNUdSVlp1ZFU1UGFIZG5USHBwWkROMzpmMzk2ZDY1Zg",
+      "id": "QThBVVhTVDRVVDVOTU5YbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFYxYlZkWWVEWmxRVzFmY1VZM1MwSXlWakpuWWxwNGVHcFBkUzFNYzJkQ2NYaGFRMjloUjJKc1ExUTVSVmREVkRGS1lYTkpka2R0Y1daUVRFb3libFJsWXpKUFdVTk5WM2xUY0VaSU9HcDNOVXBPYjJWemQzVnFUekJ5TkdWSmR6aGthV2wyYTJzd2NVYzBkbTVCYTBObVVIbDBaa0ZIZDBwRVFrWTRMVzVCWVZkVlZEZ1NGMjFTU1VKaE5HVkZSMlJRUVRRdFJWQm9kV1Y0Y1VGUkdpSkJTRTR3UlRkSVpIZzVSVU5WYzJwRmFGWm9jVzFEVUZsUFdIUktXR3g1TVZwQjpmMzk2ZDY1Zg",
       "title": "Physician Assistant-Women's Health (Part Time) (Brooklyn)",
       "company": "Northwell Health",
       "location": "New York, New York",
       "is_remote": false,
-      "date_posted": "2026-11-19T00:00:00.000Z",
+      "date_posted": "2026-11-20T00:00:00.000Z",
       "salary": "$121,000 - $212,000 (YEAR)",
       "apply_link": "https://www.linkedin.com/jobs/view/physician-assistant-women-s-health-part-time-brooklyn-at-northwell-health-4492463792",
       "description_snippet": "202903\n\nJob Description\n\nPerforms a variety of functions and technical procedures necessary for patient admission, assessment, diagnosis, treatment, follow-up, and outcome evaluation. Participates in ",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpFUYwqggpKQAeI7bB3Cmy4Aee5hAfaRqJ0DF&s=0"
+    },
+    {
+      "id": "cnhLM3Nxci1KdW9QZzMzbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXhWV2tWeWN6RjBUVkJsYjBRMlozbDZZWE14VG1Sc05uVm5TMVl4YW5kMVprVnlPVWcyWDNvMVlscEdUVnBRU1ZOM2RXTk5kRzV5ZDNkdE4wSlhkRFkzZDE5aFZFMUhXbDh0UVhObVMyZFNiMnB5VHpodlVEUm9hamRHV0VWVWJUVnNlRWhIUVdnNWFVbEJXVEUwWmpoUFoxRjRieTE1TW5WRk5IbEZZM2xXWkZJMFRVMFNGMjFTU1VKaE5HVkZSMlJRUVRRdFJWQm9kV1Y0Y1VGUkdpSkJTRTR3UlRkSWFWVm5TRE4wUWxaWWFVRmxNREZCUWpWRldYVldNMVJsV2xKMzpmOGE0NTk4Ng",
+      "title": "APN - OB/GYN",
+      "company": "Summit Health",
+      "location": "White Plains, New York",
+      "is_remote": false,
+      "date_posted": "2026-11-20T00:00:00.000Z",
+      "salary": "$118,000 - $145,000 (YEAR)",
+      "apply_link": "https://www.healthecareers.com/job/apn-ob-gyn/13668783",
+      "description_snippet": "About Our Company\n\nWe're a physician-led, patient-centric network committed to simplifying health care and bringing a more connected kind of care.\n\nOur primary, multispecialty, and urgent care provide",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQGWJ_e9IU63xn7FLKwJCFDLQy_kajFvEuk5_&s=0"
+    },
+    {
+      "id": "Ykh6dnhXX2RqMjlKLTVncUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFpDU21kUVRHSmxUMmR6U2xkSmN6aHVSWFpqYkRORWQxVkVSbFJKVXpoVmNWbzVaWE5VZWs5TWJsVjJaMlpmVlhKa1JIaDJSMDAyWTBONVlpMTFRMGs0ZUhCU01WVndaM2hJV0ZGM1gzVnlVVmxmVlc5TkxUbHJYMEpCU1VvMlUxSlRVREp4VVRob1lrUnBVekJ1TWs5bFZIZFJWWGxrYjBsa2RsQk5OSHBRVWxwcmJFWVNGM1JTU1VKaE4ybFFRV055YkRCUVJWQjNVSEV5YlVGRkdpSkJTRTR3UlRkSVExaEpTRlpQVEdGRlVYRXlWMlJDWkhwMGFUSlNUekIxT0Vwbjo1YmM4M2FlOQ",
+      "title": "Strategic Marketing Manager, Pain & Women's Health",
+      "company": "Viatris",
+      "location": "Parkersburg, West Virginia",
+      "is_remote": false,
+      "date_posted": "2026-11-20T00:00:00.000Z",
+      "salary": "$78,000 - $152,000 (YEAR)",
+      "apply_link": "https://www.learn4good.com/jobs/parkersburg/west-virginia/marketing_and_pr/5650643577/e/",
+      "description_snippet": "Viatris is seeking a Manager of Marketing for Pain and Women's Health to shape strategy for key products and lead payer marketing initiatives. The role collaborates with cross-functional teams to driv",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2ajxfsUrhstX3UZcmuTOJBIqZ6QboxJKvdtx&s=0"
+    },
+    {
+      "id": "bW5VaGlXd09QdlFEcFBnakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEZQYjJNeFdrMUZPVGx2TWtaNFh6bGpiblUwTjJweVNFODVYMjlJVlVadVZGRTVWVlUxZEMxbldrUldhV2xTVXprd2NuUXdja2QyWW5scFlqVjRNemt0TUdoYWQyaFpXRlJhVUZaSFEwTkJVMjQzZEZFMWVrWnZaR1UwUVdGV2MxOUJSV3R1VTFWblJtWTJTV0ZyY1ZSWVZqWkVOMmxrVkdaak0xVk5ZVXhKUVVnMFpITVNGM2xTU1VKaExVZFFSbkJMZFhCMFVWQmZOa2Q0T0VFd0dpSkJTRTR3UlRkRk1YWTJhQzA1VkhSdE9UWlNORk16YUY5dFMwNUdhMUZaYUdsQjoxYWM2NTVkOA",
+      "title": "VP, Engagement Strategist",
+      "company": "Avalere Health",
+      "location": "Washington, District of Columbia",
+      "is_remote": false,
+      "date_posted": "2026-11-20T00:00:00.000Z",
+      "salary": "",
+      "apply_link": "https://jobs.lever.co/avalerehealth/8b80afdb-4592-4b07-b3b3-bf89ca2139ee",
+      "description_snippet": "About Avalere Health\n\nUnited by one profound purpose: to reach EVERY PATIENT POSSIBLE. At Avalere Health, we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisor",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.lever.co&size=128"
     }
   ]
 }
